@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIk_P8k6rv3wIVUXjgCh1UYQOyKPgdMgJpdkjM_LOfvv7fw80B">
+<annotation id="annotation_223359" type="text" style="popup" log_data="a-type=1&amp;l-class=1&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;a-id=annotation_223359&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcYVBshcN7wU&amp;xble=1&amp;a-v=zYd_8-Ps_kw" itct="CAEQs-UBGP___________wEiEwiT8_yTqu_fAhVReOAKHVRhA7Io-B0yAml2SMz8s5--_t_DzQE">
+  <TEXT>&quot;I Know What You Did Five Minutes Ago&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="43.28100" y="64.44400" w="28.28100" h="13.33300" t="0:07:48.6"/>
+      <rectRegion x="43.28100" y="64.44400" w="28.28100" h="13.33300" t="0:08:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_223359&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;feature=iv&amp;src_vid=zYd_8-Ps_kw&amp;v=cYVBshcN7wU" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_346226" type="text" style="popup" log_data="a-type=1&amp;l-class=1&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;a-id=annotation_346226&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWcPhMqLPuvQ&amp;xble=1&amp;a-v=zYd_8-Ps_kw" itct="CAIQs-UBGP___________wEiEwiT8_yTqu_fAhVReOAKHVRhA7Io-B0yAml2SMz8s5--_t_DzQE">
+  <TEXT>Also by Tom: &quot;Is This You?&quot;: lifelogging, privacy and scandal</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.28100" y="64.44400" w="36.87500" h="13.61100" t="0:07:48.6"/>
+      <rectRegion x="3.28100" y="64.44400" w="36.87500" h="13.61100" t="0:08:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_346226&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;feature=iv&amp;src_vid=zYd_8-Ps_kw&amp;v=WcPhMqLPuvQ" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_493629" type="text" style="popup" log_data="a-type=1&amp;l-class=5&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;a-id=annotation_493629&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Denyay&amp;xble=1&amp;a-v=zYd_8-Ps_kw" itct="CAMQs-UBGP___________wEiEwiT8_yTqu_fAhVReOAKHVRhA7Io-B0yAml2SMz8s5--_t_DzQE">
+  <TEXT>Subscribe for more like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="74.37500" y="64.72200" w="21.09400" h="13.33300" t="0:07:48.6"/>
+      <rectRegion x="74.37500" y="64.72200" w="21.09400" h="13.33300" t="0:08:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=enyay&amp;annotation_id=annotation_493629&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;feature=iv&amp;src_vid=zYd_8-Ps_kw" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_526553" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_606547">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="13.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_606547" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_606547" type="highlight" log_data="a-type=3&amp;l-class=6&amp;ei=dJQ9XJPpINHwgQfUwo2QCw&amp;a-id=annotation_606547&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;xble=1&amp;a-v=zYd_8-Ps_kw" itct="CAQQs-UBGP___________wEiEwiT8_yTqu_fAhVReOAKHVRhA7Io-B0yAml2SMz8s5--_t_DzQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="81.94400" w="25.00000" h="9.72200" t="0:07:59.4"/>
+      <rectRegion x="37.50000" y="81.94400" w="25.00000" h="9.72200" t="0:08:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

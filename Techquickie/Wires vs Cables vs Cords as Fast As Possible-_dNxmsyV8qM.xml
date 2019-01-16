@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImJvftYfv3wIVy1jgCh0bEg5PKPgdMgJpdkij5dfkrLPc6f0B">
+<annotation id="annotation_2988315243" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4121181853">
+    <movingRegion type="rect">
+      <rectRegion x="29.00200" y="93.23900" w="4.12000" h="4.22500" t="never"/>
+      <rectRegion x="29.00200" y="93.23900" w="4.12000" h="4.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4121181853" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4121181853" type="highlight" log_data="a-id=annotation_4121181853&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtS99SDQ5BL0&amp;xble=1&amp;l-class=1&amp;ei=CHA9XJj3BsuxgQebpLj4BA&amp;a-v=_dNxmsyV8qM&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiYm9-1h-_fAhXLWOAKHRsSDk8o-B0yAml2SKPl1-Sss9zp_QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.19500" y="3.09900" w="28.96200" h="35.36600" t="1:30.711"/>
+      <rectRegion x="67.19500" y="3.09900" w="28.96200" h="35.36600" t="1:35.653"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4121181853&amp;ei=CHA9XJj3BsuxgQebpLj4BA&amp;feature=iv&amp;src_vid=_dNxmsyV8qM&amp;v=tS99SDQ5BL0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_504867595" type="text" style="popup" log_data="a-id=annotation_504867595&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Flinustechtips%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;ei=CHA9XJj3BsuxgQebpLj4BA&amp;a-v=_dNxmsyV8qM&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwiYm9-1h-_fAhXLWOAKHRsSDk8o-B0yAml2SKPl1-Sss9zp_QE">
+  <TEXT>Click to subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.80300" y="92.22500" w="26.19700" h="7.77500" t="0:02.898"/>
+      <rectRegion x="73.80300" y="92.22500" w="26.19700" h="7.77500" t="0:27.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="0" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/linustechtips?annotation_id=annotation_504867595&amp;ei=CHA9XJj3BsuxgQebpLj4BA&amp;feature=iv&amp;src_vid=_dNxmsyV8qM&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:555e24b4-0000-2077-9f15-001a113e93e0" style="branding" type="branding"
+            log_data="a-id=555e24b4-0000-2077-9f15-001a113e93e0&amp;a-ch=UC0vBXGSyV14uvJ4hECDOl0Q&amp;xble=0&amp;l-class=3&amp;ei=CHA9XJj3BsuxgQebpLj4BA&amp;a-v=_dNxmsyV8qM&amp;link-id=UC0vBXGSyV14uvJ4hECDOl0Q&amp;a-type=10">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;2,6\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTechquickie%26continue_action%3DQUFFLUhqbWlKMFd4Z2EyV18wTUtHTDBVZ0JYU0xHTWVTUXxBQ3Jtc0tuSFdCTnVHZmVkYTNkVFF5RTQ5Mkd2SjQwRmt1U0RUSUd6UDF3Ul81YkFlMXFLYjV4VzI2X191TzczU1pFczdjYTY5bDlzTzRHbmJhdXlaY0NVVmstTzNncy1hbTBBeVhDdnFZQjBsVk8xUUxEVlN0Wk5aTXNqVm52eGRsTWF4ZE93SXJoQzJWTEY4Z2RJQ2hxWndPYXZyQldnM3hmQVJLb2U0cXlmSmxVdmNxWHE5ellSU1dheFBEVVg2Qy0tRF9OWW5yLU5vWnUzRUpaVzFDaENiYWZKT29TS2tOeUxDeHl1emwxRng5ODhGYUNVcDIw%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Dde\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;2,6\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;channel_name&quot;:&quot;Techquickie&quot;,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/0vBXGSyV14uvJ4hECDOl0Q\/featured_channel.jpg?v=556f3d0d&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;_dNxmsyV8qM&quot;,&quot;ei&quot;:&quot;CHA9XJj3BsuxgQebpLj4BA&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCJib37WH798CFctY4AodGxIOTyj4HTICaXZIo-XX5Kyz3On9AQ&quot;,&quot;annotation_id&quot;:&quot;555e24b4-0000-2077-9f15-001a113e93e0&quot;},&quot;num_subscribers&quot;:&quot;2652579&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UC0vBXGSyV14uvJ4hECDOl0Q&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:239000,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Techquickie"/>
+  </action>
+</annotation></annotations></document>

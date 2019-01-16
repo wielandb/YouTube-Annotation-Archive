@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgdLgv6Tv3wIVwYR8Ch0YRgcwKPgdMgJpdkjAs6rl6eTIwQs">
+<annotation id="annotation_304120" type="highlight" log_data="a-v=C4MjJpyqmcA&amp;a-type=3&amp;a-id=annotation_304120&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsDddh87U3yo&amp;l-class=1&amp;ei=hY49XMH7LMGJ8gOYjJ2AAw" itct="CAEQs-UBGP___________wEiEwiB0uC_pO_fAhXBhHwKHRhGBzAo-B0yAml2SMCzquXp5MjBCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.15600" y="0.00000" w="40.62500" h="60.27800" t="0:02:20.6"/>
+      <rectRegion x="35.15600" y="0.00000" w="40.62500" h="60.27800" t="0:02:30.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_304120&amp;ei=hY49XMH7LMGJ8gOYjJ2AAw&amp;feature=iv&amp;src_vid=C4MjJpyqmcA&amp;v=sDddh87U3yo" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="SpaceFrogsEnt" id="annotation_624002" itct="CAIQs-UBGP___________wEiEwiB0uC_pO_fAhXBhHwKHRhGBzAo-B0yAml2SMCzquXp5MjBCw" log_data="a-v=C4MjJpyqmcA&amp;xble=1&amp;a-type=2&amp;ei=hY49XMH7LMGJ8gOYjJ2AAw&amp;a-id=annotation_624002" style="speech" type="text"><TEXT>Daumen hoch für beste Verfolgungsjagt ever!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="13.888999939" sx="9.375" sy="100.0" t="0:01:01.4" w="29.0629997253" x="1.875" y="81.9440002441" /><anchoredRegion d="0" h="13.888999939" sx="9.375" sy="100.0" t="0:01:06.4" w="29.0629997253" x="1.875" y="81.9440002441" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="5610811" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="0" highlightFontColor="16777215" highlightWidth="3" textSize="4.513375" /></annotation>
+<annotation id="annotation_982443" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Facts about Germans</TEXT>
+  <segment spaceRelative="annotation_304120">
+    <movingRegion type="rect">
+      <rectRegion x="13.59400" y="64.16700" w="14.37500" h="10.00000" t="never"/>
+      <rectRegion x="13.59400" y="64.16700" w="14.37500" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_304120" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

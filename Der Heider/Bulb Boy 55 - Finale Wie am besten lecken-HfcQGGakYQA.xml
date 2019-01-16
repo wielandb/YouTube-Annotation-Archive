@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIuJzG8Pru3wIVyJHeCh2A6AU6KPgdMgJpdkiAwpG1hoPE-x0">
+<annotation id="annotation_1128253495" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2314051047">
+    <movingRegion type="rect">
+      <rectRegion x="-0.31700" y="17.74600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-0.31700" y="17.74600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2314051047" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2314051047" type="highlight" log_data="a-v=HfcQGGakYQA&amp;ei=4WI9XPinL8ij-gaA0ZfQAw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsdArEi1oNivTWMDqFNoM9g%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_2314051047&amp;l-class=5&amp;xble=1" itct="CAEQs-UBGP___________wEiEwi4nMbw-u7fAhXIkd4KHYDoBToo-B0yAml2SIDCkbWGg8T7HQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="47.86100" y="69.56300" w="43.54200" h="20.46800" t="0:00.000"/>
+      <rectRegion x="47.86100" y="69.56300" w="43.54200" h="20.46800" t="0:09.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCsdArEi1oNivTWMDqFNoM9g?annotation_id=annotation_2314051047&amp;ei=4WI9XPinL8ij-gaA0ZfQAw&amp;feature=iv&amp;src_vid=HfcQGGakYQA&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:e6dcc0ef-6410-4003-a249-f9304a393055" style="playlist" type="card" log_data="a-ch=UCsdArEi1oNivTWMDqFNoM9g&amp;a-id=e6dcc0ef-6410-4003-a249-f9304a393055&amp;a-type=63&amp;a-v=HfcQGGakYQA&amp;ei=4WI9XPinL8ij-gaA0ZfQAw&amp;l-class=2&amp;link-id=PL6ijCbcHt0U81vqxPUKxs4PKf9v7QBBB4&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Empfohlen: Heider Fragen&quot;,&quot;target&quot;:&quot;new&quot;,&quot;timestamp&quot;:1449593345742,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=NAxZaXRtHkE\u0026list=PL6ijCbcHt0U81vqxPUKxs4PKf9v7QBBB4&quot;,&quot;title&quot;:&quot;Heider Fragen&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;start_ms&quot;:261,&quot;playlist_video_count&quot;:&quot;12&quot;,&quot;meta_info&quot;:[&quot;von Der Heider&quot;,&quot;12\u00a0Videos&quot;],&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ1TYY____________ASITCLicxvD67t8CFciR3godgOgFOij4HTIFY2FyZHNIgMKRtYaDxPsd&quot;,&quot;annotation_id&quot;:&quot;e6dcc0ef-6410-4003-a249-f9304a393055&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;4WI9XPinL8ij-gaA0ZfQAw&quot;,&quot;src_vid&quot;:&quot;HfcQGGakYQA&quot;},&quot;end_ms&quot;:261,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAYQ1TYY____________ASITCLicxvD67t8CFciR3godgOgFOij4HTIFY2FyZHNIgMKRtYaDxPsd&quot;,&quot;teaser&quot;:&quot;CAcQ0DYY____________ASITCLicxvD67t8CFciR3godgOgFOij4HTIFY2FyZHNIgMKRtYaDxPsd&quot;,&quot;icon&quot;:&quot;CAgQsJcBGP___________wEiEwi4nMbw-u7fAhXIkd4KHYDoBToo-B0yBWNhcmRzSIDCkbWGg8T7HQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/NAxZaXRtHkE\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=NAxZaXRtHkE&amp;list=PL6ijCbcHt0U81vqxPUKxs4PKf9v7QBBB4"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAMQsZcBGP///////////wEiEwi4nMbw+u7fAhXIkd4KHYDoBToo+B0yBWNhcmRzSIDCkbWGg8T7HQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAQQsJcBGP///////////wEiEwi4nMbw+u7fAhXIkd4KHYDoBToo+B0yBWNhcmRzSIDCkbWGg8T7HQ==&quot;, 
+  &quot;eventId&quot;: &quot;4WI9XPinL8ij-gaA0ZfQAw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAIQwjcY////////////ASITCLicxvD67t8CFciR3godgOgFOij4HTIFY2FyZHNIgMKRtYaDxPsd&quot;, 
+  &quot;headerText&quot;: &quot;Von Der Heider&quot;
+}</data>
+</annotation>
+</annotations></document>

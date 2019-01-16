@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI55GuoKnv3wIVDzXgCh2dnAKBKPgdMgJpdkiW67vOv7L-0xs">
+<annotation id="annotation_1022715877" type="highlight" log_data="xble=1&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;a-id=annotation_1022715877&amp;l-class=6&amp;link=http%3A%2F%2Ftechdif.co.uk%2Flive%2F&amp;a-v=G6f5k_nO9ZY&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjnka6gqe_fAhUPNeAKHZ2cAoEo-B0yAml2SJbru86_sv7TGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.67400" y="5.63400" w="47.96300" h="62.54800" t="13:31.510"/>
+      <rectRegion x="25.67400" y="5.63400" w="47.96300" h="62.54800" t="15:00.708"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://techdif.co.uk/live/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_176891515" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to be notified when it&#39;s released!</TEXT>
+  <segment spaceRelative="annotation_2696819427">
+    <movingRegion type="rect">
+      <rectRegion x="0.63400" y="5.35200" w="23.73200" h="15.85900" t="never"/>
+      <rectRegion x="0.63400" y="5.35200" w="23.73200" h="15.85900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2696819427" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2101050815" type="highlight" log_data="xble=1&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;a-id=annotation_2101050815&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWv_NcNXwGRw&amp;a-v=G6f5k_nO9ZY&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjnka6gqe_fAhUPNeAKHZ2cAoEo-B0yAml2SJbru86_sv7TGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.24200" y="14.36600" w="25.47500" h="42.70400" t="15:01.059"/>
+      <rectRegion x="37.24200" y="14.36600" w="25.47500" h="42.70400" t="15:18.905"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2101050815&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;feature=iv&amp;src_vid=G6f5k_nO9ZY&amp;v=Wv_NcNXwGRw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2696819427" type="highlight" log_data="xble=1&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;a-id=annotation_2696819427&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-v=G6f5k_nO9ZY&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjnka6gqe_fAhUPNeAKHZ2cAoEo-B0yAml2SJbru86_sv7TGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.13500" y="14.64800" w="25.00000" h="42.14100" t="15:01.384"/>
+      <rectRegion x="65.13500" y="14.64800" w="25.00000" h="42.14100" t="15:18.905"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_2696819427&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;feature=iv&amp;src_vid=G6f5k_nO9ZY&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3740595161" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1022715877">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1022715877" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4117359245" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2101050815">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2101050815" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4209753571" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_835397227">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_835397227" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_835397227" type="highlight" log_data="xble=1&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;a-id=annotation_835397227&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSw5VU0GE_Wo&amp;a-v=G6f5k_nO9ZY&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwjnka6gqe_fAhUPNeAKHZ2cAoEo-B0yAml2SJbru86_sv7TGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.35000" y="13.52100" w="25.00000" h="42.14100" t="15:00.708"/>
+      <rectRegion x="9.35000" y="13.52100" w="25.00000" h="42.14100" t="15:18.905"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_835397227&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;feature=iv&amp;src_vid=G6f5k_nO9ZY&amp;v=Sw5VU0GE_Wo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:96a45ba5-ef25-4c85-86d8-7cfcaea14c53" style="simple" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=96a45ba5-ef25-4c85-86d8-7cfcaea14c53&amp;a-type=68&amp;a-v=G6f5k_nO9ZY&amp;ei=gpM9XOfIBI_qgAeduYqICA&amp;l-class=6&amp;link=http%3A%2F%2Ftechdif.co.uk%2Flive%2F&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;display_domain&quot;:&quot;techdif.co.uk&quot;,&quot;pause_on_navigation&quot;:true,&quot;url&quot;:&quot;\/redirect?redir_token=S2t8obos6cHmVMGW8g-4LqQ6gLp8MTU0NzYyNTczMEAxNTQ3NTM5MzMw\u0026event=infocard\u0026q=http%3A%2F%2Ftechdif.co.uk%2Flive%2F&quot;,&quot;start_ms&quot;:812075,&quot;teaser_text&quot;:&quot;Come and see us live!&quot;,&quot;sponsored&quot;:false,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;end_ms&quot;:812075,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjnka6gqe_fAhUPNeAKHZ2cAoEo-B0yBWNhcmRzSJbru86_sv7TGw&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCOeRrqCp798CFQ814AodnZwCgSj4HTIFY2FyZHNIluu7zr-y_tMb&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCOeRrqCp798CFQ814AodnZwCgSj4HTIFY2FyZHNIluu7zr-y_tMb&quot;},&quot;custom_message&quot;:&quot;Come and see us live!&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/0Vbj_p_7v0p9zb6dN9Y25-P63ogMqx9wnH385_V_N0mGhz95f2qR8VcXQ39FJu9hz9XazWfCbBwCe8Bt9N4aCbk14FexYV2GUdOnDTopLQMv_3e0qo01RZeA4B2lMA25d37AAMnncnGswJSLNW2XbSrorniCg3t8-aZdxt6CinA&quot;,&quot;title&quot;:&quot;Citation Needed: Live&quot;,&quot;show_link_icon&quot;:true,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;gpM9XOfIBI_qgAeduYqICA&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCOeRrqCp798CFQ814AodnZwCgSj4HTIFY2FyZHNIluu7zr-y_tMb&quot;,&quot;src_vid&quot;:&quot;G6f5k_nO9ZY&quot;,&quot;annotation_id&quot;:&quot;96a45ba5-ef25-4c85-86d8-7cfcaea14c53&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1454591933323,&quot;meta_info&quot;:[]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=S2t8obos6cHmVMGW8g-4LqQ6gLp8MTU0NzYyNTczMEAxNTQ3NTM5MzMw&amp;event=infocard&amp;q=http%3A%2F%2Ftechdif.co.uk%2Flive%2F"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjnka6gqe/fAhUPNeAKHZ2cAoEo+B0yBWNhcmRzSJbru86/sv7TGw==&quot;, 
+  &quot;eventId&quot;: &quot;gpM9XOfIBI_qgAeduYqICA&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCOeRrqCp798CFQ814AodnZwCgSj4HTIFY2FyZHNIluu7zr+y/tMb&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjnka6gqe/fAhUPNeAKHZ2cAoEo+B0yBWNhcmRzSJbru86/sv7TGw==&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIuYWSj9zu3wIVC5J8Ch0LdAStKPgdMgJpdkiz28CVyNKCwPcB">
+<annotation id="annotation_15444" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Klick hier!</TEXT>
+  <segment spaceRelative="annotation_693536">
+    <movingRegion type="rect">
+      <rectRegion x="35.93800" y="45.00000" w="18.75000" h="5.55600" t="never"/>
+      <rectRegion x="35.93800" y="45.00000" w="18.75000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_693536" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_16301" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOdOAHaR22EY&amp;a-id=annotation_16301&amp;xble=1&amp;ei=oEI9XLm1Gouk8gOL6JHoCg&amp;a-v=94AKlIKwLbM&amp;l-class=1&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwi5hZKP3O7fAhULknwKHQt0BK0o-B0yAml2SLPbwJXI0oLA9wE">
+  <TEXT>Wir machen weiter! Part #4 zum Portal 2 LP findet ihr hier! -&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.78100" y="79.72200" w="86.25000" h="12.77800" t="0:12:28.6"/>
+      <rectRegion x="10.78100" y="79.72200" w="86.25000" h="12.77800" t="0:12:42.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="5.41605" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_16301&amp;ei=oEI9XLm1Gouk8gOL6JHoCg&amp;feature=iv&amp;src_vid=94AKlIKwLbM&amp;v=OdOAHaR22EY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_693536" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOdOAHaR22EY&amp;a-id=annotation_693536&amp;xble=1&amp;ei=oEI9XLm1Gouk8gOL6JHoCg&amp;a-v=94AKlIKwLbM&amp;l-class=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwi5hZKP3O7fAhULknwKHQt0BK0o-B0yAml2SLPbwJXI0oLA9wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.43800" y="44.44400" w="94.84400" h="52.77800" t="0:12:28.6"/>
+      <rectRegion x="3.43800" y="44.44400" w="94.84400" h="52.77800" t="0:12:42.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_693536&amp;ei=oEI9XLm1Gouk8gOL6JHoCg&amp;feature=iv&amp;src_vid=94AKlIKwLbM&amp;v=OdOAHaR22EY" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqabk__7u3wIV0BngCh3mvAOfKPgdMgJpdkiq4YTmx8fJ6Fs">
+<annotation id="annotation_199025" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ab zu mir nach Hause! :D</TEXT>
+  <segment spaceRelative="annotation_508871">
+    <movingRegion type="rect">
+      <rectRegion x="9.68800" y="38.05600" w="25.15600" h="5.55600" t="never"/>
+      <rectRegion x="9.68800" y="38.05600" w="25.15600" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_508871" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_508871" type="highlight" log_data="a-v=W9EmPHzBMKo&amp;a-type=3&amp;a-id=annotation_508871&amp;l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;ei=M2c9XOnAHNCzgAfm-Y74CQ" itct="CAEQs-UBGP___________wEiEwippuT__u7fAhXQGeAKHea8A58o-B0yAml2SKrhhObHx8noWw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.81300" y="20.00000" w="44.21900" h="46.38900" t="0:01:33.2"/>
+      <rectRegion x="27.81300" y="20.00000" w="44.21900" h="46.38900" t="0:01:40.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_508871&amp;ei=M2c9XOnAHNCzgAfm-Y74CQ&amp;feature=iv&amp;src_vid=W9EmPHzBMKo&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

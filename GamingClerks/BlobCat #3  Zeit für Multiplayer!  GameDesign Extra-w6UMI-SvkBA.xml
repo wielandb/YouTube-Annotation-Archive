@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2c2F2tXu3wIVVVzgCh15YwNDKPgdMgJpdkiQoL6lvoTD0sMB">
+<annotation id="annotation_2401914103" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2527522605">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2527522605" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2527522605" type="highlight" log_data="a-id=annotation_2527522605&amp;xble=1&amp;a-v=w6UMI-SvkBA&amp;l-class=6&amp;a-type=3&amp;ei=5js9XNnCHNW4gQf5xo2YBA&amp;link=http%3A%2F%2Fwww.gcnet.de%2F%3Fblobmerch" itct="CAEQs-UBGP___________wEiEwjZzYXa1e7fAhVVXOAKHXljA0Mo-B0yAml2SJCgvqW-hMPSwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.49000" y="23.66200" w="36.45000" h="76.33800" t="8:52.706"/>
+      <rectRegion x="61.49000" y="23.66200" w="36.45000" h="76.33800" t="9:15.905"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.gcnet.de/?blobmerch" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3500823637" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_421461531">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_421461531" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_421461531" type="highlight" log_data="a-id=annotation_421461531&amp;xble=1&amp;a-v=w6UMI-SvkBA&amp;l-class=6&amp;a-type=3&amp;ei=5js9XNnCHNW4gQf5xo2YBA&amp;link=http%3A%2F%2Fwww.gcnet.de%2F%3Fblobtip" itct="CAIQs-UBGP___________wEiEwjZzYXa1e7fAhVVXOAKHXljA0Mo-B0yAml2SJCgvqW-hMPSwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.23300" y="18.02800" w="32.44800" h="63.54900" t="0:47.899"/>
+      <rectRegion x="63.23300" y="18.02800" w="32.44800" h="63.54900" t="1:13.221"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.gcnet.de/?blobtip" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

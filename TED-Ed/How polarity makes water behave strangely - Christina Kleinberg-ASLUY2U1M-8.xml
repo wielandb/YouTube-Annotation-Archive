@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6OTR2-3u3wIVS4tVCh2aYAOTKPgdMgJpdkjv59Sptoy1kQE">
+<annotation id="annotation_219541" type="highlight" log_data="a-v=ASLUY2U1M-8&amp;a-type=3&amp;a-id=annotation_219541&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-polarity-makes-water-behave-strangely-christina-kleinberg&amp;l-class=12" itct="CAEQs-UBGP___________wEiEwjo5NHb7e7fAhVLi1UKHZpgA5Mo-B0yAml2SO_n1Km2jLWRAQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.78100" y="53.33300" w="68.28100" h="13.05600" t="0:03:46.0"/>
+      <rectRegion x="15.78100" y="53.33300" w="68.28100" h="13.05600" t="0:03:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-polarity-makes-water-behave-strangely-christina-kleinberg" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_251542" type="highlight" log_data="a-v=ASLUY2U1M-8&amp;a-type=3&amp;a-id=annotation_251542&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwjo5NHb7e7fAhVLi1UKHZpgA5Mo-B0yAml2SO_n1Km2jLWRAQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.46900" y="71.66700" w="22.18800" h="18.05600" t="3:46.000"/>
+      <rectRegion x="70.46900" y="71.66700" w="22.18800" h="18.05600" t="3:51.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_299756" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_251542">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_251542" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_347433" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_219541">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_219541" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_40128" type="text" style="popup" log_data="a-v=ASLUY2U1M-8&amp;a-type=1&amp;a-id=annotation_40128&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-polarity-makes-water-behave-strangely-christina-kleinberg&amp;l-class=12" itct="CAMQs-UBGP___________wEiEwjo5NHb7e7fAhVLi1UKHZpgA5Mo-B0yAml2SO_n1Km2jLWRAQ">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.44400" w="35.93800" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.44400" w="35.93800" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-polarity-makes-water-behave-strangely-christina-kleinberg" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_428678" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_876876">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_876876" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_449338" type="text" style="popup" log_data="a-v=ASLUY2U1M-8&amp;a-type=1&amp;a-id=annotation_449338&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;l-class=5" itct="CAQQs-UBGP___________wEiEwjo5NHb7e7fAhVLi1UKHZpgA5Mo-B0yAml2SO_n1Km2jLWRAQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.90600" y="12.22200" w="13.90600" h="30.55600" t="0:03:46.0"/>
+      <rectRegion x="78.90600" y="12.22200" w="13.90600" h="30.55600" t="0:03:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_449338&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;feature=iv&amp;src_vid=ASLUY2U1M-8" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_694361" type="highlight" log_data="a-v=ASLUY2U1M-8&amp;a-type=3&amp;a-id=annotation_694361&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;l-class=12" itct="CAUQs-UBGP___________wEiEwjo5NHb7e7fAhVLi1UKHZpgA5Mo-B0yAml2SO_n1Km2jLWRAQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.56300" y="71.38900" w="31.09400" h="17.50000" t="0:03:46.0"/>
+      <rectRegion x="36.56300" y="71.38900" w="31.09400" h="17.50000" t="0:03:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_876876" type="highlight" log_data="a-v=ASLUY2U1M-8&amp;a-type=3&amp;a-id=annotation_876876&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;l-class=12" itct="CAYQs-UBGP___________wEiEwjo5NHb7e7fAhVLi1UKHZpgA5Mo-B0yAml2SO_n1Km2jLWRAQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.87500" y="71.94400" w="26.71900" h="16.94400" t="0:03:46.0"/>
+      <rectRegion x="6.87500" y="71.94400" w="26.71900" h="16.94400" t="0:03:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_895432" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_694361">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_694361" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=FFU9XOiKEMuW1gKawY2YCQ&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=ASLUY2U1M-8&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3">
+  <data>{&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqblZSQkRCaGhYT0prRjk0WkhsdW16NnJpMXJwQXxBQ3Jtc0tuUG9GSy1md2FETVpYZlpKb1NoTDBKcWhBd1pRaXA3cDVLdGpKWjZkYkRhbzZ2dEZGZjhTQlBQXzJoTGN5Q2NkaklFc3pPaW5iT0hCUUxxNzZjTk1jUkoweWpqbUo2VG11c25zNDdNWHc5UzdaSUhXYTBVTjZGeVVQcU5TQkJqN2wzc3BuejlVejJrWWswNi01MHk3cFp2d2R4WXl3NVoxUHZrQnZWVWFVV3UtUzQ0M1VUY3pac2lWaXFma3hkUkZDRFJtVVltZncwWHhwVlRsTW5PaUIxNzJuNEZxVXZtVjV2VUVZN3REOFQtclNQcE5v%26action_handle_signin%3Dtrue%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;image_type&quot;:0,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;ASLUY2U1M-8&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCOjk0dvt7t8CFUuLVQodmmADkyj4HTICaXZI7-fUqbaMtZEB&quot;,&quot;ei&quot;:&quot;FFU9XOiKEMuW1gKawY2YCQ&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;end_ms&quot;:232000,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

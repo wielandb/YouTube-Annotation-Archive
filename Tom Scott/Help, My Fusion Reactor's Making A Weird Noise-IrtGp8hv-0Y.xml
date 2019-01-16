@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-O_lj6nv3wIVDATgCh0PFwArKPgdMgJpdkjG9r_D_NTR3SI">
+<annotation id="annotation_1678034663" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3531147695">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3531147695" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1728047849" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_595639347">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_595639347" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2917255125" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_582297161">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_582297161" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3531147695" type="highlight" log_data="l-class=2&amp;a-v=IrtGp8hv-0Y&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;xble=1&amp;a-type=3&amp;a-id=annotation_3531147695&amp;ei=X5M9XLjEFIyIgAeProDYAg" itct="CAEQs-UBGP___________wEiEwj47-WPqe_fAhUMBOAKHQ8XACso-B0yAml2SMb2v8P81NHdIg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.53100" y="34.77500" w="40.26100" h="14.29600" t="3:44.657"/>
+      <rectRegion x="55.53100" y="34.77500" w="40.26100" h="14.29600" t="3:54.125"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3531147695&amp;ei=X5M9XLjEFIyIgAeProDYAg&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=IrtGp8hv-0Y" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_582297161" type="highlight" log_data="l-class=6&amp;a-v=IrtGp8hv-0Y&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;xble=1&amp;a-type=3&amp;a-id=annotation_582297161&amp;ei=X5M9XLjEFIyIgAeProDYAg" itct="CAIQs-UBGP___________wEiEwj47-WPqe_fAhUMBOAKHQ8XACso-B0yAml2SMb2v8P81NHdIg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.15800" y="83.29600" w="62.97100" h="13.51000" t="3:44.657"/>
+      <rectRegion x="5.15800" y="83.29600" w="62.97100" h="13.51000" t="3:54.125"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_595639347" type="highlight" log_data="l-class=5&amp;a-v=IrtGp8hv-0Y&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;xble=1&amp;a-type=3&amp;a-id=annotation_595639347&amp;ei=X5M9XLjEFIyIgAeProDYAg" itct="CAMQs-UBGP___________wEiEwj47-WPqe_fAhUMBOAKHQ8XACso-B0yAml2SMb2v8P81NHdIg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.66600" y="48.87300" w="39.84200" h="19.60600" t="3:44.657"/>
+      <rectRegion x="55.66600" y="48.87300" w="39.84200" h="19.60600" t="3:54.125"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_595639347&amp;ei=X5M9XLjEFIyIgAeProDYAg&amp;feature=iv&amp;src_vid=IrtGp8hv-0Y&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:e8fa78e1-ccc7-4905-b84a-95faeb6bc381" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=e8fa78e1-ccc7-4905-b84a-95faeb6bc381&amp;a-type=62&amp;a-v=IrtGp8hv-0Y&amp;ei=X5M9XLjEFIyIgAeProDYAg&amp;l-class=1&amp;link-id=S0zMip62o5E&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Big Industrial Simulators in Finland&quot;,&quot;video_duration&quot;:&quot;3:49&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;IrtGp8hv-0Y&quot;,&quot;annotation_id&quot;:&quot;e8fa78e1-ccc7-4905-b84a-95faeb6bc381&quot;,&quot;ei&quot;:&quot;X5M9XLjEFIyIgAeProDYAg&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCPjv5Y-p798CFQwE4AodDxcAKyj4HTIFY2FyZHNIxva_w_zU0d0i&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/S0zMip62o5E\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Big Industrial Simulators in Finland&quot;,&quot;start_ms&quot;:223504,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=S0zMip62o5E&quot;,&quot;timestamp&quot;:1461596286783,&quot;end_ms&quot;:223504,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;732.178 Aufrufe&quot;],&quot;target&quot;:&quot;new&quot;,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCPjv5Y-p798CFQwE4AodDxcAKyj4HTIFY2FyZHNIxva_w_zU0d0i&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCPjv5Y-p798CFQwE4AodDxcAKyj4HTIFY2FyZHNIxva_w_zU0d0i&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwj47-WPqe_fAhUMBOAKHQ8XACso-B0yBWNhcmRzSMb2v8P81NHdIg&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=S0zMip62o5E"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;eventId&quot;: &quot;X5M9XLjEFIyIgAeProDYAg&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwj47+WPqe/fAhUMBOAKHQ8XACso+B0yBWNhcmRzSMb2v8P81NHdIg==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCPjv5Y+p798CFQwE4AodDxcAKyj4HTIFY2FyZHNIxva/w/zU0d0i&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwj47+WPqe/fAhUMBOAKHQ8XACso+B0yBWNhcmRzSMb2v8P81NHdIg==&quot;
+}</data>
+</annotation>
+</annotations></document>

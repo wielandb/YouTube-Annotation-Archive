@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIn_ykpsnu3wIVzZZ8Ch2vuA_lKPgdMgJpdkiWyLKQ-POT11k">
+<annotation id="annotation_139363" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>BF3 Aftermath - Together</TEXT>
+  <segment spaceRelative="annotation_160608">
+    <movingRegion type="rect">
+      <rectRegion x="9.53100" y="18.88900" w="25.00000" h="11.66700" t="never"/>
+      <rectRegion x="9.53100" y="18.88900" w="25.00000" h="11.66700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.81426666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_160608" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_160608" type="highlight" log_data="l-class=1&amp;a-id=annotation_160608&amp;xble=1&amp;ei=5C49XJ_6Ks2t8gOv8b6oDg&amp;a-type=3&amp;a-v=Wa5Pn4IMpBY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCbI5YxXqRqY" itct="CAEQs-UBGP___________wEiEwif_KSmye7fAhXNlnwKHa-4D-Uo-B0yAml2SJbIspD485PXWQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.12500" y="13.88900" w="42.81300" h="46.66700" t="0:08:44.9"/>
+      <rectRegion x="53.12500" y="13.88900" w="42.81300" h="46.66700" t="0:08:53.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_160608&amp;ei=5C49XJ_6Ks2t8gOv8b6oDg&amp;feature=iv&amp;src_vid=Wa5Pn4IMpBY&amp;v=CbI5YxXqRqY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_651063" type="highlight" log_data="l-class=1&amp;a-id=annotation_651063&amp;xble=1&amp;ei=5C49XJ_6Ks2t8gOv8b6oDg&amp;a-type=3&amp;a-v=Wa5Pn4IMpBY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dhp7ST4ZmeXA" itct="CAIQs-UBGP___________wEiEwif_KSmye7fAhXNlnwKHa-4D-Uo-B0yAml2SJbIspD485PXWQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="14.16700" w="43.59400" h="46.38900" t="0:08:44.9"/>
+      <rectRegion x="2.81300" y="14.16700" w="43.59400" h="46.38900" t="0:08:53.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_651063&amp;ei=5C49XJ_6Ks2t8gOv8b6oDg&amp;feature=iv&amp;src_vid=Wa5Pn4IMpBY&amp;v=hp7ST4ZmeXA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_796559" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Assassins Creed III - Teil 1</TEXT>
+  <segment spaceRelative="annotation_651063">
+    <movingRegion type="rect">
+      <rectRegion x="8.75000" y="18.05600" w="26.40600" h="13.88900" t="never"/>
+      <rectRegion x="8.75000" y="18.05600" w="26.40600" h="13.88900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.81426666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_651063" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

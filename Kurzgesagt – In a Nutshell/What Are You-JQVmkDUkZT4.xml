@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6pzQ25rv3wIVmLh7Ch0UeApoKPgdMgJpdki-ypGpg9LZgiU">
+<annotation id="annotation_3149126447" type="highlight" log_data="a-type=3&amp;a-id=annotation_3149126447&amp;ei=Q4Q9XKrvMpjx7gOU8KnABg&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwfYbgdo8e-8&amp;a-v=JQVmkDUkZT4&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjqnNDbmu_fAhWYuHsKHRR4Cmgo-B0yAml2SL7KkamD0tmCJQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.10000" y="15.49300" w="53.15700" h="56.43700" t="5:55.974"/>
+      <rectRegion x="27.10000" y="15.49300" w="53.15700" h="56.43700" t="6:27.448"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3149126447&amp;ei=Q4Q9XKrvMpjx7gOU8KnABg&amp;feature=iv&amp;src_vid=JQVmkDUkZT4&amp;v=wfYbgdo8e-8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_631218563" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3149126447">
+    <movingRegion type="rect">
+      <rectRegion x="-41.36300" y="31.54900" w="62.73500" h="47.82000" t="never"/>
+      <rectRegion x="-41.36300" y="31.54900" w="62.73500" h="47.82000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3149126447" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:b2a7a613-adef-4f45-8118-3a7e9f9f1201" style="video" type="card" log_data="a-ch=UCsXVk37bltHxD1rDPwtNM8Q&amp;a-id=b2a7a613-adef-4f45-8118-3a7e9f9f1201&amp;a-type=62&amp;a-v=JQVmkDUkZT4&amp;ei=Q4Q9XKrvMpjx7gOU8KnABg&amp;l-class=1&amp;link-id=wfYbgdo8e-8&amp;xble=0">
+  <data>{&quot;end_ms&quot;:355849,&quot;title&quot;:&quot;You Are Two&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wfYbgdo8e-8&quot;,&quot;video_duration&quot;:&quot;4:58&quot;,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/wfYbgdo8e-8\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: You Are Two&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAYQ1TYY____________ASITCOqc0Nua798CFZi4ewodFHgKaCj4HTIFY2FyZHNIvsqRqYPS2YIl&quot;,&quot;icon&quot;:&quot;CAgQsJcBGP___________wEiEwjqnNDbmu_fAhWYuHsKHRR4Cmgo-B0yBWNhcmRzSL7KkamD0tmCJQ&quot;,&quot;teaser&quot;:&quot;CAcQ0DYY____________ASITCOqc0Nua798CFZi4ewodFHgKaCj4HTIFY2FyZHNIvsqRqYPS2YIl&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von CGP Grey&quot;,&quot;6.486.456 Aufrufe&quot;],&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;b2a7a613-adef-4f45-8118-3a7e9f9f1201&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;JQVmkDUkZT4&quot;,&quot;itct&quot;:&quot;CAYQ1TYY____________ASITCOqc0Nua798CFZi4ewodFHgKaCj4HTIFY2FyZHNIvsqRqYPS2YIl&quot;,&quot;ei&quot;:&quot;Q4Q9XKrvMpjx7gOU8KnABg&quot;},&quot;timestamp&quot;:1464700825131,&quot;start_ms&quot;:355849,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=wfYbgdo8e-8"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;Q4Q9XKrvMpjx7gOU8KnABg&quot;, 
+  &quot;headerText&quot;: &quot;Von Kurzgesagt \u2013 In a Nutshell&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAMQsZcBGP///////////wEiEwjqnNDbmu/fAhWYuHsKHRR4Cmgo+B0yBWNhcmRzSL7KkamD0tmCJQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAQQsJcBGP///////////wEiEwjqnNDbmu/fAhWYuHsKHRR4Cmgo+B0yBWNhcmRzSL7KkamD0tmCJQ==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAIQwjcY////////////ASITCOqc0Nua798CFZi4ewodFHgKaCj4HTIFY2FyZHNIvsqRqYPS2YIl&quot;
+}</data>
+</annotation>
+</annotations></document>

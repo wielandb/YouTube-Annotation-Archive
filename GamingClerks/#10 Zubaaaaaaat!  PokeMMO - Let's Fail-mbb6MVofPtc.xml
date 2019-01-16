@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI85WE_Nju3wIVHJNVCh2hwwZ8KPgdMgJpdkjX_fzQlca-25kB">
+<annotation id="annotation_1166384067" type="highlight" log_data="a-id=annotation_1166384067&amp;xble=1&amp;a-v=mbb6MVofPtc&amp;l-class=1&amp;a-type=3&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Findex%3D9%26list%3DPLNlv0WYGRAB3kQXUcSgd7WRoj4hoxujJC%26v%3Do6-dOUbh4wQ" itct="CAEQs-UBGP___________wEiEwjzlYT82O7fAhUck1UKHaHDBnwo-B0yAml2SNf9_NCVxr7bmQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="47.02900" h="50.87300" t="18:40.500"/>
+      <rectRegion x="0.00000" y="0.00000" w="47.02900" h="50.87300" t="19:39.527"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1166384067&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;feature=iv&amp;index=9&amp;list=PLNlv0WYGRAB3kQXUcSgd7WRoj4hoxujJC&amp;src_vid=mbb6MVofPtc&amp;v=o6-dOUbh4wQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2023010829" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1166384067">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.14100" w="22.46400" h="4.02500" t="never"/>
+      <rectRegion x="0.00000" y="30.14100" w="22.46400" h="4.02500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1166384067" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_318030487" type="text" style="popup" log_data="a-id=annotation_318030487&amp;xble=1&amp;a-v=mbb6MVofPtc&amp;l-class=2&amp;a-type=1&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLNlv0WYGRAB3kQXUcSgd7WRoj4hoxujJC" itct="CAIQs-UBGP___________wEiEwjzlYT82O7fAhUck1UKHaHDBnwo-B0yAml2SNf9_NCVxr7bmQE">
+  <TEXT>Zur Playlist</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="84.78600" y="0.00000" w="15.25500" h="8.03600" t="0:00.000"/>
+      <rectRegion x="84.78600" y="0.00000" w="15.25500" h="8.03600" t="18:39.446"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_318030487&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;feature=iv&amp;list=PLNlv0WYGRAB3kQXUcSgd7WRoj4hoxujJC&amp;src_vid=mbb6MVofPtc" link_class="2"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3292676629" type="text" style="popup" log_data="a-id=annotation_3292676629&amp;a-type=1&amp;a-v=mbb6MVofPtc&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjzlYT82O7fAhUck1UKHaHDBnwo-B0yAml2SNf9_NCVxr7bmQE">
+  <TEXT>Ab Montag! 15 Uhr</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.64800" y="23.38000" w="21.11800" h="6.90900" t="18:40.456"/>
+      <rectRegion x="61.64800" y="23.38000" w="21.11800" h="6.90900" t="19:39.527"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_447416747" type="highlight" log_data="a-id=annotation_447416747&amp;xble=1&amp;a-v=mbb6MVofPtc&amp;l-class=5&amp;a-type=3&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks" itct="CAQQs-UBGP___________wEiEwjzlYT82O7fAhUck1UKHaHDBnwo-B0yAml2SNf9_NCVxr7bmQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.04600" y="63.09900" w="55.42800" h="36.33800" t="18:40.456"/>
+      <rectRegion x="41.04600" y="63.09900" w="55.42800" h="36.33800" t="19:39.527"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_447416747&amp;ei=Uz89XLOgA5ym1gKhh5vgBw&amp;feature=iv&amp;src_vid=mbb6MVofPtc" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_736876257" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_447416747">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_447416747" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

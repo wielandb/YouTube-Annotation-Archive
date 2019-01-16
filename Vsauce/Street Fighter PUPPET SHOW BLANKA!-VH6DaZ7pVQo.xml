@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhvrMhazv3wIVTnPgCh35uAHgKPgdMgJpdkiKqqX3me2gv1Q">
+<annotation id="annotation_282156" type="highlight" log_data="xble=1&amp;l-class=5&amp;a-id=annotation_282156&amp;a-type=3&amp;ei=b5Y9XMaGEM7mgQf58YaADg&amp;a-v=VH6DaZ7pVQo&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy" itct="CAEQs-UBGP___________wEiEwiG-syFrO_fAhVOc-AKHfm4AeAo-B0yAml2SIqqpfeZ7aC_VA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="11.94400" t="0:00:00.0"/>
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="11.94400" t="0:02:45.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_282156&amp;ei=b5Y9XMaGEM7mgQf58YaADg&amp;feature=iv&amp;src_vid=VH6DaZ7pVQo" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_406429" type="highlight" log_data="xble=1&amp;l-class=1&amp;a-id=annotation_406429&amp;a-type=3&amp;ei=b5Y9XMaGEM7mgQf58YaADg&amp;a-v=VH6DaZ7pVQo&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0FUJiSZcRCk" itct="CAIQs-UBGP___________wEiEwiG-syFrO_fAhVOc-AKHfm4AeAo-B0yAml2SIqqpfeZ7aC_VA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.78100" y="18.61100" w="18.75000" h="27.77800" t="0:02:33.2"/>
+      <rectRegion x="15.78100" y="18.61100" w="18.75000" h="27.77800" t="0:02:37.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.10000000149"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_406429&amp;ei=b5Y9XMaGEM7mgQf58YaADg&amp;feature=iv&amp;src_vid=VH6DaZ7pVQo&amp;v=0FUJiSZcRCk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_551634" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to subscribe to Wackygamer</TEXT>
+  <segment spaceRelative="annotation_282156">
+    <movingRegion type="rect">
+      <rectRegion x="-18.43700" y="0.00000" w="17.50000" h="9.44400" t="never"/>
+      <rectRegion x="-18.43700" y="0.00000" w="17.50000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_282156" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_838500" type="text" style="popup" log_data="xble=1&amp;l-class=3&amp;a-id=annotation_838500&amp;a-type=1&amp;ei=b5Y9XMaGEM7mgQf58YaADg&amp;a-v=VH6DaZ7pVQo&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Danimaltrash" itct="CAMQs-UBGP___________wEiEwiG-syFrO_fAhVOc-AKHfm4AeAo-B0yAml2SIqqpfeZ7aC_VA">
+  <TEXT>Animal Trash&#39;s CHANNEL !!!!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.62500" y="50.00000" w="33.43800" h="6.94400" t="0:02:26.8"/>
+      <rectRegion x="65.62500" y="50.00000" w="33.43800" h="6.94400" t="0:02:31.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_838500&amp;ei=b5Y9XMaGEM7mgQf58YaADg&amp;feature=iv&amp;src_vid=VH6DaZ7pVQo&amp;user=animaltrash" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_86254" type="text" style="popup" log_data="a-v=VH6DaZ7pVQo&amp;a-type=1&amp;xble=1&amp;a-id=annotation_86254&amp;ei=b5Y9XMaGEM7mgQf58YaADg" itct="CAQQs-UBGP___________wEiEwiG-syFrO_fAhVOc-AKHfm4AeAo-B0yAml2SIqqpfeZ7aC_VA">
+  <TEXT>THUMBS UP
+FOR
+Puppets!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="76.87500" y="24.44400" w="13.12500" h="20.83300" t="0:00:06.7"/>
+      <rectRegion x="76.87500" y="24.44400" w="13.12500" h="20.83300" t="0:00:11.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_985718" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK! 
+HERE!</TEXT>
+  <segment spaceRelative="annotation_406429">
+    <movingRegion type="rect">
+      <rectRegion x="0.31300" y="9.16700" w="18.43800" h="9.44400" t="never"/>
+      <rectRegion x="0.31300" y="9.16700" w="18.43800" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_406429" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2-fgmKvv3wIVh3_gCh2iCA2rKPgdMgJpdki_pNGWl-GGiosB">
+<annotation id="annotation_170697" type="highlight" log_data="a-id=annotation_170697&amp;a-v=ixQbCXLUUj8&amp;a-type=3&amp;ei=ipU9XNv6PIf_gQeikbTYCg&amp;l-class=12&amp;link=http%3A%2F%2Fbit.ly%2FPOIaN7&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjb5-CYq-_fAhWHf-AKHaIIDaso-B0yAml2SL-k0ZaX4YaKiwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.00000" y="10.55600" w="35.60200" h="14.95800" t="0:11:48.3"/>
+      <rectRegion x="10.00000" y="10.55600" w="35.60200" h="14.95800" t="0:12:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="11529425" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://bit.ly/POIaN7" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_303738" type="highlight" log_data="a-id=annotation_303738&amp;a-v=ixQbCXLUUj8&amp;a-type=3&amp;ei=ipU9XNv6PIf_gQeikbTYCg&amp;l-class=12&amp;link=https%3A%2F%2Ftwitter.com%2Ftweetsauce&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjb5-CYq-_fAhWHf-AKHaIIDaso-B0yAml2SL-k0ZaX4YaKiwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.15600" y="33.33300" w="29.75800" h="15.15300" t="0:11:48.3"/>
+      <rectRegion x="10.15600" y="33.33300" w="29.75800" h="15.15300" t="0:12:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="11529425" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://twitter.com/tweetsauce" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_331935" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_941230">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_941230" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_531616" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_303738">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_303738" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_661877" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_170697">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_170697" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_941230" type="highlight" log_data="a-id=annotation_941230&amp;a-v=ixQbCXLUUj8&amp;a-type=3&amp;ei=ipU9XNv6PIf_gQeikbTYCg&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Feuronewsknowledge&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjb5-CYq-_fAhWHf-AKHaIIDaso-B0yAml2SL-k0ZaX4YaKiwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.65600" y="56.66700" w="18.03900" h="30.55600" t="0:11:57.9"/>
+      <rectRegion x="12.65600" y="56.66700" w="18.03900" h="30.55600" t="0:12:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="11529425" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/euronewsknowledge?annotation_id=annotation_941230&amp;ei=ipU9XNv6PIf_gQeikbTYCg&amp;feature=iv&amp;src_vid=ixQbCXLUUj8" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

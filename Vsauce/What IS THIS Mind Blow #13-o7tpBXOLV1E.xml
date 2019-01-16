@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjpic4Kvv3wIVF5R7Ch1CpgvSKPgdMgJpdkjRrq2c16Da3aMB">
+<annotation id="annotation_209765" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK NOW!!!</TEXT>
+  <segment spaceRelative="annotation_318111">
+    <movingRegion type="rect">
+      <rectRegion x="-21.56200" y="17.77800" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="-21.56200" y="17.77800" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_318111" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_270159" type="highlight" log_data="a-v=o7tpBXOLV1E&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DVsauce&amp;a-id=annotation_270159&amp;ei=IJY9XI6INZeo7gPCzK6QDQ&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiOmJzgq-_fAhUXlHsKHUKmC9Io-B0yAml2SNGurZzXoNrdowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="94.21900" y="0.00000" w="5.78100" h="7.77800" t="0:00:00.0"/>
+      <rectRegion x="94.21900" y="0.00000" w="5.78100" h="7.77800" t="0:03:30.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=Vsauce&amp;annotation_id=annotation_270159&amp;ei=IJY9XI6INZeo7gPCzK6QDQ&amp;feature=iv&amp;src_vid=o7tpBXOLV1E" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_318111" type="highlight" log_data="a-v=o7tpBXOLV1E&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dsxp4bvwMk7w&amp;a-id=annotation_318111&amp;ei=IJY9XI6INZeo7gPCzK6QDQ&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiOmJzgq-_fAhUXlHsKHUKmC9Io-B0yAml2SNGurZzXoNrdowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.93800" y="0.00000" w="50.93800" h="65.55600" t="0:03:08.1"/>
+      <rectRegion x="25.93800" y="0.00000" w="50.93800" h="65.55600" t="0:03:24.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_318111&amp;ei=IJY9XI6INZeo7gPCzK6QDQ&amp;feature=iv&amp;src_vid=o7tpBXOLV1E&amp;v=sxp4bvwMk7w" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_356876" itct="CAMQs-UBGP___________wEiEwiOmJzgq-_fAhUXlHsKHUKmC9Io-B0yAml2SNGurZzXoNrdowE" log_data="a-v=o7tpBXOLV1E&amp;a-id=annotation_356876&amp;ei=IJY9XI6INZeo7gPCzK6QDQ&amp;xble=1&amp;a-type=2" style="speech" type="text"><TEXT>These are Gundam!!!
+Watch full video for the Starscream Transformer battle!!!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="29.4440002441" sx="12.8120002747" sy="39.7220001221" t="0:02:17.3" w="22.1879997253" x="1.71899998188" y="1.94400000572" /><anchoredRegion d="0" h="29.4440002441" sx="12.8120002747" sy="39.7220001221" t="0:02:27.2" w="22.1879997253" x="1.71899998188" y="1.94400000572" /></movingRegion></segment></annotation>
+<annotation id="annotation_665444" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe To VSauce!!!</TEXT>
+  <segment spaceRelative="annotation_270159">
+    <movingRegion type="rect">
+      <rectRegion x="-20.62500" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="-20.62500" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_270159" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9ojC363v3wIVghngCh24rAYsKPgdMgJpdkiZ4NehsrvqrY8B">
+<annotation id="annotation_1047293601" type="highlight" log_data="l-class=14&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.twitter.com%2Falextv&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_1047293601" itct="CAEQs-UBGP___________wEiEwj2iMLfre_fAhWCGeAKHbisBiwo-B0yAml2SJng16Gyu-qtjwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.33100" y="14.93000" w="9.46900" h="16.79200" t="3:56.956"/>
+      <rectRegion x="61.33100" y="14.93000" w="9.46900" h="16.79200" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.twitter.com/alextv" link_class="14"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1196472115" type="highlight" log_data="l-class=12&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.facebook.de%2Falextv&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_1196472115" itct="CAIQs-UBGP___________wEiEwj2iMLfre_fAhWCGeAKHbisBiwo-B0yAml2SJng16Gyu-qtjwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.93200" y="15.77500" w="7.72600" h="15.66500" t="3:56.956"/>
+      <rectRegion x="52.93200" y="15.77500" w="7.72600" h="15.66500" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.facebook.de/alextv" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1372881377" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1196472115">
+    <movingRegion type="rect">
+      <rectRegion x="3.80300" y="20.84500" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="3.80300" y="20.84500" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1196472115" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1392364881" type="highlight" log_data="l-class=3&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftechlab&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_1392364881" itct="CAMQs-UBGP___________wEiEwj2iMLfre_fAhWCGeAKHbisBiwo-B0yAml2SJng16Gyu-qtjwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.11900" y="72.39400" w="25.00000" h="27.77800" t="3:56.956"/>
+      <rectRegion x="75.11900" y="72.39400" w="25.00000" h="27.77800" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/techlab?annotation_id=annotation_1392364881&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;feature=iv&amp;src_vid=j1up2yQ18Bk" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1644188949" type="highlight" log_data="l-class=3&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Falexibexi&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_1644188949" itct="CAQQs-UBGP___________wEiEwj2iMLfre_fAhWCGeAKHbisBiwo-B0yAml2SJng16Gyu-qtjwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.97000" y="72.39400" w="25.00000" h="27.77800" t="3:56.956"/>
+      <rectRegion x="48.97000" y="72.39400" w="25.00000" h="27.77800" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/alexibexi?annotation_id=annotation_1644188949&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;feature=iv&amp;src_vid=j1up2yQ18Bk" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2222863193" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_793821145">
+    <movingRegion type="rect">
+      <rectRegion x="-14.89700" y="22.81700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-14.89700" y="22.81700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_793821145" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2256466467" type="highlight" log_data="l-class=12&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.instagram.com%2Falexibexi&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_2256466467" itct="CAUQs-UBGP___________wEiEwj2iMLfre_fAhWCGeAKHbisBiwo-B0yAml2SJng16Gyu-qtjwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="80.66600" y="16.90100" w="7.56700" h="15.38000" t="3:56.956"/>
+      <rectRegion x="80.66600" y="16.90100" w="7.56700" h="15.38000" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.instagram.com/alexibexi" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2403853415" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3787053429">
+    <movingRegion type="rect">
+      <rectRegion x="-2.21900" y="22.25400" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-2.21900" y="22.25400" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3787053429" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2574370677" type="highlight" log_data="l-class=1&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpNN8JIE03kQ&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_2574370677" itct="CAYQs-UBGP___________wEiEwj2iMLfre_fAhWCGeAKHbisBiwo-B0yAml2SJng16Gyu-qtjwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.88100" y="72.39400" w="25.00000" h="27.77800" t="3:56.956"/>
+      <rectRegion x="24.88100" y="72.39400" w="25.00000" h="27.77800" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2574370677&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;feature=iv&amp;src_vid=j1up2yQ18Bk&amp;v=pNN8JIE03kQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2795534465" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2256466467">
+    <movingRegion type="rect">
+      <rectRegion x="-7.76500" y="20.56300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-7.76500" y="20.56300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2256466467" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2882634081" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1644188949">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1644188949" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3323989795" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1392364881">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1392364881" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3613254085" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2574370677">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2574370677" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3717055621" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_480676797">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_480676797" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3784234999" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1047293601">
+    <movingRegion type="rect">
+      <rectRegion x="-1.26800" y="21.12700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-1.26800" y="21.12700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1047293601" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3787053429" type="highlight" log_data="l-class=4&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=https%3A%2F%2Fplus.google.com%2Fu%2F0%2Fb%2F116522220307856152145%2F116522220307856152145&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_3787053429" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.99800" y="15.49300" w="8.04300" h="17.07000" t="3:56.956"/>
+      <rectRegion x="70.99800" y="15.49300" w="8.04300" h="17.07000" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://plus.google.com/u/0/b/116522220307856152145/116522220307856152145" link_class="4"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_480676797" type="highlight" log_data="l-class=3&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Falexibexi&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_480676797" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="72.39400" w="25.00000" h="27.77800" t="3:56.956"/>
+      <rectRegion x="0.00000" y="72.39400" w="25.00000" h="27.77800" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/alexibexi?annotation_id=annotation_480676797&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;feature=iv&amp;src_vid=j1up2yQ18Bk" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_566706593" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Dankeschön!</TEXT>
+  <segment spaceRelative="annotation_726720411">
+    <movingRegion type="rect">
+      <rectRegion x="6.49800" y="18.87300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="6.49800" y="18.87300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_726720411" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_726720411" type="highlight" log_data="l-class=5&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Falexibexi%3Fsub_confirmation%3D1&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_726720411" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.45600" y="44.50700" w="45.28500" h="15.66500" t="3:56.956"/>
+      <rectRegion x="52.45600" y="44.50700" w="45.28500" h="15.66500" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/alexibexi?annotation_id=annotation_726720411&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;feature=iv&amp;src_vid=j1up2yQ18Bk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_793821145" type="highlight" log_data="l-class=12&amp;a-v=j1up2yQ18Bk&amp;a-type=3&amp;link=http%3A%2F%2Fwww.alexibexi.de&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=1&amp;a-id=annotation_793821145" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="89.22300" y="15.77500" w="7.72600" h="14.25400" t="3:56.956"/>
+      <rectRegion x="89.22300" y="15.77500" w="7.72600" h="14.25400" t="4:09.427"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.alexibexi.de" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:53d76bbb-0000-2ecf-88c3-001a1140dcae" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=j1up2yQ18Bk&amp;a-type=10&amp;a-ch=UCzH549YlZhdhIqhtvz7XHmQ&amp;ei=OJg9XPaMEIKzgAe42ZrgAg&amp;xble=0&amp;a-id=53d76bbb-0000-2ecf-88c3-001a1140dcae&amp;link-id=UCzH549YlZhdhIqhtvz7XHmQ">
+  <data>{&quot;channel_name&quot;:&quot;AlexiBexi&quot;,&quot;end_ms&quot;:250000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/zH549YlZhdhIqhtvz7XHmQ\/featured_channel.jpg?v=53de02fb&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqa3FWUWdyRkFnbE05OXZXNXBjT2FreGpwd0lpd3xBQ3Jtc0tsSEVVR1Z4OWdoeEJ0VFR1eHlwT01mdlY0WFg4T0IwM3RrYWZyWk83NXpnNkE4YVlhNjJQSVV6alB3OTFTanBDWkVpQkpSWmVBcDRjVG1iUnI3M3NVRFFrRTUwLTFrT1RHWEYxUkJDQWVUT1h6LTZsbDAzaDl6MXozVnJQR28wY1ZqekQ0M25GWmxVY1hxYjhRNDJxVGdKT040VWxneGpjZWtCUEdmVEVuTmtnbkx1S0Nld3p5bC1peUYwOFNfel94d3V4MXNhT0tkdlJQQlFISTdLek9MSmJLTzJjR1ZQcVBuRVN0cjhMNjBIOEZxUTdJ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlexiBexi%26app%3Ddesktop\u0026passive=true&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false},&quot;session_data&quot;:{&quot;ei&quot;:&quot;OJg9XPaMEIKzgAe42ZrgAg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCPaIwt-t798CFYIZ4AoduKwGLCj4HTICaXZImeDXobK76q2PAQ&quot;,&quot;src_vid&quot;:&quot;j1up2yQ18Bk&quot;,&quot;annotation_id&quot;:&quot;53d76bbb-0000-2ecf-88c3-001a1140dcae&quot;},&quot;channel_id&quot;:&quot;UCzH549YlZhdhIqhtvz7XHmQ&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;1338198&quot;,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlexiBexi"/>
+  </action>
+</annotation></annotations></document>

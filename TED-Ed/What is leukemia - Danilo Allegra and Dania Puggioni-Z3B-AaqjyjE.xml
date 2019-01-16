@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIm7Cvuuru3wIVElLgCh0VMwOjKPgdMgJpdkixlI_VmsCfuGc">
+<annotation id="annotation_1287687573" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4075786999">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.52100" w="70.32500" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="13.52100" w="70.32500" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4075786999" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_14632995" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3287248757">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="32.76500" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="32.76500" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3287248757" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1906982847" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2990425629">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.91500" w="27.53600" h="9.09900" t="never"/>
+      <rectRegion x="0.00000" y="19.91500" w="27.53600" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2990425629" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2841085681" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-is-leukemia-danilo-allegra-and-dania-puggioni&amp;xble=1&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=6&amp;a-type=1&amp;a-id=annotation_2841085681&amp;a-v=Z3B-AaqjyjE" itct="CAEQs-UBGP___________wEiEwibsK-66u7fAhUSUuAKHRUzA6Mo-B0yAml2SLGUj9WawJ-4Zw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.64500" y="7.04200" w="36.17400" h="9.72600" t="0:00.000"/>
+      <rectRegion x="3.64500" y="7.04200" w="36.17400" h="9.72600" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-is-leukemia-danilo-allegra-and-dania-puggioni" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2846330539" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_2846330539&amp;a-v=Z3B-AaqjyjE" itct="CAIQs-UBGP___________wEiEwibsK-66u7fAhUSUuAKHRUzA6Mo-B0yAml2SLGUj9WawJ-4Zw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="72.39400" w="22.61500" h="17.92000" t="4:22.300"/>
+      <rectRegion x="70.52300" y="72.39400" w="22.61500" h="17.92000" t="4:32.323"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2862359925" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=5&amp;a-type=1&amp;a-id=annotation_2862359925&amp;a-v=Z3B-AaqjyjE" itct="CAMQs-UBGP___________wEiEwibsK-66u7fAhUSUuAKHRUzA6Mo-B0yAml2SLGUj9WawJ-4Zw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="12.67600" w="18.42400" h="28.59900" t="4:22.300"/>
+      <rectRegion x="79.08100" y="12.67600" w="18.42400" h="28.59900" t="4:32.322"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_2862359925&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;feature=iv&amp;src_vid=Z3B-AaqjyjE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2990425629" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;xble=1&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_2990425629&amp;a-v=Z3B-AaqjyjE" itct="CAQQs-UBGP___________wEiEwibsK-66u7fAhUSUuAKHRUzA6Mo-B0yAml2SLGUj9WawJ-4Zw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="70.98600" w="27.53600" h="19.32700" t="4:22.300"/>
+      <rectRegion x="6.33900" y="70.98600" w="27.53600" h="19.32700" t="4:32.322"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3287248757" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;xble=1&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_3287248757&amp;a-v=Z3B-AaqjyjE" itct="CAUQs-UBGP___________wEiEwibsK-66u7fAhUSUuAKHRUzA6Mo-B0yAml2SLGUj9WawJ-4Zw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.81600" y="71.26800" w="32.60700" h="19.04600" t="4:22.300"/>
+      <rectRegion x="35.81600" y="71.26800" w="32.60700" h="19.04600" t="4:32.322"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4075786999" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-is-leukemia-danilo-allegra-and-dania-puggioni&amp;xble=1&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_4075786999&amp;a-v=Z3B-AaqjyjE" itct="CAYQs-UBGP___________wEiEwibsK-66u7fAhUSUuAKHRUzA6Mo-B0yAml2SLGUj9WawJ-4Zw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="53.23900" w="70.16600" h="13.69300" t="4:22.300"/>
+      <rectRegion x="14.89700" y="53.23900" w="70.16600" h="13.69300" t="4:32.322"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-is-leukemia-danilo-allegra-and-dania-puggioni" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_80804059" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2846330539">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2846330539" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=Z3B-AaqjyjE&amp;ei=qVE9XNu3C5KkgQeV5oyYCg&amp;l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;xble=0">
+  <data>{&quot;end_ms&quot;:273000,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;Z3B-AaqjyjE&quot;,&quot;ei&quot;:&quot;qVE9XNu3C5KkgQeV5oyYCg&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJuwr7rq7t8CFRJS4AodFTMDoyj4HTICaXZIsZSP1ZrAn7hn&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_width&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbFNwUVI4MXBDMFJ6aklLbmNMNnBqMTdabWdjZ3xBQ3Jtc0tsSElDVjJMMHhxR0ZkZlZrSEdUNzFoM1JUN1ZIZzgyaDVSZWYtTDR1bUp1Y1V3bURmZGRuUUhucUpfY1BYSW1FYk1jWFF3dk1tTnlfcEFKYXJkRUFrVXNrZ05IOHp1LVd2VG0tUDJFdGZMNklOdzJxYWM3YjQ2SDNWU0V4ZUhRejN0U0syMUlVZTVWekpJMUx6Ykx0N3RCcUd5aG02VWxUMW5vbXplQU82NmNFbkNUMzJnZXdZOTB5VF9DaU03X1ZEeXRFWmtLR1J6YU8weVR2NkNMWUNFanJhdTFWeXNTa2JPQlo0ZVpYZ2R4NzZKMmd3%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26feature%3Div\u0026hl=de\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

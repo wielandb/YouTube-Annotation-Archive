@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4byU7anv3wIVWIJ8Ch2U6whkKPgdMgJpdkjeu6WF0Jvw7pUB">
+<annotation id="annotation_267879" type="text" style="popup" log_data="a-v=ld3A3QCpXd4&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Denyay&amp;xble=1&amp;l-class=5&amp;a-type=1&amp;ei=I5Q9XKGfCNiE8gOU16OgBg&amp;a-id=annotation_267879" itct="CAEQs-UBGP___________wEiEwjhvJTtqe_fAhVYgnwKHZTrCGQo-B0yAml2SN67pYXQm_DulQE">
+  <TEXT>Subscribe for more regular blasts of linguistic FACT</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.65600" y="51.66700" w="85.78100" h="8.88900" t="0:02:49.5"/>
+      <rectRegion x="7.65600" y="51.66700" w="85.78100" h="8.88900" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=enyay&amp;annotation_id=annotation_267879&amp;ei=I5Q9XKGfCNiE8gOU16OgBg&amp;feature=iv&amp;src_vid=ld3A3QCpXd4" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_493984" type="highlight" log_data="a-v=ld3A3QCpXd4&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DhttpQYlVJlmjLEc&amp;xble=1&amp;l-class=5&amp;a-type=3&amp;ei=I5Q9XKGfCNiE8gOU16OgBg&amp;a-id=annotation_493984" itct="CAIQs-UBGP___________wEiEwjhvJTtqe_fAhVYgnwKHZTrCGQo-B0yAml2SN67pYXQm_DulQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.34400" y="8.05600" w="86.09400" h="41.11100" t="0:02:49.5"/>
+      <rectRegion x="7.34400" y="8.05600" w="86.09400" h="41.11100" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="9902361" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=httpQYlVJlmjLEc&amp;annotation_id=annotation_493984&amp;ei=I5Q9XKGfCNiE8gOU16OgBg&amp;feature=iv&amp;src_vid=ld3A3QCpXd4" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_975992" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to get this video when it&#39;s released!</TEXT>
+  <segment spaceRelative="annotation_493984">
+    <movingRegion type="rect">
+      <rectRegion x="61.25000" y="0.55600" w="25.00000" h="14.44400" t="never"/>
+      <rectRegion x="61.25000" y="0.55600" w="25.00000" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_493984" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

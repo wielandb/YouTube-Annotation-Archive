@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9onf-ebu3wIVSjTgCh3-8QL1KPgdMgJpdkjHnojGtLCEtWQ">
+<annotation id="annotation_1250308227" type="highlight" log_data="xble=1&amp;a-id=annotation_1250308227&amp;l-class=11&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2FOverwatchDE%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwj2id_55u7fAhVKNOAKHf7xAvUo-B0yAml2SMeeiMa0sIS1ZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.81000" y="7.32400" w="30.54700" h="13.12700" t="1:44.000"/>
+      <rectRegion x="19.81000" y="7.32400" w="30.54700" h="13.12700" t="1:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/OverwatchDE?annotation_id=annotation_1250308227&amp;ei=_E09XPabFcrogAf-44uoDw&amp;feature=iv&amp;src_vid=ZGoRg0jCD0c&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1648546725" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1250308227">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1250308227" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1708355707" type="highlight" log_data="xble=1&amp;a-id=annotation_1708355707&amp;l-class=6&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=3&amp;link=http%3A%2F%2Feu.battle.net%2Foverwatch%2Fde%2F" itct="CAIQs-UBGP___________wEiEwj2id_55u7fAhVKNOAKHf7xAvUo-B0yAml2SMeeiMa0sIS1ZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.30700" y="72.39400" w="17.07600" h="10.31300" t="1:44.000"/>
+      <rectRegion x="26.30700" y="72.39400" w="17.07600" h="10.31300" t="1:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://eu.battle.net/overwatch/de/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2843459967" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3025093767">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3025093767" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2972983813" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4033948539">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4033948539" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3025093767" type="highlight" log_data="xble=1&amp;a-id=annotation_3025093767&amp;l-class=12&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=3&amp;link=https%3A%2F%2Fplayoverwatch.com%2Fde-de%2Fblog%2F20117453" itct="CAMQs-UBGP___________wEiEwj2id_55u7fAhVKNOAKHf7xAvUo-B0yAml2SMeeiMa0sIS1ZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.97000" y="5.63400" w="46.87000" h="42.14400" t="1:38.600"/>
+      <rectRegion x="48.97000" y="5.63400" w="46.87000" h="42.14400" t="1:42.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://playoverwatch.com/de-de/blog/20117453" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3483865457" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1708355707">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1708355707" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_366843773" type="highlight" log_data="xble=1&amp;a-id=annotation_366843773&amp;l-class=12&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=3&amp;link=https%3A%2F%2Fplayoverwatch.com%2Fde-de%2Fbuy%2F" itct="CAQQs-UBGP___________wEiEwj2id_55u7fAhVKNOAKHf7xAvUo-B0yAml2SMeeiMa0sIS1ZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.26900" y="62.25400" w="40.37200" h="21.29900" t="1:33.800"/>
+      <rectRegion x="30.26900" y="62.25400" w="40.37200" h="21.29900" t="1:36.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://playoverwatch.com/de-de/buy/" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3771044419" type="highlight" log_data="xble=1&amp;a-id=annotation_3771044419&amp;l-class=1&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmyp1cfV6eZY" itct="CAUQs-UBGP___________wEiEwj2id_55u7fAhVKNOAKHf7xAvUo-B0yAml2SMeeiMa0sIS1ZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.83700" y="23.66200" w="43.70000" h="44.95800" t="1:44.000"/>
+      <rectRegion x="12.83700" y="23.66200" w="43.70000" h="44.95800" t="1:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3771044419&amp;ei=_E09XPabFcrogAf-44uoDw&amp;feature=iv&amp;src_vid=ZGoRg0jCD0c&amp;v=myp1cfV6eZY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3776903489" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3771044419">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3771044419" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3845223533" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_366843773">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_366843773" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4033948539" type="highlight" log_data="xble=1&amp;a-id=annotation_4033948539&amp;l-class=12&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=3&amp;link=http%3A%2F%2Foverwatchcelebration.com%2F" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.86700" y="70.42300" w="31.65600" h="19.32700" t="1:38.600"/>
+      <rectRegion x="63.86700" y="70.42300" w="31.65600" h="19.32700" t="1:42.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://overwatchcelebration.com/" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:58edb9e3-0000-2629-be09-001a114d5388" style="branding" type="branding"
+            log_data="xble=0&amp;a-id=58edb9e3-0000-2629-be09-001a114d5388&amp;link-id=UCPY4lCVrQ13SXGlCgFQGXDA&amp;l-class=3&amp;a-v=ZGoRg0jCD0c&amp;ei=_E09XPabFcrogAf-44uoDw&amp;a-type=10&amp;a-ch=UCPY4lCVrQ13SXGlCgFQGXDA">
+  <data>{&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;124997&quot;,&quot;start_ms&quot;:0,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;Overwatch DE&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PY4lCVrQ13SXGlCgFQGXDA\/featured_channel.jpg?v=58ee0f08&quot;,&quot;channel_id&quot;:&quot;UCPY4lCVrQ13SXGlCgFQGXDA&quot;,&quot;image_type&quot;:1,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26hl%3Dde%26continue_action%3DQUFFLUhqbGdTQ3BBV3NtcGFMN3dPbERPMHFwdVRndldTd3xBQ3Jtc0trSHJWMXFCYzRScHRxeHdZVk5XenFQejZiOVIzRzZXUGpvUTRLRVByRFFiUi1UNXZZdTYwS1dyNkJnR2tNa2c5UHNTOF9rbDNhWVl2VFppeEtyVnBVRWhkSkEwWlZtZE1QcW16TE5PUk5NdmdUa3J1azVLWW5GelQyU3RQRTJqZ3lia3JvX3d3RXBZN29nYTZkUnpicG5pRFduMS00azJYbTB1UXJFb3Vaa1Etd203WnhjaTlPdjdHdkJMcG5lMUY4RUZxc0RKbGpEX3cxR1ZHZVE5TVFCQlFvUXV4T1Y1TTZzdGxZZnB2ZUVtSDdCeTI0%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCPY4lCVrQ13SXGlCgFQGXDA%26app%3Ddesktop\u0026passive=true&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;124.997&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;124.998&quot;},&quot;session_data&quot;:{&quot;ei&quot;:&quot;_E09XPabFcrogAf-44uoDw&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCPaJ3_nm7t8CFUo04Aod_vEC9Sj4HTICaXZIx56IxrSwhLVk&quot;,&quot;src_vid&quot;:&quot;ZGoRg0jCD0c&quot;,&quot;annotation_id&quot;:&quot;58edb9e3-0000-2629-be09-001a114d5388&quot;},&quot;end_ms&quot;:113000,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCPY4lCVrQ13SXGlCgFQGXDA"/>
+  </action>
+</annotation></annotations></document>

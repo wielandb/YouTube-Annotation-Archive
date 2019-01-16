@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIq7qEj7jv3wIVhrZVCh0Y9AlYKPgdMgJpdkjX9smS997I9iM">
+<annotation id="annotation_172273483" type="highlight" log_data="link=http%3A%2F%2Fshammy.tv%2Ftwitch&amp;a-id=annotation_172273483&amp;l-class=6&amp;xble=1&amp;a-type=3&amp;a-v=I-0i93JSe1c&amp;ei=GKM9XKvOEIbt1gKY6KfABQ" itct="CAEQs-UBGP___________wEiEwiruoSPuO_fAhWGtlUKHRj0CVgo-B0yAml2SNf2yZL33sj2Iw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.47500" y="48.73200" w="6.30000" h="11.43700" t="8:17.237"/>
+      <rectRegion x="0.47500" y="48.73200" w="6.30000" h="11.43700" t="8:27.981"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://shammy.tv/twitch" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2003515311" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FHIIMCAPSLOCK%3Fsub_confirmation%3D1&amp;a-id=annotation_2003515311&amp;l-class=5&amp;xble=1&amp;a-type=3&amp;a-v=I-0i93JSe1c&amp;ei=GKM9XKvOEIbt1gKY6KfABQ" itct="CAIQs-UBGP___________wEiEwiruoSPuO_fAhWGtlUKHRj0CVgo-B0yAml2SNf2yZL33sj2Iw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.36100" y="30.14100" w="76.88700" h="39.01900" t="8:02.561"/>
+      <rectRegion x="12.36100" y="30.14100" w="76.88700" h="39.01900" t="8:17.237"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/HIIMCAPSLOCK?annotation_id=annotation_2003515311&amp;ei=GKM9XKvOEIbt1gKY6KfABQ&amp;feature=iv&amp;src_vid=I-0i93JSe1c&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3094708909" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>ShammyYT</TEXT>
+  <segment spaceRelative="annotation_172273483">
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="2.25400" w="18.66100" h="8.53500" t="never"/>
+      <rectRegion x="3.48700" y="2.25400" w="18.66100" h="8.53500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_172273483" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_330800903" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>@ShammyTV</TEXT>
+  <segment spaceRelative="annotation_496945767">
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="1.97200" w="26.58500" h="9.38000" t="never"/>
+      <rectRegion x="0.79200" y="1.97200" w="26.58500" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_496945767" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3611861681" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>An Actual Review of ReCore</TEXT>
+  <segment spaceRelative="annotation_375921105">
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="10.98600" w="26.58500" h="15.01400" t="never"/>
+      <rectRegion x="4.12000" y="10.98600" w="26.58500" h="15.01400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_375921105" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_375921105" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAHf_EUxfAtw&amp;a-id=annotation_375921105&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;a-v=I-0i93JSe1c&amp;ei=GKM9XKvOEIbt1gKY6KfABQ" itct="CAMQs-UBGP___________wEiEwiruoSPuO_fAhWGtlUKHRj0CVgo-B0yAml2SNf2yZL33sj2Iw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.63400" y="12.95800" w="33.87500" h="34.53500" t="8:17.237"/>
+      <rectRegion x="0.63400" y="12.95800" w="33.87500" h="34.53500" t="8:27.981"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_375921105&amp;ei=GKM9XKvOEIbt1gKY6KfABQ&amp;feature=iv&amp;src_vid=I-0i93JSe1c&amp;v=AHf_EUxfAtw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_496945767" type="highlight" log_data="link=http%3A%2F%2Fshammy.tv%2Ftwitter&amp;a-id=annotation_496945767&amp;l-class=6&amp;xble=1&amp;a-type=3&amp;a-v=I-0i93JSe1c&amp;ei=GKM9XKvOEIbt1gKY6KfABQ" itct="CAQQs-UBGP___________wEiEwiruoSPuO_fAhWGtlUKHRj0CVgo-B0yAml2SNf2yZL33sj2Iw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.31700" y="59.71800" w="6.61600" h="11.15500" t="8:17.237"/>
+      <rectRegion x="0.31700" y="59.71800" w="6.61600" h="11.15500" t="8:27.981"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://shammy.tv/twitter" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_941276245" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2003515311">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2003515311" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:571b71d7-0000-238d-adeb-94eb2c08d19a" style="branding" type="branding"
+            log_data="ei=GKM9XKvOEIbt1gKY6KfABQ&amp;a-ch=UCPhVxopWpXWy-qHMXRVPLEQ&amp;a-id=571b71d7-0000-238d-adeb-94eb2c08d19a&amp;l-class=3&amp;xble=0&amp;link-id=UCPhVxopWpXWy-qHMXRVPLEQ&amp;a-type=10&amp;a-v=I-0i93JSe1c">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PhVxopWpXWy-qHMXRVPLEQ\/featured_channel.jpg?v=572a4133&quot;,&quot;channel_name&quot;:&quot;Shammy&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;347124&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;I-0i93JSe1c&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCKu6hI-4798CFYa2VQodGPQJWCj4HTICaXZI1_bJkvfeyPYj&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;571b71d7-0000-238d-adeb-94eb2c08d19a&quot;,&quot;ei&quot;:&quot;GKM9XKvOEIbt1gKY6KfABQ&quot;},&quot;channel_id&quot;:&quot;UCPhVxopWpXWy-qHMXRVPLEQ&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;end_ms&quot;:508000,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbGFtaTJWUnJVYXY5ZjgtcExvWjFNZWFuNEM0Z3xBQ3Jtc0tubW5lSlEwRUhKZXZpdDZncC11M1BBdzRGbjdsMnEyc2s0Y0hWc3JWUV85ajgwSmxNcG00eloyU2tUTWt2OU02LXVUZ2FGRTdhU3ZYWFZ3MVlQMGhZVmt4Y2U1bWw0UW1Qa2xhcmtiNmgwb1JHUVF6UU9WeUVXanlWOEJScVh2YV8xcVRCZjZYSGw1ckR6eDRTN2FOdFZZQ2xRejJyTlBKdmVva1JIc2s4SE1pNDZVRkJsY2M2OFR4WDBfbHYxcG5zalFLSUJrYnQyT2s3QWZDNkRPcHdQZWRFQjlWNy1iaEVFVVJ2bTdKTTRIX3FoaXl3%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FHIIMCAPSLOCK%26hl%3Dde%26feature%3Div\u0026hl=de\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribeCount&quot;:&quot;347.124&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;347.125&quot;},&quot;start_ms&quot;:493000,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/HIIMCAPSLOCK"/>
+  </action>
+</annotation></annotations></document>

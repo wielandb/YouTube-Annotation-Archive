@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsKCO4avv3wIVFQzgCh2wiAmAKPgdMgJpdkiTyf-s0620q_gB"><annotation author="vsauce" id="annotation_168071" itct="CAEQs-UBGP___________wEiEwiwoI7hq-_fAhUVDOAKHbCICYAo-B0yAml2SJPJ_6zTrbSr-AE" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfiW4gnaqCv4&amp;xble=1&amp;a-id=annotation_168071&amp;a-type=2&amp;a-v=-FbRbTWf5JM&amp;ei=IpY9XLCHLZWYgAewkaaACA" style="speech" type="text"><TEXT>Click it!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="8.61100006104" sx="37.8129997253" sy="25.8330001831" t="0:02:41.1" w="25.625" x="5.78100013733" y="48.888999939" /><anchoredRegion d="0" h="8.61100006104" sx="37.8129997253" sy="25.8330001831" t="0:02:46.1" w="25.625" x="5.78100013733" y="48.888999939" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="1" trusted="true" type="hyperlink" value="https://www.youtube.com/watch?annotation_id=annotation_168071&amp;ei=IpY9XLCHLZWYgAewkaaACA&amp;feature=iv&amp;src_vid=-FbRbTWf5JM&amp;v=fiW4gnaqCv4" /></action><appearance bgAlpha="0.800000011921" bgColor="5610811" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="0" highlightFontColor="16777215" highlightWidth="3" textSize="3.6107" /></annotation>
+<annotation id="annotation_39166" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click HERE to subscribe to vsauce</TEXT>
+  <segment spaceRelative="annotation_505227">
+    <movingRegion type="rect">
+      <rectRegion x="-20.62500" y="-1.11100" w="19.68800" h="9.72200" t="never"/>
+      <rectRegion x="-20.62500" y="-1.11100" w="19.68800" h="9.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_505227" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_403909" type="text" style="popup" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfiW4gnaqCv4&amp;xble=1&amp;a-id=annotation_403909&amp;a-type=1&amp;a-v=-FbRbTWf5JM&amp;ei=IpY9XLCHLZWYgAewkaaACA" itct="CAIQs-UBGP___________wEiEwiwoI7hq-_fAhUVDOAKHbCICYAo-B0yAml2SJPJ_6zTrbSr-AE">
+  <TEXT>CLICK HERE to watch the new BOAT on vsauce2 =D</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.90600" y="5.27800" w="30.00000" h="18.33300" t="0:02:33.9"/>
+      <rectRegion x="33.90600" y="5.27800" w="30.00000" h="18.33300" t="0:02:47.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="16737792" fgColor="16777215" textSize="4.513375" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_403909&amp;ei=IpY9XLCHLZWYgAewkaaACA&amp;feature=iv&amp;src_vid=-FbRbTWf5JM&amp;v=fiW4gnaqCv4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_505227" type="highlight" log_data="l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1&amp;a-id=annotation_505227&amp;a-type=3&amp;a-v=-FbRbTWf5JM&amp;ei=IpY9XLCHLZWYgAewkaaACA" itct="CAMQs-UBGP___________wEiEwiwoI7hq-_fAhUVDOAKHbCICYAo-B0yAml2SJPJ_6zTrbSr-AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.62500" y="1.11100" w="3.12500" h="8.23600" t="0:00:00.0"/>
+      <rectRegion x="95.62500" y="1.11100" w="3.12500" h="8.23600" t="0:02:52.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_505227&amp;ei=IpY9XLCHLZWYgAewkaaACA&amp;feature=iv&amp;src_vid=-FbRbTWf5JM" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

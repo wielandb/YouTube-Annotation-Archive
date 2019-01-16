@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhLuq7JXv3wIVRJtVCh3CEAjuKPgdMgJpdkjEgYOS3pbWnPUB">
+<annotation id="annotation_2278910245" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=9TlYteJAwMQ&amp;xble=1&amp;ei=KH89XISHKsS21gLCoaDwDg&amp;a-id=annotation_2278910245&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5sskbSvha9M" itct="CAEQs-UBGP___________wEiEwiEu6rsle_fAhVEm1UKHcIQCO4o-B0yAml2SMSBg5Leltac9QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.98700" y="7.60600" w="28.17000" h="24.11300" t="8:20.484"/>
+      <rectRegion x="67.98700" y="7.60600" w="28.17000" h="24.11300" t="8:45.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2278910245&amp;ei=KH89XISHKsS21gLCoaDwDg&amp;feature=iv&amp;src_vid=9TlYteJAwMQ&amp;v=5sskbSvha9M" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3245581133" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=9TlYteJAwMQ&amp;xble=1&amp;ei=KH89XISHKsS21gLCoaDwDg&amp;a-id=annotation_3245581133&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPZRI1IfStY0" itct="CAIQs-UBGP___________wEiEwiEu6rsle_fAhVEm1UKHcIQCO4o-B0yAml2SMSBg5Leltac9QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.98700" y="40.56300" w="27.85300" h="24.39400" t="8:20.484"/>
+      <rectRegion x="67.98700" y="40.56300" w="27.85300" h="24.39400" t="8:45.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3245581133&amp;ei=KH89XISHKsS21gLCoaDwDg&amp;feature=iv&amp;src_vid=9TlYteJAwMQ&amp;v=PZRI1IfStY0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_70062655" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Floating Point Numbers</TEXT>
+  <segment spaceRelative="annotation_3245581133">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="17.32400" w="28.01100" h="7.12700" t="never"/>
+      <rectRegion x="0.00000" y="17.32400" w="28.01100" h="7.12700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3245581133" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_73500167" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Error Correction</TEXT>
+  <segment spaceRelative="annotation_2278910245">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="16.76100" w="28.01100" h="6.56300" t="never"/>
+      <rectRegion x="0.00000" y="16.76100" w="28.01100" h="6.56300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2278910245" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;l-class=3&amp;a-v=9TlYteJAwMQ&amp;xble=0&amp;ei=KH89XISHKsS21gLCoaDwDg&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26continue_action%3DQUFFLUhqbnBCOG9RTkhLb0hYYWdjWEk1UTg1WDlvSGJwZ3xBQ3Jtc0tuMkQ1OWxQZmRMS3g5MUlKYnlGVE4wNmNrajZOa0c4Smpmd0oxOVAxbTh2bUFKV2VhcmJjRU1wRmhmcGplcHpPVUZxU1pickp1UzhkUENyRk02aTBRWFlEU296ZFVyTmlvd25XRmZzWmQyV21lS1hkYlJiS1VsaXJQZGRMTlJkd01FTWpNYmJxUFlTMUdldW5aQUpHN3ZJbGxUQWNsMGhrTlkxUnZJRDA2U3RtTzF2UGtzQVVNWHFWNDZiQmsyZWh3M1RGY1h0RTZTSUtzMlRfM3VaVkVFeUotMjdnbXRtc1dTOUF3YTNMMk83OHFkOFZB%26app%3Ddesktop%26action_handle_signin%3Dtrue\u0026passive=true\u0026uilel=3&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;enabled&quot;:false},&quot;image_height&quot;:23,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;end_ms&quot;:526000,&quot;image_width&quot;:51,&quot;start_ms&quot;:5000,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCIS7quyV798CFUSbVQodwhAI7ij4HTICaXZIxIGDkt6W1pz1AQ&quot;,&quot;ei&quot;:&quot;KH89XISHKsS21gLCoaDwDg&quot;,&quot;src_vid&quot;:&quot;9TlYteJAwMQ&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;},&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

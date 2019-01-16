@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIs7mpg4vv3wIVAaFVCh1HGg2kKPgdMgJpdkj0suLRmo3yjgg">
+<annotation id="annotation_52780" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdqNkG2mKlZs&amp;a-v=CB3Iaao4mXQ&amp;ei=0HM9XLORB4HC1gLHtLSgCg&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_52780" itct="CAEQs-UBGP___________wEiEwizuamDi-_fAhUBoVUKHUcaDaQo-B0yAml2SPSy4tGajfKOCA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.81300" y="32.22200" w="34.06300" h="35.00000" t="00:03:49.4"/>
+      <rectRegion x="32.81300" y="32.22200" w="34.06300" h="35.00000" t="00:04:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_52780&amp;ei=0HM9XLORB4HC1gLHtLSgCg&amp;feature=iv&amp;src_vid=CB3Iaao4mXQ&amp;v=dqNkG2mKlZs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_685130" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtomzalat&amp;a-v=CB3Iaao4mXQ&amp;ei=0HM9XLORB4HC1gLHtLSgCg&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_685130" itct="CAIQs-UBGP___________wEiEwizuamDi-_fAhUBoVUKHUcaDaQo-B0yAml2SPSy4tGajfKOCA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.46900" y="5.27800" w="26.87500" h="14.44400" t="00:03:49.4"/>
+      <rectRegion x="70.46900" y="5.27800" w="26.87500" h="14.44400" t="00:04:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=tomzalat&amp;annotation_id=annotation_685130&amp;ei=0HM9XLORB4HC1gLHtLSgCg&amp;feature=iv&amp;src_vid=CB3Iaao4mXQ" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_710566" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Hi!^^</TEXT>
+  <segment spaceRelative="annotation_685130">
+    <movingRegion type="rect">
+      <rectRegion x="0.78100" y="15.55600" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.78100" y="15.55600" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_685130" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_895239" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_52780">
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="50.55600" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="2.81300" y="50.55600" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_52780" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:cd06f572-2b50-2445-8691-bcaec511e134" style="branding" type="branding"
+            log_data="a-ch=UCSTSJT-X8obSxoJ7ySioGXQ&amp;xble=0&amp;a-v=CB3Iaao4mXQ&amp;link-id=UCSTSJT-X8obSxoJ7ySioGXQ&amp;ei=0HM9XLORB4HC1gLHtLSgCg&amp;a-type=10&amp;l-class=3&amp;a-id=cd06f572-2b50-2445-8691-bcaec511e134">
+  <data>{&quot;start_ms&quot;:18000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STSJT-X8obSxoJ7ySioGXQ\/featured_channel.jpg?v=509e7bda&quot;,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCSTSJT-X8obSxoJ7ySioGXQ&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;cd06f572-2b50-2445-8691-bcaec511e134&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCLO5qYOL798CFQGhVQodRxoNpCj4HTICaXZI9LLi0ZqN8o4I&quot;,&quot;ei&quot;:&quot;0HM9XLORB4HC1gLHtLSgCg&quot;,&quot;src_vid&quot;:&quot;CB3Iaao4mXQ&quot;},&quot;channel_name&quot;:&quot;LetsGameDev&quot;,&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;28.074&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;28.073&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbFR5SFlWNTFTbjZVc0tqdVpYaTVkaVY4ckhIQXxBQ3Jtc0tsYVJfbll3c1BWNlhvdlU4RTRnRkI1WVA0bjFuZFQ4dGNqUHF6VFR5bTN5NTh3anlPZFdDYlVoeEFLRnU1Y1ZUWkR5cTJnZ3hicU5ESllPdDVfTnZsWlgxSlRSWG92Z05zY2EwV0MtLU93VXk5MkkxVUtSTkFEbnpENGxBLUNpaFU3RmhpT2g3M2UxQTNTczVWc2Rmd1RNZDlCWTAzZjJ5VWRXOHNIY0hSV1dONzN2TkJZYkVQeXkwQkVaa3A5M21DNVViVnlXdHRTSFhrSG82eXcwNlhaMmZaV1B6amhqWGU3ajFpa282QXAzdTdCdmJB%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTomzalat%26feature%3Div%26app%3Ddesktop\u0026passive=true&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;num_subscribers&quot;:&quot;28073&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:241000,&quot;image_width&quot;:40,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Tomzalat"/>
+  </action>
+</annotation></annotations></document>

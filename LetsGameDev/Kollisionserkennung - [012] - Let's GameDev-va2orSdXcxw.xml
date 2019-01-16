@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxrC4govv3wIVUYBVCh2t-AoNKPgdMgJpdkic5t260pXq1r0B">
+<annotation id="annotation_1293" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Kollision zweier Kreise</TEXT>
+  <segment spaceRelative="annotation_52935">
+    <movingRegion type="rect">
+      <rectRegion x="7.18700" y="-8.88900" w="24.53100" h="5.55600" t="never"/>
+      <rectRegion x="7.18700" y="-8.88900" w="24.53100" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_52935" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_130283" type="text" style="popup" log_data="ei=znM9XMaRENGA1gKt8ato&amp;a-id=annotation_130283&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtomzalat&amp;l-class=5&amp;a-v=va2orSdXcxw" itct="CAEQs-UBGP___________wEiEwjGsLiCi-_fAhVRgFUKHa34Cg0o-B0yAml2SJzm3brSlerWvQE">
+  <TEXT>Abonnieren um Zelda zu retten!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.31300" y="87.22200" w="38.59400" h="9.72200" t="00:05:19.8"/>
+      <rectRegion x="5.31300" y="87.22200" w="38.59400" h="9.72200" t="00:05:44.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="15395562" fgColor="0" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=tomzalat&amp;annotation_id=annotation_130283&amp;ei=znM9XMaRENGA1gKt8ato&amp;feature=iv&amp;src_vid=va2orSdXcxw" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4906" type="highlight" log_data="ei=znM9XMaRENGA1gKt8ato&amp;a-id=annotation_4906&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoFrk6eJC3uE%26index%3D2%26list%3DPL1td_Fr5vMGOecQ6ezqJpoV5THpTHpGLh&amp;l-class=1&amp;a-v=va2orSdXcxw" itct="CAIQs-UBGP___________wEiEwjGsLiCi-_fAhVRgFUKHa34Cg0o-B0yAml2SJzm3brSlerWvQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.71900" y="5.27800" w="40.62500" h="38.33300" t="00:05:18.9"/>
+      <rectRegion x="56.71900" y="5.27800" w="40.62500" h="38.33300" t="00:05:44.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4906&amp;ei=znM9XMaRENGA1gKt8ato&amp;feature=iv&amp;index=2&amp;list=PL1td_Fr5vMGOecQ6ezqJpoV5THpTHpGLh&amp;src_vid=va2orSdXcxw&amp;v=oFrk6eJC3uE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_52935" type="highlight" log_data="ei=znM9XMaRENGA1gKt8ato&amp;a-id=annotation_52935&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgHUVVQCDzkg&amp;l-class=1&amp;a-v=va2orSdXcxw" itct="CAMQs-UBGP___________wEiEwjGsLiCi-_fAhVRgFUKHa34Cg0o-B0yAml2SJzm3brSlerWvQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.56300" y="56.66700" w="40.46900" h="38.33300" t="00:05:18.8"/>
+      <rectRegion x="56.56300" y="56.66700" w="40.46900" h="38.33300" t="00:05:44.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_52935&amp;ei=znM9XMaRENGA1gKt8ato&amp;feature=iv&amp;src_vid=va2orSdXcxw&amp;v=gHUVVQCDzkg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_764997" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Game++</TEXT>
+  <segment spaceRelative="annotation_4906">
+    <movingRegion type="rect">
+      <rectRegion x="7.50000" y="42.50000" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="7.50000" y="42.50000" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_4906" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_807861" type="text" style="popup" log_data="ei=znM9XMaRENGA1gKt8ato&amp;a-id=annotation_807861&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dva2orSdXcxw%26list%3DPL1td_Fr5vMGO_nGrZ6KLrNvsJG73e3mzN&amp;l-class=1&amp;a-v=va2orSdXcxw" itct="CAQQs-UBGP___________wEiEwjGsLiCi-_fAhVRgFUKHa34Cg0o-B0yAml2SJzm3brSlerWvQE">
+  <TEXT>Klicke hier, wenn du Alle Kollisionserkennungsfolgen hintereinander sehen möchtest.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.15600" y="85.00000" w="88.12500" h="8.88900" t="00:00:06.0"/>
+      <rectRegion x="5.15600" y="85.00000" w="88.12500" h="8.88900" t="00:00:14.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_807861&amp;ei=znM9XMaRENGA1gKt8ato&amp;feature=iv&amp;list=PL1td_Fr5vMGO_nGrZ6KLrNvsJG73e3mzN&amp;src_vid=va2orSdXcxw&amp;v=va2orSdXcxw" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:cd06f572-2b50-2445-8691-bcaec511e134" style="branding" type="branding"
+            log_data="ei=znM9XMaRENGA1gKt8ato&amp;a-id=cd06f572-2b50-2445-8691-bcaec511e134&amp;a-type=10&amp;link-id=UCSTSJT-X8obSxoJ7ySioGXQ&amp;xble=0&amp;a-ch=UCSTSJT-X8obSxoJ7ySioGXQ&amp;l-class=3&amp;a-v=va2orSdXcxw">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqbmhaNU90S01tcFI4ck9MTE1qU0QzMmZxaGdSZ3xBQ3Jtc0tsMWF6Zm03Q2Y2cnZYelF4QVZOdVJNSjdZaThhQVF3Yy04SktEZkhEdWZpZ3doTkR0dWEyR3JnTFI0eWoyOVFHVWNFcHlEMzVWSmdLdDYxUUgtTmJOYk1NdTF4QW1RWG9mTjVqSU91bDBuN0lJbC1abXJvcnctOU5CaElpS2R1LXdLLUhhTllkOVJSZWxnMF9pWVFaNUVJLTM4MkhVcHp2QzlkVUF3dnRkLVVhcURPZ3JmUWxXbVZyM1M2enR3Q0htNVhDQWY3dGwzRFZEYW1XMVp3M3FFUVhOR002NXZfVXV3c3pVSkc5YXV6cjlPRkFr%26action_handle_signin%3Dtrue%26hl%3Dde%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTomzalat\u0026passive=true&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;28.073&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;28.074&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;start_ms&quot;:18000,&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTSJT-X8obSxoJ7ySioGXQ&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCMawuIKL798CFVGAVQodrfgKDSj4HTICaXZInObdutKV6ta9AQ&quot;,&quot;annotation_id&quot;:&quot;cd06f572-2b50-2445-8691-bcaec511e134&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;znM9XMaRENGA1gKt8ato&quot;,&quot;src_vid&quot;:&quot;va2orSdXcxw&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STSJT-X8obSxoJ7ySioGXQ\/featured_channel.jpg?v=509e7bda&quot;,&quot;num_subscribers&quot;:&quot;28073&quot;,&quot;end_ms&quot;:345000,&quot;channel_name&quot;:&quot;LetsGameDev&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Tomzalat"/>
+  </action>
+</annotation></annotations></document>

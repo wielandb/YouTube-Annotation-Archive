@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI56HttPfu3wIVAb1VCh22xA4AKPgdMgJpdkitnP77o_etsGg">
+<annotation id="annotation_3383182923" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBzrzV3R7Nrk%26list%3DPLCC02721EB27B03B9&amp;a-v=aGC3uj9_ji0&amp;l-class=1&amp;xble=1&amp;ei=P189XKeGEYH61gK2iTs&amp;a-id=annotation_3383182923" itct="CAEQs-UBGP___________wEiEwjnoe209-7fAhUBvVUKHbbEDgAo-B0yAml2SK2c_vuj962waA">
+  <TEXT>Unser Test-Video zum OnePlus One.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="33.00300" h="13.39400" t="0:34.599"/>
+      <rectRegion x="0.00000" y="0.00000" w="33.00300" h="13.39400" t="0:45.076"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3383182923&amp;ei=P189XKeGEYH61gK2iTs&amp;feature=iv&amp;list=PLCC02721EB27B03B9&amp;src_vid=aGC3uj9_ji0&amp;v=BzrzV3R7Nrk" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_426207621" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;a-v=aGC3uj9_ji0&amp;l-class=5&amp;xble=1&amp;ei=P189XKeGEYH61gK2iTs&amp;a-id=annotation_426207621" itct="CAIQs-UBGP___________wEiEwjnoe209-7fAhUBvVUKHbbEDgAo-B0yAml2SK2c_vuj962waA">
+  <TEXT>PC-WELT YouTube-Channel abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="29.67600" h="11.69800" t="0:05.538"/>
+      <rectRegion x="0.00000" y="0.00000" w="29.67600" h="11.69800" t="0:24.365"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_426207621&amp;ei=P189XKeGEYH61gK2iTs&amp;feature=iv&amp;src_vid=aGC3uj9_ji0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_686187971" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fep58&amp;a-v=aGC3uj9_ji0&amp;l-class=6&amp;xble=1&amp;ei=P189XKeGEYH61gK2iTs&amp;a-id=annotation_686187971" itct="CAMQs-UBGP___________wEiEwjnoe209-7fAhUBvVUKHbbEDgAo-B0yAml2SK2c_vuj962waA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="74.18300" w="100.00000" h="25.81700" t="0:46.910"/>
+      <rectRegion x="0.00000" y="74.18300" w="100.00000" h="25.81700" t="0:52.251"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/ep58" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_981473135" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_686187971">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_686187971" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=aGC3uj9_ji0&amp;l-class=3&amp;xble=0&amp;ei=P189XKeGEYH61gK2iTs&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0">
+  <data>{&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:55,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26continue_action%3DQUFFLUhqbm50NWpuaVd3LUFIdm1SQmk0U0xtOHdoYW5sd3xBQ3Jtc0trLXMyVm9lb3FHcGxFY19sOTBJN3JhdWc1OG1hYTkyM0hGc1JkY3NKd0ZxZE1EcFJuMFJGMjE2TTVBMGVMZ2s5RDJRSnU4aHhoSUU4aGU1N3p5Rk9tUks2WnZDV0U2YnhESEVuYnFQWlJvbmpnMWRvcjY1VllXR2tlOV9xOEhPeW5oQ3hpQ1Rxa0VrYWwzcnloeDJhQzVrcGk4aVZfUkZncGRwOXRUckttelJzN3VUWHB5ZTR0bXdqNjVmZGp6Q2tyMGdKb3M5eEZGeERNTlA4LXJTZGk1eFR3cl9nc08xbThoN1RfbUVfQkhDTGdKZHJn%26app%3Ddesktop\u0026service=youtube\u0026passive=true\u0026hl=de&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;},&quot;image_height&quot;:12,&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:80000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCOeh7bT37t8CFQG9VQodtsQOACj4HTICaXZIrZz--6P3rbBo&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;P189XKeGEYH61gK2iTs&quot;,&quot;src_vid&quot;:&quot;aGC3uj9_ji0&quot;},&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation></annotations></document>

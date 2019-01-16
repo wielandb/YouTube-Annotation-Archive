@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxM3zwevu3wIV2KR7Ch0rKQ4pKPgdMgJpdkiXmbzlrfiArWU">
+<annotation id="annotation_1482521345" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3042234503">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3042234503" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2145857665" type="highlight" log_data="a-type=3&amp;xble=1&amp;a-id=annotation_2145857665&amp;a-v=ZVoDwtyvDJc&amp;ei=xVI9XITXGdjJ7gOr0rjIAg" itct="CAEQs-UBGP___________wEiEwjEzfPB6-7fAhXYpHsKHSspDiko-B0yAml2SJeZvOWt-ICtZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="3:39.921"/>
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="3:42.921"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2188405359" type="highlight" log_data="l-class=6&amp;a-v=ZVoDwtyvDJc&amp;a-type=3&amp;a-id=annotation_2188405359&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjEzfPB6-7fAhXYpHsKHSspDiko-B0yAml2SJeZvOWt-ICtZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="73.23900" w="27.21900" h="20.17200" t="3:39.500"/>
+      <rectRegion x="6.33900" y="73.23900" w="27.21900" h="20.17200" t="3:49.506"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2268490285" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2145857665">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9115999999999995" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2145857665" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2381592141" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2188405359">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2188405359" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2764504667" type="text" style="popup" log_data="l-class=6&amp;a-v=ZVoDwtyvDJc&amp;a-type=1&amp;a-id=annotation_2764504667&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fdefining-cyberwarfare-in-hopes-of-preventing-it-daniel-garrie&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjEzfPB6-7fAhXYpHsKHSspDiko-B0yAml2SJeZvOWt-ICtZQ">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.54900" w="38.55000" h="8.31000" t="0:00.000"/>
+      <rectRegion x="0.00000" y="11.54900" w="38.55000" h="8.31000" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/defining-cyberwarfare-in-hopes-of-preventing-it-daniel-garrie" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2787926993" type="text" style="popup" log_data="l-class=5&amp;a-v=ZVoDwtyvDJc&amp;a-type=1&amp;a-id=annotation_2787926993&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjEzfPB6-7fAhXYpHsKHSspDiko-B0yAml2SJeZvOWt-ICtZQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="12.11300" w="16.99700" h="32.26800" t="3:39.500"/>
+      <rectRegion x="79.08100" y="12.11300" w="16.99700" h="32.26800" t="3:49.506"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_2787926993&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;feature=iv&amp;src_vid=ZVoDwtyvDJc" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2794396703" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3466632571">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3466632571" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3042234503" type="highlight" log_data="l-class=6&amp;a-v=ZVoDwtyvDJc&amp;a-type=3&amp;a-id=annotation_3042234503&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1" itct="CAUQs-UBGP___________wEiEwjEzfPB6-7fAhXYpHsKHSspDiko-B0yAml2SJeZvOWt-ICtZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.36500" y="72.67600" w="22.78100" h="19.89100" t="3:39.500"/>
+      <rectRegion x="70.36500" y="72.67600" w="22.78100" h="19.89100" t="3:49.354"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3466632571" type="highlight" log_data="l-class=6&amp;a-v=ZVoDwtyvDJc&amp;a-type=3&amp;a-id=annotation_3466632571&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;xble=1" itct="CAYQs-UBGP___________wEiEwjEzfPB6-7fAhXYpHsKHSspDiko-B0yAml2SJeZvOWt-ICtZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="72.67600" w="31.65600" h="19.60900" t="3:39.500"/>
+      <rectRegion x="36.29200" y="72.67600" w="31.65600" h="19.60900" t="3:49.506"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3844393563" type="highlight" log_data="l-class=6&amp;a-v=ZVoDwtyvDJc&amp;a-type=3&amp;a-id=annotation_3844393563&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fdefining-cyberwarfare-in-hopes-of-preventing-it-daniel-garrie&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="54.36600" w="69.69100" h="14.53900" t="3:39.500"/>
+      <rectRegion x="14.89700" y="54.36600" w="69.69100" h="14.53900" t="3:49.506"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/defining-cyberwarfare-in-hopes-of-preventing-it-daniel-garrie" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_786397493" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3844393563">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3844393563" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="link-id=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-v=ZVoDwtyvDJc&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=xVI9XITXGdjJ7gOr0rjIAg&amp;xble=0&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqazVQSnQwVXpIZ3JlRnB4WkVuSTk3d0YzNklUZ3xBQ3Jtc0tsTHItYXcyUVdFSlhBZkxubzZPNjVfbU1XeTJtYkhSZGpvRHdGV3ZFWXM5Qjh4Zno4RUMxMVN4Sm1iTDNtNmFWWjRmYXFFRkg5VGx6ZHdTUnA1TnlHaENmVWhKN1RLUFoyTV9HZTN0aDg2amdnQUtmMllLc1l1bUNlSEJZRVVTcnZaclVNUGZ3QnY0V1hQZmkxT0dSU0laV0M4QkREZmZEaUFYQmFLQ09xanhkS2dVSWpURkE5bUlJN2ctbXhWdG9RQ0pVQkdkbktQbWQzVWtiRUlxZGhzTHNRTlQ1R1l4LVlWTUtwS2k2LXJhdU4yOU1B%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26hl%3Dde%26action_handle_signin%3Dtrue\u0026hl=de\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_type&quot;:0,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;ZVoDwtyvDJc&quot;,&quot;ei&quot;:&quot;xVI9XITXGdjJ7gOr0rjIAg&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMTN88Hr7t8CFdikewodKykOKSj4HTICaXZIl5m85a34gK1l&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;end_ms&quot;:230000,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

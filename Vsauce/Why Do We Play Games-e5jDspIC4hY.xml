@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5qStm6vv3wIVBXrgCh3IowiLKPgdMgJpdkiWxIuQqfawzHs">
+<annotation id="annotation_108455" type="highlight" log_data="a-id=annotation_108455&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmismag822&amp;l-class=3&amp;a-type=3&amp;ei=kJU9XOacG4X0gQfIx6LYCA&amp;a-v=e5jDspIC4hY" itct="CAEQs-UBGP___________wEiEwjmpK2bq-_fAhUFeuAKHcijCIso-B0yAml2SJbEi5Cp9rDMew">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.21900" y="79.16700" w="7.80500" h="19.59700" t="0:02:10.6"/>
+      <rectRegion x="59.21900" y="79.16700" w="7.80500" h="19.59700" t="0:02:15.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="10415454" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/mismag822?annotation_id=annotation_108455&amp;ei=kJU9XOacG4X0gQfIx6LYCA&amp;feature=iv&amp;src_vid=e5jDspIC4hY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_254065" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_108455">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="16.66700" w="31.87500" h="4.16700" t="never"/>
+      <rectRegion x="0.00000" y="16.66700" w="31.87500" h="4.16700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_108455" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_356981" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_52292">
+    <movingRegion type="rect">
+      <rectRegion x="-21.71900" y="19.44400" w="31.87500" h="5.27800" t="never"/>
+      <rectRegion x="-21.71900" y="19.44400" w="31.87500" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_52292" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_52292" type="highlight" log_data="a-id=annotation_52292&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FSTRskillSchool&amp;l-class=3&amp;a-type=3&amp;ei=kJU9XOacG4X0gQfIx6LYCA&amp;a-v=e5jDspIC4hY" itct="CAIQs-UBGP___________wEiEwjmpK2bq-_fAhUFeuAKHcijCIso-B0yAml2SJbEi5Cp9rDMew">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="86.87500" y="31.94400" w="6.49200" h="13.73600" t="0:00:25.5"/>
+      <rectRegion x="86.87500" y="31.94400" w="6.49200" h="13.73600" t="0:00:30.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/STRskillSchool?annotation_id=annotation_52292&amp;ei=kJU9XOacG4X0gQfIx6LYCA&amp;feature=iv&amp;src_vid=e5jDspIC4hY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_570394" type="text" style="popup" log_data="a-id=annotation_570394&amp;xble=1&amp;link=http%3A%2F%2Fbit.ly%2F14eVBgj&amp;l-class=12&amp;a-type=1&amp;ei=kJU9XOacG4X0gQfIx6LYCA&amp;a-v=e5jDspIC4hY" itct="CAMQs-UBGP___________wEiEwjmpK2bq-_fAhUFeuAKHcijCIso-B0yAml2SJbEi5Cp9rDMew">
+  <TEXT>Is it possible to BOOMERANG 
+a football?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.68800" y="18.33300" w="23.75000" h="22.77800" t="0:11:49.0"/>
+      <rectRegion x="59.68800" y="18.33300" w="23.75000" h="22.77800" t="0:12:12.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10415454" fgColor="0" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://bit.ly/14eVBgj" link_class="12"/>
+  </action>
+
+</annotation></annotations></document>

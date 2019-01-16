@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwsr68-ru3wIViqVVCh0K9AwrKPgdMgJpdkiFyr2-g5zzyD4">
+<annotation id="annotation_1218187499" type="text" style="popup" log_data="l-class=5&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;a-v=PpHM4DfPZQU&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;a-id=annotation_1218187499&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjCyvrz6u7fAhWKpVUKHQr0DCso-B0yAml2SIXKvb6DnPPIPg">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.23900" y="11.83100" w="16.68800" h="31.98600" t="3:43.700"/>
+      <rectRegion x="79.23900" y="11.83100" w="16.68800" h="31.98600" t="3:53.733"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_1218187499&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;feature=iv&amp;src_vid=PpHM4DfPZQU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1609316707" type="highlight" log_data="l-class=6&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;a-v=PpHM4DfPZQU&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-id=annotation_1609316707&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjCyvrz6u7fAhWKpVUKHQr0DCso-B0yAml2SIXKvb6DnPPIPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="71.81700" w="31.81500" h="18.21500" t="3:43.700"/>
+      <rectRegion x="36.13300" y="71.81700" w="31.81500" h="18.21500" t="3:53.732"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1778849151" type="highlight" log_data="l-class=6&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;a-v=PpHM4DfPZQU&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-id=annotation_1778849151&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjCyvrz6u7fAhWKpVUKHQr0DCso-B0yAml2SIXKvb6DnPPIPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="72.09900" w="26.90200" h="17.93300" t="3:43.700"/>
+      <rectRegion x="6.65600" y="72.09900" w="26.90200" h="17.93300" t="3:53.732"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1801547307" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3171110593">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3171110593" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_195529095" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1609316707">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1609316707" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1957215963" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1778849151">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1778849151" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2506011615" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3303059669">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3303059669" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3086102421" type="text" style="popup" log_data="l-class=6&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;a-v=PpHM4DfPZQU&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-happens-when-you-get-heat-stroke-douglas-j-casa&amp;a-id=annotation_3086102421&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwjCyvrz6u7fAhWKpVUKHQr0DCso-B0yAml2SIXKvb6DnPPIPg">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.29600" w="38.39200" h="8.59900" t="0:00.000"/>
+      <rectRegion x="0.00000" y="9.29600" w="38.39200" h="8.59900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-happens-when-you-get-heat-stroke-douglas-j-casa" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3171110593" type="highlight" log_data="l-class=6&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;a-v=PpHM4DfPZQU&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-id=annotation_3171110593&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwjCyvrz6u7fAhWKpVUKHQr0DCso-B0yAml2SIXKvb6DnPPIPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.68100" y="72.38000" w="22.14700" h="17.37000" t="3:43.700"/>
+      <rectRegion x="70.68100" y="72.38000" w="22.14700" h="17.37000" t="3:53.732"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3303059669" type="highlight" log_data="l-class=6&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;a-v=PpHM4DfPZQU&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-happens-when-you-get-heat-stroke-douglas-j-casa&amp;a-id=annotation_3303059669&amp;a-type=3" itct="CAYQs-UBGP___________wEiEwjCyvrz6u7fAhWKpVUKHQr0DCso-B0yAml2SIXKvb6DnPPIPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.21400" y="53.52100" w="69.21600" h="13.69300" t="3:43.700"/>
+      <rectRegion x="15.21400" y="53.52100" w="69.21600" h="13.69300" t="3:53.732"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-happens-when-you-get-heat-stroke-douglas-j-casa" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=PpHM4DfPZQU&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=IVI9XIK2OorL1gKK6LPYAg&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbGVSZ2RNNVR5ZmJ3MnZBVmdUZXJnVU9tNmg4QXxBQ3Jtc0ttU1JWQjdXNXpLMG5IaUs0aTVmdmw3RE5HVTZOMFFPSXNnOTM2dGI4c01ydk9qNk1PenVjOHptOXB6b045ZE5ROXVXVWF1M0JhVWpUTFcxSUc1TFdjZ2VxeVN4bzl2d0ZwU05wcm9kQXBrdVNneUVFVE42eW1ScF9XN3JXekVkaEJ4WjVyeUtZUXNWVzJPUW94V25UYnk5ODVCcWRxMVcxTnZldVJqQlJ1YjB1VS1VMi1HdFJKeGpkNGN1NWFLN2lSYWFLVTZaMFo1djNwcjhfNGZKSldGTGdQMDA1UUZOUXRVTGM3SU9Qb1phZ0pxSktR%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026passive=true\u0026service=youtube\u0026hl=de\u0026uilel=3&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMLK-vPq7t8CFYqlVQodCvQMKyj4HTICaXZIhcq9voOc88g-&quot;,&quot;src_vid&quot;:&quot;PpHM4DfPZQU&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;IVI9XIK2OorL1gKK6LPYAg&quot;},&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;end_ms&quot;:234000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8p2Cl6zv3wIVhLJ7Ch33tASgKPgdMgJpdki_j8v7_tezuyw">
+<annotation id="annotation_481583" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to Vsauce!</TEXT>
+  <segment spaceRelative="annotation_846243">
+    <movingRegion type="rect">
+      <rectRegion x="-22.03100" y="1.38900" w="22.03100" h="5.83300" t="never"/>
+      <rectRegion x="-22.03100" y="1.38900" w="22.03100" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_846243" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_626866" type="text" style="popup" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeEFsnP3nUR4&amp;a-v=LHbOv-9yx78&amp;a-type=1&amp;ei=k5Y9XLKIMITl7gP36ZKACg&amp;a-id=annotation_626866" itct="CAEQs-UBGP___________wEiEwjynYKXrO_fAhWEsnsKHfe0BKAo-B0yAml2SL-Py_v-17O7LA">
+  <TEXT>Justin Bieber
+Game Trailer !!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.25000" y="16.38900" w="19.06300" h="11.11100" t="0:01:47.2"/>
+      <rectRegion x="66.25000" y="16.38900" w="19.06300" h="11.11100" t="0:01:56.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_626866&amp;ei=k5Y9XLKIMITl7gP36ZKACg&amp;feature=iv&amp;src_vid=LHbOv-9yx78&amp;v=eEFsnP3nUR4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_846243" type="highlight" log_data="l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-v=LHbOv-9yx78&amp;a-type=3&amp;ei=k5Y9XLKIMITl7gP36ZKACg&amp;a-id=annotation_846243" itct="CAIQs-UBGP___________wEiEwjynYKXrO_fAhWEsnsKHfe0BKAo-B0yAml2SL-Py_v-17O7LA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.25000" y="0.00000" w="3.75000" h="6.94400" t="0:00:00.0"/>
+      <rectRegion x="96.25000" y="0.00000" w="3.75000" h="6.94400" t="0:02:11.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_846243&amp;ei=k5Y9XLKIMITl7gP36ZKACg&amp;feature=iv&amp;src_vid=LHbOv-9yx78" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

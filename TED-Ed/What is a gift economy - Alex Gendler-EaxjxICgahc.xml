@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5aam0-ru3wIVBbpVCh3zaQGrKPgdMgJpdkiX1IGFyPiY1hE">
+<annotation id="annotation_1218948755" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2854140533">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="31.97300" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="31.97300" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2854140533" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2036397683" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_245497335">
+    <movingRegion type="rect">
+      <rectRegion x="-0.15800" y="13.80300" w="69.53200" h="3.94400" t="never"/>
+      <rectRegion x="-0.15800" y="13.80300" w="69.53200" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_245497335" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2333040325" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4043245021">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.32400" w="27.06000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="18.32400" w="27.06000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4043245021" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2359041021" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3147022139">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.78900" w="23.25700" h="9.94400" t="never"/>
+      <rectRegion x="0.00000" y="18.78900" w="23.25700" h="9.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3147022139" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2443029253" type="text" style="popup" log_data="a-id=annotation_2443029253&amp;xble=1&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;a-v=EaxjxICgahc&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjlpqbT6u7fAhUFulUKHfNpAaso-B0yAml2SJfUgYXI-JjWEQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.60500" y="12.11300" w="16.52100" h="33.66200" t="3:55.900"/>
+      <rectRegion x="78.60500" y="12.11300" w="16.52100" h="33.66200" t="4:05.898"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_2443029253&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;feature=iv&amp;src_vid=EaxjxICgahc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_245497335" type="highlight" log_data="a-id=annotation_245497335&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-is-a-gift-economy-alex-gendler&amp;a-v=EaxjxICgahc&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjlpqbT6u7fAhUFulUKHfNpAaso-B0yAml2SJfUgYXI-JjWEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.37200" y="53.52100" w="69.37400" h="13.97500" t="3:55.900"/>
+      <rectRegion x="15.37200" y="53.52100" w="69.37400" h="13.97500" t="4:05.897"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-is-a-gift-economy-alex-gendler" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2854140533" type="highlight" log_data="a-id=annotation_2854140533&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;a-v=EaxjxICgahc&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjlpqbT6u7fAhUFulUKHfNpAaso-B0yAml2SJfUgYXI-JjWEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="71.54900" w="31.81500" h="18.76400" t="3:55.900"/>
+      <rectRegion x="36.13300" y="71.54900" w="31.81500" h="18.76400" t="4:05.897"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3147022139" type="highlight" log_data="a-id=annotation_3147022139&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=EaxjxICgahc&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwjlpqbT6u7fAhUFulUKHfNpAaso-B0yAml2SJfUgYXI-JjWEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.36500" y="71.26800" w="22.94000" h="19.04600" t="3:55.900"/>
+      <rectRegion x="70.36500" y="71.26800" w="22.94000" h="19.04600" t="4:05.897"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3983566021" type="text" style="popup" log_data="a-id=annotation_3983566021&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-is-a-gift-economy-alex-gendler&amp;a-v=EaxjxICgahc&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-type=1" itct="CAUQs-UBGP___________wEiEwjlpqbT6u7fAhUFulUKHfNpAaso-B0yAml2SJfUgYXI-JjWEQ">
+  <TEXT>View full lesson at ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="8.16900" w="35.22200" h="10.56300" t="0:00.000"/>
+      <rectRegion x="2.37700" y="8.16900" w="35.22200" h="10.56300" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-is-a-gift-economy-alex-gendler" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4043245021" type="highlight" log_data="a-id=annotation_4043245021&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;a-v=EaxjxICgahc&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-type=3" itct="CAYQs-UBGP___________wEiEwjlpqbT6u7fAhUFulUKHfNpAaso-B0yAml2SJfUgYXI-JjWEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="71.53500" w="27.21900" h="18.21500" t="3:55.900"/>
+      <rectRegion x="6.65600" y="71.53500" w="27.21900" h="18.21500" t="4:05.897"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;l-class=3&amp;ei=3VE9XKXEHIX01gLz04XYCg&amp;a-v=EaxjxICgahc&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbHRpVDA5aGNQUFdnMFh4Zk0wRjU4emt3cHJHd3xBQ3Jtc0tuN2ppaVVIcmRFeFlKaTlFNFc3c1BMTkg1bXJWMXh5dDJFcndvTE9Ha2c3ZGUtQjNFZkVZOEFmcUhWRDYxajB3YTAwaVNBRkIyVzV4UmZGOURpUjRZRHF4Q0I1LW1YSTRFRm0tUUt5WVhsVkZuUlYzUFB0cW5DeXlMNzkxUzlEelotbTV2TGk3ZE5TbTBZLVhuYS1nZ2owN0NkWTk2V3ZPNUphYkdaWExXUWF3alROZVYwdFBrV1Q1R0dtbU02RFBXejVlNW80eUhFNnJfRGlNWjRVX1ZLVXZzOXp4Q2F4S19vT0l1YmVtWEREU19rNVlr%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Dde\u0026uilel=3\u0026hl=de\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;EaxjxICgahc&quot;,&quot;ei&quot;:&quot;3VE9XKXEHIX01gLz04XYCg&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCOWmptPq7t8CFQW6VQod82kBqyj4HTICaXZIl9SBhcj4mNYR&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:246000,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

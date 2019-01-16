@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI79OW1vXu3wIVQh_gCh1_uwDIKPgdMgJpdkixoMLLxLDiyRA">
+<annotation id="annotation_2061854955" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4251874537">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4251874537" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2117669017" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4226911361">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4226911361" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4226911361" type="highlight" log_data="l-class=6&amp;a-type=3&amp;a-id=annotation_4226911361&amp;a-v=EJOJhElwkDE&amp;xble=1&amp;link=http%3A%2F%2Fwww.pcwelt.de%2F1497455&amp;ei=bF09XO_tEcK-gAf_9oLADA" itct="CAEQs-UBGP___________wEiEwjv05bW9e7fAhVCH-AKHX-7AMgo-B0yAml2SLGgwsvEsOLJEA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="74.19700" w="100.00000" h="25.80300" t="1:42.023"/>
+      <rectRegion x="0.00000" y="74.19700" w="100.00000" h="25.80300" t="2:01.301"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/1497455" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4251874537" type="highlight" log_data="l-class=1&amp;a-type=3&amp;a-id=annotation_4251874537&amp;a-v=EJOJhElwkDE&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D10lHK2GCvoY&amp;ei=bF09XO_tEcK-gAf_9oLADA" itct="CAIQs-UBGP___________wEiEwjv05bW9e7fAhVCH-AKHX-7AMgo-B0yAml2SLGgwsvEsOLJEA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.66700" y="11.54900" w="27.06300" h="27.77500" t="10:46.190"/>
+      <rectRegion x="66.66700" y="11.54900" w="27.06300" h="27.77500" t="10:55.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4251874537&amp;ei=bF09XO_tEcK-gAf_9oLADA&amp;feature=iv&amp;src_vid=EJOJhElwkDE&amp;v=10lHK2GCvoY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;l-class=3&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;xble=0&amp;a-v=EJOJhElwkDE&amp;ei=bF09XO_tEcK-gAf_9oLADA">
+  <data>{&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;start_ms&quot;:0,&quot;image_width&quot;:55,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqbHJDc2VHWW5UaTFJdjZLM3lEUjkxS0lnVlJGUXxBQ3Jtc0tubUZNeUtiMFl2TnBtQmF0MzRqUWlielQyUmxjYnN3bGZuaFpCQ1RnalVaRjNjNHQzbFZUcmh3RXRVcGlsWkRkU0lyRWRxR2xqYmNESHZ3WmdEaFNYMVF4Tk12WkZRNUtKeHZQNmlqdkV0ZDlLMFZ4RUoxYldJSXNBdXFZcGJnVXVtTkl3c2xpSnQzWDVBV1V1UDFtN3FUZmExNEc5YmJFUUxMU2UybUJtd25yNFV4RnE2SFlZVXNJZHNzMURQMEdMemhYV1Q3dE9LX1Y4WFJOZUJoNzVYRmVuZWFkUXh0eE50NWJrdktBdVZPQm5kMksw%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;},&quot;image_height&quot;:12,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCO_Tltb17t8CFUIf4Aodf7sAyCj4HTICaXZIsaDCy8Sw4skQ&quot;,&quot;src_vid&quot;:&quot;EJOJhElwkDE&quot;,&quot;ei&quot;:&quot;bF09XO_tEcK-gAf_9oLADA&quot;},&quot;end_ms&quot;:676000,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:b4fcff51-b221-42cf-85eb-b56872e72fc1" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=b4fcff51-b221-42cf-85eb-b56872e72fc1&amp;a-type=62&amp;a-v=EJOJhElwkDE&amp;ei=bF09XO_tEcK-gAf_9oLADA&amp;l-class=1&amp;link-id=10lHK2GCvoY&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;14:05&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1450263279036,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=10lHK2GCvoY&quot;,&quot;target&quot;:&quot;new&quot;,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;152.241 Aufrufe&quot;],&quot;start_ms&quot;:646880,&quot;end_ms&quot;:646880,&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[]},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;b4fcff51-b221-42cf-85eb-b56872e72fc1&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCO_Tltb17t8CFUIf4Aodf7sAyCj4HTIFY2FyZHNIsaDCy8Sw4skQ&quot;,&quot;src_vid&quot;:&quot;EJOJhElwkDE&quot;,&quot;ei&quot;:&quot;bF09XO_tEcK-gAf_9oLADA&quot;},&quot;title&quot;:&quot;Geforce GTX 980 Ti vs. AMD Radeon R9 Fury X | deutsch \/ german&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Geforce GTX 980 Ti vs. AMD Radeon R9 Fury X | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/10lHK2GCvoY\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCO_Tltb17t8CFUIf4Aodf7sAyCj4HTIFY2FyZHNIsaDCy8Sw4skQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCO_Tltb17t8CFUIf4Aodf7sAyCj4HTIFY2FyZHNIsaDCy8Sw4skQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjv05bW9e7fAhVCH-AKHX-7AMgo-B0yBWNhcmRzSLGgwsvEsOLJEA&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=10lHK2GCvoY"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjv05bW9e7fAhVCH+AKHX+7AMgo+B0yBWNhcmRzSLGgwsvEsOLJEA==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCO/Tltb17t8CFUIf4Aodf7sAyCj4HTIFY2FyZHNIsaDCy8Sw4skQ&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjv05bW9e7fAhVCH+AKHX+7AMgo+B0yBWNhcmRzSLGgwsvEsOLJEA==&quot;, 
+  &quot;eventId&quot;: &quot;bF09XO_tEcK-gAf_9oLADA&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;
+}</data>
+</annotation>
+</annotations></document>

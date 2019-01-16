@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhs-i46vv3wIVgcFVCh1nygTaKPgdMgJpdkjknrrB8N3d2bAB">
+<annotation id="annotation_551639" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to VSauce!!!</TEXT>
+  <segment spaceRelative="annotation_941645">
+    <movingRegion type="rect">
+      <rectRegion x="-21.56200" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="-21.56200" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_941645" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_57604" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>&quot;The Journey of Merrill&quot; short film</TEXT>
+  <segment spaceRelative="annotation_654607">
+    <movingRegion type="rect">
+      <rectRegion x="-21.25000" y="28.05600" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="-21.25000" y="28.05600" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_654607" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_654607" type="highlight" log_data="a-id=annotation_654607&amp;xble=1&amp;ei=J5Y9XMafEIGD1wLnlJPQDQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaybC8C1Yefw&amp;l-class=1&amp;a-type=3&amp;a-v=sLN27wguj2Q" itct="CAEQs-UBGP___________wEiEwiGz6Ljq-_fAhWBwVUKHWfKBNoo-B0yAml2SOSeusHw3d3ZsAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.28100" y="0.00000" w="56.87500" h="65.55600" t="0:02:54.3"/>
+      <rectRegion x="23.28100" y="0.00000" w="56.87500" h="65.55600" t="0:03:04.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_654607&amp;ei=J5Y9XMafEIGD1wLnlJPQDQ&amp;feature=iv&amp;src_vid=sLN27wguj2Q&amp;v=aybC8C1Yefw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_678340" type="text" style="popup" log_data="a-id=annotation_678340&amp;xble=1&amp;ei=J5Y9XMafEIGD1wLnlJPQDQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DxTheQuadSquadx&amp;l-class=3&amp;a-type=1&amp;a-v=sLN27wguj2Q" itct="CAIQs-UBGP___________wEiEwiGz6Ljq-_fAhWBwVUKHWfKBNoo-B0yAml2SOSeusHw3d3ZsAE">
+  <TEXT>&lt;----  GO HERE:  xTheQuadSquadx</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.96900" y="91.94400" w="38.90600" h="6.94400" t="0:02:27.0"/>
+      <rectRegion x="32.96900" y="91.94400" w="38.90600" h="6.94400" t="0:02:29.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_678340&amp;ei=J5Y9XMafEIGD1wLnlJPQDQ&amp;feature=iv&amp;src_vid=sLN27wguj2Q&amp;user=xTheQuadSquadx" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_941645" type="highlight" log_data="a-id=annotation_941645&amp;xble=1&amp;ei=J5Y9XMafEIGD1wLnlJPQDQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DVSauce&amp;l-class=5&amp;a-type=3&amp;a-v=sLN27wguj2Q" itct="CAMQs-UBGP___________wEiEwiGz6Ljq-_fAhWBwVUKHWfKBNoo-B0yAml2SOSeusHw3d3ZsAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.15600" y="0.00000" w="4.84400" h="8.33300" t="0:00:00.0"/>
+      <rectRegion x="95.15600" y="0.00000" w="4.84400" h="8.33300" t="0:03:11.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=VSauce&amp;annotation_id=annotation_941645&amp;ei=J5Y9XMafEIGD1wLnlJPQDQ&amp;feature=iv&amp;src_vid=sLN27wguj2Q" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

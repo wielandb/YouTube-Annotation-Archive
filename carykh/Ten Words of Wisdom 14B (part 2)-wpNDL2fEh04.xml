@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIq6aIg5Hv3wIVR6pVCh3mHgGKKPgdMgJpdkjOjpK-9uXQycIB">
+<annotation id="annotation_2129774563" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2426649075">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2426649075" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2426649075" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Ffernozzle&amp;a-v=wpNDL2fEh04&amp;ei=Gno9XKuxC8fU1gLmvYTQCA&amp;a-type=3&amp;a-id=annotation_2426649075&amp;xble=1&amp;l-class=11" itct="CAEQs-UBGP___________wEiEwirpoiDke_fAhVHqlUKHeYeAYoo-B0yAml2SM6Okr725dDJwgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.53400" y="28.73200" w="20.24600" h="61.29600" t="10:36.653"/>
+      <rectRegion x="73.53400" y="28.73200" w="20.24600" h="61.29600" t="10:39.137"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/fernozzle?annotation_id=annotation_2426649075&amp;ei=Gno9XKuxC8fU1gLmvYTQCA&amp;feature=iv&amp;src_vid=wpNDL2fEh04" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3010583771" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Ffernozzle&amp;a-v=wpNDL2fEh04&amp;ei=Gno9XKuxC8fU1gLmvYTQCA&amp;a-type=3&amp;a-id=annotation_3010583771&amp;xble=1&amp;l-class=11" itct="CAIQs-UBGP___________wEiEwirpoiDke_fAhVHqlUKHeYeAYoo-B0yAml2SM6Okr725dDJwgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.21700" y="28.45100" w="26.10900" h="61.01400" t="10:30.686"/>
+      <rectRegion x="73.21700" y="28.45100" w="26.10900" h="61.01400" t="10:34.183"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/fernozzle?annotation_id=annotation_3010583771&amp;ei=Gno9XKuxC8fU1gLmvYTQCA&amp;feature=iv&amp;src_vid=wpNDL2fEh04" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_823433209" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3010583771">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3010583771" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

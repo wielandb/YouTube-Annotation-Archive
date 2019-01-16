@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI09q05Y_v3wIVh3_gCh3UlQtZKPgdMgJpdkjc7IPsv6bRvmk">
+<annotation id="annotation_2004641225" type="text" style="popup" log_data="a-id=annotation_2004641225&amp;a-type=1&amp;xble=1&amp;a-v=aX1FM_2A9lw&amp;ei=z3g9XJO3Iof_gQfUq67IBQ" itct="CAEQs-UBGP___________wEiEwjT2rTlj-_fAhWHf-AKHdSVC1ko-B0yAml2SNzsg-y_ptG-aQ">
+  <TEXT>Link unter Video</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="42.78900" y="78.87300" w="37.91600" h="8.02800" t="4:40.722"/>
+      <rectRegion x="42.78900" y="78.87300" w="37.91600" h="8.02800" t="4:59.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2289686575" type="highlight" log_data="a-id=annotation_2289686575&amp;a-type=3&amp;xble=1&amp;a-v=aX1FM_2A9lw&amp;ei=z3g9XJO3Iof_gQfUq67IBQ" itct="CAIQs-UBGP___________wEiEwjT2rTlj-_fAhWHf-AKHdSVC1ko-B0yAml2SNzsg-y_ptG-aQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="4:41.109"/>
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="4:59.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2527430423" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_814867149">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_814867149" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_40772673" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2289686575">
+    <movingRegion type="rect">
+      <rectRegion x="5.13100" y="43.32600" w="52.57500" h="7.81700" t="never"/>
+      <rectRegion x="5.13100" y="43.32600" w="52.57500" h="7.81700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2289686575" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_814867149" type="highlight" log_data="a-id=annotation_814867149&amp;a-v=aX1FM_2A9lw&amp;a-type=3&amp;ei=z3g9XJO3Iof_gQfUq67IBQ&amp;l-class=6&amp;link=http%3A%2F%2Fwww.bleeptrack.de%2Fsymphony%2F&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjT2rTlj-_fAhWHf-AKHdSVC1ko-B0yAml2SNzsg-y_ptG-aQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.36300" y="88.73200" w="53.84300" h="8.62000" t="4:40.722"/>
+      <rectRegion x="41.36300" y="88.73200" w="53.84300" h="8.62000" t="4:59.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.bleeptrack.de/symphony/" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

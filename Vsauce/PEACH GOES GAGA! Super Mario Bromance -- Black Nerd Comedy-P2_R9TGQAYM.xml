@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIp-eSnqzv3wIVm7NVCh09CwmuKPgdMgJpdkiDg8CM0770tz8">
+<annotation id="annotation_213613" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Dblacknerdcomedy&amp;a-v=P2_R9TGQAYM&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_213613" itct="CAEQs-UBGP___________wEiEwin55KerO_fAhWbs1UKHT0LCa4o-B0yAml2SIODwIzTvvS3Pw">
+  <TEXT>Click HERE to check out BlackNerd&#39;s channel for more!
+
+(be sure to watch the Konami Song)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.93800" y="73.33300" w="39.06300" h="19.44400" t="0:03:15.7"/>
+      <rectRegion x="60.93800" y="73.33300" w="39.06300" h="19.44400" t="0:03:31.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_213613&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;feature=iv&amp;src_vid=P2_R9TGQAYM&amp;user=blacknerdcomedy" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_24067" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dblacknerdcomedy&amp;a-v=P2_R9TGQAYM&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_24067" itct="CAIQs-UBGP___________wEiEwin55KerO_fAhWbs1UKHT0LCa4o-B0yAml2SIODwIzTvvS3Pw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.90600" y="36.11100" w="46.09400" h="16.11100" t="0:04:02.3"/>
+      <rectRegion x="13.90600" y="36.11100" w="46.09400" h="16.11100" t="0:04:05.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=blacknerdcomedy&amp;annotation_id=annotation_24067&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;feature=iv&amp;src_vid=P2_R9TGQAYM" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_388722" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click HERE to subcribe to Vsauce!</TEXT>
+  <segment spaceRelative="annotation_484800">
+    <movingRegion type="rect">
+      <rectRegion x="-19.53100" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="-19.53100" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_484800" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_429988" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_653636">
+    <movingRegion type="rect">
+      <rectRegion x="-12.50000" y="46.38900" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="-12.50000" y="46.38900" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_653636" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_439787" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_895911">
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="29.44400" w="15.93700" h="5.55600" t="never"/>
+      <rectRegion x="2.81300" y="29.44400" w="15.93700" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_895911" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_47431" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK</TEXT>
+  <segment spaceRelative="annotation_24067">
+    <movingRegion type="rect">
+      <rectRegion x="13.90600" y="17.22200" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="13.90600" y="17.22200" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_24067" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_484800" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-v=P2_R9TGQAYM&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_484800" itct="CAMQs-UBGP___________wEiEwin55KerO_fAhWbs1UKHT0LCa4o-B0yAml2SIODwIzTvvS3Pw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.93800" y="0.00000" w="4.06300" h="6.66700" t="0:00:00.0"/>
+      <rectRegion x="95.93800" y="0.00000" w="4.06300" h="6.66700" t="0:04:12.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_484800&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;feature=iv&amp;src_vid=P2_R9TGQAYM" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_505197" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dblacknerdcomedy&amp;a-v=P2_R9TGQAYM&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_505197" itct="CAQQs-UBGP___________wEiEwin55KerO_fAhWbs1UKHT0LCa4o-B0yAml2SIODwIzTvvS3Pw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="4.53100" h="6.66700" t="0:00:43.4"/>
+      <rectRegion x="0.00000" y="0.00000" w="4.53100" h="6.66700" t="0:04:12.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=blacknerdcomedy&amp;annotation_id=annotation_505197&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;feature=iv&amp;src_vid=P2_R9TGQAYM" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_653636" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds2zIvV9skZk&amp;a-v=P2_R9TGQAYM&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_653636" itct="CAUQs-UBGP___________wEiEwin55KerO_fAhWbs1UKHT0LCa4o-B0yAml2SIODwIzTvvS3Pw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.15600" y="7.50000" w="29.53100" h="31.66700" t="0:03:31.9"/>
+      <rectRegion x="65.15600" y="7.50000" w="29.53100" h="31.66700" t="0:03:34.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_653636&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;feature=iv&amp;src_vid=P2_R9TGQAYM&amp;v=s2zIvV9skZk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_7201" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to Black Nerd !</TEXT>
+  <segment spaceRelative="annotation_505197">
+    <movingRegion type="rect">
+      <rectRegion x="5.00000" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="5.00000" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_505197" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_870743" type="text" style="popup" log_data="xble=1&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;a-v=P2_R9TGQAYM&amp;a-type=1&amp;a-id=annotation_870743" itct="">
+  <TEXT>FaceBook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="42.18800" y="3.33300" w="31.40600" h="7.77800" t="0:04:06.5"/>
+      <rectRegion x="42.18800" y="3.33300" w="31.40600" h="7.77800" t="0:04:12.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_895911" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Dblacknerdcomedy&amp;a-v=P2_R9TGQAYM&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;l-class=3&amp;a-type=3&amp;a-id=annotation_895911" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.28100" y="29.44400" w="42.03100" h="19.44400" t="0:03:47.0"/>
+      <rectRegion x="53.28100" y="29.44400" w="42.03100" h="19.44400" t="0:03:58.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_895911&amp;ei=opY9XKeOLZvn1gK9lqTwCg&amp;feature=iv&amp;src_vid=P2_R9TGQAYM&amp;user=blacknerdcomedy" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

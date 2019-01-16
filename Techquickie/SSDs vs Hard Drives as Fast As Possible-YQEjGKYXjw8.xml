@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7Mu-24fv3wIVHJNVCh3eOgzBKPgdMgJpdkiPnt6wiuPIgGE">
+<annotation id="annotation_1609471267" type="text" style="popup" log_data="a-id=annotation_1609471267&amp;xble=1&amp;a-v=YQEjGKYXjw8&amp;l-class=5&amp;a-type=1&amp;ei=V3A9XKzEEJym1gLe9bCIDA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftechquickie%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwjsy77bh-_fAhUck1UKHd46DMEo-B0yAml2SI-e3rCK48iAYQ">
+  <TEXT>Click to subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.81300" y="92.67600" w="22.22800" h="7.47200" t="0:05.832"/>
+      <rectRegion x="77.81300" y="92.67600" w="22.22800" h="7.47200" t="0:18.084"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/techquickie?annotation_id=annotation_1609471267&amp;ei=V3A9XKzEEJym1gLe9bCIDA&amp;feature=iv&amp;src_vid=YQEjGKYXjw8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2071504951" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3231545099">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3231545099" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3231545099" type="highlight" log_data="a-id=annotation_3231545099&amp;xble=1&amp;a-v=YQEjGKYXjw8&amp;l-class=1&amp;a-type=3&amp;ei=V3A9XKzEEJym1gLe9bCIDA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFI0JmKp1v4U" itct="CAIQs-UBGP___________wEiEwjsy77bh-_fAhUck1UKHd46DMEo-B0yAml2SI-e3rCK48iAYQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.31700" y="82.53500" w="63.03500" h="14.25700" t="3:09.814"/>
+      <rectRegion x="0.31700" y="82.53500" w="63.03500" h="14.25700" t="3:16.467"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3231545099&amp;ei=V3A9XKzEEJym1gLe9bCIDA&amp;feature=iv&amp;src_vid=YQEjGKYXjw8&amp;v=FI0JmKp1v4U" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:555e24b4-0000-2077-9f15-001a113e93e0" style="branding" type="branding"
+            log_data="a-id=555e24b4-0000-2077-9f15-001a113e93e0&amp;xble=0&amp;a-v=YQEjGKYXjw8&amp;link-id=UC0vBXGSyV14uvJ4hECDOl0Q&amp;l-class=3&amp;a-type=10&amp;a-ch=UC0vBXGSyV14uvJ4hECDOl0Q&amp;ei=V3A9XKzEEJym1gLe9bCIDA">
+  <data>{&quot;num_subscribers&quot;:&quot;2652579&quot;,&quot;image_height&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UC0vBXGSyV14uvJ4hECDOl0Q&quot;,&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;Techquickie&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;YQEjGKYXjw8&quot;,&quot;annotation_id&quot;:&quot;555e24b4-0000-2077-9f15-001a113e93e0&quot;,&quot;ei&quot;:&quot;V3A9XKzEEJym1gLe9bCIDA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCOzLvtuH798CFRyTVQod3joMwSj4HTICaXZIj57esIrjyIBh&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/0vBXGSyV14uvJ4hECDOl0Q\/featured_channel.jpg?v=556f3d0d&quot;,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;2,6\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbERKMng4T2ktakt4WEhheGpDYS1abzdISWRoZ3xBQ3Jtc0tsTWRrWUpaS1c0TzZPYlZ0M1dwSDdRSXoxVHo0RDNjSGVEMnktOUdaaVpiQkx2Z1hFQWR6eFNMZnRiLUxoaVJDSjRMWWJWcjgxM3dQMHdFYkRrWnVIWFU3amJxQjdGNWxxY3ZkVlVOdFF6SVJKb0dSSlhTVlV2SXdoWDNKcEQxall1TUxLSWNCZWZya0NBd2hBa0dYWHBCbkpBOWhlUFZJQVZuMEZ1c3BBamlsN1RhRGtoRmZqMDZNZUppbUpIbEY4VWJocEttSWRPT2daWXVYejA0X0NnRVp4N2tmSFhJMG9NNVZxRWNHWEE1UWY2RjRz%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTechquickie%26hl%3Dde%26app%3Ddesktop\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;2,6\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;end_ms&quot;:246000,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Techquickie"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0pnt05Pv3wIVSDHgCh18tAHzKPgdMgJpdkipp_SnwoX3tYYB">
+<annotation id="annotation_114094667" type="highlight" log_data="a-v=hmvcLCT9E6k&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;a-type=3&amp;xble=1&amp;a-id=annotation_114094667&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQK4wwxTRoAY" itct="CAEQs-UBGP___________wEiEwjSme3Tk-_fAhVIMeAKHXy0AfMo-B0yAml2SKmn9KfChfe1hgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.93500" y="43.09900" w="36.25200" h="31.43700" t="7:26.419"/>
+      <rectRegion x="10.93500" y="43.09900" w="36.25200" h="31.43700" t="7:43.260"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_114094667&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;feature=iv&amp;src_vid=hmvcLCT9E6k&amp;v=QK4wwxTRoAY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2153724967" type="text" style="popup" log_data="a-v=hmvcLCT9E6k&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;a-type=1&amp;xble=1&amp;a-id=annotation_2153724967&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQK4wwxTRoAY" itct="CAIQs-UBGP___________wEiEwjSme3Tk-_fAhVIMeAKHXy0AfMo-B0yAml2SKmn9KfChfe1hgE">
+  <TEXT>Air Traffic Control</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.74600" y="31.83100" w="37.76500" h="11.70400" t="0:05.792"/>
+      <rectRegion x="59.74600" y="31.83100" w="37.76500" h="11.70400" t="0:12.758"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2153724967&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;feature=iv&amp;src_vid=hmvcLCT9E6k&amp;v=QK4wwxTRoAY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2444646009" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Google Deep Dream</TEXT>
+  <segment spaceRelative="annotation_2567515127">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.77500" w="35.14300" h="9.94700" t="never"/>
+      <rectRegion x="0.00000" y="25.77500" w="35.14300" h="9.94700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2567515127" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2567515127" type="highlight" log_data="a-v=hmvcLCT9E6k&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;a-type=3&amp;xble=1&amp;a-id=annotation_2567515127&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBsSmBPmPeYQ" itct="CAMQs-UBGP___________wEiEwjSme3Tk-_fAhVIMeAKHXy0AfMo-B0yAml2SKmn9KfChfe1hgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.09000" y="43.09900" w="35.93500" h="31.71800" t="7:26.419"/>
+      <rectRegion x="53.09000" y="43.09900" w="35.93500" h="31.71800" t="7:43.260"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2567515127&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;feature=iv&amp;src_vid=hmvcLCT9E6k&amp;v=BsSmBPmPeYQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2843817967" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Computing &amp; Air Traffic Control</TEXT>
+  <segment spaceRelative="annotation_114094667">
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="19.57700" w="27.06000" h="16.14500" t="never"/>
+      <rectRegion x="3.17000" y="19.57700" w="27.06000" h="16.14500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_114094667" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_297047491" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Password Cracking</TEXT>
+  <segment spaceRelative="annotation_3442819147">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.52100" w="35.30100" h="12.20100" t="never"/>
+      <rectRegion x="0.00000" y="23.52100" w="35.30100" h="12.20100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3442819147" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_298856231" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>FPS &amp; Digital Video</TEXT>
+  <segment spaceRelative="annotation_4129134821">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.49300" w="36.09400" h="10.22900" t="never"/>
+      <rectRegion x="0.00000" y="25.49300" w="36.09400" h="10.22900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_4129134821" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3442819147" type="highlight" log_data="a-v=hmvcLCT9E6k&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;a-type=3&amp;xble=1&amp;a-id=annotation_3442819147&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7U-RbOKanYs" itct="CAQQs-UBGP___________wEiEwjSme3Tk-_fAhVIMeAKHXy0AfMo-B0yAml2SKmn9KfChfe1hgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.93500" y="3.38000" w="35.61800" h="30.31000" t="7:26.419"/>
+      <rectRegion x="10.93500" y="3.38000" w="35.61800" h="30.31000" t="7:43.260"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3442819147&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;feature=iv&amp;src_vid=hmvcLCT9E6k&amp;v=7U-RbOKanYs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4129134821" type="highlight" log_data="a-v=hmvcLCT9E6k&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;a-type=3&amp;xble=1&amp;a-id=annotation_4129134821&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyniSnYtkrwQ" itct="CAUQs-UBGP___________wEiEwjSme3Tk-_fAhVIMeAKHXy0AfMo-B0yAml2SKmn9KfChfe1hgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.93200" y="2.53500" w="35.93500" h="32.00000" t="7:26.419"/>
+      <rectRegion x="52.93200" y="2.53500" w="35.93500" h="32.00000" t="7:43.260"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4129134821&amp;ei=3Hw9XNK7HcjigAf86IaYDw&amp;feature=iv&amp;src_vid=hmvcLCT9E6k&amp;v=yniSnYtkrwQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="a-v=hmvcLCT9E6k&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;xble=0&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;l-class=3&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;ei=3Hw9XNK7HcjigAf86IaYDw">
+  <data>{&quot;start_ms&quot;:5000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;3Hw9XNK7HcjigAf86IaYDw&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCNKZ7dOT798CFUgx4AodfLQB8yj4HTICaXZIqaf0p8KF97WGAQ&quot;,&quot;src_vid&quot;:&quot;hmvcLCT9E6k&quot;},&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26hl%3Dde%26continue_action%3DQUFFLUhqa28ybzF3WDFQT2JTZENiREJoeGpzSjBELUFiZ3xBQ3Jtc0trdHRwVm5SRkFmMlI3MFBXWWVJbWlmNkJ2QnRoWU5SNTNKN05DUlJzRlg4VWlCMW9lQlNfX2ZVTU5hclZnN0VERXBqRnZVUC1mU0Z0X0VPM1hKWDlDN2xzaVhwQ2Z1dnhndnJZd3YwVGM1cjEyYWFGdnBueHdnM1BLb0tVMTBkT29mUnBoWURSXzF0S2NEOGV4NFBnZjZpUDAwS21lYW1iblh4TlVkamZCbHpHQ2J0SUsyS2NuNmUyVEE2ZXB1Z3hvOTBNdDFPZWUxNllUUE1lQzF2aXhHblI3U0wyQ0gtd2I1WDljcGVaaUlPWUlGVXYw%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026passive=true\u0026hl=de&quot;},&quot;image_width&quot;:51,&quot;end_ms&quot;:464000,&quot;image_height&quot;:23,&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

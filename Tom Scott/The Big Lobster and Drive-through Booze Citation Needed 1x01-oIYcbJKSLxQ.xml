@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIo9Th96nv3wIVqgngCh3fyAhwKPgdMgJpdkiU3siUyY2Hw6AB">
+<annotation id="annotation_1258566515" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-type=3&amp;l-class=5&amp;a-id=annotation_1258566515&amp;ei=OZQ9XOPTFqqTgAffkaOABw&amp;a-v=oIYcbJKSLxQ" itct="CAEQs-UBGP___________wEiEwij1OH3qe_fAhWqCeAKHd_ICHAo-B0yAml2SJTeyJTJjYfDoAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.99500" y="13.23900" w="74.92100" h="17.35500" t="18:20.641"/>
+      <rectRegion x="12.99500" y="13.23900" w="74.92100" h="17.35500" t="18:38.017"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1258566515&amp;ei=OZQ9XOPTFqqTgAffkaOABw&amp;feature=iv&amp;src_vid=oIYcbJKSLxQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_207249451" type="text" style="popup" log_data="xble=1&amp;a-v=oIYcbJKSLxQ&amp;a-type=1&amp;a-id=annotation_207249451&amp;ei=OZQ9XOPTFqqTgAffkaOABw" itct="CAIQs-UBGP___________wEiEwij1OH3qe_fAhWqCeAKHd_ICHAo-B0yAml2SJTeyJTJjYfDoAE">
+  <TEXT>If you liked the show, leave us a comment! Switching formats always leaves folks confused, and having some nice words amongst &quot;you changed it, now it sucks&quot; makes a big difference. :)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="84.78900" w="100.00000" h="13.67800" t="18:20.641"/>
+      <rectRegion x="0.00000" y="84.78900" w="100.00000" h="13.67800" t="18:38.016"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3249327953" type="text" style="popup" log_data="xble=1&amp;a-v=oIYcbJKSLxQ&amp;a-type=1&amp;a-id=annotation_3249327953&amp;ei=OZQ9XOPTFqqTgAffkaOABw" itct="CAMQs-UBGP___________wEiEwij1OH3qe_fAhWqCeAKHd_ICHAo-B0yAml2SJTeyJTJjYfDoAE">
+  <TEXT>Heads up! This isn&#39;t just a quick fact-burst.
+If you subscribed just for Things You Might Not Know, well, brace yourself.
+We&#39;re going back to our roots...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="82.36600" w="100.00000" h="17.63400" t="0:00.008"/>
+      <rectRegion x="0.00000" y="82.36600" w="100.00000" h="17.63400" t="0:10.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_348950725" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1258566515">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1258566515" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

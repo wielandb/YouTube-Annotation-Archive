@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr-fx7P7u3wIVDmzgCh0hqwLEKPgdMgJpdkiqr--Q6_u6qRE">
+<annotation id="annotation_467141" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;ei=C2c9XO-1M47YgQeh1oqgDA&amp;a-v=EVLr3rIb16o&amp;a-type=3&amp;a-id=annotation_467141&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwiv5_Hs_u7fAhUObOAKHSGrAsQo-B0yAml2SKqv75Dr-7qpEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.53100" y="20.83300" w="60.46900" h="62.50000" t="0:05:31.5"/>
+      <rectRegion x="19.53100" y="20.83300" w="60.46900" h="62.50000" t="0:05:43.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_467141&amp;ei=C2c9XO-1M47YgQeh1oqgDA&amp;feature=iv&amp;src_vid=EVLr3rIb16o&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_65228" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Zu meinem Kanal!</TEXT>
+  <segment spaceRelative="annotation_467141">
+    <movingRegion type="rect">
+      <rectRegion x="16.09400" y="55.00000" w="24.84400" h="5.27800" t="never"/>
+      <rectRegion x="16.09400" y="55.00000" w="24.84400" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_467141" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_761724" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8uK9mhFBB2M&amp;ei=C2c9XO-1M47YgQeh1oqgDA&amp;a-v=EVLr3rIb16o&amp;a-type=1&amp;a-id=annotation_761724&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiv5_Hs_u7fAhUObOAKHSGrAsQo-B0yAml2SKqv75Dr-7qpEQ">
+  <TEXT>Hier klicken für
+einen Tag als
+Frau! ^___^</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.03100" y="36.94400" w="15.31300" h="27.77800" t="0:05:31.5"/>
+      <rectRegion x="2.03100" y="36.94400" w="15.31300" h="27.77800" t="0:05:43.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_761724&amp;ei=C2c9XO-1M47YgQeh1oqgDA&amp;feature=iv&amp;src_vid=EVLr3rIb16o&amp;v=8uK9mhFBB2M" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_861421" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dkhiy-2ve2Ho&amp;ei=C2c9XO-1M47YgQeh1oqgDA&amp;a-v=EVLr3rIb16o&amp;a-type=1&amp;a-id=annotation_861421&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwiv5_Hs_u7fAhUObOAKHSGrAsQo-B0yAml2SKqv75Dr-7qpEQ">
+  <TEXT>Klick hier für 45 Filme in 145 Sekunden! :D</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="81.71900" y="38.05600" w="15.15600" h="27.77800" t="0:05:31.5"/>
+      <rectRegion x="81.71900" y="38.05600" w="15.15600" h="27.77800" t="0:05:43.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_861421&amp;ei=C2c9XO-1M47YgQeh1oqgDA&amp;feature=iv&amp;src_vid=EVLr3rIb16o&amp;v=khiy-2ve2Ho" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

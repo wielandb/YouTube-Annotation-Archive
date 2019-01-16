@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIiZXHjKzv3wIVmXngCh29bALvKPgdMgJpdkix64SBlbXCmxg">
+<annotation id="annotation_210509" type="highlight" log_data="a-type=3&amp;a-v=GDcJqVAhNbE&amp;a-id=annotation_210509&amp;l-class=1&amp;xble=1&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgX24ZUhiBwk" itct="CAEQs-UBGP___________wEiEwiJlceMrO_fAhWZeeAKHb1sAu8o-B0yAml2SLHrhIGVtcKbGA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.40600" y="56.94400" w="29.85900" h="29.25000" t="0:04:02.8"/>
+      <rectRegion x="51.40600" y="56.94400" w="29.85900" h="29.25000" t="0:04:16.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_210509&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;feature=iv&amp;src_vid=GDcJqVAhNbE&amp;v=gX24ZUhiBwk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_215483" type="highlight" log_data="a-type=3&amp;a-v=GDcJqVAhNbE&amp;a-id=annotation_215483&amp;l-class=1&amp;xble=1&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRhRulmPonpo" itct="CAIQs-UBGP___________wEiEwiJlceMrO_fAhWZeeAKHb1sAu8o-B0yAml2SLHrhIGVtcKbGA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.68800" y="20.55600" w="29.91400" h="30.52800" t="0:04:02.8"/>
+      <rectRegion x="34.68800" y="20.55600" w="29.91400" h="30.52800" t="0:04:17.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_215483&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;feature=iv&amp;src_vid=GDcJqVAhNbE&amp;v=RhRulmPonpo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_603953" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TOP 4 WORST UPCOMING GAMES</TEXT>
+  <segment spaceRelative="annotation_215483">
+    <movingRegion type="rect">
+      <rectRegion x="4.06300" y="11.11100" w="21.25000" h="9.72200" t="never"/>
+      <rectRegion x="4.06300" y="11.11100" w="21.25000" h="9.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_215483" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_668677" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Their Full Podcast!</TEXT>
+  <segment spaceRelative="annotation_210509">
+    <movingRegion type="rect">
+      <rectRegion x="4.21900" y="13.05600" w="22.18800" h="5.27800" t="never"/>
+      <rectRegion x="4.21900" y="13.05600" w="22.18800" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_210509" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_785091" type="highlight" log_data="a-type=3&amp;a-v=GDcJqVAhNbE&amp;a-id=annotation_785091&amp;l-class=5&amp;xble=1&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy" itct="CAMQs-UBGP___________wEiEwiJlceMrO_fAhWZeeAKHb1sAu8o-B0yAml2SLHrhIGVtcKbGA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.46900" y="0.27800" w="7.75000" h="19.05600" t="0:00:00.0"/>
+      <rectRegion x="0.46900" y="0.27800" w="7.75000" h="19.05600" t="0:04:25.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_785091&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;feature=iv&amp;src_vid=GDcJqVAhNbE" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_834718" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to Wackygamer!!!</TEXT>
+  <segment spaceRelative="annotation_785091">
+    <movingRegion type="rect">
+      <rectRegion x="8.75000" y="0.27800" w="16.56300" h="9.72200" t="never"/>
+      <rectRegion x="8.75000" y="0.27800" w="16.56300" h="9.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_785091" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_840803" type="highlight" log_data="a-type=3&amp;a-v=GDcJqVAhNbE&amp;a-id=annotation_840803&amp;l-class=1&amp;xble=1&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5Pd5Ktcz7Fg" itct="CAQQs-UBGP___________wEiEwiJlceMrO_fAhWZeeAKHb1sAu8o-B0yAml2SLHrhIGVtcKbGA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.34400" y="21.94400" w="30.26600" h="29.61100" t="0:04:02.8"/>
+      <rectRegion x="67.34400" y="21.94400" w="30.26600" h="29.61100" t="0:04:17.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_840803&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;feature=iv&amp;src_vid=GDcJqVAhNbE&amp;v=5Pd5Ktcz7Fg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_910467" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>NERD WARS @ Comic Con</TEXT>
+  <segment spaceRelative="annotation_840803">
+    <movingRegion type="rect">
+      <rectRegion x="5.46900" y="9.72200" w="18.75000" h="9.72200" t="never"/>
+      <rectRegion x="5.46900" y="9.72200" w="18.75000" h="9.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_840803" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_921766" type="text" style="popup" log_data="a-type=1&amp;a-v=GDcJqVAhNbE&amp;a-id=annotation_921766&amp;l-class=5&amp;xble=1&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy" itct="CAUQs-UBGP___________wEiEwiJlceMrO_fAhWZeeAKHb1sAu8o-B0yAml2SLHrhIGVtcKbGA">
+  <TEXT>Don&#39;t forget to subscribe for more Wackygamer!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.34400" y="0.00000" w="27.50000" h="11.66700" t="0:00:06.4"/>
+      <rectRegion x="72.34400" y="0.00000" w="27.50000" h="11.66700" t="0:00:11.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_921766&amp;ei=fZY9XMniM5nzgQe92Yn4Dg&amp;feature=iv&amp;src_vid=GDcJqVAhNbE" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

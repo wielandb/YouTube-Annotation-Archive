@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_5Pv5pXv3wIVFlzgCh3ngAasKPgdMgJpdkiPk4fHhsy2ndIB">
+<annotation id="annotation_1506639865" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dsx2HjuZBuo0&amp;xble=1&amp;ei=HX89XL-RDpa4gQfngZrgCg&amp;a-id=annotation_1506639865&amp;a-type=3&amp;l-class=1&amp;a-v=0jraYGjhyY8" itct="CAEQs-UBGP___________wEiEwj_k-_mle_fAhUWXOAKHeeABqwo-B0yAml2SI-Th8eGzLad0gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.17500" y="7.88700" w="42.46000" h="43.83100" t="4:33.988"/>
+      <rectRegion x="53.17500" y="7.88700" w="42.46000" h="43.83100" t="4:44.160"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1506639865&amp;ei=HX89XL-RDpa4gQfngZrgCg&amp;feature=iv&amp;src_vid=0jraYGjhyY8&amp;v=sx2HjuZBuo0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1677865343" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-NVex5tVGy8&amp;xble=1&amp;ei=HX89XL-RDpa4gQfngZrgCg&amp;a-id=annotation_1677865343&amp;a-type=3&amp;l-class=1&amp;a-v=0jraYGjhyY8" itct="CAIQs-UBGP___________wEiEwj_k-_mle_fAhUWXOAKHeeABqwo-B0yAml2SI-Th8eGzLad0gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.28600" y="7.88700" w="42.30200" h="43.83100" t="4:33.988"/>
+      <rectRegion x="4.28600" y="7.88700" w="42.30200" h="43.83100" t="4:44.160"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1677865343&amp;ei=HX89XL-RDpa4gQfngZrgCg&amp;feature=iv&amp;src_vid=0jraYGjhyY8&amp;v=-NVex5tVGy8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3654607899" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Raspberry Pi Hardware</TEXT>
+  <segment spaceRelative="annotation_1506639865">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="35.35200" w="42.46000" h="8.53500" t="never"/>
+      <rectRegion x="0.00000" y="35.35200" w="42.46000" h="8.53500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1506639865" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_446194133" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Tweeting Vending Machine</TEXT>
+  <segment spaceRelative="annotation_1677865343">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="35.35200" w="42.46000" h="7.69000" t="never"/>
+      <rectRegion x="0.00000" y="35.35200" w="42.46000" h="7.69000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1677865343" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="ei=HX89XL-RDpa4gQfngZrgCg&amp;xble=0&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;l-class=3&amp;a-type=10&amp;a-v=0jraYGjhyY8">
+  <data>{&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:5000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbjhxbWR5REtIY1Znd1lscFlld0lZbS1fVTlPZ3xBQ3Jtc0tuNFdrT3ZqZnhJVFNRSE03SW1rejdONGhGVTNuQUFlQ2UtR3BmTlJSc2dIVGp5WWlDa2pWNzk2QlY5NXFtRE9sRENnTmJiZTZENU1BRXFXQVR0RHIzcmlQQndWY3YzQWtBdENIcFBCWDhhX1N6blMtODgyZnZqSzh5ZTVTVW5lZ1l5Q2pvSkxpclJoQU5TSHFNaWhSOVZFSV9Ia243cjAtSHZXdEhVVUIzOHZKeXJyS05YRllVRlhYNEI4ZXo0WVdTT012MUtlUmQtVXRpYmtpWVJDWVBkclZqcllkeDUwN3o3cmhHeDdjdDIzSWFibnFN%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop\u0026hl=de\u0026passive=true\u0026service=youtube&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_height&quot;:23,&quot;image_width&quot;:51,&quot;end_ms&quot;:285000,&quot;image_type&quot;:1,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;HX89XL-RDpa4gQfngZrgCg&quot;,&quot;src_vid&quot;:&quot;0jraYGjhyY8&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCP-T7-aV798CFRZc4Aod54AGrCj4HTICaXZIj5OHx4bMtp3SAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

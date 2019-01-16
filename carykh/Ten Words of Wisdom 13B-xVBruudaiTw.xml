@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_ZTJhZHv3wIVlgbgCh0b8AdjKPgdMgJpdki8kuq6rveaqMUB">
+<annotation id="annotation_139579503" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3746576743">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3746576743" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2815151905" type="text" style="popup" log_data="a-type=1&amp;ei=H3o9XL2JG5aNgAeb4J-YBg&amp;xble=1&amp;a-v=xVBruudaiTw&amp;a-id=annotation_2815151905" itct="CAEQs-UBGP___________wEiEwj9lMmFke_fAhWWBuAKHRvwB2Mo-B0yAml2SLyS6rqu95qoxQE">
+  <TEXT>Oops, sorry guys.  I didn&#39;t know this was a swear word, so don&#39;t look at it.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.31600" y="9.67600" w="48.77400" h="22.59200" t="0:09.570"/>
+      <rectRegion x="50.31600" y="9.67600" w="48.77400" h="22.59200" t="0:12.129"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3746576743" type="highlight" log_data="a-v=xVBruudaiTw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDKPMaJMJbkU&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;ei=H3o9XL2JG5aNgAeb4J-YBg&amp;a-id=annotation_3746576743" itct="CAIQs-UBGP___________wEiEwj9lMmFke_fAhWWBuAKHRvwB2Mo-B0yAml2SLyS6rqu95qoxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.65100" y="13.33800" w="53.10800" h="56.48800" t="0:33.696"/>
+      <rectRegion x="4.65100" y="13.33800" w="53.10800" h="56.48800" t="0:44.757"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3746576743&amp;ei=H3o9XL2JG5aNgAeb4J-YBg&amp;feature=iv&amp;src_vid=xVBruudaiTw&amp;v=DKPMaJMJbkU" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

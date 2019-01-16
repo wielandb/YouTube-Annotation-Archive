@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9eLB1Ozu3wIVHWPgCh1CcwQhKPgdMgJpdkjsxvTi1uPYtjM">
+<annotation id="annotation_619028" type="highlight" log_data="a-id=annotation_619028&amp;xble=1&amp;ei=-FM9XPWGNp3GgQfC5pGIAg&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmaking-a-ted-ed-lesson-concept-and-design&amp;a-type=3&amp;a-v=M21jHWxdI2w&amp;l-class=12" itct="CAEQs-UBGP___________wEiEwj14sHU7O7fAhUdY-AKHUJzBCEo-B0yAml2SOzG9OLW49i2Mw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.37500" y="31.66700" w="72.18800" h="16.66700" t="0:04:05.0"/>
+      <rectRegion x="14.37500" y="31.66700" w="72.18800" h="16.66700" t="0:04:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/making-a-ted-ed-lesson-concept-and-design" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_719748" type="highlight" log_data="a-id=annotation_719748&amp;xble=1&amp;ei=-FM9XPWGNp3GgQfC5pGIAg&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-do-cancer-cells-behave-differently-from-healthy-ones-george-zaidan&amp;a-type=3&amp;a-v=M21jHWxdI2w&amp;l-class=12" itct="CAIQs-UBGP___________wEiEwj14sHU7O7fAhUdY-AKHUJzBCEo-B0yAml2SOzG9OLW49i2Mw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.21900" y="67.22200" w="72.50000" h="17.22200" t="0:04:05.0"/>
+      <rectRegion x="14.21900" y="67.22200" w="72.50000" h="17.22200" t="0:04:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-do-cancer-cells-behave-differently-from-healthy-ones-george-zaidan" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_842005" type="highlight" log_data="a-id=annotation_842005&amp;xble=1&amp;ei=-FM9XPWGNp3GgQfC5pGIAg&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmaking-a-ted-ed-lesson-animation&amp;a-type=3&amp;a-v=M21jHWxdI2w&amp;l-class=12" itct="CAMQs-UBGP___________wEiEwj14sHU7O7fAhUdY-AKHUJzBCEo-B0yAml2SOzG9OLW49i2Mw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.21900" y="51.38900" w="72.50000" h="15.00000" t="0:04:05.0"/>
+      <rectRegion x="14.21900" y="51.38900" w="72.50000" h="15.00000" t="0:04:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/making-a-ted-ed-lesson-animation" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_875542" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_842005">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_842005" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_88378" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_619028">
+    <movingRegion type="rect">
+      <rectRegion x="2.18800" y="16.11100" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="2.18800" y="16.11100" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_619028" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_972842" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_719748">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="28.33300" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="28.33300" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_719748" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;xble=0&amp;ei=-FM9XPWGNp3GgQfC5pGIAg&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-v=M21jHWxdI2w&amp;l-class=3">
+  <data>{&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;M21jHWxdI2w&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCPXiwdTs7t8CFR1j4AodQnMEISj4HTICaXZI7Mb04tbj2LYz&quot;,&quot;ei&quot;:&quot;-FM9XPWGNp3GgQfC5pGIAg&quot;},&quot;start_ms&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbG5VczlfUEhRME1fejdHQ3RwOEx3Qi1VSHluUXxBQ3Jtc0tsTzJWYzhmLUplaHphUVlKRTkxeHVTTjN1LUFsdXN5M0dFTHVhaWxXRHRIVjF3MTFvR3pubml5UnMxSm5lZ1BfbHczdDNRSHpqRXBQdDA4T0hTdmQ4Y21FWlI1SmhIQV90eHlDU2RhRjlELTEtZ0dmZmkxcHhkOFpxSl9ZYTZ1VWZXQ3hhWENHXy0zMHNrZnlNeHF6TEVzazMtd0tKWUE2XzZicWNSbWlEQXpOaVBaelQzUEJOdEN3eC0tUEhvVUk4clVSeVg2U0t6Mk0yLTl4bm9OMEpTRkxrbjBMOEcycEtCOUJ2Yk9vVjhNdmltdkE0%26feature%3Div%26hl%3Dde%26app%3Ddesktop\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;end_ms&quot;:255000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

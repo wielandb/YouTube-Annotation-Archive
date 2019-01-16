@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkc7_gZDv3wIVgo5VCh2O_g-lKPgdMgJpdkjb1NeVwc-88Cc">
+<annotation id="annotation_447421" type="text" style="popup" log_data="a-type=1&amp;ei=C3k9XNGcH4Kd1gKO_b-oCg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLordSchnork&amp;a-id=annotation_447421&amp;xble=1&amp;a-v=J-DyfBK16ls&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwiRzv-BkO_fAhWCjlUKHY7-D6Uo-B0yAml2SNvU15XBz7zwJw">
+  <TEXT>LordSchnork</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="43.12500" y="86.11100" w="20.62500" h="8.05600" t="0:00:19.7"/>
+      <rectRegion x="43.12500" y="86.11100" w="20.62500" h="8.05600" t="0:00:23.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.8143" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/profile?annotation_id=annotation_447421&amp;ei=C3k9XNGcH4Kd1gKO_b-oCg&amp;feature=iv&amp;src_vid=J-DyfBK16ls&amp;user=LordSchnork" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_632355" type="highlight" log_data="a-type=3&amp;ei=C3k9XNGcH4Kd1gKO_b-oCg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DUlmateWebTV&amp;a-id=annotation_632355&amp;xble=1&amp;a-v=J-DyfBK16ls&amp;l-class=3" itct="CAIQs-UBGP___________wEiEwiRzv-BkO_fAhWCjlUKHY7-D6Uo-B0yAml2SNvU15XBz7zwJw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.65600" y="66.94400" w="73.90600" h="23.61100" t="0:02:37.8"/>
+      <rectRegion x="12.65600" y="66.94400" w="73.90600" h="23.61100" t="0:02:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/profile?annotation_id=annotation_632355&amp;ei=C3k9XNGcH4Kd1gKO_b-oCg&amp;feature=iv&amp;src_vid=J-DyfBK16ls&amp;user=UlmateWebTV" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_72144" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_842479">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_842479" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_840047" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_632355">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="26.66700" w="18.75000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="26.66700" w="18.75000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_632355" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_842479" type="highlight" log_data="a-type=3&amp;ei=C3k9XNGcH4Kd1gKO_b-oCg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DBleeptrackPodcast&amp;a-id=annotation_842479&amp;xble=1&amp;a-v=J-DyfBK16ls&amp;l-class=3" itct="CAMQs-UBGP___________wEiEwiRzv-BkO_fAhWCjlUKHY7-D6Uo-B0yAml2SNvU15XBz7zwJw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.93800" y="18.61100" w="47.96900" h="46.38900" t="0:02:37.8"/>
+      <rectRegion x="25.93800" y="18.61100" w="47.96900" h="46.38900" t="0:02:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/profile?annotation_id=annotation_842479&amp;ei=C3k9XNGcH4Kd1gKO_b-oCg&amp;feature=iv&amp;src_vid=J-DyfBK16ls&amp;user=BleeptrackPodcast" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

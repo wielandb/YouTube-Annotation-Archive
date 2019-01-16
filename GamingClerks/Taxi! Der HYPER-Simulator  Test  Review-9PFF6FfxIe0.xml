@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7uzzgdju3wIVyVfgCh1-5gbnKPgdMgJpdkjtw8S_hb3R-PQB">
+<annotation id="annotation_1413099397" type="highlight" log_data="ei=Uj49XO77OMmvgQf-zJu4Dg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fklopaperproduction&amp;xble=1&amp;a-id=annotation_1413099397&amp;l-class=3&amp;a-v=9PFF6FfxIe0" itct="CAEQs-UBGP___________wEiEwju7POB2O7fAhXJV-AKHX7mBuco-B0yAml2SO3DxL-FvdH49AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.54700" y="60.56300" w="39.42200" h="39.43700" t="10:30.721"/>
+      <rectRegion x="5.54700" y="60.56300" w="39.42200" h="39.43700" t="11:52.597"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/klopaperproduction?annotation_id=annotation_1413099397&amp;ei=Uj49XO77OMmvgQf-zJu4Dg&amp;feature=iv&amp;src_vid=9PFF6FfxIe0" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2128412253" type="text" style="popup" log_data="ei=Uj49XO77OMmvgQf-zJu4Dg&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fklopaperproduction&amp;xble=1&amp;a-id=annotation_2128412253&amp;l-class=3&amp;a-v=9PFF6FfxIe0" itct="CAIQs-UBGP___________wEiEwju7POB2O7fAhXJV-AKHX7mBuco-B0yAml2SO3DxL-FvdH49AE">
+  <TEXT>Nikos neuen/alten Kanal gibt es hier!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.69900" y="90.83100" w="40.30100" h="9.16900" t="0:00.408"/>
+      <rectRegion x="59.69900" y="90.83100" w="40.30100" h="9.16900" t="11:52.597"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/klopaperproduction?annotation_id=annotation_2128412253&amp;ei=Uj49XO77OMmvgQf-zJu4Dg&amp;feature=iv&amp;src_vid=9PFF6FfxIe0" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_272012979" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1413099397">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1413099397" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3702335595" type="highlight" log_data="ei=Uj49XO77OMmvgQf-zJu4Dg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fklopaperproduction%3Fsub_confirmation%3D1&amp;xble=1&amp;a-id=annotation_3702335595&amp;l-class=5&amp;a-v=9PFF6FfxIe0" itct="CAMQs-UBGP___________wEiEwju7POB2O7fAhXJV-AKHX7mBuco-B0yAml2SO3DxL-FvdH49AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.23800" y="73.62000" w="38.47100" h="26.38000" t="10:30.721"/>
+      <rectRegion x="50.23800" y="73.62000" w="38.47100" h="26.38000" t="11:52.597"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/klopaperproduction?annotation_id=annotation_3702335595&amp;ei=Uj49XO77OMmvgQf-zJu4Dg&amp;feature=iv&amp;src_vid=9PFF6FfxIe0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4165939003" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3702335595">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3702335595" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

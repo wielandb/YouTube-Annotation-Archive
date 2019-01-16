@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIk-Kz0avv3wIVEVbgCh2RHADWKPgdMgJpdkjNxs7Rt9_NgwY">
+<annotation id="annotation_398601" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fview_play_list%3Fp%3D3851FCE621847764&amp;a-id=annotation_398601&amp;xble=1&amp;ei=AZY9XNPdMJGsgQeRuYCwDQ&amp;a-v=Bgc2-3ozo00&amp;l-class=2&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiT4rPRq-_fAhURVuAKHZEcANYo-B0yAml2SM3GztG3382DBg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.40600" y="12.50000" w="3.12500" h="8.05600" t="0:00:00.0"/>
+      <rectRegion x="96.40600" y="12.50000" w="3.12500" h="8.05600" t="0:03:58.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/view_play_list?annotation_id=annotation_398601&amp;ei=AZY9XNPdMJGsgQeRuYCwDQ&amp;feature=iv&amp;p=3851FCE621847764&amp;src_vid=Bgc2-3ozo00" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_405386" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-id=annotation_405386&amp;xble=1&amp;ei=AZY9XNPdMJGsgQeRuYCwDQ&amp;a-v=Bgc2-3ozo00&amp;l-class=5&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiT4rPRq-_fAhURVuAKHZEcANYo-B0yAml2SM3GztG3382DBg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.62500" y="1.38900" w="3.12500" h="8.05600" t="0:00:00.0"/>
+      <rectRegion x="95.62500" y="1.38900" w="3.12500" h="8.05600" t="0:03:58.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_405386&amp;ei=AZY9XNPdMJGsgQeRuYCwDQ&amp;feature=iv&amp;src_vid=Bgc2-3ozo00" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_857963" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK HERE to easily watch all the &quot;Up All Knight&quot; Episodes =D</TEXT>
+  <segment spaceRelative="annotation_398601">
+    <movingRegion type="rect">
+      <rectRegion x="-31.25000" y="-0.27800" w="30.62500" h="9.44400" t="never"/>
+      <rectRegion x="-31.25000" y="-0.27800" w="30.62500" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="4006422"/>
+  <trigger>
+    <condition ref="annotation_398601" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_923168" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to vsauce !!!</TEXT>
+  <segment spaceRelative="annotation_405386">
+    <movingRegion type="rect">
+      <rectRegion x="-22.50000" y="1.38900" w="21.71900" h="5.55600" t="never"/>
+      <rectRegion x="-22.50000" y="1.38900" w="21.71900" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="4006422"/>
+  <trigger>
+    <condition ref="annotation_405386" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="vsauce" id="annotation_984034" itct="CAMQs-UBGP___________wEiEwiT4rPRq-_fAhURVuAKHZEcANYo-B0yAml2SM3GztG3382DBg" log_data="a-id=annotation_984034&amp;a-type=2&amp;xble=1&amp;a-v=Bgc2-3ozo00&amp;ei=AZY9XNPdMJGsgQeRuYCwDQ" style="speech" type="text"><TEXT>Watch MORE episodes of "Up All Knight" by clicking THIS square :)</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="20.0279998779" sx="96.40599823" sy="23.3330001831" t="0:03:42.8" w="36.71900177" x="59.375" y="62.5" /><anchoredRegion d="0" h="20.0279998779" sx="96.40599823" sy="23.3330001831" t="0:03:50.9" w="36.71900177" x="59.375" y="62.5" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="16777215" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="0" gloss="0" highlightFontColor="0" highlightWidth="3" textSize="4.513375" /></annotation></annotations></document>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwMvwhIvv3wIV1bZ7Ch0Fng8ZKPgdMgJpdkj66aKB1qyO0uEB">
+<annotation id="annotation_228349" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS8asrKmwiXw%26index%3D20%26list%3DPLDA308F5DD6606CFC&amp;ei=03M9XICWF9Xt7gOFvL7IAQ&amp;a-type=3&amp;l-class=1&amp;a-v=4aQ5ZWAotPo&amp;xble=1&amp;a-id=annotation_228349" itct="CAEQs-UBGP___________wEiEwjAy_CEi-_fAhXVtnsKHQWeDxko-B0yAml2SPrpooHWrI7S4QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.81300" y="32.77800" w="35.31300" h="34.16700" t="0:06:11.1"/>
+      <rectRegion x="32.81300" y="32.77800" w="35.31300" h="34.16700" t="0:06:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_228349&amp;ei=03M9XICWF9Xt7gOFvL7IAQ&amp;feature=iv&amp;index=20&amp;list=PLDA308F5DD6606CFC&amp;src_vid=4aQ5ZWAotPo&amp;v=S8asrKmwiXw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_512610" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtomzalat&amp;ei=03M9XICWF9Xt7gOFvL7IAQ&amp;a-type=3&amp;l-class=5&amp;a-v=4aQ5ZWAotPo&amp;xble=1&amp;a-id=annotation_512610" itct="CAIQs-UBGP___________wEiEwjAy_CEi-_fAhXVtnsKHQWeDxko-B0yAml2SPrpooHWrI7S4QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.31300" y="4.72200" w="27.65600" h="13.61100" t="0:06:11.1"/>
+      <rectRegion x="70.31300" y="4.72200" w="27.65600" h="13.61100" t="0:06:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=tomzalat&amp;annotation_id=annotation_512610&amp;ei=03M9XICWF9Xt7gOFvL7IAQ&amp;feature=iv&amp;src_vid=4aQ5ZWAotPo" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_642877" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Total kostenlos, Mann!</TEXT>
+  <segment spaceRelative="annotation_512610">
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="16.94400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="1.40600" y="16.94400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_512610" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_83400" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Das wird so toll!</TEXT>
+  <segment spaceRelative="annotation_228349">
+    <movingRegion type="rect">
+      <rectRegion x="4.84400" y="-6.94400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="4.84400" y="-6.94400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_228349" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_990924" log_data="ei=03M9XICWF9Xt7gOFvL7IAQ&amp;xble=1&amp;a-type=0&amp;a-id=annotation_990924&amp;a-v=4aQ5ZWAotPo" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:06:19.7" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:06:19.7" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:10.0" /></action></annotation>
+<annotation id="channel:cd06f572-2b50-2445-8691-bcaec511e134" style="branding" type="branding"
+            log_data="ei=03M9XICWF9Xt7gOFvL7IAQ&amp;a-type=10&amp;a-ch=UCSTSJT-X8obSxoJ7ySioGXQ&amp;l-class=3&amp;link-id=UCSTSJT-X8obSxoJ7ySioGXQ&amp;a-v=4aQ5ZWAotPo&amp;xble=0&amp;a-id=cd06f572-2b50-2445-8691-bcaec511e134">
+  <data>{&quot;end_ms&quot;:381000,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;28.074&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=de\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqa3lSd0JqWUp6VVN5UWJmeExPUF9OeXVCLVdPUXxBQ3Jtc0ttYXpHRjBNT1BiZTdNNVVHdkNNRy1ySGRQY3J5dHdmZlVMWjFXWVBMb3BHUU9IakFuRTcwTjBEUHphNWZIOEg2TUJqWDNMa0tjbnp6SXFxeXpENS1Qd3ExZXVlVm9BUmpDemhBWV9xMFlPQVFZcm5HSnRBNGt5MEpNTHNmQURnbWxYQjRBV0Nlc1hFTnpDU3VndDJjS3YtZ0tFQjN4ekxyM19PREd4Z3MxTTNlRmJZNWJISE1FSERmZlR6WWswYmFOS3h0a1phQ0VCRkFxRXIwRzltYlNXRDZzNFRSdGNHY0dkaEs5MFBqRXVkZXZKNENJ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTomzalat%26action_handle_signin%3Dtrue%26feature%3Div&quot;,&quot;subscribeCount&quot;:&quot;28.073&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false},&quot;start_ms&quot;:18000,&quot;channel_name&quot;:&quot;LetsGameDev&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STSJT-X8obSxoJ7ySioGXQ\/featured_channel.jpg?v=509e7bda&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTSJT-X8obSxoJ7ySioGXQ&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;ei&quot;:&quot;03M9XICWF9Xt7gOFvL7IAQ&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMDL8ISL798CFdW2ewodBZ4PGSj4HTICaXZI-umigdasjtLhAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;cd06f572-2b50-2445-8691-bcaec511e134&quot;,&quot;src_vid&quot;:&quot;4aQ5ZWAotPo&quot;},&quot;num_subscribers&quot;:&quot;28073&quot;,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Tomzalat"/>
+  </action>
+</annotation></annotations></document>

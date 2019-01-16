@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsLu016vv3wIV3lHgCh1DdQARKPgdMgJpdki5v-Oe9ICGriU">
+<annotation id="annotation_235537" type="text" style="popup" log_data="a-v=JVwYB0PY37k&amp;l-class=1&amp;a-type=1&amp;a-id=annotation_235537&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhSt4sauiRmE&amp;ei=DpY9XLD8F96jgQfD6oGIAQ" itct="CAEQs-UBGP___________wEiEwiwu7TXq-_fAhXeUeAKHUN1ABEo-B0yAml2SLm_4570gIauJQ">
+  <TEXT>CLICK FOR CREEPY POKEMON!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.53100" y="82.77800" w="20.46900" h="17.22200" t="0:03:58.2"/>
+      <rectRegion x="79.53100" y="82.77800" w="20.46900" h="17.22200" t="0:05:19.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="4.513375" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_235537&amp;ei=DpY9XLD8F96jgQfD6oGIAQ&amp;feature=iv&amp;src_vid=JVwYB0PY37k&amp;v=hSt4sauiRmE" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_268868" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Atari&#39;s Best Selling System</TEXT>
+  <segment spaceRelative="annotation_797669">
+    <movingRegion type="rect">
+      <rectRegion x="-20.62500" y="-1.38900" w="18.75000" h="7.77800" t="never"/>
+      <rectRegion x="-20.62500" y="-1.38900" w="18.75000" h="7.77800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_797669" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_717811" type="text" style="popup" log_data="xble=1&amp;a-v=JVwYB0PY37k&amp;a-type=1&amp;a-id=annotation_717811&amp;ei=DpY9XLD8F96jgQfD6oGIAQ" itct="CAIQs-UBGP___________wEiEwiwu7TXq-_fAhXeUeAKHUN1ABEo-B0yAml2SLm_4570gIauJQ">
+  <TEXT>Atari&#39;s Best Selling Console</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="6.66700" w="30.00000" h="6.94400" t="0:01:14.8"/>
+      <rectRegion x="5.62500" y="6.66700" w="30.00000" h="6.94400" t="0:01:15.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_797669" type="highlight" log_data="xble=1&amp;a-v=JVwYB0PY37k&amp;a-type=3&amp;a-id=annotation_797669&amp;ei=DpY9XLD8F96jgQfD6oGIAQ" itct="CAMQs-UBGP___________wEiEwiwu7TXq-_fAhXeUeAKHUN1ABEo-B0yAml2SLm_4570gIauJQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.46900" y="25.27800" w="4.53100" h="5.55600" t="0:01:14.6"/>
+      <rectRegion x="95.46900" y="25.27800" w="4.53100" h="5.55600" t="0:01:15.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+</annotation>
+</annotations></document>

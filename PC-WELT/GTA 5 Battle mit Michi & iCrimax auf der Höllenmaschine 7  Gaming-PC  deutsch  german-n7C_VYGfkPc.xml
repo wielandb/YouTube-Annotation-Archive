@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIo8myl_Xu3wIVSaJVCh1TdwXIKPgdMgJpdkj3of6M2Oqv2J8B">
+<annotation id="annotation_2738682775" type="highlight" log_data="ei=6Fw9XKO1JsnE1gLT7pXADA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKlOJK9GE07M&amp;a-v=n7C_VYGfkPc&amp;a-id=annotation_2738682775&amp;l-class=1&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwijybKX9e7fAhVJolUKHVN3Bcgo-B0yAml2SPeh_ozY6q_YnwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="42.78900" y="6.19700" w="33.08200" h="38.76100" t="11:11.655"/>
+      <rectRegion x="42.78900" y="6.19700" w="33.08200" h="38.76100" t="11:18.613"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2738682775&amp;ei=6Fw9XKO1JsnE1gLT7pXADA&amp;feature=iv&amp;src_vid=n7C_VYGfkPc&amp;v=KlOJK9GE07M" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3066047009" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2738682775">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2738682775" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4084277347" type="text" style="popup" log_data="ei=6Fw9XKO1JsnE1gLT7pXADA&amp;a-id=annotation_4084277347&amp;a-type=1&amp;a-v=n7C_VYGfkPc&amp;xble=1" itct="CAIQs-UBGP___________wEiEwijybKX9e7fAhVJolUKHVN3Bcgo-B0yAml2SPeh_ozY6q_YnwE">
+  <TEXT>PC-WELT-Kanal hier abonnieren</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="47.26700" h="11.41600" t="11:32.736"/>
+      <rectRegion x="0.00000" y="0.00000" w="47.26700" h="11.41600" t="11:40.030"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="ei=6Fw9XKO1JsnE1gLT7pXADA&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=n7C_VYGfkPc&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;l-class=3&amp;xble=0&amp;a-type=10">
+  <data>{&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbkZMQ0ItdXF0UUFCekF1cC1vVkFJRUd5ZFVBZ3xBQ3Jtc0tud3VkVTJyaVZxNzl1NWZ5ZzZoZmtkenlXOV9TZU5vQ1hqcGJTWnFQeVRSeVU0MWNvT3dVSFdTcWtra0UwQ2xHbE95aC10RllBNDVocS1oQ04ybFVMOWFGbWE2UWxETEdJT2hQeXJyVDIyOUlzRzY4THV6dGswdjZBSUpHV2VWSEx5LWs1eEF6cUNtVUFPWDh4d0JQWnh3UUdURGloQ3JYYlhqcTBqV3RLUU5ic0tJdG1nbDJPRF94bEhTX2NYYlVDbUFBbzJWTU93MFduelNienVQVTRWdGNfTWM3RmlSNFNmMGdKTGN4SW1ZUEFjQ0lz%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26hl%3Dde%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;ei&quot;:&quot;6Fw9XKO1JsnE1gLT7pXADA&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;n7C_VYGfkPc&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTICaXZI96H-jNjqr9ifAQ&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:55,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;image_height&quot;:12,&quot;end_ms&quot;:710000,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:fe877e42-ae94-4f39-b378-dfe2146eebd6" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=fe877e42-ae94-4f39-b378-dfe2146eebd6&amp;a-type=62&amp;a-v=n7C_VYGfkPc&amp;ei=6Fw9XKO1JsnE1gLT7pXADA&amp;l-class=1&amp;link-id=lcUAm_alEPs&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/lcUAm_alEPs\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:24353,&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1502895050778,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;227.576 Aufrufe&quot;],&quot;title&quot;:&quot;\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0fBATTLE in GTA5 mit iCrimax - H\u00f6llenmaschine 8 | #Gaming-PC&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwijybKX9e7fAhVJolUKHVN3Bcgo-B0yBWNhcmRzSPeh_ozY6q_YnwE&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=lcUAm_alEPs&quot;,&quot;teaser_text&quot;:&quot;Die Revanche auf der HM08!!!&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;6Fw9XKO1JsnE1gLT7pXADA&quot;,&quot;annotation_id&quot;:&quot;fe877e42-ae94-4f39-b378-dfe2146eebd6&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;n7C_VYGfkPc&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;},&quot;end_ms&quot;:24353,&quot;video_duration&quot;:&quot;14:28&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=lcUAm_alEPs"/>
+  </action>
+</annotation>
+
+<annotation id="video:b9c1f78d-9301-436e-8119-0f20e1a74e9d" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=b9c1f78d-9301-436e-8119-0f20e1a74e9d&amp;a-type=62&amp;a-v=n7C_VYGfkPc&amp;ei=6Fw9XKO1JsnE1gLT7pXADA&amp;l-class=1&amp;link-id=klXWIgbI_s0&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/klXWIgbI_s0\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:622173,&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1459595985868,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;1.259.564 Aufrufe&quot;],&quot;title&quot;:&quot;36.000\u20ac-Gaming-PC! Alle Infos zur H\u00f6llenmaschine 7 | deutsch \/ german&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwijybKX9e7fAhVJolUKHVN3Bcgo-B0yBWNhcmRzSPeh_ozY6q_YnwE&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=klXWIgbI_s0&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 36.000\u20ac-Gaming-PC! Alle Infos zur H\u00f6llenmaschine 7 | deutsch \/ german&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;6Fw9XKO1JsnE1gLT7pXADA&quot;,&quot;annotation_id&quot;:&quot;b9c1f78d-9301-436e-8119-0f20e1a74e9d&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;n7C_VYGfkPc&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;},&quot;end_ms&quot;:622173,&quot;video_duration&quot;:&quot;21:31&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=klXWIgbI_s0"/>
+  </action>
+</annotation>
+
+<annotation id="video:4e7011d8-6dac-4c38-9717-768a8de81eb7" style="collaborator" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=4e7011d8-6dac-4c38-9717-768a8de81eb7&amp;a-type=69&amp;a-v=n7C_VYGfkPc&amp;ei=6Fw9XKO1JsnE1gLT7pXADA&amp;l-class=3&amp;link-id=UCaR5mgH9aZkswPQtjZ4DktA&amp;xble=0">
+  <data>{&quot;session_data&quot;:{&quot;ei&quot;:&quot;6Fw9XKO1JsnE1gLT7pXADA&quot;,&quot;annotation_id&quot;:&quot;4e7011d8-6dac-4c38-9717-768a8de81eb7&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;n7C_VYGfkPc&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;},&quot;custom_message&quot;:&quot;GTA-V-Kanal iCrimax&quot;,&quot;channel_id&quot;:&quot;UCaR5mgH9aZkswPQtjZ4DktA&quot;,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:653170,&quot;card_type&quot;:&quot;collaborator&quot;,&quot;timestamp&quot;:1459594598381,&quot;meta_info&quot;:[&quot;1,5\u00a0Mio.\u00a0Abonnenten&quot;],&quot;title&quot;:&quot;iCrimax&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBAQ1TYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwijybKX9e7fAhVJolUKHVN3Bcgo-B0yBWNhcmRzSPeh_ozY6q_YnwE&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H-jNjqr9ifAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/user\/iCrimax&quot;,&quot;teaser_text&quot;:&quot;GTA-V-Kanal iCrimax&quot;,&quot;end_ms&quot;:653170,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mCAGRiZ1FJPwz-7araN8R3pUFzNbdXVXsofGA=s300-mo-c-c0xffffffff-rj-k-no&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/iCrimax"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwijybKX9e7fAhVJolUKHVN3Bcgo+B0yBWNhcmRzSPeh/ozY6q/YnwE=&quot;, 
+  &quot;eventId&quot;: &quot;6Fw9XKO1JsnE1gLT7pXADA&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCKPJspf17t8CFUmiVQodU3cFyCj4HTIFY2FyZHNI96H+jNjqr9ifAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwijybKX9e7fAhVJolUKHVN3Bcgo+B0yBWNhcmRzSPeh/ozY6q/YnwE=&quot;
+}</data>
+</annotation>
+</annotations></document>

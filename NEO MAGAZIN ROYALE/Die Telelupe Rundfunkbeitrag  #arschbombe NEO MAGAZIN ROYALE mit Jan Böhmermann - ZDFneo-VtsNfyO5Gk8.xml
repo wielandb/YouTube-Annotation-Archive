@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzbXpxKDv3wIVDCXgCh3HVgvkKPgdMgJpdkjPtOSd8q_D7VY">
+<annotation id="annotation_1143559853" type="highlight" log_data="xble=1&amp;l-class=5&amp;a-id=annotation_1143559853&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;a-v=VtsNfyO5Gk8&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNNEMxGKV1LsKZRt4vaIbvw%3Fsub_confirmation%3D1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yAml2SM-05J3yr8PtVg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="84.94500" y="6.19700" w="11.68800" h="27.21500" t="9:56.804"/>
+      <rectRegion x="84.94500" y="6.19700" w="11.68800" h="27.21500" t="10:28.214"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCNNEMxGKV1LsKZRt4vaIbvw?annotation_id=annotation_1143559853&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;feature=iv&amp;src_vid=VtsNfyO5Gk8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1227302359" type="highlight" log_data="xble=1&amp;l-class=2&amp;a-id=annotation_1227302359&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;a-v=VtsNfyO5Gk8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLHeo4sayeLKpEKaxYX_u3C0TcU60jC8dq&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yAml2SM-05J3yr8PtVg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.55900" y="69.57700" w="25.00000" h="27.77800" t="9:56.804"/>
+      <rectRegion x="37.55900" y="69.57700" w="25.00000" h="27.77800" t="10:28.214"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_1227302359&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;feature=iv&amp;list=PLHeo4sayeLKpEKaxYX_u3C0TcU60jC8dq&amp;src_vid=VtsNfyO5Gk8" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1891922679" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1227302359">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1227302359" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2153081993" type="highlight" log_data="xble=1&amp;l-class=1&amp;a-id=annotation_2153081993&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;a-v=VtsNfyO5Gk8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKRHo1vqvXDc&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yAml2SM-05J3yr8PtVg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.35300" y="68.73200" w="25.00000" h="27.77800" t="9:56.804"/>
+      <rectRegion x="67.35300" y="68.73200" w="25.00000" h="27.77800" t="10:28.214"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2153081993&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;feature=iv&amp;src_vid=VtsNfyO5Gk8&amp;v=KRHo1vqvXDc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3239095319" type="highlight" log_data="xble=1&amp;l-class=6&amp;a-id=annotation_3239095319&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;a-v=VtsNfyO5Gk8&amp;link=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fbeitrag%2Fvideo%2F2449676%2FNEO-MAGAZIN-ROYALE-vom-392015&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yAml2SM-05J3yr8PtVg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.92400" y="69.85900" w="25.00000" h="27.77800" t="9:56.804"/>
+      <rectRegion x="7.92400" y="69.85900" w="25.00000" h="27.77800" t="10:28.214"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://zdf.de/ZDFmediathek/beitrag/video/2449676/NEO-MAGAZIN-ROYALE-vom-392015" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_327744347" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2153081993">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2153081993" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3747238721" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1143559853">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1143559853" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_972776641" type="text" style="popup" log_data="a-v=VtsNfyO5Gk8&amp;a-type=1&amp;xble=1&amp;a-id=annotation_972776641&amp;ei=Xoo9XM2OJozKgAfHra2gDg" itct="CAUQs-UBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yAml2SM-05J3yr8PtVg">
+  <TEXT>Korrektur: Channel4 stimmt, BBC natürlich nicht (Anm.d.Red)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.46000" y="80.28200" w="81.93300" h="9.18300" t="3:54.145"/>
+      <rectRegion x="10.46000" y="80.28200" w="81.93300" h="9.18300" t="4:03.724"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_980669167" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3239095319">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3239095319" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:54c95822-0000-2051-ab96-001a113d4b18" style="branding" type="branding"
+            log_data="xble=0&amp;l-class=3&amp;a-id=54c95822-0000-2051-ab96-001a113d4b18&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;a-v=VtsNfyO5Gk8&amp;a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-type=10&amp;link-id=UCNNEMxGKV1LsKZRt4vaIbvw">
+  <data>{&quot;channel_id&quot;:&quot;UCNNEMxGKV1LsKZRt4vaIbvw&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;end_ms&quot;:629000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTICaXZIz7TknfKvw-1W&quot;,&quot;ei&quot;:&quot;Xoo9XM2OJozKgAfHra2gDg&quot;,&quot;src_vid&quot;:&quot;VtsNfyO5Gk8&quot;,&quot;annotation_id&quot;:&quot;54c95822-0000-2051-ab96-001a113d4b18&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/NNEMxGKV1LsKZRt4vaIbvw\/featured_channel.jpg?v=54ce5d14&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;NEO MAGAZIN ROYALE&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;618.954&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribeCount&quot;:&quot;618.953&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCNNEMxGKV1LsKZRt4vaIbvw%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbDFDS2gzeWtIbXFpdWtRMVkwNlhHVUtNN2hTd3xBQ3Jtc0ttRDRHcXlzanVKLTdvdEpxUXNiOGlZS09hTXl1ZGlwZzhCMUlIUDlGQ0VYRDFUdHU1Szlia0FxQThMYkE0T09EMENmbEFXa1NhOTB1Q3ZIeXo4eUFiX3ItUG0tcnFDdmdhMVpfNmRoVHY0Ni1KOUpxMXh3bThUeDI5Y2xLY0M2VXVpMmVkRWx3WVdqLVVtYW51UWlMczFnMkNhS0o1c2JoMlVPeGYyMmlhZDdmaWV3LXVTVEZGLXlpU0w3MTkxYm0wT0VUX253VFo5MlVJdHNTclhkVE1iSFRnOWJRSG1TZFFma2gydE13bGJ4TFNoRklZ%26feature%3Div%26action_handle_signin%3Dtrue\u0026hl=de\u0026service=youtube\u0026passive=true&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false},&quot;num_subscribers&quot;:&quot;618953&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCNNEMxGKV1LsKZRt4vaIbvw"/>
+  </action>
+</annotation>
+<annotation id="video:18ff6466-0642-43d7-a37f-eeff134f2669" style="playlist" type="card" log_data="a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-id=18ff6466-0642-43d7-a37f-eeff134f2669&amp;a-type=63&amp;a-v=VtsNfyO5Gk8&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;l-class=2&amp;link-id=PLHeo4sayeLKpEKaxYX_u3C0TcU60jC8dq&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/utR4Lpd9GxU\/mqdefault.jpg&quot;,&quot;start_ms&quot;:121615,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=utR4Lpd9GxU\u0026list=PLHeo4sayeLKpEKaxYX_u3C0TcU60jC8dq&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Neo Magazin vom 03.09.2015&quot;,&quot;end_ms&quot;:121615,&quot;teaser_text&quot;:&quot;Empfohlen: Neo Magazin vom 03.09.2015&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAsQ1TYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yBWNhcmRzSM-05J3yr8PtVg&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;},&quot;target&quot;:&quot;new&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;,&quot;ei&quot;:&quot;Xoo9XM2OJozKgAfHra2gDg&quot;,&quot;src_vid&quot;:&quot;VtsNfyO5Gk8&quot;,&quot;annotation_id&quot;:&quot;18ff6466-0642-43d7-a37f-eeff134f2669&quot;},&quot;meta_info&quot;:[&quot;von NEO MAGAZIN ROYALE&quot;,&quot;5\u00a0Videos&quot;],&quot;playlist_video_count&quot;:&quot;5&quot;,&quot;timestamp&quot;:1441305717159}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=utR4Lpd9GxU&amp;list=PLHeo4sayeLKpEKaxYX_u3C0TcU60jC8dq"/>
+  </action>
+</annotation>
+
+<annotation id="video:29e1cc5f-ea6b-42b7-b441-7ef005000ced" style="simple" type="card" log_data="a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-id=29e1cc5f-ea6b-42b7-b441-7ef005000ced&amp;a-type=68&amp;a-v=VtsNfyO5Gk8&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;l-class=6&amp;link=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fbeitrag%2Fvideo%2F2449676%2FNEO-MAGAZIN-ROYALE-vom-392015&amp;xble=0">
+  <data>{&quot;start_ms&quot;:476653,&quot;url&quot;:&quot;\/redirect?redir_token=HbQJpJ2x7WRjQngAfR5PwB94N6t8MTU0NzYyMzM5MEAxNTQ3NTM2OTkw\u0026event=infocard\u0026q=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fbeitrag%2Fvideo%2F2449676%2FNEO-MAGAZIN-ROYALE-vom-392015&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;Komplette Folge ansehen&quot;,&quot;title&quot;:&quot;NEO MAGAZIN ROYALE vom 3.9.2015 - ZDF Mediathek&quot;,&quot;end_ms&quot;:476653,&quot;teaser_text&quot;:&quot;Komplette Folge ansehen&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/VtsNfyO5Gk8\/29e1cc5f-ea6b-42b7-b441-7ef005000ced_mq.jpg?v=55e894c8&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA8Q1TYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yBWNhcmRzSM-05J3yr8PtVg&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;},&quot;target&quot;:&quot;new&quot;,&quot;display_domain&quot;:&quot;zdf.de&quot;,&quot;sponsored&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;,&quot;ei&quot;:&quot;Xoo9XM2OJozKgAfHra2gDg&quot;,&quot;src_vid&quot;:&quot;VtsNfyO5Gk8&quot;,&quot;annotation_id&quot;:&quot;29e1cc5f-ea6b-42b7-b441-7ef005000ced&quot;},&quot;meta_info&quot;:[],&quot;show_link_icon&quot;:true,&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1441305801528}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=HbQJpJ2x7WRjQngAfR5PwB94N6t8MTU0NzYyMzM5MEAxNTQ3NTM2OTkw&amp;event=infocard&amp;q=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fbeitrag%2Fvideo%2F2449676%2FNEO-MAGAZIN-ROYALE-vom-392015"/>
+  </action>
+</annotation>
+
+<annotation id="video:3c1f6bb9-5a87-4aa6-91f2-06044b1db534" style="video" type="card" log_data="a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-id=3c1f6bb9-5a87-4aa6-91f2-06044b1db534&amp;a-type=62&amp;a-v=VtsNfyO5Gk8&amp;ei=Xoo9XM2OJozKgAfHra2gDg&amp;l-class=1&amp;link-id=KRHo1vqvXDc&amp;xble=0">
+  <data>{&quot;start_ms&quot;:538769,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=KRHo1vqvXDc&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Deutsch - German, German - Deutsch | #heidepack NEO MAGAZIN ROYALE mit Jan B\u00f6hmermann - ZDFneo&quot;,&quot;end_ms&quot;:538769,&quot;teaser_text&quot;:&quot;Empfohlen: Deutsch - German, German - Deutsch | #heidepack NEO MAGAZIN ROYALE mit Jan B\u00f6hmermann - ZDFneo&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/KRHo1vqvXDc\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBMQ1TYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;,&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwjNtenEoO_fAhUMJeAKHcdWC-Qo-B0yBWNhcmRzSM-05J3yr8PtVg&quot;,&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;},&quot;target&quot;:&quot;new&quot;,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw-1W&quot;,&quot;ei&quot;:&quot;Xoo9XM2OJozKgAfHra2gDg&quot;,&quot;src_vid&quot;:&quot;VtsNfyO5Gk8&quot;,&quot;annotation_id&quot;:&quot;3c1f6bb9-5a87-4aa6-91f2-06044b1db534&quot;},&quot;meta_info&quot;:[&quot;von NEO MAGAZIN ROYALE&quot;,&quot;455.307 Aufrufe&quot;],&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1441305898246,&quot;video_duration&quot;:&quot;4:28&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=KRHo1vqvXDc"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwjNtenEoO/fAhUMJeAKHcdWC+Qo+B0yBWNhcmRzSM+05J3yr8PtVg==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwjNtenEoO/fAhUMJeAKHcdWC+Qo+B0yBWNhcmRzSM+05J3yr8PtVg==&quot;, 
+  &quot;headerText&quot;: &quot;Von NEO MAGAZIN ROYALE&quot;, 
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCM216cSg798CFQwl4Aodx1YL5Cj4HTIFY2FyZHNIz7TknfKvw+1W&quot;, 
+  &quot;eventId&quot;: &quot;Xoo9XM2OJozKgAfHra2gDg&quot;
+}</data>
+</annotation>
+</annotations></document>

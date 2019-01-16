@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIh5C8x9bu3wIVghngCh3eswc3KPgdMgJpdkjvsKLVzueHk2c">
+<annotation id="annotation_2685324991" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Miitomo Part2</TEXT>
+  <segment spaceRelative="annotation_941378821">
+    <movingRegion type="rect">
+      <rectRegion x="3.64500" y="31.83100" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="3.64500" y="31.83100" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_941378821" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_941378821" type="highlight" log_data="l-class=1&amp;a-v=ZyYfPOqomG8&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoOZ_W0PcAnw&amp;ei=yzw9XMf-OYKzgAfe5564Aw&amp;xble=1&amp;a-id=annotation_941378821" itct="CAEQs-UBGP___________wEiEwiHkLzH1u7fAhWCGeAKHd6zBzco-B0yAml2SO-wotXO54eTZw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.86700" y="62.25400" w="32.60700" h="32.28200" t="3:45.259"/>
+      <rectRegion x="63.86700" y="62.25400" w="32.60700" h="32.28200" t="3:57.702"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_941378821&amp;ei=yzw9XMf-OYKzgAfe5564Aw&amp;feature=iv&amp;src_vid=ZyYfPOqomG8&amp;v=oOZ_W0PcAnw" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

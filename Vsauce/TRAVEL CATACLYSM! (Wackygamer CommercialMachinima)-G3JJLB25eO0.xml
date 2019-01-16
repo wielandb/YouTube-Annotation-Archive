@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIpdfng6zv3wIVHJ5VCh2-2w9dKPgdMgJpdkjt8eXtwaWSuRs">
+<annotation id="annotation_290684" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Grab  Bag</TEXT>
+  <segment spaceRelative="annotation_922075">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.44400" w="11.56300" h="10.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.44400" w="11.56300" h="10.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_922075" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_319245" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Nerd Wars</TEXT>
+  <segment spaceRelative="annotation_87124">
+    <movingRegion type="rect">
+      <rectRegion x="17.65600" y="31.11100" w="12.81200" h="5.83300" t="never"/>
+      <rectRegion x="17.65600" y="31.11100" w="12.81200" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_87124" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_339570" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Podcast</TEXT>
+  <segment spaceRelative="annotation_458251">
+    <movingRegion type="rect">
+      <rectRegion x="-14.53100" y="16.66700" w="13.75000" h="5.83300" t="never"/>
+      <rectRegion x="-14.53100" y="16.66700" w="13.75000" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_458251" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="vsauce" id="annotation_431515" itct="CAEQs-UBGP___________wEiEwil1-eDrO_fAhUcnlUKHb7bD10o-B0yAml2SO3x5e3BpZK5Gw" log_data="a-id=annotation_431515&amp;a-v=G3JJLB25eO0&amp;a-type=2&amp;xble=1&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ" style="speech" type="text"><TEXT>Thumbs up for Cataclysm, let us know what you are looking forward to in the comments</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="22.2220001221" sx="9.21899986267" sy="97.2220001221" t="0:00:00.0" w="27.9689998627" x="0.938000023365" y="50.0" /><anchoredRegion d="0" h="22.2220001221" sx="9.21899986267" sy="97.2220001221" t="0:00:05.0" w="27.9689998627" x="0.938000023365" y="50.0" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="407700" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="999604" highlightWidth="3" textSize="3.6107" /></annotation>
+<annotation id="annotation_458251" type="highlight" log_data="a-id=annotation_458251&amp;xble=1&amp;a-type=3&amp;l-class=1&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKATC6rOOzp8&amp;a-v=G3JJLB25eO0" itct="CAIQs-UBGP___________wEiEwil1-eDrO_fAhUcnlUKHb7bD10o-B0yAml2SO3x5e3BpZK5Gw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.31300" y="47.77800" w="30.46900" h="31.11100" t="0:01:07.2"/>
+      <rectRegion x="35.31300" y="47.77800" w="30.46900" h="31.11100" t="0:01:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_458251&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;feature=iv&amp;src_vid=G3JJLB25eO0&amp;v=KATC6rOOzp8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_759914" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_980849">
+    <movingRegion type="rect">
+      <rectRegion x="68.90600" y="13.05600" w="4.84400" h="5.55600" t="never"/>
+      <rectRegion x="68.90600" y="13.05600" w="4.84400" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_980849" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_87124" type="highlight" log_data="a-id=annotation_87124&amp;xble=1&amp;a-type=3&amp;l-class=1&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSN5uwk5DNHc&amp;a-v=G3JJLB25eO0" itct="CAMQs-UBGP___________wEiEwil1-eDrO_fAhUcnlUKHb7bD10o-B0yAml2SO3x5e3BpZK5Gw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.28100" y="15.00000" w="29.84400" h="30.55600" t="0:01:07.2"/>
+      <rectRegion x="53.28100" y="15.00000" w="29.84400" h="30.55600" t="0:01:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_87124&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;feature=iv&amp;src_vid=G3JJLB25eO0&amp;v=SN5uwk5DNHc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_922075" type="highlight" log_data="a-id=annotation_922075&amp;xble=1&amp;a-type=3&amp;l-class=1&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQsgqKPIqgNQ&amp;a-v=G3JJLB25eO0" itct="CAQQs-UBGP___________wEiEwil1-eDrO_fAhUcnlUKHb7bD10o-B0yAml2SO3x5e3BpZK5Gw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.65600" y="15.00000" w="30.62500" h="30.27800" t="0:01:07.2"/>
+      <rectRegion x="17.65600" y="15.00000" w="30.62500" h="30.27800" t="0:01:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_922075&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;feature=iv&amp;src_vid=G3JJLB25eO0&amp;v=QsgqKPIqgNQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_980849" type="highlight" log_data="a-id=annotation_980849&amp;xble=1&amp;a-type=3&amp;l-class=5&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;a-v=G3JJLB25eO0" itct="CAUQs-UBGP___________wEiEwil1-eDrO_fAhUcnlUKHb7bD10o-B0yAml2SO3x5e3BpZK5Gw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.25000" y="80.83300" w="61.71900" h="8.05600" t="0:01:07.2"/>
+      <rectRegion x="26.25000" y="80.83300" w="61.71900" h="8.05600" t="0:01:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_980849&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;feature=iv&amp;src_vid=G3JJLB25eO0" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_999737" type="text" style="popup" log_data="a-id=annotation_999737&amp;xble=1&amp;a-type=1&amp;l-class=5&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;a-v=G3JJLB25eO0" itct="CAYQs-UBGP___________wEiEwil1-eDrO_fAhUcnlUKHb7bD10o-B0yAml2SO3x5e3BpZK5Gw">
+  <TEXT>Subscribe!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="16.71900" h="7.22200" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="16.71900" h="7.22200" t="0:01:31.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_999737&amp;ei=a5Y9XOX1Hpy81gK-t7_oBQ&amp;feature=iv&amp;src_vid=G3JJLB25eO0" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

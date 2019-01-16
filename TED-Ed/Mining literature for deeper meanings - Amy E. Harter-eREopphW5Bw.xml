@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIj66Q0uzu3wIVygTgCh33wAsmKPgdMgJpdkicyNvC6ZTKiHk">
+<annotation id="annotation_294792" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_550661">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_550661" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_316135" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_461493">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_461493" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_367350" type="text" style="popup" log_data="l-class=5&amp;a-v=eREopphW5Bw&amp;a-type=1&amp;a-id=annotation_367350&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1&amp;ei=81M9XM_oNcqJgAf3ga-wAg" itct="CAEQs-UBGP___________wEiEwiPrpDS7O7fAhXKBOAKHffACyYo-B0yAml2SJzI28LplMqIeQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.90600" y="12.22200" w="14.21900" h="31.38900" t="0:04:02.3"/>
+      <rectRegion x="78.90600" y="12.22200" w="14.21900" h="31.38900" t="0:04:12.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_367350&amp;ei=81M9XM_oNcqJgAf3ga-wAg&amp;feature=iv&amp;src_vid=eREopphW5Bw" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_392857" type="text" style="popup" log_data="l-class=12&amp;a-v=eREopphW5Bw&amp;a-type=1&amp;a-id=annotation_392857&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmining-literature-for-deeper-meanings-amy-e-harter&amp;xble=1&amp;ei=81M9XM_oNcqJgAf3ga-wAg" itct="CAIQs-UBGP___________wEiEwiPrpDS7O7fAhXKBOAKHffACyYo-B0yAml2SJzI28LplMqIeQ">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.72200" w="35.93800" h="9.16700" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.72200" w="35.93800" h="9.16700" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/mining-literature-for-deeper-meanings-amy-e-harter" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_461493" type="highlight" log_data="l-class=12&amp;a-v=eREopphW5Bw&amp;a-type=3&amp;a-id=annotation_461493&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmining-literature-for-deeper-meanings-amy-e-harter&amp;xble=1&amp;ei=81M9XM_oNcqJgAf3ga-wAg" itct="CAMQs-UBGP___________wEiEwiPrpDS7O7fAhXKBOAKHffACyYo-B0yAml2SJzI28LplMqIeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.31300" y="52.77800" w="68.90600" h="15.00000" t="0:04:02.3"/>
+      <rectRegion x="15.31300" y="52.77800" w="68.90600" h="15.00000" t="0:04:12.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/mining-literature-for-deeper-meanings-amy-e-harter" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_475167" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_905472">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_905472" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_550661" type="highlight" log_data="l-class=12&amp;a-v=eREopphW5Bw&amp;a-type=3&amp;a-id=annotation_550661&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1&amp;ei=81M9XM_oNcqJgAf3ga-wAg" itct="CAQQs-UBGP___________wEiEwiPrpDS7O7fAhXKBOAKHffACyYo-B0yAml2SJzI28LplMqIeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.93800" y="71.11100" w="31.87500" h="19.16700" t="0:04:02.3"/>
+      <rectRegion x="35.93800" y="71.11100" w="31.87500" h="19.16700" t="0:04:12.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_650508" type="highlight" log_data="l-class=6&amp;a-v=eREopphW5Bw&amp;a-type=3&amp;a-id=annotation_650508&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=81M9XM_oNcqJgAf3ga-wAg" itct="CAUQs-UBGP___________wEiEwiPrpDS7O7fAhXKBOAKHffACyYo-B0yAml2SJzI28LplMqIeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.15600" y="71.11100" w="22.96900" h="18.61100" t="4:02.300"/>
+      <rectRegion x="70.15600" y="71.11100" w="22.96900" h="18.61100" t="4:12.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_905472" type="highlight" log_data="l-class=12&amp;a-v=eREopphW5Bw&amp;a-type=3&amp;a-id=annotation_905472&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1&amp;ei=81M9XM_oNcqJgAf3ga-wAg" itct="CAYQs-UBGP___________wEiEwiPrpDS7O7fAhXKBOAKHffACyYo-B0yAml2SJzI28LplMqIeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.40600" y="71.11100" w="27.18700" h="18.88900" t="0:04:02.3"/>
+      <rectRegion x="6.40600" y="71.11100" w="27.18700" h="18.88900" t="0:04:12.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_993997" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_650508">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_650508" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=eREopphW5Bw&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;ei=81M9XM_oNcqJgAf3ga-wAg">
+  <data>{&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;eREopphW5Bw&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCI-ukNLs7t8CFcoE4Aod98ALJij4HTICaXZInMjbwumUyoh5&quot;,&quot;ei&quot;:&quot;81M9XM_oNcqJgAf3ga-wAg&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;start_ms&quot;:0,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;image_type&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqbUhtZFdtYXV2b2lBMGthSUNHa0FmWkMtblU4Z3xBQ3Jtc0tsYmFvOEk4R0ZtVHlBck5hQnpRUkc4aHg4d2VTbGFMUmFWYmV4RDRUTzJEeEI1Wi0tWTRUOEoyS2RXNTJhNWR2SFJOUGg0ei1mNERWZXNJN0JINzhYeTRaOVBHWWhab1RITm42T19tY3hTdjdVeDRmWEx6ZXF0N2dfUFhuRWdBOFBEb1ZjNXNIV0N1UThqZEZqMGI5Nm9Hckx6clMtQmgxb3JGY21lOTdrVm9KdFdZUEpacHNDQUpmb0NJQVB1Nm1HcEhTRi1ob0lBaGp4aWsxb0hUMjZ2VlRtYjNGNjFNODAtTWszMUc4anI5ajFEOXlR%26app%3Ddesktop\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;end_ms&quot;:253000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

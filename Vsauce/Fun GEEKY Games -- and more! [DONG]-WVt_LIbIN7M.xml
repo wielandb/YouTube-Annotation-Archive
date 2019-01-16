@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwJi7xavv3wIV0EXgCh2gxQGWKPgdMgJpdkiz76C2yOXfrVk">
+<annotation id="annotation_104623" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Want more games? click HERE!</TEXT>
+  <segment spaceRelative="annotation_236729">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="7.77800" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="0.00000" y="7.77800" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_236729" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_236729" type="highlight" log_data="a-v=WVt_LIbIN7M&amp;l-class=2&amp;a-id=annotation_236729&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLEC0A5E71DE1EDFCE&amp;a-type=3&amp;ei=6JU9XMCELtCLgQegi4ewCQ" itct="CAEQs-UBGP___________wEiEwjAmLvFq-_fAhXQReAKHaDFAZYo-B0yAml2SLPvoLbI5d-tWQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="11.09400" h="5.55600" t="0:00:12.4"/>
+      <rectRegion x="0.00000" y="0.00000" w="11.09400" h="5.55600" t="0:02:42.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="5610811" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_236729&amp;ei=6JU9XMCELtCLgQegi4ewCQ&amp;feature=iv&amp;list=PLEC0A5E71DE1EDFCE&amp;src_vid=WVt_LIbIN7M" link_class="2"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_564685" itct="CAIQs-UBGP___________wEiEwjAmLvFq-_fAhXQReAKHaDFAZYo-B0yAml2SLPvoLbI5d-tWQ" log_data="a-type=2&amp;a-id=annotation_564685&amp;a-v=WVt_LIbIN7M&amp;ei=6JU9XMCELtCLgQegi4ewCQ&amp;xble=1" style="speech" type="text"><TEXT>Links to everything in this episode below!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="8.61100006104" sx="53.59400177" sy="100.0" t="0:02:18.6" w="41.25" x="58.75" y="88.3330001831" /><anchoredRegion d="0" h="8.61100006104" sx="53.59400177" sy="100.0" t="0:02:23.6" w="41.25" x="58.75" y="88.3330001831" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="9828" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" highlightFontColor="16777215" highlightWidth="3" textSize="3.6107" /></annotation></annotations></document>

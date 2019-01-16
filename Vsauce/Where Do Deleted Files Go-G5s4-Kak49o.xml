@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr__IlKvv3wIVUkTgCh1Rqwv4KPgdMgJpdkjax5O1ip_OzRs">
+<annotation id="annotation_1634118787" type="highlight" log_data="ei=gpU9XK-2DdKIgQfR1q7ADw&amp;l-class=12&amp;link=https%3A%2F%2Ftwitter.com%2Ftweetsauce&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1634118787&amp;a-v=G5s4-Kak49o" itct="CAEQs-UBGP___________wEiEwiv_8iUq-_fAhVSROAKHVGrC_go-B0yAml2SNrHk7WKn87NGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.79400" y="28.16900" w="40.20600" h="23.56300" t="10:17.843"/>
+      <rectRegion x="29.79400" y="28.16900" w="40.20600" h="23.56300" t="10:35.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="12642020" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://twitter.com/tweetsauce" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4029623265" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1634118787">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1634118787" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4214921361" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_644037707">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_644037707" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_644037707" type="highlight" log_data="ei=gpU9XK-2DdKIgQfR1q7ADw&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1&amp;a-type=3&amp;a-id=annotation_644037707&amp;a-v=G5s4-Kak49o" itct="CAIQs-UBGP___________wEiEwiv_8iUq-_fAhVSROAKHVGrC_go-B0yAml2SNrHk7WKn87NGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.95200" y="56.33800" w="39.89700" h="24.67600" t="10:21.851"/>
+      <rectRegion x="29.95200" y="56.33800" w="39.89700" h="24.67600" t="10:35.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="12642020" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_644037707&amp;ei=gpU9XK-2DdKIgQfR1q7ADw&amp;feature=iv&amp;src_vid=G5s4-Kak49o" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjJDcrvXu3wIV0Z1VCh00cgl2KPgdMgJpdkix9MXOx4XYmj4">
+<annotation id="annotation_1173528841" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3819818401">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3819818401" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3507189083" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4020957147">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4020957147" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3819818401" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;a-v=PjVgLHnRejE&amp;a-id=annotation_3819818401&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;xble=1&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo-B0yAml2SLH0xc7HhdiaPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.50000" y="82.66700" w="27.75000" h="13.77800" t="8:41.579"/>
+      <rectRegion x="4.50000" y="82.66700" w="27.75000" h="13.77800" t="8:58.910"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_3819818401&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;feature=iv&amp;src_vid=PjVgLHnRejE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3930851747" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYGyppsqyvPE&amp;a-v=PjVgLHnRejE&amp;a-id=annotation_3930851747&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;xble=1&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo-B0yAml2SLH0xc7HhdiaPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.00000" y="28.22200" w="35.50000" h="34.66700" t="8:41.579"/>
+      <rectRegion x="5.00000" y="28.22200" w="35.50000" h="34.66700" t="8:58.910"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3930851747&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;feature=iv&amp;src_vid=PjVgLHnRejE&amp;v=YGyppsqyvPE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4020957147" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5UQmkWBdRCo&amp;a-v=PjVgLHnRejE&amp;a-id=annotation_4020957147&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;xble=1&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo-B0yAml2SLH0xc7HhdiaPg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.62500" y="28.00000" w="35.75000" h="35.55600" t="8:41.579"/>
+      <rectRegion x="59.62500" y="28.00000" w="35.75000" h="35.55600" t="8:58.910"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4020957147&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;feature=iv&amp;src_vid=PjVgLHnRejE&amp;v=5UQmkWBdRCo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_968372635" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3930851747">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3930851747" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=PjVgLHnRejE&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;xble=0&amp;l-class=3">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;PjVgLHnRejE&quot;,&quot;ei&quot;:&quot;GV09XMyfIdG71gK05KWwBw&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTICaXZIsfTFzseF2Jo-&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;},&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;image_height&quot;:12,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26continue_action%3DQUFFLUhqbGtGRkRwU3F4ZEE3VTBVRDI1MlRhUERDcUtGd3xBQ3Jtc0tsZjN3aUhhMkd5VVpxYVA0Tk1jdHdOVEYyTkFicGswOC1MQk93VGNPa0daSUhXc0NCVU5KQUNzLTdPY2Z4N2VyUW5pc2lDdFNzc1AybXAyX2ExV3NRZGlXMGRMaGxSRDRGM2wycWRGTWZHYlhPZWNXUVlVNFFSSzNqaU1fX1FRQ3dLaUVOU0RtbE8wUFlkdHRSdGd1YVUzUE9oOXdhS3o1QWp5NjIzejJ5dlh0dzBEZE5HaHpCbE11eWNReXN0OFljY3FLUFI5RkdZWk9heUdJd3JzV1BYanA1V0RGSEN4REVDMFZ6Nk81VXZLSUtTMUo4%26hl%3Dde%26feature%3Div%26app%3Ddesktop\u0026hl=de\u0026service=youtube&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;enabled&quot;:false},&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;end_ms&quot;:539000,&quot;image_width&quot;:55,&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:a39c4bc2-08e6-4ef9-b46a-d9f4278ceb6d" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=a39c4bc2-08e6-4ef9-b46a-d9f4278ceb6d&amp;a-type=62&amp;a-v=PjVgLHnRejE&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;l-class=1&amp;link-id=YGyppsqyvPE&amp;xble=0">
+  <data>{&quot;timestamp&quot;:1456129149237,&quot;video_duration&quot;:&quot;5:49&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;91.739 Aufrufe&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Samsung Galaxy S7 Edge - Hands-on \/ Erster Test | deutsch \/ german&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;PjVgLHnRejE&quot;,&quot;ei&quot;:&quot;GV09XMyfIdG71gK05KWwBw&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo-&quot;,&quot;annotation_id&quot;:&quot;a39c4bc2-08e6-4ef9-b46a-d9f4278ceb6d&quot;},&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo-B0yBWNhcmRzSLH0xc7HhdiaPg&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo-&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo-&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/YGyppsqyvPE\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Samsung Galaxy S7 Edge - Hands-on \/ Erster Test | deutsch \/ german&quot;,&quot;end_ms&quot;:524920,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:524920,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=YGyppsqyvPE&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=YGyppsqyvPE"/>
+  </action>
+</annotation>
+
+<annotation id="video:3afe236e-deec-4dae-9a83-27799c146055" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=3afe236e-deec-4dae-9a83-27799c146055&amp;a-type=62&amp;a-v=PjVgLHnRejE&amp;ei=GV09XMyfIdG71gK05KWwBw&amp;l-class=1&amp;link-id=5UQmkWBdRCo&amp;xble=0">
+  <data>{&quot;timestamp&quot;:1456129159458,&quot;video_duration&quot;:&quot;2:12&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;29.122 Aufrufe&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Samsung zeigt 360-Grad-Kamera \&quot;Gear 360\&quot; - Hands-on | deutsch \/ german&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;PjVgLHnRejE&quot;,&quot;ei&quot;:&quot;GV09XMyfIdG71gK05KWwBw&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo-&quot;,&quot;annotation_id&quot;:&quot;3afe236e-deec-4dae-9a83-27799c146055&quot;},&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo-B0yBWNhcmRzSLH0xc7HhdiaPg&quot;,&quot;card&quot;:&quot;CA0Q1TYY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo-&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo-&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/5UQmkWBdRCo\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Samsung zeigt 360-Grad-Kamera \&quot;Gear 360\&quot; - Hands-on | deutsch \/ german&quot;,&quot;end_ms&quot;:529160,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:529160,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=5UQmkWBdRCo&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=5UQmkWBdRCo"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCIyQ3K717t8CFdGdVQodNHIJdij4HTIFY2FyZHNIsfTFzseF2Jo+&quot;, 
+  &quot;eventId&quot;: &quot;GV09XMyfIdG71gK05KWwBw&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo+B0yBWNhcmRzSLH0xc7HhdiaPg==&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiMkNyu9e7fAhXRnVUKHTRyCXYo+B0yBWNhcmRzSLH0xc7HhdiaPg==&quot;
+}</data>
+</annotation>
+</annotations></document>

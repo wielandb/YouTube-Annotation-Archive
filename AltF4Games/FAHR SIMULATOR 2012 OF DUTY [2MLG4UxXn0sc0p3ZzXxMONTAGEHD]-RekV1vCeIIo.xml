@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIieqs247v3wIVHPtVCh0yUwGxKPgdMgJpdkiKwfiE77rF9EU">
+<annotation id="annotation_424092" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>9gag sucks</TEXT>
+  <segment spaceRelative="annotation_613320">
+    <movingRegion type="rect">
+      <rectRegion x="23.43800" y="74.44400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="23.43800" y="74.44400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.30980833333333" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_613320" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_613320" type="highlight" log_data="a-v=RekV1vCeIIo&amp;ei=rnc9XInbAZz21wKypoWICw&amp;a-id=annotation_613320&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6cOHvaTa2gY&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiJ6qzbju_fAhUc-1UKHTJTAbEo-B0yAml2SIrB-ITvusX0RQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.28100" y="13.33300" w="74.21900" h="67.50000" t="0:01:16.6"/>
+      <rectRegion x="13.28100" y="13.33300" w="74.21900" h="67.50000" t="0:01:20.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_613320&amp;ei=rnc9XInbAZz21wKypoWICw&amp;feature=iv&amp;src_vid=RekV1vCeIIo&amp;v=6cOHvaTa2gY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="" id="annotation_719061" log_data="ei=rnc9XInbAZz21wKypoWICw&amp;a-id=annotation_719061&amp;a-v=RekV1vCeIIo&amp;a-type=0&amp;xble=1" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:01:19.0" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:01:19.0" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:00.1" /></action></annotation></annotations></document>

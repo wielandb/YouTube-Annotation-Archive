@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjY2z8KLv3wIVEQngCh1XvgcbKPgdMgJpdkjF0ey_kIfJ0Q0">
+<annotation id="annotation_2222803527" type="highlight" log_data="a-v=DaMkOQf7KMU&amp;a-id=annotation_2222803527&amp;ei=0ow9XI3cNZGSgAfX_J7YAQ&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiNjbPwou_fAhURCeAKHVe-Bxso-B0yAml2SMXR7L-Qh8nRDQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="0:00.574"/>
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="0:03.574"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2883313767" type="text" style="popup" log_data="a-v=DaMkOQf7KMU&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Frobbubble%3Fsub_confirmation%3D1&amp;l-class=5&amp;a-id=annotation_2883313767&amp;ei=0ow9XI3cNZGSgAfX_J7YAQ&amp;a-type=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiNjbPwou_fAhURCeAKHVe-Bxso-B0yAml2SMXR7L-Qh8nRDQ">
+  <TEXT>Neue Videos ganz bald - nur noch die Bachelorarbeit fertig schreiben! 
+Abonnieren um nix zu verpassen!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="87.04200" w="100.00000" h="13.11300" t="0:00.574"/>
+      <rectRegion x="0.00000" y="87.04200" w="100.00000" h="13.11300" t="0:51.014"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/robbubble?annotation_id=annotation_2883313767&amp;ei=0ow9XI3cNZGSgAfX_J7YAQ&amp;feature=iv&amp;src_vid=DaMkOQf7KMU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2958003583" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2222803527">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9115999999999995" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2222803527" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:52f53c34-0-2e7e-9955-20cf301cc1b6" style="branding" type="branding"
+            log_data="a-v=DaMkOQf7KMU&amp;a-ch=UCq880QL0THPePYuGKV7PxZw&amp;l-class=3&amp;a-id=52f53c34-0-2e7e-9955-20cf301cc1b6&amp;ei=0ow9XI3cNZGSgAfX_J7YAQ&amp;a-type=10&amp;xble=0&amp;link-id=UCq880QL0THPePYuGKV7PxZw">
+  <data>{&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCI2Ns_Ci798CFREJ4AodV74HGyj4HTICaXZIxdHsv5CHydEN&quot;,&quot;annotation_id&quot;:&quot;52f53c34-0-2e7e-9955-20cf301cc1b6&quot;,&quot;ei&quot;:&quot;0ow9XI3cNZGSgAfX_J7YAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;DaMkOQf7KMU&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/q880QL0THPePYuGKV7PxZw\/featured_channel.jpg?v=52f66097&quot;,&quot;num_subscribers&quot;:&quot;201782&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;RobBubble&quot;,&quot;end_ms&quot;:51000,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;201.783&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FRobBubble%26app%3Ddesktop%26continue_action%3DQUFFLUhqblNmSUxrMnlFc0I2VjBFc3RmM1BLbFRhOXRBd3xBQ3Jtc0tubUJCMGU0dEtUQ0twbTVLUlhhM1NveUI5TndEamx0TktobkN6VlFOSDNYMFZldUFvQnNGOFR6d0NxclRYbFdrQzVXUTBYbzVaRUExRHhFSW1LdDBkdUUzaTJBdHB0a0xKQkxJRGJCa1FvRWNyR3hzMjJOX1RpMkZERmYxQ0xHckJubWFBczBZblNDeDZya2tkT1Z1SHd1YWhjMHRaT2hQd29UY1JGdzRSNUtWU3FBUS14dW93dWtUdkhNQjlUY2oxaGRtVzBwaEt0ZmZpNkYtaThMS0J6WGg1a1BTd003NHNCTEhBQnU5Q01fWFYtRDhz%26action_handle_signin%3Dtrue%26hl%3Dde\u0026hl=de\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;201.782&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false},&quot;channel_id&quot;:&quot;UCq880QL0THPePYuGKV7PxZw&quot;,&quot;image_type&quot;:1,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/RobBubble"/>
+  </action>
+</annotation></annotations></document>

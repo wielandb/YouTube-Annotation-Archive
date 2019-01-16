@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIk_HF9-3u3wIVxUbgCh2ikw0-KPgdMgJpdkjdgrK5vJuHzEw">
+<annotation id="annotation_174516" type="highlight" log_data="a-v=TJgc28csgV0&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1&amp;l-class=12&amp;a-type=3&amp;a-id=annotation_174516&amp;ei=TlU9XJOSMMWNgQeip7bwAw" itct="CAEQs-UBGP___________wEiEwiT8cX37e7fAhXFRuAKHaKTDT4o-B0yAml2SN2Csrm8m4fMTA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.78100" y="71.94400" w="32.03100" h="17.77800" t="0:04:09.5"/>
+      <rectRegion x="35.78100" y="71.94400" w="32.03100" h="17.77800" t="0:04:15.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_182583" type="highlight" log_data="a-v=TJgc28csgV0&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_182583&amp;ei=TlU9XJOSMMWNgQeip7bwAw" itct="CAIQs-UBGP___________wEiEwiT8cX37e7fAhXFRuAKHaKTDT4o-B0yAml2SN2Csrm8m4fMTA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.78100" y="71.94400" w="22.03100" h="17.22200" t="4:09.500"/>
+      <rectRegion x="70.78100" y="71.94400" w="22.03100" h="17.22200" t="4:15.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_241301" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_182583">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_182583" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_305307" log_data="a-type=0&amp;xble=1&amp;a-id=annotation_305307&amp;a-v=TJgc28csgV0&amp;ei=TlU9XJOSMMWNgQeip7bwAw" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:04:13.3" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:04:13.3" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_520958" type="highlight" log_data="a-v=TJgc28csgV0&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fradioactivity-expect-the-unexpected-steve-weatherall&amp;xble=1&amp;l-class=12&amp;a-type=3&amp;a-id=annotation_520958&amp;ei=TlU9XJOSMMWNgQeip7bwAw" itct="CAMQs-UBGP___________wEiEwiT8cX37e7fAhXFRuAKHaKTDT4o-B0yAml2SN2Csrm8m4fMTA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.31300" y="53.05600" w="68.90600" h="14.16700" t="0:04:09.5"/>
+      <rectRegion x="15.31300" y="53.05600" w="68.90600" h="14.16700" t="0:04:15.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/radioactivity-expect-the-unexpected-steve-weatherall" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_555543" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_791701">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_791701" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_680610" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_174516">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_174516" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_690040" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_520958">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_520958" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_791701" type="highlight" log_data="a-v=TJgc28csgV0&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1&amp;l-class=12&amp;a-type=3&amp;a-id=annotation_791701&amp;ei=TlU9XJOSMMWNgQeip7bwAw" itct="CAQQs-UBGP___________wEiEwiT8cX37e7fAhXFRuAKHaKTDT4o-B0yAml2SN2Csrm8m4fMTA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.87500" y="71.94400" w="26.56300" h="17.22200" t="0:04:09.5"/>
+      <rectRegion x="6.87500" y="71.94400" w="26.56300" h="17.22200" t="0:04:15.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_799181" type="text" style="popup" log_data="a-v=TJgc28csgV0&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fradioactivity-expect-the-unexpected-steve-weatherall&amp;xble=1&amp;l-class=12&amp;a-type=1&amp;a-id=annotation_799181&amp;ei=TlU9XJOSMMWNgQeip7bwAw" itct="CAUQs-UBGP___________wEiEwiT8cX37e7fAhXFRuAKHaKTDT4o-B0yAml2SN2Csrm8m4fMTA">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="8.88900" w="37.50000" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="8.88900" w="37.50000" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/radioactivity-expect-the-unexpected-steve-weatherall" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_839881" type="text" style="popup" log_data="a-v=TJgc28csgV0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1&amp;l-class=5&amp;a-type=1&amp;a-id=annotation_839881&amp;ei=TlU9XJOSMMWNgQeip7bwAw" itct="">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.90600" y="12.22200" w="13.75000" h="31.66700" t="0:04:09.5"/>
+      <rectRegion x="78.90600" y="12.22200" w="13.75000" h="31.66700" t="0:04:15.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_839881&amp;ei=TlU9XJOSMMWNgQeip7bwAw&amp;feature=iv&amp;src_vid=TJgc28csgV0" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=TJgc28csgV0&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;l-class=3&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=TlU9XJOSMMWNgQeip7bwAw">
+  <data>{&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26continue_action%3DQUFFLUhqbG5kc2MzTW4yQXFsbU5ZVFRZVmp5N2xzSkNTd3xBQ3Jtc0tsenF0eXZ0eDNrVjhnU3RpRGNDSmJHa3pkWWdPR2VvVmNUUjhzdkdMenJxUkpDTE9ibzlkWFFSYUVXNldvZVdIdkYzZ05JcktMNlhhcDI4cld0TWhSYVphdm5neWNVbzFKV0ktc0RwV3gzaXJrWk95al9IUG8tbU16V0p0MHpaS09POXF3eVpZMWNkQlVVemI4OTNiejJKeG9ReVl2aXY1SV8zLWtyWXJaRTFRYnlQMFVOVXR5dUxqSlpTQzJndnpCYmF1NXlsOWNMNGZ0bHJEWWNwVVJjTU83ZVFBdEdSTDQ2U3dDWmJBSEdWVFJxSnJF%26action_handle_signin%3Dtrue%26hl%3Dde\u0026hl=de\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;end_ms&quot;:256000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;TJgc28csgV0&quot;,&quot;ei&quot;:&quot;TlU9XJOSMMWNgQeip7bwAw&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCJPxxfft7t8CFcVG4AodopMNPij4HTICaXZI3YKyubybh8xM&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

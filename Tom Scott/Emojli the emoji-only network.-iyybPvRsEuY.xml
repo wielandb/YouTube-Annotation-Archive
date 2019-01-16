@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgfr65qnv3wIVVqZVCh0IugN2KPgdMgJpdkjmpbCj7-emlosB">
+<annotation id="annotation_2415618861" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3474375111">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3474375111" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3474375111" type="highlight" log_data="ei=FpQ9XIGXCNbM1gKI9I6wBw&amp;a-v=iyybPvRsEuY&amp;a-type=3&amp;a-id=annotation_3474375111&amp;xble=1&amp;link=http%3A%2F%2Femoj.li%2F&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwiB-vrmqe_fAhVWplUKHQi6A3Yo-B0yAml2SOalsKPv56aWiwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.88700" y="23.09900" w="53.71000" h="55.85500" t="0:46.242"/>
+      <rectRegion x="40.88700" y="23.09900" w="53.71000" h="55.85500" t="1:05.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://emoj.li/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_575471955" type="text" style="popup" log_data="ei=FpQ9XIGXCNbM1gKI9I6wBw&amp;a-v=iyybPvRsEuY&amp;a-type=1&amp;a-id=annotation_575471955&amp;xble=1&amp;link=http%3A%2F%2Femoj.li%2F&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwiB-vrmqe_fAhVWplUKHQi6A3Yo-B0yAml2SOalsKPv56aWiwE">
+  <TEXT>Click here to reserve your username.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="46.43400" y="62.53500" w="44.10500" h="7.47900" t="0:48.565"/>
+      <rectRegion x="46.43400" y="62.53500" w="44.10500" h="7.47900" t="1:05.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://emoj.li/" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_641190789" type="text" style="popup" log_data="xble=1&amp;ei=FpQ9XIGXCNbM1gKI9I6wBw&amp;a-v=iyybPvRsEuY&amp;a-id=annotation_641190789&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwiB-vrmqe_fAhVWplUKHQi6A3Yo-B0yAml2SOalsKPv56aWiwE">
+  <TEXT>* Your username has to be emoji.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.52500" y="82.81700" w="30.47500" h="8.60700" t="0:50.857"/>
+      <rectRegion x="69.52500" y="82.81700" w="30.47500" h="8.60700" t="1:05.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

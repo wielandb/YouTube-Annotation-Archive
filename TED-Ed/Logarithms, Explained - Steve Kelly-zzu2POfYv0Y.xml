@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqYrdmO7u3wIVWH3gCh0Bww5bKPgdMgJpdkjG_uK-zsftnc8B">
+<annotation id="annotation_41548" type="highlight" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;a-type=3&amp;a-id=annotation_41548&amp;l-class=12&amp;a-v=zzu2POfYv0Y" itct="CAEQs-UBGP___________wEiEwipit2Y7u7fAhVYfeAKHQHDDlso-B0yAml2SMb-4r7Ox-2dzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.37500" y="65.83300" w="29.25800" h="20.20800" t="0:03:28.2"/>
+      <rectRegion x="64.37500" y="65.83300" w="29.25800" h="20.20800" t="0:03:35.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_444375" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_735494">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.16700" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.16700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_735494" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_501338" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_41548">
+    <movingRegion type="rect">
+      <rectRegion x="2.03100" y="30.00000" w="28.43800" h="4.16700" t="never"/>
+      <rectRegion x="2.03100" y="30.00000" w="28.43800" h="4.16700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_41548" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_525003" type="highlight" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;a-type=3&amp;a-id=annotation_525003&amp;l-class=12&amp;a-v=zzu2POfYv0Y" itct="CAIQs-UBGP___________wEiEwipit2Y7u7fAhVYfeAKHQHDDlso-B0yAml2SMb-4r7Ox-2dzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.18700" y="65.27800" w="29.25000" h="20.73600" t="0:03:28.2"/>
+      <rectRegion x="7.18700" y="65.27800" w="29.25000" h="20.73600" t="0:03:35.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_575633" type="text" style="popup" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fsteve-kelly-logarithms-explained&amp;a-type=1&amp;a-id=annotation_575633&amp;l-class=12&amp;a-v=zzu2POfYv0Y" itct="CAMQs-UBGP___________wEiEwipit2Y7u7fAhVYfeAKHQHDDlso-B0yAml2SMb-4r7Ox-2dzwE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.66700" w="36.87500" h="8.61100" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="11.66700" w="36.87500" h="8.61100" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/steve-kelly-logarithms-explained" link_class="12"/>
+  </action>
+
+</annotation><annotation author="" id="annotation_604977" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;a-v=zzu2POfYv0Y&amp;a-type=0&amp;a-id=annotation_604977" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:03:32.8" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:03:32.8" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_613928" type="text" style="popup" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fsteve-kelly-logarithms-explained&amp;a-type=1&amp;a-id=annotation_613928&amp;l-class=12&amp;a-v=zzu2POfYv0Y" itct="CAQQs-UBGP___________wEiEwipit2Y7u7fAhVYfeAKHQHDDlso-B0yAml2SMb-4r7Ox-2dzwE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.03100" y="16.66700" w="14.68800" h="32.50000" t="0:03:28.2"/>
+      <rectRegion x="7.03100" y="16.66700" w="14.68800" h="32.50000" t="0:03:35.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/steve-kelly-logarithms-explained" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_639549" type="text" style="popup" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtededucation&amp;a-type=1&amp;a-id=annotation_639549&amp;l-class=5&amp;a-v=zzu2POfYv0Y" itct="CAUQs-UBGP___________wEiEwipit2Y7u7fAhVYfeAKHQHDDlso-B0yAml2SMb-4r7Ox-2dzwE">
+  <TEXT>Subscribe to TED-Ed.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.18800" y="17.22200" w="16.25000" h="32.22200" t="0:03:28.2"/>
+      <rectRegion x="77.18800" y="17.22200" w="16.25000" h="32.22200" t="0:03:35.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=tededucation&amp;annotation_id=annotation_639549&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;feature=iv&amp;src_vid=zzu2POfYv0Y" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_735494" type="highlight" log_data="xble=1&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3&amp;a-id=annotation_735494&amp;l-class=6&amp;a-v=zzu2POfYv0Y" itct="CAYQs-UBGP___________wEiEwipit2Y7u7fAhVYfeAKHQHDDlso-B0yAml2SMb-4r7Ox-2dzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.28100" y="65.55600" w="24.14100" h="19.94400" t="3:28.200"/>
+      <rectRegion x="38.28100" y="65.55600" w="24.14100" h="19.94400" t="3:33.922"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_874300" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_525003">
+    <movingRegion type="rect">
+      <rectRegion x="2.18800" y="30.55600" w="28.43800" h="4.16700" t="never"/>
+      <rectRegion x="2.18800" y="30.55600" w="28.43800" h="4.16700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_525003" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;ei=lFU9XKnwFtj6gQeBhrvYBQ&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10&amp;a-v=zzu2POfYv0Y&amp;link-id=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCKmK3Zju7t8CFVh94AodAcMOWyj4HTICaXZIxv7ivs7H7Z3PAQ&quot;,&quot;ei&quot;:&quot;lFU9XKnwFtj6gQeBhrvYBQ&quot;,&quot;src_vid&quot;:&quot;zzu2POfYv0Y&quot;},&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqa0VQZ3hScWF0U1Y0bS1Od0lxVFRxdVJxSVBkd3xBQ3Jtc0tub1lFdmZqY1M3dG83STNnWktTLUNBY3UyUE50cVF4Z0JaaTdkY1BMLW5MM0x2dVktbkNqU01FdXhOU19BTUFrd1RZX0pobG5zRE5aQm00NHVsbHpIclVaU0ltZGVPY0M1SGFlTWNhbEV1OW1ERU1xQmlIQ2dlckllTkU1czByNGIyQ0ZkRmk4VkozOEFjWHRxNkplcWJLeUVQczB0MjIzcjN2NUdfdkVpNDg1MkNxUWxrTWZwMFZqTVFFVTJsZDlHcGlQN3YwcjVZZHl5ak9PdDY5NlYwSVcyR080b1NPdjl5M1hsSTd1M2tqdVlFbUpF%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop\u0026passive=true&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:214000,&quot;image_width&quot;:40,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0byIiarv3wIVFn_gCh3JVAa_KPgdMgJpdkiNgqeVxYL_mbsB">
+<annotation id="annotation_1061654175" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2130768537">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2130768537" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2130768537" type="highlight" log_data="a-v=uzP8FFKpwQ0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DSP96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;l-class=2&amp;a-id=annotation_2130768537&amp;a-type=3&amp;xble=1&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw" itct="CAEQs-UBGP___________wEiEwjRvIiJqu_fAhUWf-AKHclUBr8o-B0yAml2SI2Cp5XFgv-ZuwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.15100" y="38.59200" w="42.11600" h="16.78900" t="2:27.912"/>
+      <rectRegion x="55.15100" y="38.59200" w="42.11600" h="16.78900" t="2:45.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_2130768537&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw&amp;feature=iv&amp;list=SP96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=uzP8FFKpwQ0" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2431034167" type="highlight" log_data="a-v=uzP8FFKpwQ0&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;l-class=6&amp;a-id=annotation_2431034167&amp;a-type=3&amp;xble=1&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw" itct="CAIQs-UBGP___________wEiEwjRvIiJqu_fAhUWf-AKHclUBr8o-B0yAml2SI2Cp5XFgv-ZuwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="80.28200" w="90.92700" h="13.97500" t="2:27.912"/>
+      <rectRegion x="6.18100" y="80.28200" w="90.92700" h="13.97500" t="2:45.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3177918941" type="highlight" log_data="a-v=uzP8FFKpwQ0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;l-class=5&amp;a-id=annotation_3177918941&amp;a-type=3&amp;xble=1&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw" itct="CAMQs-UBGP___________wEiEwjRvIiJqu_fAhUWf-AKHclUBr8o-B0yAml2SI2Cp5XFgv-ZuwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.83400" y="55.49300" w="42.59100" h="17.91500" t="2:27.912"/>
+      <rectRegion x="54.83400" y="55.49300" w="42.59100" h="17.91500" t="2:45.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_3177918941&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw&amp;feature=iv&amp;src_vid=uzP8FFKpwQ0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_354909353" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2431034167">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2431034167" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3620011227" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3177918941">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3177918941" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4048413155" type="text" style="popup" log_data="xble=1&amp;a-v=uzP8FFKpwQ0&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw&amp;a-id=annotation_4048413155&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwjRvIiJqu_fAhUWf-AKHclUBr8o-B0yAml2SI2Cp5XFgv-ZuwE">
+  <TEXT>Bonus fact! That&#39;s also the reason why, if you wire up a speaker wrongly, the hum sounds different in Europe and the US.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="45.84100" h="18.17600" t="2:28.662"/>
+      <rectRegion x="5.62500" y="5.55600" w="45.84100" h="18.17600" t="2:45.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_4148695007" type="text" style="popup" log_data="xble=1&amp;a-v=uzP8FFKpwQ0&amp;ei=XZQ9XJGaKJb-gQfJqZn4Cw&amp;a-id=annotation_4148695007&amp;a-type=1" itct="CAUQs-UBGP___________wEiEwjRvIiJqu_fAhUWf-AKHclUBr8o-B0yAml2SI2Cp5XFgv-ZuwE">
+  <TEXT>Bonus bonus fact! Japan uses both 50Hz and 60Hz depending on which side of the country you&#39;re on. Historical reasons.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.77300" y="5.07000" w="44.73900" h="18.18300" t="2:29.500"/>
+      <rectRegion x="52.77300" y="5.07000" w="44.73900" h="18.18300" t="2:45.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

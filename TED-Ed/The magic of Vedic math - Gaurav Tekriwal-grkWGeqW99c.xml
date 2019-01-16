@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjIL-h-3u3wIVUkfgCh1BFAusKPgdMgJpdkjX79vUnsPF3IIB">
+<annotation id="annotation_180822" type="highlight" log_data="a-id=annotation_180822&amp;a-v=grkWGeqW99c&amp;a-type=3&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiMgv6H7e7fAhVSR-AKHUEUC6wo-B0yAml2SNfv29Sew8XcggE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.78100" y="70.55600" w="32.03100" h="19.72200" t="0:09:34.4"/>
+      <rectRegion x="35.78100" y="70.55600" w="32.03100" h="19.72200" t="0:09:44.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_332475" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_75970">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_75970" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_427877" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_772263">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_772263" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_565981" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_75121">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_75121" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_707573" type="text" style="popup" log_data="a-id=annotation_707573&amp;a-v=grkWGeqW99c&amp;a-type=1&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiMgv6H7e7fAhVSR-AKHUEUC6wo-B0yAml2SNfv29Sew8XcggE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.28100" y="12.22200" w="14.37500" h="31.38900" t="0:09:34.4"/>
+      <rectRegion x="78.28100" y="12.22200" w="14.37500" h="31.38900" t="0:09:44.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_707573&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;feature=iv&amp;src_vid=grkWGeqW99c" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_722235" type="text" style="popup" log_data="a-id=annotation_722235&amp;a-v=grkWGeqW99c&amp;a-type=1&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-magic-of-vedic-math-gaurav-tekriwal&amp;xble=1" itct="CAMQs-UBGP___________wEiEwiMgv6H7e7fAhVSR-AKHUEUC6wo-B0yAml2SNfv29Sew8XcggE">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.44400" w="35.62500" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.44400" w="35.62500" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-magic-of-vedic-math-gaurav-tekriwal" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_75121" type="highlight" log_data="a-id=annotation_75121&amp;a-v=grkWGeqW99c&amp;a-type=3&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-magic-of-vedic-math-gaurav-tekriwal&amp;xble=1" itct="CAQQs-UBGP___________wEiEwiMgv6H7e7fAhVSR-AKHUEUC6wo-B0yAml2SNfv29Sew8XcggE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.84400" y="52.77800" w="69.53100" h="14.72200" t="0:09:34.4"/>
+      <rectRegion x="14.84400" y="52.77800" w="69.53100" h="14.72200" t="0:09:44.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-magic-of-vedic-math-gaurav-tekriwal" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_75970" type="highlight" log_data="a-id=annotation_75970&amp;a-v=grkWGeqW99c&amp;a-type=3&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1" itct="CAUQs-UBGP___________wEiEwiMgv6H7e7fAhVSR-AKHUEUC6wo-B0yAml2SNfv29Sew8XcggE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.56300" y="70.83300" w="26.87500" h="19.72200" t="0:09:34.4"/>
+      <rectRegion x="6.56300" y="70.83300" w="26.87500" h="19.72200" t="0:09:44.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_772263" type="highlight" log_data="a-id=annotation_772263&amp;a-v=grkWGeqW99c&amp;a-type=3&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1" itct="CAYQs-UBGP___________wEiEwiMgv6H7e7fAhVSR-AKHUEUC6wo-B0yAml2SNfv29Sew8XcggE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.15600" y="71.11100" w="22.81300" h="19.44400" t="9:34.400"/>
+      <rectRegion x="70.15600" y="71.11100" w="22.81300" h="19.44400" t="9:44.400"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_874896" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_180822">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_180822" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=grkWGeqW99c&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=ZFQ9XIzAMtKOgQfBqKzgCg&amp;l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0">
+  <data>{&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;grkWGeqW99c&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;ZFQ9XIzAMtKOgQfBqKzgCg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCIyC_oft7t8CFVJH4AodQRQLrCj4HTICaXZI1-_b1J7DxdyCAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;end_ms&quot;:585000,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbDRYRWxHSmxRankyVlNaWlZfcVFxeV9kNFpQQXxBQ3Jtc0trVGZ3ZURoOTdfcmtodDdscjNaNnNWR2V1Z3NvZ3hWc09IZHdrUldmVjViVE9GRGhORURaU0VUYWV3SC1JZWt3MERteFIwaHR2cUtna09CamhGYWpWdWJMMkpwOUlYdEJNSE1QbFAxV1RNWTlTQjVXdGhVZDdSOVlVOWU4bURlTGNMei1wQTNFQXVFdG1NcEZ2bVdrNFhQNkZ2dzhEWFN6N2FhelpKRUhIVmgwMzFsblhXOV9rbENfckdQejdCOUtTdjNMNzl0RWZ0UjFlOFZodGlFTFhqTjBFQkZMc1J3czlYYWpRa2o4SE1SbGxza19r%26feature%3Div\u0026uilel=3\u0026service=youtube\u0026hl=de&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5qyoi6nv3wIVjmLgCh3LHAr-KPgdMgJpdkj_m4SX74jMw4IB">
+<annotation id="annotation_1437360043" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;ei=VZM9XKauOY7FgQfLuajwDw&amp;xble=1&amp;a-id=annotation_1437360043&amp;a-type=1&amp;a-v=gocwRvLhDf8&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjmrKiLqe_fAhWOYuAKHcscCv4o-B0yAml2SP-bhJfviMzDggE">
+  <TEXT>Subscribe for more like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.67400" y="76.81700" w="40.61000" h="11.42300" t="4:53.248"/>
+      <rectRegion x="55.67400" y="76.81700" w="40.61000" h="11.42300" t="5:10.009"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1437360043&amp;ei=VZM9XKauOY7FgQfLuajwDw&amp;feature=iv&amp;src_vid=gocwRvLhDf8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2829399701" type="highlight" log_data="link=http%3A%2F%2Fwww.tomscott.com%2F&amp;ei=VZM9XKauOY7FgQfLuajwDw&amp;xble=1&amp;a-id=annotation_2829399701&amp;a-type=3&amp;a-v=gocwRvLhDf8&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwjmrKiLqe_fAhWOYuAKHcscCv4o-B0yAml2SP-bhJfviMzDggE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.95900" y="39.62000" w="40.27700" h="35.91500" t="4:52.705"/>
+      <rectRegion x="55.95900" y="39.62000" w="40.27700" h="35.91500" t="5:10.009"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_849020607" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2829399701">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2829399701" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:7d775460-bb9e-4259-a6a4-f679a53028d8" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=7d775460-bb9e-4259-a6a4-f679a53028d8&amp;a-type=62&amp;a-v=gocwRvLhDf8&amp;ei=VZM9XKauOY7FgQfLuajwDw&amp;l-class=1&amp;link-id=Dyy41yAs8nc&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:291632,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Dyy41yAs8nc&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Matt Bought A DJI Osmo And It&#39;s Surprisingly Good&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Dyy41yAs8nc\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Matt Bought A DJI Osmo And It&#39;s Surprisingly Good&quot;,&quot;timestamp&quot;:1458512446088,&quot;meta_info&quot;:[&quot;von Matt and Tom&quot;,&quot;101.743 Aufrufe&quot;],&quot;start_ms&quot;:291632,&quot;teaser_duration_ms&quot;:7000,&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;8:08&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;7d775460-bb9e-4259-a6a4-f679a53028d8&quot;,&quot;src_vid&quot;:&quot;gocwRvLhDf8&quot;,&quot;ei&quot;:&quot;VZM9XKauOY7FgQfLuajwDw&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCOasqIup798CFY5i4AodyxwK_ij4HTIFY2FyZHNI_5uEl--IzMOCAQ&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;is_live_now&quot;:false,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCOasqIup798CFY5i4AodyxwK_ij4HTIFY2FyZHNI_5uEl--IzMOCAQ&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjmrKiLqe_fAhWOYuAKHcscCv4o-B0yBWNhcmRzSP-bhJfviMzDggE&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCOasqIup798CFY5i4AodyxwK_ij4HTIFY2FyZHNI_5uEl--IzMOCAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Dyy41yAs8nc"/>
+  </action>
+</annotation>
+
+<annotation id="video:824997cf-0c4c-450e-af01-1c859e72a989" style="playlist" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=824997cf-0c4c-450e-af01-1c859e72a989&amp;a-type=63&amp;a-v=gocwRvLhDf8&amp;ei=VZM9XKauOY7FgQfLuajwDw&amp;l-class=2&amp;link-id=PL96C35uN7xGLoAooGokQA75b-K0dabejH&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:299688,&quot;card_type&quot;:&quot;playlist&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=OCLaeBAkFAY\u0026list=PL96C35uN7xGLoAooGokQA75b-K0dabejH&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Bugs, Exploits and Computer Minutiae&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/OCLaeBAkFAY\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Bugs, Exploits and Computer Minutiae&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;19\u00a0Videos&quot;],&quot;start_ms&quot;:299688,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCOasqIup798CFY5i4AodyxwK_ij4HTIFY2FyZHNI_5uEl--IzMOCAQ&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjmrKiLqe_fAhWOYuAKHcscCv4o-B0yBWNhcmRzSP-bhJfviMzDggE&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCOasqIup798CFY5i4AodyxwK_ij4HTIFY2FyZHNI_5uEl--IzMOCAQ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;824997cf-0c4c-450e-af01-1c859e72a989&quot;,&quot;src_vid&quot;:&quot;gocwRvLhDf8&quot;,&quot;ei&quot;:&quot;VZM9XKauOY7FgQfLuajwDw&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCOasqIup798CFY5i4AodyxwK_ij4HTIFY2FyZHNI_5uEl--IzMOCAQ&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;playlist_video_count&quot;:&quot;19&quot;,&quot;timestamp&quot;:1458512424551}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=OCLaeBAkFAY&amp;list=PL96C35uN7xGLoAooGokQA75b-K0dabejH"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjmrKiLqe/fAhWOYuAKHcscCv4o+B0yBWNhcmRzSP+bhJfviMzDggE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjmrKiLqe/fAhWOYuAKHcscCv4o+B0yBWNhcmRzSP+bhJfviMzDggE=&quot;, 
+  &quot;eventId&quot;: &quot;VZM9XKauOY7FgQfLuajwDw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCOasqIup798CFY5i4AodyxwK/ij4HTIFY2FyZHNI/5uEl++IzMOCAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

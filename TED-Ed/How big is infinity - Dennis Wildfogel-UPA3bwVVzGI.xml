@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4ZOHm-7u3wIVi6DeCh2U9wMPKPgdMgJpdkjimNeq8O2N-FA">
+<annotation id="annotation_170364" type="highlight" log_data="a-id=annotation_170364&amp;a-type=3&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494&amp;a-v=UPA3bwVVzGI" itct="CAEQs-UBGP___________wEiEwjhk4eb7u7fAhWLoN4KHZT3Aw8o-B0yAml2SOKY16rw7Y34UA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.40600" y="65.27800" w="30.46900" h="21.38900" t="7:06.572"/>
+      <rectRegion x="6.40600" y="65.27800" w="30.46900" h="21.38900" t="7:12.307"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_468662" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_483900">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_483900" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_475571" type="text" style="popup" log_data="a-id=annotation_475571&amp;a-type=1&amp;l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-big-is-infinity&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494&amp;a-v=UPA3bwVVzGI" itct="CAIQs-UBGP___________wEiEwjhk4eb7u7fAhWLoN4KHZT3Aw8o-B0yAml2SOKY16rw7Y34UA">
+  <TEXT>View Full Lesson on ed.ted.com!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.72200" w="35.62500" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.72200" w="35.62500" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-big-is-infinity" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_483900" type="highlight" log_data="a-id=annotation_483900&amp;a-type=3&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494&amp;a-v=UPA3bwVVzGI" itct="CAMQs-UBGP___________wEiEwjhk4eb7u7fAhWLoN4KHZT3Aw8o-B0yAml2SOKY16rw7Y34UA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.12500" y="65.55600" w="24.68800" h="20.55600" t="7:06.522"/>
+      <rectRegion x="38.12500" y="65.55600" w="24.68800" h="20.55600" t="7:12.307"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_574733" type="text" style="popup" log_data="a-id=annotation_574733&amp;a-type=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-big-is-infinity&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494&amp;a-v=UPA3bwVVzGI" itct="CAQQs-UBGP___________wEiEwjhk4eb7u7fAhWLoN4KHZT3Aw8o-B0yAml2SOKY16rw7Y34UA">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.25000" y="16.94400" w="14.21900" h="31.94400" t="7:06.547"/>
+      <rectRegion x="6.25000" y="16.94400" w="14.21900" h="31.94400" t="7:12.307"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-big-is-infinity" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_615543" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_170364">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_170364" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_668430" log_data="a-id=annotation_668430&amp;a-type=0&amp;a-v=UPA3bwVVzGI&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:07:13.9" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:07:13.9" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_753800" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_963424">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_963424" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_846476" type="text" style="popup" log_data="a-id=annotation_846476&amp;a-type=1&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494&amp;a-v=UPA3bwVVzGI" itct="CAUQs-UBGP___________wEiEwjhk4eb7u7fAhWLoN4KHZT3Aw8o-B0yAml2SOKY16rw7Y34UA">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.84400" y="17.22200" w="14.06300" h="31.94400" t="7:06.522"/>
+      <rectRegion x="79.84400" y="17.22200" w="14.06300" h="31.94400" t="7:12.307"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_846476&amp;ei=mVU9XKHjD4vB-gaU7494&amp;feature=iv&amp;src_vid=UPA3bwVVzGI" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_963424" type="highlight" log_data="a-id=annotation_963424&amp;a-type=3&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1&amp;ei=mVU9XKHjD4vB-gaU7494&amp;a-v=UPA3bwVVzGI" itct="CAYQs-UBGP___________wEiEwjhk4eb7u7fAhWLoN4KHZT3Aw8o-B0yAml2SOKY16rw7Y34UA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.90600" y="65.27800" w="30.31200" h="21.38900" t="7:06.522"/>
+      <rectRegion x="63.90600" y="65.27800" w="30.31200" h="21.38900" t="7:12.307"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10&amp;l-class=3&amp;ei=mVU9XKHjD4vB-gaU7494&amp;xble=0&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=UPA3bwVVzGI&amp;link-id=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;UPA3bwVVzGI&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCOGTh5vu7t8CFYug3godlPcDDyj4HTICaXZI4pjXqvDtjfhQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;mVU9XKHjD4vB-gaU7494&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbnd0U1AxQnhiRUZRdUtUM3lNNTJzYlBVYjJMZ3xBQ3Jtc0trbFRhbC0xT3FjYU4yZGstbjZ5VkJucUc0V0FaWGF3RmtQek5tQjZrWjNnRmE3Y2VpNlltMnluUF9kdDZCelpGcVRoamRGQV9iM3VlZVFJSWdVYlAyM09FTHZXZldCaDBLY0pkeE9Sbi1OZ1NQZ3lncDVNMk1oZDRndjlHNTNxcGF0aV9UUHEtV0F3TUVZUWE1a3duU05YUGRKODZDRkNjLXBTVFNLaXBGU01QVXpScWlET01lNkREMXNGX1dUMkpHOHBKV1lYaGdPeDRpbHcwS2JjcUZrdHB2dk9fc01GaW5MX2RUMHlwb1BJRDRQUThv%26hl%3Dde%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false},&quot;start_ms&quot;:0,&quot;end_ms&quot;:433000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

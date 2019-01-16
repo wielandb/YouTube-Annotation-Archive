@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIj66A8anv3wIVmd5VCh0IZQvdKPgdMgJpdkiM5uj39fKkqYMB">
+<annotation id="annotation_350167605" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=g1KTl176Mww&amp;ei=K5Q9XM_sC5m91wKIyq3oDQ&amp;a-id=annotation_350167605" itct="CAEQs-UBGP___________wEiEwiProDxqe_fAhWZ3lUKHQhlC90o-B0yAml2SIzm6Pf18qSpgwE">
+  <TEXT>And that&#39;s the first day of recording done! We might actually be wearing different clothes next time. Do leave a comment if you liked the show - we do like getting feedback!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="85.46500" w="100.00000" h="14.53500" t="13:17.809"/>
+      <rectRegion x="0.00000" y="85.46500" w="100.00000" h="14.53500" t="13:36.782"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3792649883" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;ei=K5Q9XM_sC5m91wKIyq3oDQ&amp;l-class=5&amp;a-v=g1KTl176Mww&amp;a-type=3&amp;a-id=annotation_3792649883" itct="CAIQs-UBGP___________wEiEwiProDxqe_fAhWZ3lUKHQhlC90o-B0yAml2SIzm6Pf18qSpgwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.50900" y="15.49300" w="80.30900" h="12.84800" t="13:17.809"/>
+      <rectRegion x="9.50900" y="15.49300" w="80.30900" h="12.84800" t="13:36.782"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_3792649883&amp;ei=K5Q9XM_sC5m91wKIyq3oDQ&amp;feature=iv&amp;src_vid=g1KTl176Mww&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4138489099" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3792649883">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3792649883" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

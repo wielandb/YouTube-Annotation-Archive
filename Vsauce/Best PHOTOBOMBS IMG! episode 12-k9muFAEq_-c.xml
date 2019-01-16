@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6pTJ_avv3wIV1bZ7Ch3GmQ_HKPgdMgJpdkjn_6uJwMLr7JMB">
+<annotation id="annotation_145133" type="highlight" log_data="ei=XpY9XOrtGdXt7gPGs764DA&amp;xble=1&amp;a-type=3&amp;a-id=annotation_145133&amp;a-v=k9muFAEq_-c" itct="CAEQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="0:00:00.0"/>
+      <rectRegion x="37.50000" y="36.11100" w="25.00000" h="27.77800" t="0:00:00.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_360460" type="text" style="popup" log_data="ei=XpY9XOrtGdXt7gPGs764DA&amp;xble=1&amp;a-type=1&amp;a-id=annotation_360460&amp;a-v=k9muFAEq_-c" itct="CAIQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE">
+  <TEXT>Song = Lo Rider Short.caf
+It&#39;s stock music that comes with Final Cut Pro, but you might be able to find it online..</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="84.72200" w="45.46900" h="15.27800" t="0:01:48.1"/>
+      <rectRegion x="0.00000" y="84.72200" w="45.46900" h="15.27800" t="0:01:52.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="2.708" effects="">
+    
+  </appearance>
+  
+</annotation><annotation author="vsauce" id="annotation_480603" itct="CAMQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE" log_data="ei=XpY9XOrtGdXt7gPGs764DA&amp;xble=1&amp;a-type=2&amp;a-id=annotation_480603&amp;a-v=k9muFAEq_-c" style="speech" type="text"><TEXT>THUMBS UP X(</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="8.61100006104" sx="70.46900177" sy="33.611000061" t="0:00:03.6" w="20.4689998627" x="78.28099823" y="41.6669998169" /><anchoredRegion d="0" h="8.61100006104" sx="70.46900177" sy="33.611000061" t="0:00:04.8" w="20.4689998627" x="78.28099823" y="41.6669998169" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="3052840" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="50" highlightFontColor="3052840" highlightWidth="3" textSize="2.708" /></annotation>
+<annotation id="annotation_521198" type="text" style="popup" log_data="ei=XpY9XOrtGdXt7gPGs764DA&amp;xble=1&amp;a-type=1&amp;a-id=annotation_521198&amp;a-v=k9muFAEq_-c" itct="CAQQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE">
+  <TEXT>Facebook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.78100" y="5.00000" w="30.31200" h="6.94400" t="0:01:20.5"/>
+      <rectRegion x="0.78100" y="5.00000" w="30.31200" h="6.94400" t="0:01:37.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="2.708" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_606432" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;ei=XpY9XOrtGdXt7gPGs764DA&amp;a-type=3&amp;l-class=5&amp;a-v=k9muFAEq_-c&amp;xble=1&amp;a-id=annotation_606432" itct="CAUQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.71900" y="0.00000" w="3.12500" h="15.00000" t="0:00:00.0"/>
+      <rectRegion x="96.71900" y="0.00000" w="3.12500" h="15.00000" t="0:02:42.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_606432&amp;ei=XpY9XOrtGdXt7gPGs764DA&amp;feature=iv&amp;src_vid=k9muFAEq_-c" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_658923" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to subscribe to vsauce!</TEXT>
+  <segment spaceRelative="annotation_606432">
+    <movingRegion type="rect">
+      <rectRegion x="-12.18700" y="0.83300" w="11.71900" h="13.61100" t="never"/>
+      <rectRegion x="-12.18700" y="0.83300" w="11.71900" h="13.61100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_606432" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_858355" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;ei=XpY9XOrtGdXt7gPGs764DA&amp;a-type=1&amp;l-class=5&amp;a-v=k9muFAEq_-c&amp;xble=1&amp;a-id=annotation_858355" itct="CAYQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE">
+  <TEXT>CLICK FOR WACKYGAMER!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="76.25000" y="30.83300" w="22.03100" h="11.38900" t="0:02:26.1"/>
+      <rectRegion x="76.25000" y="30.83300" w="22.03100" h="11.38900" t="0:02:34.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="2.708" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_858355&amp;ei=XpY9XOrtGdXt7gPGs764DA&amp;feature=iv&amp;src_vid=k9muFAEq_-c" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_861426" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_145133">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_145133" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_980076" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeyjLSzq9SBo&amp;ei=XpY9XOrtGdXt7gPGs764DA&amp;a-type=1&amp;l-class=1&amp;a-v=k9muFAEq_-c&amp;xble=1&amp;a-id=annotation_980076" itct="CAcQs-UBGP___________wEiEwjqlMn9q-_fAhXVtnsKHcaZD8co-B0yAml2SOf_q4nAwuvskwE">
+  <TEXT>Click HERE for Mario vs. Link !</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.06300" y="4.16700" w="35.00000" h="7.77800" t="0:02:26.2"/>
+      <rectRegion x="34.06300" y="4.16700" w="35.00000" h="7.77800" t="0:02:34.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="2.708" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_980076&amp;ei=XpY9XOrtGdXt7gPGs764DA&amp;feature=iv&amp;src_vid=k9muFAEq_-c&amp;v=eyjLSzq9SBo" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

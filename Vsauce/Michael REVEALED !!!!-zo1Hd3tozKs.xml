@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1oSW-qvv3wIVRqtVCh0Ggg67KPgdMgJpdkirmaPb9-7Rxs4B">
+<annotation id="annotation_121593" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;l-class=5&amp;ei=V5Y9XJb9EcbW1gKGhLrYCw&amp;a-v=zo1Hd3tozKs&amp;a-type=3&amp;a-id=annotation_121593" itct="CAEQs-UBGP___________wEiEwjWhJb6q-_fAhVGq1UKHQaCDrso-B0yAml2SKuZo9v37tHGzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="8.88900" t="0:03:50.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_121593&amp;ei=V5Y9XJb9EcbW1gKGhLrYCw&amp;feature=iv&amp;src_vid=zo1Hd3tozKs" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_308152" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to watch LÜT !!</TEXT>
+  <segment spaceRelative="annotation_793344">
+    <movingRegion type="rect">
+      <rectRegion x="3.90600" y="-7.50000" w="22.50000" h="5.55600" t="never"/>
+      <rectRegion x="3.90600" y="-7.50000" w="22.50000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_793344" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_630920" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to vsauce!</TEXT>
+  <segment spaceRelative="annotation_121593">
+    <movingRegion type="rect">
+      <rectRegion x="-13.75000" y="0.00000" w="13.28100" h="9.44400" t="never"/>
+      <rectRegion x="-13.75000" y="0.00000" w="13.28100" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_121593" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_793344" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOSfu9kYBTC4&amp;l-class=1&amp;ei=V5Y9XJb9EcbW1gKGhLrYCw&amp;a-v=zo1Hd3tozKs&amp;a-type=3&amp;a-id=annotation_793344" itct="CAIQs-UBGP___________wEiEwjWhJb6q-_fAhVGq1UKHQaCDrso-B0yAml2SKuZo9v37tHGzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.34400" y="31.11100" w="30.00000" h="35.83300" t="0:03:33.4"/>
+      <rectRegion x="17.34400" y="31.11100" w="30.00000" h="35.83300" t="0:03:43.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="5610811" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_793344&amp;ei=V5Y9XJb9EcbW1gKGhLrYCw&amp;feature=iv&amp;src_vid=zo1Hd3tozKs&amp;v=OSfu9kYBTC4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_850358" itct="CAMQs-UBGP___________wEiEwjWhJb6q-_fAhVGq1UKHQaCDrso-B0yAml2SKuZo9v37tHGzgE" log_data="xble=1&amp;a-v=zo1Hd3tozKs&amp;a-type=2&amp;a-id=annotation_850358&amp;ei=V5Y9XJb9EcbW1gKGhLrYCw" style="speech" type="text"><TEXT>Click to watch the first episode of LÜT!
+
+And be sure to subscribe to vsauce2!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="25.2779998779" sx="48.28099823" sy="50.5559997559" t="0:03:33.7" w="25.9379997253" x="62.1870002747" y="49.7220001221" /><anchoredRegion d="0" h="25.2779998779" sx="48.28099823" sy="50.5559997559" t="0:03:43.2" w="25.9379997253" x="62.1870002747" y="49.7220001221" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="16737792" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="0" gloss="0" highlightFontColor="0" highlightWidth="3" textSize="3.6107" /></annotation></annotations></document>

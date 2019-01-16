@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI46Xa2Nbu3wIViFLgCh3PGAupKPgdMgJpdkivqIy2kJam6GM">
+<annotation id="annotation_2246356583" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ78oVOl1WEg&amp;a-v=Y9CYsQbDFC8&amp;ei=8Dw9XOPtBYilgQfPsazICg&amp;a-id=annotation_2246356583&amp;l-class=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjjpdrY1u7fAhWIUuAKHc8YC6ko-B0yAml2SK-ojLaQlqboYw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.58800" y="57.46500" w="40.21400" h="40.16900" t="2:42.383"/>
+      <rectRegion x="59.58800" y="57.46500" w="40.21400" h="40.16900" t="2:55.798"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2246356583&amp;ei=8Dw9XOPtBYilgQfPsazICg&amp;feature=iv&amp;src_vid=Y9CYsQbDFC8&amp;v=Z78oVOl1WEg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2728054437" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2246356583">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2246356583" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:11f1a40b-ad24-4afa-8147-0774657d5710" style="video" type="card" log_data="a-ch=UCwyi4mA4zCuXDhVwLxwtylA&amp;a-id=11f1a40b-ad24-4afa-8147-0774657d5710&amp;a-type=62&amp;a-v=Y9CYsQbDFC8&amp;ei=8Dw9XOPtBYilgQfPsazICg&amp;l-class=1&amp;link-id=Z78oVOl1WEg&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Empfohlen: Intro + Gameplay | Pokken | Pokemon Tekken&quot;,&quot;video_duration&quot;:&quot;27:34&quot;,&quot;timestamp&quot;:1455889782047,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAYQ1TYY____________ASITCOOl2tjW7t8CFYhS4AodzxgLqSj4HTIFY2FyZHNIr6iMtpCWpuhj&quot;,&quot;icon&quot;:&quot;CAgQsJcBGP___________wEiEwjjpdrY1u7fAhWIUuAKHc8YC6ko-B0yBWNhcmRzSK-ojLaQlqboYw&quot;,&quot;teaser&quot;:&quot;CAcQ0DYY____________ASITCOOl2tjW7t8CFYhS4AodzxgLqSj4HTIFY2FyZHNIr6iMtpCWpuhj&quot;},&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Z78oVOl1WEg\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;end_ms&quot;:62545,&quot;title&quot;:&quot;Intro + Gameplay | Pokken | Pokemon Tekken&quot;,&quot;meta_info&quot;:[&quot;von SambZockt&quot;,&quot;3.564 Aufrufe&quot;],&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;8Dw9XOPtBYilgQfPsazICg&quot;,&quot;src_vid&quot;:&quot;Y9CYsQbDFC8&quot;,&quot;annotation_id&quot;:&quot;11f1a40b-ad24-4afa-8147-0774657d5710&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAYQ1TYY____________ASITCOOl2tjW7t8CFYhS4AodzxgLqSj4HTIFY2FyZHNIr6iMtpCWpuhj&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Z78oVOl1WEg&quot;,&quot;start_ms&quot;:62545}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Z78oVOl1WEg"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von GamingClerks&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAMQsZcBGP///////////wEiEwjjpdrY1u7fAhWIUuAKHc8YC6ko+B0yBWNhcmRzSK+ojLaQlqboYw==&quot;, 
+  &quot;eventId&quot;: &quot;8Dw9XOPtBYilgQfPsazICg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAIQwjcY////////////ASITCOOl2tjW7t8CFYhS4AodzxgLqSj4HTIFY2FyZHNIr6iMtpCWpuhj&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAQQsJcBGP///////////wEiEwjjpdrY1u7fAhWIUuAKHc8YC6ko+B0yBWNhcmRzSK+ojLaQlqboYw==&quot;
+}</data>
+</annotation>
+</annotations></document>

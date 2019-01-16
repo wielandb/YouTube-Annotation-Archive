@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIye7z56vv3wIVyKlVCh21ZwtFKPgdMgJpdki-jeuviJCE8hM">
+<annotation id="annotation_231134" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Uninformed Reviews by Jerry Bloop for February</TEXT>
+  <segment spaceRelative="annotation_933908">
+    <movingRegion type="rect">
+      <rectRegion x="-18.28100" y="20.83300" w="16.71900" h="20.00000" t="never"/>
+      <rectRegion x="-18.28100" y="20.83300" w="16.71900" h="20.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_933908" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_235074" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1&amp;ei=MJY9XMmWPMjT1gK1z62oBA&amp;a-id=annotation_235074&amp;l-class=5&amp;a-v=E-QQgIX6xr4&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjJ7vPnq-_fAhXIqVUKHbVnC0Uo-B0yAml2SL6N66-IkITyEw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.62500" y="0.55600" w="4.37500" h="7.22200" t="0:00:00.0"/>
+      <rectRegion x="95.62500" y="0.55600" w="4.37500" h="7.22200" t="0:03:19.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="5610811" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_235074&amp;ei=MJY9XMmWPMjT1gK1z62oBA&amp;feature=iv&amp;src_vid=E-QQgIX6xr4" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_863434" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to vsauce!!!</TEXT>
+  <segment spaceRelative="annotation_235074">
+    <movingRegion type="rect">
+      <rectRegion x="-25.46900" y="0.00000" w="23.90600" h="7.50000" t="never"/>
+      <rectRegion x="-25.46900" y="0.00000" w="23.90600" h="7.50000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_235074" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_933908" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjXK58OnO3Tc&amp;xble=1&amp;ei=MJY9XMmWPMjT1gK1z62oBA&amp;a-id=annotation_933908&amp;l-class=1&amp;a-v=E-QQgIX6xr4&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjJ7vPnq-_fAhXIqVUKHbVnC0Uo-B0yAml2SL6N66-IkITyEw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.21900" y="0.00000" w="64.37500" h="63.61100" t="0:03:01.9"/>
+      <rectRegion x="19.21900" y="0.00000" w="64.37500" h="63.61100" t="0:03:11.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_933908&amp;ei=MJY9XMmWPMjT1gK1z62oBA&amp;feature=iv&amp;src_vid=E-QQgIX6xr4&amp;v=jXK58OnO3Tc" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_969381" itct="CAMQs-UBGP___________wEiEwjJ7vPnq-_fAhXIqVUKHbVnC0Uo-B0yAml2SL6N66-IkITyEw" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjXK58OnO3Tc&amp;xble=1&amp;ei=MJY9XMmWPMjT1gK1z62oBA&amp;a-id=annotation_969381&amp;l-class=1&amp;a-v=E-QQgIX6xr4&amp;a-type=2" style="speech" type="text"><TEXT>Click to watch on Kevin's OWN CHANNEL !!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="12.7779998779" sx="62.5" sy="50.0" t="0:03:03.2" w="33.28099823" x="66.71900177" y="67.7779998779" /><anchoredRegion d="0" h="12.7779998779" sx="62.5" sy="50.0" t="0:03:10.6" w="33.28099823" x="66.71900177" y="67.7779998779" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="1" trusted="true" type="hyperlink" value="https://www.youtube.com/watch?annotation_id=annotation_969381&amp;ei=MJY9XMmWPMjT1gK1z62oBA&amp;feature=iv&amp;src_vid=E-QQgIX6xr4&amp;v=jXK58OnO3Tc" /></action><appearance bgAlpha="0.800000011921" bgColor="16737792" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="0" gloss="0" highlightFontColor="0" highlightWidth="3" textSize="3.6107" /></annotation></annotations></document>

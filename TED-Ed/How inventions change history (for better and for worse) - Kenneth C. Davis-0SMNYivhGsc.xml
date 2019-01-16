@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgYbNiu7u3wIVUZRVCh1gogDcKPgdMgJpdkjHtYTfoqzDkdEB"><annotation author="" id="annotation_112188" log_data="a-id=annotation_112188&amp;a-type=0&amp;xble=1&amp;a-v=0SMNYivhGsc&amp;ei=dlU9XIHzLdGo1gLgxILgDQ" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:05:12.9" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:05:12.9" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_133290" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_765446">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_765446" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_173124" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_811321">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_811321" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_279869" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-inventions-change-history-for-better-and-for-worse-kenneth-c-davis+&amp;xble=1&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=annotation_279869&amp;a-v=0SMNYivhGsc&amp;a-type=1&amp;l-class=12" itct="CAEQs-UBGP___________wEiEwiBhs2K7u7fAhVRlFUKHWCiANwo-B0yAml2SMe1hN-irMOR0QE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.68800" y="16.66700" w="15.15600" h="33.61100" t="0:05:09.5"/>
+      <rectRegion x="4.68800" y="16.66700" w="15.15600" h="33.61100" t="0:05:13.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-inventions-change-history-for-better-and-for-worse-kenneth-c-davis " link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_344973" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=annotation_344973&amp;a-v=0SMNYivhGsc&amp;a-type=3&amp;l-class=12" itct="CAIQs-UBGP___________wEiEwiBhs2K7u7fAhVRlFUKHWCiANwo-B0yAml2SMe1hN-irMOR0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.56300" y="65.27800" w="30.31200" h="21.38900" t="0:05:09.5"/>
+      <rectRegion x="6.56300" y="65.27800" w="30.31200" h="21.38900" t="0:05:13.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_765446" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=annotation_765446&amp;a-v=0SMNYivhGsc&amp;a-type=3&amp;l-class=12" itct="CAMQs-UBGP___________wEiEwiBhs2K7u7fAhVRlFUKHWCiANwo-B0yAml2SMe1hN-irMOR0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.21900" y="64.72200" w="29.84400" h="21.94400" t="0:05:09.5"/>
+      <rectRegion x="64.21900" y="64.72200" w="29.84400" h="21.94400" t="0:05:13.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_811321" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=annotation_811321&amp;a-v=0SMNYivhGsc&amp;a-type=3&amp;l-class=6" itct="CAQQs-UBGP___________wEiEwiBhs2K7u7fAhVRlFUKHWCiANwo-B0yAml2SMe1hN-irMOR0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.96900" y="65.00000" w="25.00000" h="21.94400" t="5:09.500"/>
+      <rectRegion x="37.96900" y="65.00000" w="25.00000" h="21.94400" t="5:13.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_899637" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-inventions-change-history-for-better-and-for-worse-kenneth-c-davis+&amp;xble=1&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=annotation_899637&amp;a-v=0SMNYivhGsc&amp;a-type=1&amp;l-class=12" itct="CAUQs-UBGP___________wEiEwiBhs2K7u7fAhVRlFUKHWCiANwo-B0yAml2SMe1hN-irMOR0QE">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.00000" w="37.18800" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="10.00000" w="37.18800" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-inventions-change-history-for-better-and-for-worse-kenneth-c-davis " link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_920857" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=annotation_920857&amp;a-v=0SMNYivhGsc&amp;a-type=1&amp;l-class=5" itct="CAYQs-UBGP___________wEiEwiBhs2K7u7fAhVRlFUKHWCiANwo-B0yAml2SMe1hN-irMOR0QE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.75000" y="16.94400" w="15.31300" h="32.50000" t="0:05:09.5"/>
+      <rectRegion x="78.75000" y="16.94400" w="15.31300" h="32.50000" t="0:05:13.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_920857&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;feature=iv&amp;src_vid=0SMNYivhGsc" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_993780" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_344973">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_344973" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;ei=dlU9XIHzLdGo1gLgxILgDQ&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=0SMNYivhGsc&amp;a-type=10&amp;l-class=3">
+  <data>{&quot;start_ms&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqa05fbVo2bFJKMkNPT2hpWHQ0ZkhtQ3EtTDRyUXxBQ3Jtc0trY05Ya1llNS12Z19rb0J3anRhb3Z4RmJrUEpWcFkwOUJETTZjVFFfM05scXpIZ25zVTgzNkwtQUpvRm1QY1g3TjdQXzFJTklyOHJEUEpOQ2FiRnA2WDZBTmpVUEhaVF83dzRWbWh0cndOUDBPaGZhSWgxUml3TnZWRVBVSjNzbUZUeHlBYnNUOHJXakFBZ25wUVhCWGtvR3pYMDRIWEs1NnNxT19uYjRMMFpuOWJXcW9pVmY2VE9uZkRsVmM0Z0JlUHI5TWZyQjJlRnBRSXRLSnRxZlQ0S3VtajQwNkNMLXJTTWFRWDRKem9IWTd1OWVv%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Dde\u0026passive=true\u0026uilel=3\u0026hl=de\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;end_ms&quot;:314000,&quot;image_type&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;0SMNYivhGsc&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCIGGzYru7t8CFVGUVQodYKIA3Cj4HTICaXZIx7WE36Ksw5HRAQ&quot;,&quot;ei&quot;:&quot;dlU9XIHzLdGo1gLgxILgDQ&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;TED-Ed&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

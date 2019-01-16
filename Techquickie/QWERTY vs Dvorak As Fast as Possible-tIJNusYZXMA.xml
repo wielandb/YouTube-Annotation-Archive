@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwZvApofv3wIVwoLeCh1o0A8KKPgdMgJpdkjAueWwrLeTwbQB">
+<annotation id="annotation_2799328395" type="highlight" log_data="a-v=tIJNusYZXMA&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLpuPe81bc2w&amp;a-id=annotation_2799328395&amp;a-type=3&amp;l-class=1&amp;ei=6G89XMGHCcKF-gbooL9Q" itct="CAEQs-UBGP___________wEiEwjBm8Cmh-_fAhXCgt4KHWjQDwoo-B0yAml2SMC55bCst5PBtAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.90200" y="3.66200" w="35.46000" h="36.22500" t="3:58.789"/>
+      <rectRegion x="1.90200" y="3.66200" w="35.46000" h="36.22500" t="4:02.624"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2799328395&amp;ei=6G89XMGHCcKF-gbooL9Q&amp;feature=iv&amp;src_vid=tIJNusYZXMA&amp;v=LpuPe81bc2w" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2947924859" type="text" style="popup" log_data="a-v=tIJNusYZXMA&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftechquickie%3Fsub_confirmation%3D1&amp;a-id=annotation_2947924859&amp;a-type=1&amp;l-class=5&amp;ei=6G89XMGHCcKF-gbooL9Q" itct="CAIQs-UBGP___________wEiEwjBm8Cmh-_fAhXCgt4KHWjQDwoo-B0yAml2SMC55bCst5PBtAE">
+  <TEXT>Click to subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.04800" y="0.00000" w="30.00000" h="8.88900" t="0:21.839"/>
+      <rectRegion x="70.04800" y="0.00000" w="30.00000" h="8.88900" t="0:37.509"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="0" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/techquickie?annotation_id=annotation_2947924859&amp;ei=6G89XMGHCcKF-gbooL9Q&amp;feature=iv&amp;src_vid=tIJNusYZXMA&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_77230795" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2799328395">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.54900" w="25.95100" h="4.17300" t="never"/>
+      <rectRegion x="0.00000" y="31.54900" w="25.95100" h="4.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2799328395" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_810103077" type="text" style="anchored" log_data="a-v=tIJNusYZXMA&amp;a-id=annotation_810103077&amp;a-type=8&amp;xble=1&amp;ei=6G89XMGHCcKF-gbooL9Q" itct="CAMQs-UBGP___________wEiEwjBm8Cmh-_fAhXCgt4KHWjQDwoo-B0yAml2SMC55bCst5PBtAE">
+  <TEXT>Oops...
+I mean 1860&#39;s</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="63.55000" y="15.77500" w="18.54200" h="13.67600" sx="61.5499992371" sy="25.9150009155" t="0:02.078"/>
+      <anchoredRegion x="63.55000" y="15.77500" w="18.54200" h="13.67600" sx="61.5499992371" sy="25.9150009155" t="0:05.358"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="channel:555e24b4-0000-2077-9f15-001a113e93e0" style="branding" type="branding"
+            log_data="link-id=UC0vBXGSyV14uvJ4hECDOl0Q&amp;a-v=tIJNusYZXMA&amp;xble=0&amp;a-ch=UC0vBXGSyV14uvJ4hECDOl0Q&amp;a-id=555e24b4-0000-2077-9f15-001a113e93e0&amp;a-type=10&amp;l-class=3&amp;ei=6G89XMGHCcKF-gbooL9Q">
+  <data>{&quot;channel_id&quot;:&quot;UC0vBXGSyV14uvJ4hECDOl0Q&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCMGbwKaH798CFcKC3godaNAPCij4HTICaXZIwLnlsKy3k8G0AQ&quot;,&quot;src_vid&quot;:&quot;tIJNusYZXMA&quot;,&quot;annotation_id&quot;:&quot;555e24b4-0000-2077-9f15-001a113e93e0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;6G89XMGHCcKF-gbooL9Q&quot;},&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;Techquickie&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;end_ms&quot;:314000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/0vBXGSyV14uvJ4hECDOl0Q\/featured_channel.jpg?v=556f3d0d&quot;,&quot;num_subscribers&quot;:&quot;2652579&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;2,6\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;2,6\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqazZuRU10SXJ0VnhCYWE0Yy1mSGNhN21Wd0Nnd3xBQ3Jtc0tsVGx1TERPWWNsR0NPQVpvZHhUUVpCSmJ0X1JCdTFhbzhmcE9VWVRhUmJQVVZQSHpVLUtmTV9sYnFfbHNjQkk1MlBtS0tScXpvcFZWRmV3ZC1EM3g5bkxZSW5vb1ZVVE5RUTFfQkJ4UDVLQng4Yy1va0lhbVB4Smd3R2c3WXpaQlNKMHhYeGpNUnhpV1ZXUGFBaGpIZllDOTdzckl4ZnRyLTJFMjFsQ0RBLWtieU85MUljNU5iM0dOaVE3bUtpamI3UVU2Uy1iVWJRQXVDZ2NYaU1iRjRGdjA5M1V1Y3NCeXNEcW5aenJpNlNiaHFUeV9r%26hl%3Dde%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTechquickie%26feature%3Div%26action_handle_signin%3Dtrue\u0026passive=true\u0026uilel=3\u0026hl=de\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false},&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Techquickie"/>
+  </action>
+</annotation></annotations></document>

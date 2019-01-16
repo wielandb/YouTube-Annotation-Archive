@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwPzVnqzv3wIVRQ7gCh05Ew2GKPgdMgJpdkj4x_SEq4j-fQ">
+<annotation id="annotation_158606" type="text" style="popup" log_data="ei=o5Y9XICfM8WcgAe5prSwCA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DKevinLieber&amp;xble=1&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_158606&amp;a-v=APv4QrCdI_g" itct="CAEQs-UBGP___________wEiEwjA_NWerO_fAhVFDuAKHTkTDYYo-B0yAml2SPjH9ISriP59">
+  <TEXT>YouTube.com/KevinLieber</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.18800" y="46.94400" w="30.00000" h="6.94400" t="0:00:19.1"/>
+      <rectRegion x="12.18800" y="46.94400" w="30.00000" h="6.94400" t="0:00:22.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_158606&amp;ei=o5Y9XICfM8WcgAe5prSwCA&amp;feature=iv&amp;src_vid=APv4QrCdI_g&amp;user=KevinLieber" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_239876" type="text" style="popup" log_data="ei=o5Y9XICfM8WcgAe5prSwCA&amp;a-v=APv4QrCdI_g&amp;xble=1&amp;a-type=1&amp;a-id=annotation_239876" itct="CAIQs-UBGP___________wEiEwjA_NWerO_fAhVFDuAKHTkTDYYo-B0yAml2SPjH9ISriP59">
+  <TEXT>What RETRO game would you like to see Jerry to review? Leave it in the comments, thanks!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="32.65600" h="15.27800" t="0:01:15.3"/>
+      <rectRegion x="0.00000" y="0.00000" w="32.65600" h="15.27800" t="0:01:25.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_285494" type="text" style="popup" log_data="ei=o5Y9XICfM8WcgAe5prSwCA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DKevinLieber&amp;xble=1&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_285494&amp;a-v=APv4QrCdI_g" itct="CAMQs-UBGP___________wEiEwjA_NWerO_fAhVFDuAKHTkTDYYo-B0yAml2SPjH9ISriP59">
+  <TEXT>Click here for Kevin&#39;s channel!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="33.43800" h="6.94400" t="0:05:25.6"/>
+      <rectRegion x="0.00000" y="0.00000" w="33.43800" h="6.94400" t="0:05:44.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_285494&amp;ei=o5Y9XICfM8WcgAe5prSwCA&amp;feature=iv&amp;src_vid=APv4QrCdI_g&amp;user=KevinLieber" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_355296" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click HERE to subscribe to Vsauce</TEXT>
+  <segment spaceRelative="annotation_493314">
+    <movingRegion type="rect">
+      <rectRegion x="-22.18700" y="0.00000" w="20.62500" h="9.44400" t="never"/>
+      <rectRegion x="-22.18700" y="0.00000" w="20.62500" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_493314" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_381005" type="highlight" log_data="ei=o5Y9XICfM8WcgAe5prSwCA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Dkevinlieber&amp;xble=1&amp;l-class=3&amp;a-type=3&amp;a-id=annotation_381005&amp;a-v=APv4QrCdI_g" itct="CAQQs-UBGP___________wEiEwjA_NWerO_fAhVFDuAKHTkTDYYo-B0yAml2SPjH9ISriP59">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="4.68800" h="6.66700" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="4.68800" h="6.66700" t="0:05:53.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_381005&amp;ei=o5Y9XICfM8WcgAe5prSwCA&amp;feature=iv&amp;src_vid=APv4QrCdI_g&amp;user=kevinlieber" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_493314" type="highlight" log_data="ei=o5Y9XICfM8WcgAe5prSwCA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_493314&amp;a-v=APv4QrCdI_g" itct="CAUQs-UBGP___________wEiEwjA_NWerO_fAhVFDuAKHTkTDYYo-B0yAml2SPjH9ISriP59">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.40600" y="0.00000" w="3.59400" h="6.66700" t="0:00:00.0"/>
+      <rectRegion x="96.40600" y="0.00000" w="3.59400" h="6.66700" t="0:05:53.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_493314&amp;ei=o5Y9XICfM8WcgAe5prSwCA&amp;feature=iv&amp;src_vid=APv4QrCdI_g" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_703667" itct="CAYQs-UBGP___________wEiEwjA_NWerO_fAhVFDuAKHTkTDYYo-B0yAml2SPjH9ISriP59" log_data="ei=o5Y9XICfM8WcgAe5prSwCA&amp;a-v=APv4QrCdI_g&amp;xble=1&amp;a-type=2&amp;a-id=annotation_703667" style="speech" type="text"><TEXT>Thumbs up for Lip-Elephants!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="9.16699981689" sx="3.90599989891" sy="100.0" t="0:00:06.3" w="32.34400177" x="10.9379997253" y="23.888999939" /><anchoredRegion d="0" h="9.16699981689" sx="3.90599989891" sy="100.0" t="0:00:10.1" w="32.34400177" x="10.9379997253" y="23.888999939" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="407700" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="999604" highlightWidth="3" /></annotation>
+<annotation id="annotation_816930" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Want more? Click here to check out Kevin&#39;s Channel</TEXT>
+  <segment spaceRelative="annotation_381005">
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="0.00000" w="25.15600" h="9.44400" t="never"/>
+      <rectRegion x="5.62500" y="0.00000" w="25.15600" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_381005" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

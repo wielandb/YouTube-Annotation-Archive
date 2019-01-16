@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIn5S66prv3wIVE0PgCh0nyA4SKPgdMgJpdkirl4aojs7jgM0B">
+<annotation id="annotation_1997049243" type="highlight" log_data="l-class=1&amp;xble=1&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;a-id=annotation_1997049243&amp;a-v=zQGOcOUBi6s&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPKMQzkIiB0Y&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiflLrqmu_fAhUTQ-AKHSfIDhIo-B0yAml2SKuXhqiOzuOAzQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.70800" y="55.32400" w="29.16700" h="43.51900" t="6:28.018"/>
+      <rectRegion x="67.70800" y="55.32400" w="29.16700" h="43.51900" t="6:48.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1997049243&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;feature=iv&amp;src_vid=zQGOcOUBi6s&amp;v=PKMQzkIiB0Y" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2532612785" type="highlight" log_data="l-class=8&amp;xble=1&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;a-id=annotation_2532612785&amp;a-v=zQGOcOUBi6s&amp;link=http%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiflLrqmu_fAhUTQ-AKHSfIDhIo-B0yAml2SKuXhqiOzuOAzQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.19800" y="54.86100" w="28.12500" h="44.21300" t="6:25.470"/>
+      <rectRegion x="36.19800" y="54.86100" w="28.12500" h="44.21300" t="6:48.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2941570351" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1997049243">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1997049243" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3122506203" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3709664693">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3709664693" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3709664693" type="highlight" log_data="l-class=3&amp;xble=1&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;a-id=annotation_3709664693&amp;a-v=zQGOcOUBi6s&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FKurzgesagt&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiflLrqmu_fAhUTQ-AKHSfIDhIo-B0yAml2SKuXhqiOzuOAzQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.04200" y="3.24100" w="16.66700" h="39.12000" t="6:28.018"/>
+      <rectRegion x="1.04200" y="3.24100" w="16.66700" h="39.12000" t="6:48.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Kurzgesagt?annotation_id=annotation_3709664693&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;feature=iv&amp;src_vid=zQGOcOUBi6s" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4201089275" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2532612785">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2532612785" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_638511339" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_711005249">
+    <movingRegion type="rect">
+      <rectRegion x="-0.13000" y="33.79600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-0.13000" y="33.79600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_711005249" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_711005249" type="highlight" log_data="l-class=1&amp;xble=1&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;a-id=annotation_711005249&amp;a-v=zQGOcOUBi6s&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLrJsHdV3omM%26list%3DPLjZbpIXlgK0QTumKebDP-rKG0r3xCwTWF%26index%3D21&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwiflLrqmu_fAhUTQ-AKHSfIDhIo-B0yAml2SKuXhqiOzuOAzQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.55700" y="55.55600" w="26.56300" h="44.44400" t="6:28.018"/>
+      <rectRegion x="4.55700" y="55.55600" w="26.56300" h="44.44400" t="6:48.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_711005249&amp;ei=YoQ9XJ_bOJOGgQenkLuQAQ&amp;feature=iv&amp;index=21&amp;list=PLjZbpIXlgK0QTumKebDP-rKG0r3xCwTWF&amp;src_vid=zQGOcOUBi6s&amp;v=LrJsHdV3omM" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

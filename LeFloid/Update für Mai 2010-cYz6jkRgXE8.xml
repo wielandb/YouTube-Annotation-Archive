@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr4SLhf_u3wIVXJNVCh0F-QUrKPgdMgJpdkjPuIGj5NG-xnE">
+<annotation id="annotation_274171" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg4LgNFbCXVw&amp;a-v=cYz6jkRgXE8&amp;a-type=3&amp;xble=1&amp;ei=Pmc9XK_tI9ym1gKF8pfYAg&amp;a-id=annotation_274171&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwivhIuF_-7fAhVck1UKHQX5BSso-B0yAml2SM-4gaPk0b7GcQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.46900" y="0.55600" w="98.90600" h="98.61100" t="0:01:27.0"/>
+      <rectRegion x="0.46900" y="0.55600" w="98.90600" h="98.61100" t="0:02:20.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_274171&amp;ei=Pmc9XK_tI9ym1gKF8pfYAg&amp;feature=iv&amp;src_vid=cYz6jkRgXE8&amp;v=g4LgNFbCXVw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_460463" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Take a look!</TEXT>
+  <segment spaceRelative="annotation_274171">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="0.83300" w="15.62500" h="5.27800" t="never"/>
+      <rectRegion x="0.15600" y="0.83300" w="15.62500" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="13369344"/>
+  <trigger>
+    <condition ref="annotation_274171" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_494309" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg4LgNFbCXVw&amp;a-v=cYz6jkRgXE8&amp;a-type=1&amp;xble=1&amp;ei=Pmc9XK_tI9ym1gKF8pfYAg&amp;a-id=annotation_494309&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwivhIuF_-7fAhVck1UKHQX5BSso-B0yAml2SM-4gaPk0b7GcQ">
+  <TEXT>HIER KLICKEN FÜR DEN TRAILER!!! ^___^ </TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.12500" y="77.50000" w="26.71900" h="11.11100" t="0:01:25.3"/>
+      <rectRegion x="38.12500" y="77.50000" w="26.71900" h="11.11100" t="0:01:48.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_494309&amp;ei=Pmc9XK_tI9ym1gKF8pfYAg&amp;feature=iv&amp;src_vid=cYz6jkRgXE8&amp;v=g4LgNFbCXVw" link_class="1"/>
+  </action>
+
+</annotation><annotation author="LeFloid" id="annotation_78376" itct="CAMQs-UBGP___________wEiEwivhIuF_-7fAhVck1UKHQX5BSso-B0yAml2SM-4gaPk0b7GcQ" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;a-v=cYz6jkRgXE8&amp;a-type=2&amp;xble=1&amp;ei=Pmc9XK_tI9ym1gKF8pfYAg&amp;a-id=annotation_78376&amp;l-class=3" style="speech" type="text"><TEXT>MORDS KRASS WICHTIG!!! Das Video kommt im JULI
+ --> NICHT JUNI!!! Fataler Irrtum!!! JULI! JULI! JULI! JULI!
+WICHTIG! JULI! - So, ich denke jetzt ist alles klar, ich hoffe das kam an! ^___^</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="33.611000061" sx="38.4379997253" sy="55.0" t="0:00:31.7" w="36.09400177" x="1.875" y="3.05599999428" /><anchoredRegion d="0" h="33.611000061" sx="38.4379997253" sy="55.0" t="0:00:36.7" w="36.09400177" x="1.875" y="3.05599999428" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="3" trusted="true" type="hyperlink" value="https://www.youtube.com/profile?annotation_id=annotation_78376&amp;ei=Pmc9XK_tI9ym1gKF8pfYAg&amp;feature=iv&amp;src_vid=cYz6jkRgXE8&amp;user=LeFloid" /></action><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation></annotations></document>

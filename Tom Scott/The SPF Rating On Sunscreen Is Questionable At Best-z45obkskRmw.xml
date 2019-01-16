@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_fiN_6nv3wIVEVbgCh2tqQKcKPgdMgJpdkjsjJHZ5I2ax88B">
+<annotation id="annotation_1964391673" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4032106059">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4032106059" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2805682051" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;a-id=annotation_2805682051&amp;xble=1&amp;ei=SJQ9XP20L5GsgQet04rgCQ&amp;a-v=z45obkskRmw&amp;l-class=2&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwj9-I3_qe_fAhURVuAKHa2pApwo-B0yAml2SOyMkdnkjZrHzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.46800" y="42.81700" w="42.43300" h="11.44000" t="1:43.143"/>
+      <rectRegion x="55.46800" y="42.81700" w="42.43300" h="11.44000" t="1:55.081"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_2805682051&amp;ei=SJQ9XP20L5GsgQet04rgCQ&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=z45obkskRmw" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4032106059" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-id=annotation_4032106059&amp;xble=1&amp;ei=SJQ9XP20L5GsgQet04rgCQ&amp;a-v=z45obkskRmw&amp;l-class=5&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwj9-I3_qe_fAhURVuAKHa2pApwo-B0yAml2SOyMkdnkjZrHzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.46800" y="53.80300" w="42.59100" h="19.32400" t="1:43.143"/>
+      <rectRegion x="55.46800" y="53.80300" w="42.59100" h="19.32400" t="1:55.081"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/enyay?annotation_id=annotation_4032106059&amp;ei=SJQ9XP20L5GsgQet04rgCQ&amp;feature=iv&amp;src_vid=z45obkskRmw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_704615865" type="text" style="popup" log_data="a-id=annotation_704615865&amp;a-type=1&amp;xble=1&amp;a-v=z45obkskRmw&amp;ei=SJQ9XP20L5GsgQet04rgCQ" itct="CAMQs-UBGP___________wEiEwj9-I3_qe_fAhURVuAKHa2pApwo-B0yAml2SOyMkdnkjZrHzwE">
+  <TEXT>Regulations recently changed: Australia does allow &quot;50+&quot; now.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="91.94400" w="71.67200" h="8.05600" t="1:18.816"/>
+      <rectRegion x="0.00000" y="91.94400" w="71.67200" h="8.05600" t="1:24.570"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_992430067" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2805682051">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2805682051" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

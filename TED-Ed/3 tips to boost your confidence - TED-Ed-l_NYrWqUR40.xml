@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxt_Rm-ru3wIVU6h7Ch2-XQy-KPgdMgJpdkiNj9HU1pXW-ZcB">
+<annotation id="annotation_1001432011" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3556412707">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="32.60700" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="32.60700" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3556412707" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1422605999" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1674052109">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="22.94000" h="9.66200" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="22.94000" h="9.66200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1674052109" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1674052109" type="highlight" log_data="a-type=3&amp;a-v=l_NYrWqUR40&amp;l-class=6&amp;a-id=annotation_1674052109&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw" itct="CAEQs-UBGP___________wEiEwjG39Gb6u7fAhVTqHsKHb5dDL4o-B0yAml2SI2P0dTWldb5lwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="71.26800" w="22.78100" h="19.04600" t="4:06.500"/>
+      <rectRegion x="70.52300" y="71.26800" w="22.78100" h="19.04600" t="4:16.556"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2057897771" type="text" style="popup" log_data="a-type=1&amp;a-v=l_NYrWqUR40&amp;l-class=5&amp;a-id=annotation_2057897771&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw" itct="CAIQs-UBGP___________wEiEwjG39Gb6u7fAhVTqHsKHb5dDL4o-B0yAml2SI2P0dTWldb5lwE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.23900" y="12.11300" w="17.94900" h="22.96500" t="4:06.500"/>
+      <rectRegion x="79.23900" y="12.11300" w="17.94900" h="22.96500" t="4:16.556"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_2057897771&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw&amp;feature=iv&amp;src_vid=l_NYrWqUR40&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2299134537" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3525449403">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="27.53600" h="9.09900" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="27.53600" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3525449403" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_273858731" type="text" style="popup" log_data="a-type=1&amp;a-v=l_NYrWqUR40&amp;l-class=6&amp;a-id=annotation_273858731&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2F3-tips-to-boost-your-confidence-ted-ed&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw" itct="CAMQs-UBGP___________wEiEwjG39Gb6u7fAhVTqHsKHb5dDL4o-B0yAml2SI2P0dTWldb5lwE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="8.45100" w="36.49100" h="8.31700" t="0:00.000"/>
+      <rectRegion x="3.17000" y="8.45100" w="36.49100" h="8.31700" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/3-tips-to-boost-your-confidence-ted-ed" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3525449403" type="highlight" log_data="a-type=3&amp;a-v=l_NYrWqUR40&amp;l-class=6&amp;a-id=annotation_3525449403&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw" itct="CAQQs-UBGP___________wEiEwjG39Gb6u7fAhVTqHsKHb5dDL4o-B0yAml2SI2P0dTWldb5lwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.49800" y="71.54900" w="27.53600" h="19.04600" t="4:06.500"/>
+      <rectRegion x="6.49800" y="71.54900" w="27.53600" h="19.04600" t="4:16.556"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3556412707" type="highlight" log_data="a-type=3&amp;a-v=l_NYrWqUR40&amp;l-class=6&amp;a-id=annotation_3556412707&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw" itct="CAUQs-UBGP___________wEiEwjG39Gb6u7fAhVTqHsKHb5dDL4o-B0yAml2SI2P0dTWldb5lwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.97500" y="70.98600" w="32.44800" h="19.60900" t="4:06.500"/>
+      <rectRegion x="35.97500" y="70.98600" w="32.44800" h="19.60900" t="4:16.556"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4118545233" type="highlight" log_data="a-type=3&amp;a-v=l_NYrWqUR40&amp;l-class=6&amp;a-id=annotation_4118545233&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2F3-tips-to-boost-your-confidence-ted-ed&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw" itct="CAYQs-UBGP___________wEiEwjG39Gb6u7fAhVTqHsKHb5dDL4o-B0yAml2SI2P0dTWldb5lwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.73900" y="53.52100" w="70.36500" h="13.69300" t="4:06.500"/>
+      <rectRegion x="14.73900" y="53.52100" w="70.36500" h="13.69300" t="4:16.556"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/3-tips-to-boost-your-confidence-ted-ed" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_522035403" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4118545233">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.80300" w="70.48300" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="13.80300" w="70.48300" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4118545233" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-type=10&amp;xble=0&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=l_NYrWqUR40&amp;ei=aFE9XMaLLdPQ7gO-u7HwCw">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbnBVSl9GN3FpdFpLMzQ1MGo2My05cjNpWGRId3xBQ3Jtc0tsc1UyY3REMlJHUGprc2ZNbnp3cXdTTFN4WFJhOGtkMDN0aEtIb3JKTTJENDlraUhzcEtjN1BXQ2hPWVNvWVA4WXF2bS1MMkdPNlFJX0ZmUzFtSGhCVjFlS1JUWGw3ZXc2NzhiQzJEekY0Y3h4VDBENU5RVUhuNDQ3SzZ3NHp4Q2FyMHpTYnQ2aWRyTmhzbktPdWlCNTR0c3JQTkROR3BHaFNZNjUzaFlYQVlXTW5SYy1UZldmYmxwdl9qSHpmcGlEWkJwbmV4TExyNVdqWFB2UGVDSnFEbWZ5N1FtLVNGVjdPZUxIWWdialhtYkstSkdF%26action_handle_signin%3Dtrue\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;l_NYrWqUR40&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMbf0Zvq7t8CFVOoewodvl0Mvij4HTICaXZIjY_R1NaV1vmXAQ&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;aFE9XMaLLdPQ7gO-u7HwCw&quot;},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;end_ms&quot;:257000,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

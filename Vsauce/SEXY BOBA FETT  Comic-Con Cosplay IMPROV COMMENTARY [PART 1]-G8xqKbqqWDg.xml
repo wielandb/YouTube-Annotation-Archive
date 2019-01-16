@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8PiV8Kvv3wIVgq1VCh08hAbFKPgdMgJpdki4sKnVm8Wa5hs">
+<annotation id="annotation_151801" type="text" style="popup" log_data="a-id=annotation_151801&amp;ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;xble=1&amp;a-v=G8xqKbqqWDg&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjw-JXwq-_fAhWCrVUKHTyEBsUo-B0yAml2SLiwqdWbxZrmGw">
+  <TEXT>Answer the question in the description before you go to part 2!
+
+And thumbs up for cosplay improv !
+                  |
+                  |
+                  |
+                 V
+</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="35.46900" h="40.27800" t="0:00:02.9"/>
+      <rectRegion x="0.00000" y="23.61100" w="35.46900" h="40.27800" t="0:00:07.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_469906" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Iron Man vs. Master Chief... Who Would Win???</TEXT>
+  <segment spaceRelative="annotation_969664">
+    <movingRegion type="rect">
+      <rectRegion x="-4.53100" y="23.33300" w="27.03100" h="11.94400" t="never"/>
+      <rectRegion x="-4.53100" y="23.33300" w="27.03100" h="11.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_969664" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_522656" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Boswer vs. The Hulk ... Who Would Win?</TEXT>
+  <segment spaceRelative="annotation_910334">
+    <movingRegion type="rect">
+      <rectRegion x="0.46900" y="23.05600" w="20.31300" h="9.44400" t="never"/>
+      <rectRegion x="0.46900" y="23.05600" w="20.31300" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_910334" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_624462" type="text" style="popup" log_data="ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;xble=1&amp;l-class=1&amp;a-id=annotation_624462&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqdDGEq9rX8Y&amp;a-v=G8xqKbqqWDg" itct="CAIQs-UBGP___________wEiEwjw-JXwq-_fAhWCrVUKHTyEBsUo-B0yAml2SLiwqdWbxZrmGw">
+  <TEXT>Click for Comic-Con Cosplay Part 2 --&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.56300" y="0.00000" w="43.43800" h="6.94400" t="0:01:09.2"/>
+      <rectRegion x="56.56300" y="0.00000" w="43.43800" h="6.94400" t="0:01:25.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_624462&amp;ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;feature=iv&amp;src_vid=G8xqKbqqWDg&amp;v=qdDGEq9rX8Y" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_714274" type="text" style="popup" log_data="ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;xble=1&amp;l-class=3&amp;a-id=annotation_714274&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Danthonyle247&amp;a-v=G8xqKbqqWDg" itct="CAMQs-UBGP___________wEiEwjw-JXwq-_fAhWCrVUKHTyEBsUo-B0yAml2SLiwqdWbxZrmGw">
+  <TEXT>anthonyle247 !!! Click here for his channel and info on this awesome suit!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.00000" y="8.61100" w="30.00000" h="15.27800" t="0:00:33.5"/>
+      <rectRegion x="65.00000" y="8.61100" w="30.00000" h="15.27800" t="0:00:36.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_714274&amp;ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;feature=iv&amp;src_vid=G8xqKbqqWDg&amp;user=anthonyle247" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_910334" type="highlight" log_data="ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;xble=1&amp;l-class=1&amp;a-id=annotation_910334&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqYmv5lPGdcs&amp;a-v=G8xqKbqqWDg" itct="CAQQs-UBGP___________wEiEwjw-JXwq-_fAhWCrVUKHTyEBsUo-B0yAml2SLiwqdWbxZrmGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.65600" y="46.66700" w="20.62500" h="21.38900" t="0:01:09.2"/>
+      <rectRegion x="72.65600" y="46.66700" w="20.62500" h="21.38900" t="0:01:16.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_910334&amp;ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;feature=iv&amp;src_vid=G8xqKbqqWDg&amp;v=qYmv5lPGdcs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_969664" type="highlight" log_data="ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;xble=1&amp;l-class=1&amp;a-id=annotation_969664&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaNX2XCcy514&amp;a-v=G8xqKbqqWDg" itct="CAUQs-UBGP___________wEiEwjw-JXwq-_fAhWCrVUKHTyEBsUo-B0yAml2SLiwqdWbxZrmGw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.78100" y="46.66700" w="20.31300" h="20.83300" t="0:01:09.2"/>
+      <rectRegion x="45.78100" y="46.66700" w="20.31300" h="20.83300" t="0:01:16.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_969664&amp;ei=QpY9XPDPE4Lb1gK8iJqoDA&amp;feature=iv&amp;src_vid=G8xqKbqqWDg&amp;v=aNX2XCcy514" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIpMmhi4_v3wIVMSngCh2f6wslKPgdMgJpdkj34KG8zbX2lZ8B">
+<annotation id="annotation_229142" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>He-Man and the masters of the universe!!!</TEXT>
+  <segment spaceRelative="annotation_638314">
+    <movingRegion type="rect">
+      <rectRegion x="14.37500" y="61.11100" w="27.81300" h="10.00000" t="never"/>
+      <rectRegion x="14.37500" y="61.11100" w="27.81300" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_638314" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_638314" type="highlight" log_data="l-class=3&amp;a-id=annotation_638314&amp;xble=1&amp;a-type=3&amp;a-v=nyvZrNeIcHc&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DAltF4Games%23grid%2Fuser%2F3A15EC39D0130780&amp;ei=Eng9XKT4HrHSgAef16-oAg" itct="CAEQs-UBGP___________wEiEwikyaGLj-_fAhUxKeAKHZ_rCyUo-B0yAml2SPfgobzNtfaVnwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="21.09400" y="21.11100" w="57.18800" h="57.22200" t="0:04:34.5"/>
+      <rectRegion x="21.09400" y="21.11100" w="57.18800" h="57.22200" t="0:04:47.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.10000000149"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_638314&amp;ei=Eng9XKT4HrHSgAef16-oAg&amp;feature=iv&amp;src_vid=nyvZrNeIcHc&amp;user=AltF4Games#grid/user/3A15EC39D0130780" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

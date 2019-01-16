@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyIyMsqvv3wIVR7xVCh0hEAvMKPgdMgJpdkis1vmEseLA8tkB">
+<annotation id="annotation_517862" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_766923">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_766923" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_766923" type="highlight" log_data="xble=1&amp;a-id=annotation_766923&amp;l-class=12&amp;a-v=2eUDExCeayw&amp;link=http%3A%2F%2Fbit.ly%2FA4OQWV&amp;a-type=3&amp;ei=wJU9XMisCMf41gKhoKzgDA" itct="CAEQs-UBGP___________wEiEwjIjIyyq-_fAhVHvFUKHSEQC8wo-B0yAml2SKzW-YSx4sDy2QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.84400" y="18.88900" w="27.50000" h="28.33300" t="0:04:40.8"/>
+      <rectRegion x="64.84400" y="18.88900" w="27.50000" h="28.33300" t="0:04:59.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="http://bit.ly/A4OQWV" link_class="12"/>
+  </action>
+
+</annotation>
+</annotations></document>

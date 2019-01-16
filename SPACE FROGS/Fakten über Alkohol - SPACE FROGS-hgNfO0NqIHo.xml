@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsL_DvqTv3wIVwrlVCh2JdgTXKPgdMgJpdkj6wKibtOfXgYYB">
+<annotation id="annotation_219182" type="text" style="popup" log_data="a-type=1&amp;xble=1&amp;a-id=annotation_219182&amp;a-v=hgNfO0NqIHo&amp;ei=g449XPDxCcLz1gKJ7ZG4DQ" itct="CAEQs-UBGP___________wEiEwiwv8O-pO_fAhXCuVUKHYl2BNco-B0yAml2SPrAqJu059eBhgE">
+  <TEXT>Hier könnte ihre Werbung stehen</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.81300" y="88.33300" w="17.18800" h="11.66700" t="0:02:14.9"/>
+      <rectRegion x="82.81300" y="88.33300" w="17.18800" h="11.66700" t="0:02:41.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.5" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_460419" type="highlight" log_data="a-v=hgNfO0NqIHo&amp;a-type=3&amp;a-id=annotation_460419&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC4MjJpyqmcA&amp;xble=1&amp;l-class=1&amp;ei=g449XPDxCcLz1gKJ7ZG4DQ" itct="CAIQs-UBGP___________wEiEwiwv8O-pO_fAhXCuVUKHYl2BNco-B0yAml2SPrAqJu059eBhgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.62500" y="6.66700" w="34.37500" h="34.72200" t="0:02:18.2"/>
+      <rectRegion x="0.62500" y="6.66700" w="34.37500" h="34.72200" t="0:02:41.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_460419&amp;ei=g449XPDxCcLz1gKJ7ZG4DQ&amp;feature=iv&amp;src_vid=hgNfO0NqIHo&amp;v=C4MjJpyqmcA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_503659" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Was wird aus Justin Bieber?</TEXT>
+  <segment spaceRelative="annotation_833679">
+    <movingRegion type="rect">
+      <rectRegion x="0.93800" y="2.22200" w="13.28100" h="14.44400" t="never"/>
+      <rectRegion x="0.93800" y="2.22200" w="13.28100" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_833679" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_833679" type="highlight" log_data="a-v=hgNfO0NqIHo&amp;a-type=3&amp;a-id=annotation_833679&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsA_9In-ANnU&amp;xble=1&amp;l-class=1&amp;ei=g449XPDxCcLz1gKJ7ZG4DQ" itct="CAMQs-UBGP___________wEiEwiwv8O-pO_fAhXCuVUKHYl2BNco-B0yAml2SPrAqJu059eBhgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.50000" y="5.83300" w="35.78100" h="36.11100" t="0:02:20.0"/>
+      <rectRegion x="62.50000" y="5.83300" w="35.78100" h="36.11100" t="0:02:41.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_833679&amp;ei=g449XPDxCcLz1gKJ7ZG4DQ&amp;feature=iv&amp;src_vid=hgNfO0NqIHo&amp;v=sA_9In-ANnU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_916624" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Fakten über Franzosen</TEXT>
+  <segment spaceRelative="annotation_460419">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="2.50000" w="15.62500" h="10.00000" t="never"/>
+      <rectRegion x="0.15600" y="2.50000" w="15.62500" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_460419" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

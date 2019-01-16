@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIh9TbqKnv3wIVFFDgCh3pzw90KPgdMgJpdki_o5O22PDaxdoB">
+<annotation id="annotation_1376708555" type="highlight" log_data="l-class=5&amp;a-id=annotation_1376708555&amp;xble=1&amp;a-type=3&amp;a-v=2otrhYbE0b8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;ei=k5M9XMe-JJSggQfpn7-gBw" itct="CAEQs-UBGP___________wEiEwiH1Nuoqe_fAhUUUOAKHenPD3Qo-B0yAml2SL-jk7bY8NrF2gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.67000" y="20.56300" w="29.12000" h="29.18300" t="16:20.817"/>
+      <rectRegion x="67.67000" y="20.56300" w="29.12000" h="29.18300" t="16:52.691"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1376708555&amp;ei=k5M9XMe-JJSggQfpn7-gBw&amp;feature=iv&amp;src_vid=2otrhYbE0b8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1977260943" type="highlight" log_data="l-class=1&amp;a-id=annotation_1977260943&amp;xble=1&amp;a-type=3&amp;a-v=2otrhYbE0b8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEvJtyE2N6l4&amp;ei=k5M9XMe-JJSggQfpn7-gBw" itct="CAIQs-UBGP___________wEiEwiH1Nuoqe_fAhUUUOAKHenPD3Qo-B0yAml2SL-jk7bY8NrF2gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.02400" y="20.28200" w="30.38800" h="30.02800" t="16:20.492"/>
+      <rectRegion x="35.02400" y="20.28200" w="30.38800" h="30.02800" t="16:52.690"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1977260943&amp;ei=k5M9XMe-JJSggQfpn7-gBw&amp;feature=iv&amp;src_vid=2otrhYbE0b8&amp;v=EvJtyE2N6l4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2386399713" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1977260943">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1977260943" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3207026045" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to get notified when it&#39;s released!</TEXT>
+  <segment spaceRelative="annotation_1376708555">
+    <movingRegion type="rect">
+      <rectRegion x="0.47500" y="48.16900" w="26.74300" h="12.76100" t="never"/>
+      <rectRegion x="0.47500" y="48.16900" w="26.74300" h="12.76100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1376708555" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3987485517" type="highlight" log_data="l-class=1&amp;a-id=annotation_3987485517&amp;xble=1&amp;a-type=3&amp;a-v=2otrhYbE0b8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy6QKIjqHgqk&amp;ei=k5M9XMe-JJSggQfpn7-gBw" itct="CAMQs-UBGP___________wEiEwiH1Nuoqe_fAhUUUOAKHenPD3Qo-B0yAml2SL-jk7bY8NrF2gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="20.56300" w="30.38800" h="30.31000" t="16:20.041"/>
+      <rectRegion x="3.17000" y="20.56300" w="30.38800" h="30.31000" t="16:52.690"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3987485517&amp;ei=k5M9XMe-JJSggQfpn7-gBw&amp;feature=iv&amp;src_vid=2otrhYbE0b8&amp;v=y6QKIjqHgqk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4246691975" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3987485517">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3987485517" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:f0ca0d07-a858-49a4-bc9e-6ceeb9851947" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=f0ca0d07-a858-49a4-bc9e-6ceeb9851947&amp;a-type=62&amp;a-v=2otrhYbE0b8&amp;ei=k5M9XMe-JJSggQfpn7-gBw&amp;l-class=1&amp;link-id=y6QKIjqHgqk&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=y6QKIjqHgqk&quot;,&quot;end_ms&quot;:964561,&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCIfU26ip798CFRRQ4Aod6c8PdCj4HTIFY2FyZHNIv6OTttjw2sXaAQ&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCIfU26ip798CFRRQ4Aod6c8PdCj4HTIFY2FyZHNIv6OTttjw2sXaAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiH1Nuoqe_fAhUUUOAKHenPD3Qo-B0yBWNhcmRzSL-jk7bY8NrF2gE&quot;},&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:964561,&quot;title&quot;:&quot;Atomised Feculence: Citation Needed Bonus Material 3x01&quot;,&quot;video_duration&quot;:&quot;1:55&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;27.912 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/y6QKIjqHgqk\/mqdefault.jpg&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;2otrhYbE0b8&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCIfU26ip798CFRRQ4Aod6c8PdCj4HTIFY2FyZHNIv6OTttjw2sXaAQ&quot;,&quot;annotation_id&quot;:&quot;f0ca0d07-a858-49a4-bc9e-6ceeb9851947&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;k5M9XMe-JJSggQfpn7-gBw&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[]},&quot;teaser_text&quot;:&quot;Empfohlen: Atomised Feculence: Citation Needed Bonus Material 3x01&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=y6QKIjqHgqk"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;eventId&quot;: &quot;k5M9XMe-JJSggQfpn7-gBw&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiH1Nuoqe/fAhUUUOAKHenPD3Qo+B0yBWNhcmRzSL+jk7bY8NrF2gE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCIfU26ip798CFRRQ4Aod6c8PdCj4HTIFY2FyZHNIv6OTttjw2sXaAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiH1Nuoqe/fAhUUUOAKHenPD3Qo+B0yBWNhcmRzSL+jk7bY8NrF2gE=&quot;
+}</data>
+</annotation>
+</annotations></document>

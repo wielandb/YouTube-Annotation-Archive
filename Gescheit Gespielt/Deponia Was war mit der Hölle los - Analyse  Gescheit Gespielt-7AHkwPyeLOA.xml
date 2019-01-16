@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI86Lxgt7u3wIVkdRVCh2BqgCjKPgdMgJpdkjg2fjkj5j5gOwB">
+<annotation id="annotation_2191799783" type="highlight" log_data="xble=1&amp;a-v=7AHkwPyeLOA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D50Tna3EmsuY&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_2191799783&amp;ei=n0Q9XLPXJJGp1wKB1YKYCg" itct="CAEQs-UBGP___________wEiEwjzovGC3u7fAhWR1FUKHYGqAKMo-B0yAml2SODZ-OSPmPmA7AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.91600" y="53.52100" w="36.13300" h="44.11300" t="9:51.866"/>
+      <rectRegion x="62.91600" y="53.52100" w="36.13300" h="44.11300" t="10:37.560"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2191799783&amp;ei=n0Q9XLPXJJGp1wKB1YKYCg&amp;feature=iv&amp;src_vid=7AHkwPyeLOA&amp;v=50Tna3EmsuY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2661021533" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Das Ende erklärt</TEXT>
+  <segment spaceRelative="annotation_2191799783">
+    <movingRegion type="rect">
+      <rectRegion x="5.38800" y="33.52100" w="27.21900" h="6.56300" t="never"/>
+      <rectRegion x="5.38800" y="33.52100" w="27.21900" h="6.56300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2191799783" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55724147-0000-2b01-8ac7-001a113ea488" style="branding" type="branding"
+            log_data="a-v=7AHkwPyeLOA&amp;xble=0&amp;a-ch=UCAmaelj22ggPbyck0X93FlA&amp;l-class=3&amp;a-type=10&amp;a-id=55724147-0000-2b01-8ac7-001a113ea488&amp;ei=n0Q9XLPXJJGp1wKB1YKYCg&amp;link-id=UCAmaelj22ggPbyck0X93FlA">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Amaelj22ggPbyck0X93FlA\/featured_channel.jpg?v=5582c731&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55724147-0000-2b01-8ac7-001a113ea488&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCPOi8YLe7t8CFZHUVQodgaoAoyj4HTICaXZI4Nn45I-Y-YDsAQ&quot;,&quot;src_vid&quot;:&quot;7AHkwPyeLOA&quot;,&quot;ei&quot;:&quot;n0Q9XLPXJJGp1wKB1YKYCg&quot;},&quot;channel_name&quot;:&quot;Gescheit Gespielt&quot;,&quot;end_ms&quot;:643000,&quot;num_subscribers&quot;:&quot;2490&quot;,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCAmaelj22ggPbyck0X93FlA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;2491&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribeCount&quot;:&quot;2490&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCAmaelj22ggPbyck0X93FlA%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbVVQVVFaOWFNVXNDTlFSdVVHR2FXSVNGdlR6UXxBQ3Jtc0tuOW9TOWtnc2c3UGExQmtBSzE0akV4U25xY0hELW9rYzdCaUcyUHBSRGY0WUpPQ0ZqWWE5Zy1QWk5WcG4wWlhiYlExZWxRcWtfZW9kbEhVZ05LQzZlME1zNDBmcGhjWVRmSWpyTU1ZV2loYlJhYjc4MHJJYy05VHRFdTZQWTk0dVo0Q25qUXNxNWl2d285WnNjYWdwVkczZ2Zpa0R0NnNWWEFZS1NmQ25nLXJlXzVPMjlFRzA0dVd6S3lPTUI1aGw5cS1MWl9wMWhJZkltR2RCbnI1ZTZHUmRiY3Y0aG9jem03SnJlSGphd1FnMEkybWFV%26action_handle_signin%3Dtrue\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCAmaelj22ggPbyck0X93FlA"/>
+  </action>
+</annotation></annotations></document>

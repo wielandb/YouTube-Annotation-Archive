@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2Nqoidnu3wIVFYN7Ch0UUwGmKPgdMgJpdki7mP2ktIzjgyY">
+<annotation id="annotation_252690" type="highlight" log_data="a-type=3&amp;ei=bj89XNjrN5WG7gOUpoWwCg&amp;a-id=annotation_252690&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks&amp;a-v=JgeMY0SfTDs" itct="CAEQs-UBGP___________wEiEwjY2qiJ2e7fAhUVg3sKHRRTAaYo-B0yAml2SLuY_aS0jOODJg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.00000" y="0.00000" w="20.46900" h="12.77800" t="0:10:04.3"/>
+      <rectRegion x="40.00000" y="0.00000" w="20.46900" h="12.77800" t="0:11:02.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_252690&amp;ei=bj89XNjrN5WG7gOUpoWwCg&amp;feature=iv&amp;src_vid=JgeMY0SfTDs" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_379812" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_252690">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_252690" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_950944" itct="CAIQs-UBGP___________wEiEwjY2qiJ2e7fAhUVg3sKHRRTAaYo-B0yAml2SLuY_aS0jOODJg" log_data="a-type=9&amp;ei=bj89XNjrN5WG7gOUpoWwCg&amp;a-id=annotation_950944&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCj0Y3-yTnno%26list%3DPLNlv0WYGRAB053lZotOfOyvewfBIIGRtc&amp;a-v=JgeMY0SfTDs" style="label" type="text"><TEXT>Multiplayer Review</TEXT><segment><movingRegion type="rect"><rectRegion d="0" h="45.2779998779" t="0:10:04.3" w="40.15599823" x="0.0" y="4.16699981689" /><rectRegion d="0" h="45.2779998779" t="0:11:01.1" w="40.15599823" x="0.0" y="4.16699981689" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="1" target="current" trusted="true" value="https://www.youtube.com/watch?annotation_id=annotation_950944&amp;ei=bj89XNjrN5WG7gOUpoWwCg&amp;feature=iv&amp;list=PLNlv0WYGRAB053lZotOfOyvewfBIIGRtc&amp;src_vid=JgeMY0SfTDs&amp;v=Cj0Y3-yTnno" /></action><appearance effects="textdropshadow" textSize="3.9116"><padding bottom="2.34696006775" left="1.32016503811" right="1.76022005081" top="2.34696006775" /></appearance></annotation><annotation author="" id="annotation_954136" itct="CAMQs-UBGP___________wEiEwjY2qiJ2e7fAhUVg3sKHRRTAaYo-B0yAml2SLuY_aS0jOODJg" log_data="a-type=9&amp;ei=bj89XNjrN5WG7gOUpoWwCg&amp;a-id=annotation_954136&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcFpe5iFWUwg&amp;a-v=JgeMY0SfTDs" style="label" type="text"><TEXT>Let's Play von Sakura</TEXT><segment><movingRegion type="rect"><rectRegion d="0" h="44.4440002441" t="0:10:04.3" w="37.1879997253" x="61.09400177" y="4.16699981689" /><rectRegion d="0" h="44.4440002441" t="0:11:01.1" w="37.1879997253" x="61.09400177" y="4.16699981689" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="1" target="current" trusted="true" value="https://www.youtube.com/watch?annotation_id=annotation_954136&amp;ei=bj89XNjrN5WG7gOUpoWwCg&amp;feature=iv&amp;src_vid=JgeMY0SfTDs&amp;v=cFpe5iFWUwg" /></action><appearance effects="textdropshadow" textSize="3.9116"><padding bottom="2.34696006775" left="1.32016503811" right="1.76022005081" top="2.34696006775" /></appearance></annotation></annotations></document>

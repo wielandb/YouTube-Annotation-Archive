@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6OSczpPv3wIVFrN7Ch2gmQ2aKPgdMgJpdkiZsoKYzt2G5YUB">
+<annotation id="annotation_1111635083" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DriT-ew7n7RU&amp;a-id=annotation_1111635083&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;a-v=hcoa7OMAmRk&amp;ei=0Hw9XOi8KZbm7gOgs7bQCQ" itct="CAEQs-UBGP___________wEiEwjo5JzOk-_fAhUWs3sKHaCZDZoo-B0yAml2SJmygpjO3YblhQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.11900" y="7.82800" w="42.47200" h="43.93900" t="5:54.078"/>
+      <rectRegion x="4.11900" y="7.82800" w="42.47200" h="43.93900" t="6:08.159"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1111635083&amp;ei=0Hw9XOi8KZbm7gOgs7bQCQ&amp;feature=iv&amp;src_vid=hcoa7OMAmRk&amp;v=riT-ew7n7RU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1617692725" type="highlight" log_data="a-id=annotation_1617692725&amp;a-type=3&amp;a-v=hcoa7OMAmRk&amp;xble=1&amp;ei=0Hw9XOi8KZbm7gOgs7bQCQ" itct="CAIQs-UBGP___________wEiEwjo5JzOk-_fAhUWs3sKHaCZDZoo-B0yAml2SJmygpjO3YblhQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.12500" y="7.82800" w="42.47200" h="43.68700" t="5:54.100"/>
+      <rectRegion x="53.12500" y="7.82800" w="42.47200" h="43.68700" t="6:08.159"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_3810635913" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DriT-ew7n7RU&amp;a-id=annotation_3810635913&amp;l-class=1&amp;xble=1&amp;a-type=1&amp;a-v=hcoa7OMAmRk&amp;ei=0Hw9XOi8KZbm7gOgs7bQCQ" itct="CAMQs-UBGP___________wEiEwjo5JzOk-_fAhUWs3sKHaCZDZoo-B0yAml2SJmygpjO3YblhQE">
+  <TEXT>Hyper History &amp;
+Cyber War</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="19.91500" h="12.17100" t="0:51.934"/>
+      <rectRegion x="5.62500" y="5.55600" w="19.91500" h="12.17100" t="0:59.268"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3810635913&amp;ei=0Hw9XOi8KZbm7gOgs7bQCQ&amp;feature=iv&amp;src_vid=hcoa7OMAmRk&amp;v=riT-ew7n7RU" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_47922469" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Hyper History and Cyber War</TEXT>
+  <segment spaceRelative="annotation_1111635083">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="33.75000" w="42.47200" h="9.24200" t="never"/>
+      <rectRegion x="0.00000" y="33.75000" w="42.47200" h="9.24200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1111635083" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_774145373" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Pick &amp; Place Robot</TEXT>
+  <segment spaceRelative="annotation_1617692725">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="34.76000" w="42.47200" h="7.72700" t="never"/>
+      <rectRegion x="0.00000" y="34.76000" w="42.47200" h="7.72700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1617692725" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="ei=0Hw9XOi8KZbm7gOgs7bQCQ&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;l-class=3&amp;xble=0&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;a-v=hcoa7OMAmRk">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:23,&quot;image_width&quot;:51,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;hcoa7OMAmRk&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCOjknM6T798CFRazewodoJkNmij4HTICaXZImbKCmM7dhuWFAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;0Hw9XOi8KZbm7gOgs7bQCQ&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbl84SFpxUFJ4aV9sWDN3NGx3U0FBM3Z1TVVIUXxBQ3Jtc0tudnYzZ2RsSk5GY013ZG1JRGJIYWlaYlBJcDRZd2pIX3JvcmhnWXhhaGtFV24zSGhvQ3dxLXg3QmIxR09ZbExnZzBRd2VDSFJFVkYzMkFhN0syZ2pOT0xaQUVUeDhRSDFXM2hhdVFPZnVuSHZNdUFyQzVIbGpmc2dYaXZjeWNJYmFqWXNVNnJJeDYwTm5HQ0xMbTdkZ0otTElFOVVBNHlHdjJwb0lZaFJtaEFBYVoyQzRvYUI5ajJndGNjX3JHRzJVZVhIS01qQU1zTWU5cVkwbnpmSTlEQjRQb2szUlZ5Tkl0b1laUVYyUmY3Vm5ILUpR%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26hl%3Dde%26feature%3Div\u0026hl=de\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;start_ms&quot;:5000,&quot;end_ms&quot;:368000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkLG-xpbv3wIVwblVCh3lIABIKPgdMgJpdki61LOn3ZmmmZMB">
+<annotation id="annotation_562244389" type="highlight" log_data="a-id=annotation_562244389&amp;ei=5X89XNCqLsHz1gLlwYDABA&amp;xble=1&amp;link=http%3A%2F%2Fwww.discordapp.com&amp;l-class=6&amp;a-type=3&amp;a-v=kzKYzdTs6jo" itct="CAEQs-UBGP___________wEiEwiQsb7Glu_fAhXBuVUKHeUgAEgo-B0yAml2SLrUs6fdmaaZkwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="63.66200" w="61.92600" h="27.21100" t="0:12.827"/>
+      <rectRegion x="4.12000" y="63.66200" w="61.92600" h="27.21100" t="0:20.085"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.discordapp.com" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_88060271" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_562244389">
+    <movingRegion type="rect">
+      <rectRegion x="9.35100" y="27.32400" w="31.96500" h="5.43600" t="never"/>
+      <rectRegion x="9.35100" y="27.32400" w="31.96500" h="5.43600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_562244389" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

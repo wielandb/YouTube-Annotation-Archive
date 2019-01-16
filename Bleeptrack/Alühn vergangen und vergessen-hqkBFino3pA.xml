@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIz4qe1I_v3wIVE1zgCh2Dkg1zKPgdMgJpdkiQvaPP4qLA1IYB">
+<annotation id="annotation_2751100127" type="highlight" log_data="a-v=hqkBFino3pA&amp;link=http%3A%2F%2Fwww.bleeptrack.de%2Fphysikchemiebiologie%2F&amp;xble=1&amp;a-id=annotation_2751100127&amp;a-type=3&amp;ei=q3g9XI-JIZO4gQeDpbaYBw&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwjPip7Uj-_fAhUTXOAKHYOSDXMo-B0yAml2SJC9o8_iosDUhgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.83200" y="17.74600" w="46.92400" h="63.93400" t="5:26.526"/>
+      <rectRegion x="25.83200" y="17.74600" w="46.92400" h="63.93400" t="5:51.751"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.bleeptrack.de/physikchemiebiologie/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3025884677" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2751100127">
+    <movingRegion type="rect">
+      <rectRegion x="11.09400" y="67.32400" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="11.09400" y="67.32400" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2751100127" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

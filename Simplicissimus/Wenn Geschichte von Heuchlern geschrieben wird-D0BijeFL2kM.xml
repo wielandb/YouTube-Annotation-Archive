@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIupTP4ozv3wIVWKLeCh0Feg7aKPgdMgJpdkjDtK-K3tGYoA8">
+<annotation id="annotation_936527509" type="highlight" log_data="ei=pHU9XLqyGNjE-gaF9LnQDQ&amp;xble=1&amp;a-id=annotation_936527509&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCFgBYlz5LwymPSWBX-G6hBA&amp;a-type=3&amp;l-class=3&amp;a-v=D0BijeFL2kM" itct="CAEQs-UBGP___________wEiEwi6lM_ijO_fAhVYot4KHQV6Dtoo-B0yAml2SMO0r4re0ZigDw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.01700" y="35.21100" w="62.87600" h="28.05600" t="3:58.295"/>
+      <rectRegion x="19.01700" y="35.21100" w="62.87600" h="28.05600" t="4:04.737"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCFgBYlz5LwymPSWBX-G6hBA?annotation_id=annotation_936527509&amp;ei=pHU9XLqyGNjE-gaF9LnQDQ&amp;feature=iv&amp;src_vid=D0BijeFL2kM" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_973568899" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Hier gehts zum 2. Kanal</TEXT>
+  <segment spaceRelative="annotation_936527509">
+    <movingRegion type="rect">
+      <rectRegion x="10.61800" y="34.64800" w="37.36100" h="11.63400" t="never"/>
+      <rectRegion x="10.61800" y="34.64800" w="37.36100" h="11.63400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_936527509" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:5832997d-0000-21e3-97cb-94eb2c08c17a" style="branding" type="branding"
+            log_data="ei=pHU9XLqyGNjE-gaF9LnQDQ&amp;xble=0&amp;a-id=5832997d-0000-21e3-97cb-94eb2c08c17a&amp;link-id=UCKGMHVipEvuZudhHD05FOYA&amp;a-type=10&amp;a-ch=UCKGMHVipEvuZudhHD05FOYA&amp;l-class=3&amp;a-v=D0BijeFL2kM">
+  <data>{&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;229992&quot;,&quot;start_ms&quot;:5000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;pHU9XLqyGNjE-gaF9LnQDQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCLqUz-KM798CFVii3godBXoO2ij4HTICaXZIw7Svit7RmKAP&quot;,&quot;src_vid&quot;:&quot;D0BijeFL2kM&quot;,&quot;annotation_id&quot;:&quot;5832997d-0000-21e3-97cb-94eb2c08c17a&quot;},&quot;channel_id&quot;:&quot;UCKGMHVipEvuZudhHD05FOYA&quot;,&quot;image_type&quot;:1,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqbm5FWGdlTk5BQVg3aVNXUFlVWnV0bE10LXZnQXxBQ3Jtc0tsbTlqb2NaemNOcDRWTmw2dXgzaFlhaEk1a0Nwb2hoOTItc2k0VDVRT1Vsemw5TWdFMXFWUjhWcDZfU2M3eHlfb3lQVlZSR19OSGVFMVdSa0xQUU1sVnVaZFBVZUFzOEhoazFyQ0ZYMThjY05mcmFxTmE4RUt1UFRMWllxcGstWm9xX2lNb1BFRHoxMUxTVHVlcU94elhPOGp5RmV3NDgxdVF2aW96TEx3VFhyRGZ6bVlTNUhBSnZBeXVKTGpzRG5lODk1ZV9FQVFIUVNGZlE2VkFWTm5Fel9wRE9JbWlmRUdrUllfd1ZyaHlyMFJpa2V3%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCKGMHVipEvuZudhHD05FOYA%26action_handle_signin%3Dtrue\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;229.992&quot;,&quot;unsubscribeCount&quot;:&quot;229.993&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;Simplicissimus&quot;,&quot;end_ms&quot;:245000,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/KGMHVipEvuZudhHD05FOYA\/featured_channel.jpg?v=5845b959&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCKGMHVipEvuZudhHD05FOYA"/>
+  </action>
+</annotation></annotations></document>

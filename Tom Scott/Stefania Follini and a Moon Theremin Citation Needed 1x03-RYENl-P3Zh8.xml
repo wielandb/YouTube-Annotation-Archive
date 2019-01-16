@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1u7g9Knv3wIV4g7gCh2MfQWpKPgdMgJpdkifzN2f_rLDwEU">
+<annotation id="annotation_1284268713" type="highlight" log_data="ei=M5Q9XJaJBOKdgAeM-5XICg&amp;a-type=3&amp;a-id=annotation_1284268713&amp;xble=1&amp;l-class=5&amp;a-v=RYENl-P3Zh8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwjW7uD0qe_fAhXiDuAKHYx9Bako-B0yAml2SJ_M3Z_-ssPARQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.41000" y="16.05600" w="76.03000" h="12.00300" t="15:35.945"/>
+      <rectRegion x="11.41000" y="16.05600" w="76.03000" h="12.00300" t="15:55.554"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1284268713&amp;ei=M5Q9XJaJBOKdgAeM-5XICg&amp;feature=iv&amp;src_vid=RYENl-P3Zh8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2323648249" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1284268713">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1284268713" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2917573021" type="text" style="popup" log_data="a-id=annotation_2917573021&amp;ei=M5Q9XJaJBOKdgAeM-5XICg&amp;xble=1&amp;a-v=RYENl-P3Zh8&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjW7uD0qe_fAhXiDuAKHYx9Bako-B0yAml2SJ_M3Z_-ssPARQ">
+  <TEXT>(Do leave us a comment if you liked the show: it really does brighten our day!)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.53500" w="100.00000" h="9.46500" t="15:35.945"/>
+      <rectRegion x="0.00000" y="90.53500" w="100.00000" h="9.46500" t="15:55.553"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

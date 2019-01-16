@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzbPeovXu3wIVhLd7Ch3fHw4IKPgdMgJpdkjUqq6MtaSxqqkB">
+<annotation id="annotation_1045370975" type="highlight" log_data="l-class=6&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1045370975&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fnerd&amp;a-v=qVTFI1GLlVQ&amp;ei=AF09XM2zGYTv7gPfv7hA" itct="CAEQs-UBGP___________wEiEwjNs96i9e7fAhWEt3sKHd8fDggo-B0yAml2SNSqroy1pLGqqQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="73.05600" w="100.00000" h="26.94400" t="1:31.161"/>
+      <rectRegion x="0.00000" y="73.05600" w="100.00000" h="26.94400" t="1:37.274"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/nerd" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2213985901" type="highlight" log_data="l-class=1&amp;xble=1&amp;a-type=3&amp;a-id=annotation_2213985901&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4Pp2LpUAjN8&amp;a-v=qVTFI1GLlVQ&amp;ei=AF09XM2zGYTv7gPfv7hA" itct="CAIQs-UBGP___________wEiEwjNs96i9e7fAhWEt3sKHd8fDggo-B0yAml2SNSqroy1pLGqqQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.55000" y="8.73200" w="34.35000" h="34.53500" t="4:23.114"/>
+      <rectRegion x="63.55000" y="8.73200" w="34.35000" h="34.53500" t="4:36.035"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2213985901&amp;ei=AF09XM2zGYTv7gPfv7hA&amp;feature=iv&amp;src_vid=qVTFI1GLlVQ&amp;v=4Pp2LpUAjN8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2287605805" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2213985901">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2213985901" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3115487889" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1045370975">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1045370975" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3823418797" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;a-type=1&amp;a-id=annotation_3823418797&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;a-v=qVTFI1GLlVQ&amp;ei=AF09XM2zGYTv7gPfv7hA" itct="CAMQs-UBGP___________wEiEwjNs96i9e7fAhWEt3sKHd8fDggo-B0yAml2SNSqroy1pLGqqQE">
+  <TEXT>PC-WELT YouTube-Channel abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="32.21200" h="12.54300" t="0:42.421"/>
+      <rectRegion x="0.00000" y="0.00000" w="32.21200" h="12.54300" t="1:55.174"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_3823418797&amp;ei=AF09XM2zGYTv7gPfv7hA&amp;feature=iv&amp;src_vid=qVTFI1GLlVQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="l-class=3&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;xble=0&amp;a-v=qVTFI1GLlVQ&amp;ei=AF09XM2zGYTv7gPfv7hA">
+  <data>{&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;image_width&quot;:55,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26feature%3Div%26hl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbU11b1hYa1VJTHlRQzRSOVI2bjVMVHBTNC1hUXxBQ3Jtc0tuWFpDWUxZQzZXdjlGZjJjWEpzN01PN1RjblhTZzhtYll0c1AyVDlnV0ZhVTd4WTBfSDhIR21kRGxVTzZlUVUzekd1cFFIOENEQ0dFaDlxLTZ5LVpwSUxEQWZnMmxoVW5KbG9GLVJjQlhzd0N5UWNWWVc0T0lEX3VNcE5UejI5emxBaVRYdnd2LWI0bE14dEo5dUxNdTEtU3hkbmJTdXJrZjhfV3VfcHpDalF3MzlBQ3Y4STBjVjNVUldkMHVFcWlvV2NCNUNzaW9QV1NHUy1YTFhsRERTUXVUX1RzUzNvVXM2U3hsbGhKX082bFpkdGtJ%26app%3Ddesktop\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;},&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;src_vid&quot;:&quot;qVTFI1GLlVQ&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCM2z3qL17t8CFYS3ewod3x8OCCj4HTICaXZI1KqujLWksaqpAQ&quot;,&quot;ei&quot;:&quot;AF09XM2zGYTv7gPfv7hA&quot;},&quot;end_ms&quot;:286000,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_height&quot;:12,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:d5c1ec4d-1ff1-454b-a776-7e17fa3dd779" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=d5c1ec4d-1ff1-454b-a776-7e17fa3dd779&amp;a-type=62&amp;a-v=qVTFI1GLlVQ&amp;ei=AF09XM2zGYTv7gPfv7hA&amp;l-class=1&amp;link-id=4Pp2LpUAjN8&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;H\u00f6llenmaschine 7 - Zusammenbau #2 - Netzteil, SSDs, HDDs | deutsch \/ german&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;8:19&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=4Pp2LpUAjN8&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:264889,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;d5c1ec4d-1ff1-454b-a776-7e17fa3dd779&quot;,&quot;src_vid&quot;:&quot;qVTFI1GLlVQ&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCM2z3qL17t8CFYS3ewod3x8OCCj4HTIFY2FyZHNI1KqujLWksaqpAQ&quot;,&quot;ei&quot;:&quot;AF09XM2zGYTv7gPfv7hA&quot;},&quot;end_ms&quot;:264889,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: H\u00f6llenmaschine 7 - Zusammenbau #2 - Netzteil, SSDs, HDDs | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/4Pp2LpUAjN8\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjNs96i9e7fAhWEt3sKHd8fDggo-B0yBWNhcmRzSNSqroy1pLGqqQE&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCM2z3qL17t8CFYS3ewod3x8OCCj4HTIFY2FyZHNI1KqujLWksaqpAQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCM2z3qL17t8CFYS3ewod3x8OCCj4HTIFY2FyZHNI1KqujLWksaqpAQ&quot;},&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1458054184035,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;88.093 Aufrufe&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=4Pp2LpUAjN8"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjNs96i9e7fAhWEt3sKHd8fDggo+B0yBWNhcmRzSNSqroy1pLGqqQE=&quot;, 
+  &quot;eventId&quot;: &quot;AF09XM2zGYTv7gPfv7hA&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjNs96i9e7fAhWEt3sKHd8fDggo+B0yBWNhcmRzSNSqroy1pLGqqQE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCM2z3qL17t8CFYS3ewod3x8OCCj4HTIFY2FyZHNI1KqujLWksaqpAQ==&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;
+}</data>
+</annotation>
+</annotations></document>

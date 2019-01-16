@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyJ3Az5rv3wIVVVzgCh2SpgCTKPgdMgJpdkipjcSCw9Xl6qgB">
+<annotation id="annotation_2829100725" type="highlight" log_data="a-type=3&amp;a-id=annotation_2829100725&amp;a-v=qNWWrDBRBqk&amp;ei=KoQ9XMjgGNW4gQeSzYKYCQ&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjIncDPmu_fAhVVXOAKHZKmAJMo-B0yAml2SKmNxILD1eXqqAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.08400" y="77.18300" w="26.26800" h="21.86300" t="5:24.839"/>
+      <rectRegion x="37.08400" y="77.18300" w="26.26800" h="21.86300" t="5:42.331"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_3869217915" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_404028621">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_404028621" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3997479441" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2829100725">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2829100725" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_404028621" type="highlight" log_data="a-id=annotation_404028621&amp;xble=1&amp;a-v=qNWWrDBRBqk&amp;l-class=2&amp;a-type=3&amp;ei=KoQ9XMjgGNW4gQeSzYKYCQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLFs4vir_WsTxontcYm5ctqp89cNBJKNrs" itct="CAIQs-UBGP___________wEiEwjIncDPmu_fAhVVXOAKHZKmAJMo-B0yAml2SKmNxILD1eXqqAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.91900" y="13.80300" w="56.76200" h="52.85300" t="5:33.240"/>
+      <rectRegion x="20.91900" y="13.80300" w="56.76200" h="52.85300" t="5:42.330"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_404028621&amp;ei=KoQ9XMjgGNW4gQeSzYKYCQ&amp;feature=iv&amp;list=PLFs4vir_WsTxontcYm5ctqp89cNBJKNrs&amp;src_vid=qNWWrDBRBqk" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:c5e9a002-b006-4e48-966a-af57f78c90b5" style="playlist" type="card" log_data="a-ch=UCsXVk37bltHxD1rDPwtNM8Q&amp;a-id=c5e9a002-b006-4e48-966a-af57f78c90b5&amp;a-type=63&amp;a-v=qNWWrDBRBqk&amp;ei=KoQ9XMjgGNW4gQeSzYKYCQ&amp;l-class=2&amp;link-id=PLFs4vir_WsTxontcYm5ctqp89cNBJKNrs&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ijFm6DxNVyI\u0026list=PLFs4vir_WsTxontcYm5ctqp89cNBJKNrs&quot;,&quot;meta_info&quot;:[&quot;von Kurzgesagt \u2013 In a Nutshell&quot;,&quot;9\u00a0Videos&quot;],&quot;teaser_text&quot;:&quot;Empfohlen: The Existential Crisis Playlist&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ijFm6DxNVyI\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCMidwM-a798CFVVc4AodkqYAkyj4HTIFY2FyZHNIqY3EgsPV5eqoAQ&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjIncDPmu_fAhVVXOAKHZKmAJMo-B0yBWNhcmRzSKmNxILD1eXqqAE&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCMidwM-a798CFVVc4AodkqYAkyj4HTIFY2FyZHNIqY3EgsPV5eqoAQ&quot;},&quot;playlist_video_count&quot;:&quot;9&quot;,&quot;timestamp&quot;:1480506177491,&quot;title&quot;:&quot;The Existential Crisis Playlist&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;c5e9a002-b006-4e48-966a-af57f78c90b5&quot;,&quot;src_vid&quot;:&quot;qNWWrDBRBqk&quot;,&quot;ei&quot;:&quot;KoQ9XMjgGNW4gQeSzYKYCQ&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCMidwM-a798CFVVc4AodkqYAkyj4HTIFY2FyZHNIqY3EgsPV5eqoAQ&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:326400,&quot;pause_on_navigation&quot;:true,&quot;card_type&quot;:&quot;playlist&quot;,&quot;start_ms&quot;:326400}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ijFm6DxNVyI&amp;list=PLFs4vir_WsTxontcYm5ctqp89cNBJKNrs"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Kurzgesagt \u2013 In a Nutshell&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjIncDPmu/fAhVVXOAKHZKmAJMo+B0yBWNhcmRzSKmNxILD1eXqqAE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjIncDPmu/fAhVVXOAKHZKmAJMo+B0yBWNhcmRzSKmNxILD1eXqqAE=&quot;, 
+  &quot;eventId&quot;: &quot;KoQ9XMjgGNW4gQeSzYKYCQ&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCMidwM+a798CFVVc4AodkqYAkyj4HTIFY2FyZHNIqY3EgsPV5eqoAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-vz_p-3u3wIVxbLeCh3VTgV9KPgdMgJpdkjr5diHt_-ay_YB">
+<annotation id="annotation_181497" type="highlight" log_data="xble=1&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;a-id=annotation_181497&amp;a-v=9pZr-3D2Mus&amp;a-type=3&amp;l-class=12" itct="CAEQs-UBGP___________wEiEwj6_P-n7e7fAhXFst4KHdVOBX0o-B0yAml2SOvl2Ie3_5rL9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.09400" y="70.55600" w="31.87500" h="20.27800" t="0:06:43.4"/>
+      <rectRegion x="36.09400" y="70.55600" w="31.87500" h="20.27800" t="0:06:48.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_588992" type="text" style="popup" log_data="xble=1&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fa-call-to-invention-diy-speaker-edition-william-gurstelle&amp;a-id=annotation_588992&amp;a-v=9pZr-3D2Mus&amp;a-type=1&amp;l-class=12" itct="CAIQs-UBGP___________wEiEwj6_P-n7e7fAhXFst4KHdVOBX0o-B0yAml2SOvl2Ie3_5rL9gE">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="8.61100" w="35.62500" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="8.61100" w="35.62500" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/a-call-to-invention-diy-speaker-edition-william-gurstelle" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_666989" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_181497">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_181497" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_772665" type="text" style="popup" log_data="xble=1&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-id=annotation_772665&amp;a-v=9pZr-3D2Mus&amp;a-type=1&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwj6_P-n7e7fAhXFst4KHdVOBX0o-B0yAml2SOvl2Ie3_5rL9gE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.90600" y="12.22200" w="14.68800" h="30.83300" t="0:06:43.4"/>
+      <rectRegion x="78.90600" y="12.22200" w="14.68800" h="30.83300" t="0:06:48.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_772665&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;feature=iv&amp;src_vid=9pZr-3D2Mus" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_834941" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_892936">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.83300" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="25.83300" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_892936" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_892936" type="highlight" log_data="xble=1&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-id=annotation_892936&amp;a-v=9pZr-3D2Mus&amp;a-type=3&amp;l-class=6" itct="CAQQs-UBGP___________wEiEwj6_P-n7e7fAhXFst4KHdVOBX0o-B0yAml2SOvl2Ie3_5rL9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.31300" y="69.72200" w="22.50000" h="20.83300" t="6:43.400"/>
+      <rectRegion x="70.31300" y="69.72200" w="22.50000" h="20.83300" t="6:48.375"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_893520" type="highlight" log_data="xble=1&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fa-call-to-invention-diy-speaker-edition-william-gurstelle&amp;a-id=annotation_893520&amp;a-v=9pZr-3D2Mus&amp;a-type=3&amp;l-class=12" itct="CAUQs-UBGP___________wEiEwj6_P-n7e7fAhXFst4KHdVOBX0o-B0yAml2SOvl2Ie3_5rL9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="53.05600" w="69.06300" h="13.61100" t="0:06:43.4"/>
+      <rectRegion x="15.00000" y="53.05600" w="69.06300" h="13.61100" t="0:06:48.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/a-call-to-invention-diy-speaker-edition-william-gurstelle" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_925709" type="highlight" log_data="xble=1&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;a-id=annotation_925709&amp;a-v=9pZr-3D2Mus&amp;a-type=3&amp;l-class=12" itct="CAYQs-UBGP___________wEiEwj6_P-n7e7fAhXFst4KHdVOBX0o-B0yAml2SOvl2Ie3_5rL9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.56300" y="71.11100" w="27.18700" h="18.61100" t="0:06:43.4"/>
+      <rectRegion x="6.56300" y="71.11100" w="27.18700" h="18.61100" t="0:06:48.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_953217" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_925709">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_925709" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_970746" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_893520">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_893520" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;ei=p1Q9XLqNO8Xl-gbVnZXoBw&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=9pZr-3D2Mus&amp;a-type=10&amp;l-class=3">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbVZyY1dzdldLYjlLMS1PaWhNdVZaN3VfS1pqUXxBQ3Jtc0trWnpqZjYtZDB3dno3V2NPQjBST1hZUDhITWNiTDF3V0RHcnNCUUhNQTdPOVNnVEpkdjU0eVphMEhpbjEwVUo0WmNCVzBSZnZuSThSdDFVdlQyY1hHUENhY2s4bGZtWExzTzhZOHA4SVpOSF9aZnUzVG1BT3YxaV80OGxyZVQtakVtSWtldE1SOFE3ZV9sZ2dWRmJtV1NJb2NUekpaajI5VFNPQTViakc1OEZrSGpINU9CVGhJa3JOUDRYSHJabFh4MGNJLTVRRWxQM09faGFFdzc2MktrclkyY0ZNc2dJRGpzcXItWktGRUd4ZDFQRVJv%26app%3Ddesktop%26feature%3Div%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26action_handle_signin%3Dtrue\u0026passive=true\u0026uilel=3&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;end_ms&quot;:409000,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCPr8_6ft7t8CFcWy3god1U4FfSj4HTICaXZI6-XYh7f_msv2AQ&quot;,&quot;ei&quot;:&quot;p1Q9XLqNO8Xl-gbVnZXoBw&quot;,&quot;src_vid&quot;:&quot;9pZr-3D2Mus&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

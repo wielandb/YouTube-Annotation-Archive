@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInquew5Lv3wIVRqR7Ch2BtAEyKPgdMgJpdkjnsPrFrpfFoMgB">
+<annotation id="annotation_589706" type="highlight" log_data="a-type=3&amp;a-id=annotation_589706&amp;xble=1&amp;ei=rXs9XN6gDMbI7gOB6YaQAw&amp;a-v=yEEUuui-mGc" itct="CAEQs-UBGP___________wEiEwieq57Dku_fAhVGpHsKHYG0ATIo-B0yAml2SOew-sWul8WgyAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.00000" y="90.00000" w="40.31300" h="10.00000" t="00:01:25.8"/>
+      <rectRegion x="20.00000" y="90.00000" w="40.31300" h="10.00000" t="00:01:29.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_680932" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Quick Launch</TEXT>
+  <segment spaceRelative="annotation_589706">
+    <movingRegion type="rect">
+      <rectRegion x="-0.31200" y="-10.27800" w="41.09400" h="5.55600" t="never"/>
+      <rectRegion x="-0.31200" y="-10.27800" w="41.09400" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_589706" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:577e8d65-0000-2834-8195-001a113d4b5a" style="branding" type="branding"
+            log_data="a-type=10&amp;link-id=UCdHIPSWf3kkwNg9y_puaChA&amp;a-v=yEEUuui-mGc&amp;l-class=3&amp;a-id=577e8d65-0000-2834-8195-001a113d4b5a&amp;xble=0&amp;a-ch=UCdHIPSWf3kkwNg9y_puaChA&amp;ei=rXs9XN6gDMbI7gOB6YaQAw">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;image_height&quot;:30,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCdHIPSWf3kkwNg9y_puaChA&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;239.522&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;239.521&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fhotmonkey000%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqblJvd2h2cUl2ZFB5OE5zTWloMERyVnhwSFo4UXxBQ3Jtc0ttSE9mODFwRGRseF96SXBwam40WnVuZUlNRDlaVmEyaUY4bDFQOWFPdVV6OUpvdzdBN3ZfN0hYT0NuQkczX0VqcGs5S0dhcVZ0MFlxaHVCRm5oS3ltRTVGRU0zSDIyN1p6amx1M244S1o4OUxPOW5tcDBfY2RnUVUxRW5zNVpwckdrc0R4ZWtnNkhQZEhkbVFBdUVhNEFLd3FjblE0MXZtZ2JFTmx0T1NSVDFBRHRkSlRJRzBtcGFpU2dfandzM1RrRG10WEpTLUJfVXpMNjZLdlhLblFlUVE4b0tkbkVrRlNLemx4OERFLVRmMUp3YU5J%26app%3Ddesktop&quot;},&quot;end_ms&quot;:151000,&quot;image_width&quot;:47,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;CHM Tech&quot;,&quot;num_subscribers&quot;:&quot;239521&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/dHIPSWf3kkwNg9y_puaChA\/featured_channel.jpg?v=577fdf30&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCJ6rnsOS798CFUakewodgbQBMij4HTICaXZI57D6xa6XxaDIAQ&quot;,&quot;src_vid&quot;:&quot;yEEUuui-mGc&quot;,&quot;annotation_id&quot;:&quot;577e8d65-0000-2834-8195-001a113d4b5a&quot;,&quot;ei&quot;:&quot;rXs9XN6gDMbI7gOB6YaQAw&quot;,&quot;feature&quot;:&quot;iv&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/hotmonkey000"/>
+  </action>
+</annotation></annotations></document>

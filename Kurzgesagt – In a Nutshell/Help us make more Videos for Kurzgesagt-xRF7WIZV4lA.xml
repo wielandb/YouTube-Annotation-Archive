@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIodzqr5vv3wIVAeVVCh24QgzNKPgdMgJpdkjQxNeyiOveiMUB">
+<annotation id="annotation_1104035173" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;ei=9IQ9XKGSGoHK1wK4hbHoDA&amp;a-v=xRF7WIZV4lA&amp;a-type=3&amp;l-class=8&amp;a-id=annotation_1104035173" itct="CAEQs-UBGP___________wEiEwih3Oqvm-_fAhUB5VUKHbhCDM0o-B0yAml2SNDE17KI696IxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="18.75000" y="9.25900" w="63.41100" h="29.16700" t="1:18.062"/>
+      <rectRegion x="18.75000" y="9.25900" w="63.41100" h="29.16700" t="1:30.040"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2638729975" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK TO SUPPORT US ON PATREON</TEXT>
+  <segment spaceRelative="annotation_1104035173">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.71300" w="63.15100" h="4.00900" t="never"/>
+      <rectRegion x="0.00000" y="31.71300" w="63.15100" h="4.00900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1104035173" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3646651147" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;ei=9IQ9XKGSGoHK1wK4hbHoDA&amp;a-v=xRF7WIZV4lA&amp;a-type=1&amp;l-class=8&amp;a-id=annotation_3646651147" itct="CAIQs-UBGP___________wEiEwih3Oqvm-_fAhUB5VUKHbhCDM0o-B0yAml2SNDE17KI696IxQE">
+  <TEXT>SUPPORT US ON PATREON</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.25400" y="0.00000" w="29.74600" h="9.81500" t="0:00.000"/>
+      <rectRegion x="70.25400" y="0.00000" w="29.74600" h="9.81500" t="1:30.040"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3986403873" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;ei=9IQ9XKGSGoHK1wK4hbHoDA&amp;a-v=xRF7WIZV4lA&amp;a-type=1&amp;l-class=8&amp;a-id=annotation_3986403873" itct="CAMQs-UBGP___________wEiEwih3Oqvm-_fAhUB5VUKHbhCDM0o-B0yAml2SNDE17KI696IxQE">
+  <TEXT>Click here to get to the patreon page:</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="25.56600" h="12.59300" t="1:17.909"/>
+      <rectRegion x="0.00000" y="0.00000" w="25.56600" h="12.59300" t="1:30.040"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4240446241" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;ei=9IQ9XKGSGoHK1wK4hbHoDA&amp;a-v=xRF7WIZV4lA&amp;a-type=3&amp;l-class=8&amp;a-id=annotation_4240446241" itct="CAQQs-UBGP___________wEiEwih3Oqvm-_fAhUB5VUKHbhCDM0o-B0yAml2SNDE17KI696IxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.93200" y="16.66700" w="73.95800" h="20.37000" t="0:43.281"/>
+      <rectRegion x="13.93200" y="16.66700" w="73.95800" h="20.37000" t="0:49.160"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_768639365" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4240446241">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4240446241" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

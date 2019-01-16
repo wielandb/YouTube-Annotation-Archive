@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8IvLi9Lu3wIVAcFVCh2U0A8YKPgdMgJpdkjg3sj-huWIuJAB">
+<annotation id="annotation_1028410943" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du5y8suinZLE&amp;xble=1&amp;ei=HDg9XPCNJoGC1wKUob_AAQ&amp;a-id=annotation_1028410943&amp;l-class=1&amp;a-v=kHAjKG_SL2A&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjwi8uL0u7fAhUBwVUKHZTQDxgo-B0yAml2SODeyP6G5Yi4kAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.74300" y="32.11300" w="25.00000" h="27.77800" t="2:28.968"/>
+      <rectRegion x="1.74300" y="32.11300" w="25.00000" h="27.77800" t="2:37.663"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1028410943&amp;ei=HDg9XPCNJoGC1wKUob_AAQ&amp;feature=iv&amp;src_vid=kHAjKG_SL2A&amp;v=u5y8suinZLE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1219927349" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCdBQ1mh8kFo&amp;xble=1&amp;ei=HDg9XPCNJoGC1wKUob_AAQ&amp;a-id=annotation_1219927349&amp;l-class=1&amp;a-v=kHAjKG_SL2A&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjwi8uL0u7fAhUBwVUKHZTQDxgo-B0yAml2SODeyP6G5Yi4kAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.26800" y="2.81700" w="25.00000" h="27.77800" t="2:29.002"/>
+      <rectRegion x="1.26800" y="2.81700" w="25.00000" h="27.77800" t="2:37.663"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1219927349&amp;ei=HDg9XPCNJoGC1wKUob_AAQ&amp;feature=iv&amp;src_vid=kHAjKG_SL2A&amp;v=CdBQ1mh8kFo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_387082703" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1219927349">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1219927349" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_74752511" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1028410943">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1028410943" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:e4acfb01-abed-4388-b00c-865ff864d6b0" style="branding" type="branding"
+            log_data="xble=0&amp;ei=HDg9XPCNJoGC1wKUob_AAQ&amp;link-id=UC6zXbTQEujMO-5CzyywlVDQ&amp;a-id=e4acfb01-abed-4388-b00c-865ff864d6b0&amp;l-class=3&amp;a-v=kHAjKG_SL2A&amp;a-ch=UC6zXbTQEujMO-5CzyywlVDQ&amp;a-type=10">
+  <data>{&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UC6zXbTQEujMO-5CzyywlVDQ&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:49,&quot;start_ms&quot;:0,&quot;num_subscribers&quot;:&quot;120224&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/6zXbTQEujMO-5CzyywlVDQ\/featured_channel.jpg?v=5b913622&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:158000,&quot;channel_name&quot;:&quot;Bohemian Browser Ballett&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;120.225&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;120.224&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Dde%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUC6zXbTQEujMO-5CzyywlVDQ%26continue_action%3DQUFFLUhqbDdDcnNENnA4MlVaaXVrZ2tjMUlzV1ZMM0g3QXxBQ3Jtc0tuREdkeEh5MjRoX0NVaW83ZDFhZkhTdUhqUVJMR2psb1V5bU5rQzhEekRZWW1wZ01kVlhfT0RiaVRyM3BZYUpEWTZHcWRNQmhGZzd6VlJsOVkwTms5LS1iUElqWEZKalVBU3BuZlJ5ZEhQVlFBSkdmVWNtUG01UG44SDNKZGpLcjdUQzRlWTdteHlYRU1tNzNwNzByYWpHNml2dXdGTXEydHk5ODlnZ3poMEJZOWtNM0ZtdExwLWh0YXRmZExRLTJPdERpNDIwcXNKQy1sOG53czZXdFg1RTlkTnBmczZrVkJOOUJXTTZTNC1lOFFtOFpV&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCPCLy4vS7t8CFQHBVQodlNAPGCj4HTICaXZI4N7I_obliLiQAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;HDg9XPCNJoGC1wKUob_AAQ&quot;,&quot;annotation_id&quot;:&quot;e4acfb01-abed-4388-b00c-865ff864d6b0&quot;,&quot;src_vid&quot;:&quot;kHAjKG_SL2A&quot;},&quot;image_height&quot;:27}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UC6zXbTQEujMO-5CzyywlVDQ"/>
+  </action>
+</annotation>
+<annotation id="video:18a8dc58-050d-42fb-ab9b-c9d6661d8fd1" style="video" type="card" log_data="a-ch=UC6zXbTQEujMO-5CzyywlVDQ&amp;a-id=18a8dc58-050d-42fb-ab9b-c9d6661d8fd1&amp;a-type=62&amp;a-v=kHAjKG_SL2A&amp;ei=HDg9XPCNJoGC1wKUob_AAQ&amp;l-class=1&amp;link-id=CdBQ1mh8kFo&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1476455799488,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCPCLy4vS7t8CFQHBVQodlNAPGCj4HTIFY2FyZHNI4N7I_obliLiQAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCPCLy4vS7t8CFQHBVQodlNAPGCj4HTIFY2FyZHNI4N7I_obliLiQAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjwi8uL0u7fAhUBwVUKHZTQDxgo-B0yBWNhcmRzSODeyP6G5Yi4kAE&quot;},&quot;video_duration&quot;:&quot;3:03&quot;,&quot;start_ms&quot;:7555,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/CdBQ1mh8kFo\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:7555,&quot;title&quot;:&quot;Die m\u00e4chtigste Satire-Redaktion der Welt&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=CdBQ1mh8kFo&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Die m\u00e4chtigste Satire-Redaktion der Welt&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCPCLy4vS7t8CFQHBVQodlNAPGCj4HTIFY2FyZHNI4N7I_obliLiQAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;HDg9XPCNJoGC1wKUob_AAQ&quot;,&quot;annotation_id&quot;:&quot;18a8dc58-050d-42fb-ab9b-c9d6661d8fd1&quot;,&quot;src_vid&quot;:&quot;kHAjKG_SL2A&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von Bohemian Browser Ballett&quot;,&quot;60.487 Aufrufe&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=CdBQ1mh8kFo"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;HDg9XPCNJoGC1wKUob_AAQ&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCPCLy4vS7t8CFQHBVQodlNAPGCj4HTIFY2FyZHNI4N7I/obliLiQAQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjwi8uL0u7fAhUBwVUKHZTQDxgo+B0yBWNhcmRzSODeyP6G5Yi4kAE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjwi8uL0u7fAhUBwVUKHZTQDxgo+B0yBWNhcmRzSODeyP6G5Yi4kAE=&quot;, 
+  &quot;headerText&quot;: &quot;Von Bohemian Browser Ballett&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI88HWlZHv3wIVw4FVCh0a-Q9lKPgdMgJpdkjUl8ab_bvHu88B">
+<annotation id="annotation_1763979947" type="text" style="popup" log_data="xble=1&amp;ei=QXo9XLOdDcOD1gKa8r-oBg&amp;a-v=z3cd39Nxi9Q&amp;a-id=annotation_1763979947&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjzwdaVke_fAhXDgVUKHRr5D2Uo-B0yAml2SNSXxpv9u8e7zwE">
+  <TEXT>MISTAKE: An extra black ball was added in the right tube, which slowed the release of marbles on the right after 9:50 by 4 seconds.  Oops.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="39.93700" y="0.00000" w="33.01100" h="18.73200" t="3:52.196"/>
+      <rectRegion x="39.93700" y="0.00000" w="33.01100" h="18.73200" t="4:04.355"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.3098083333333332" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2467609017" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2982150539">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2982150539" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2982150539" type="highlight" log_data="ei=QXo9XLOdDcOD1gKa8r-oBg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdgYF9AZfn60&amp;xble=1&amp;a-id=annotation_2982150539&amp;l-class=1&amp;a-v=z3cd39Nxi9Q" itct="CAIQs-UBGP___________wEiEwjzwdaVke_fAhXDgVUKHRr5D2Uo-B0yAml2SNSXxpv9u8e7zwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.59000" y="0.00000" w="42.59500" h="50.78900" t="11:07.118"/>
+      <rectRegion x="1.59000" y="0.00000" w="42.59500" h="50.78900" t="11:17.442"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2982150539&amp;ei=QXo9XLOdDcOD1gKa8r-oBg&amp;feature=iv&amp;src_vid=z3cd39Nxi9Q&amp;v=dgYF9AZfn60" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

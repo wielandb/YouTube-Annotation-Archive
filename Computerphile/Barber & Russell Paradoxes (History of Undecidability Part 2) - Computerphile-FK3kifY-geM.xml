@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkprX1ZXv3wIVhe1VCh3uwwcNKPgdMgJpdkjjg_qxn5H51hQ">
+<annotation id="annotation_1852758953" type="text" style="popup" log_data="a-v=FK3kifY-geM&amp;l-class=1&amp;a-type=1&amp;a-id=annotation_1852758953&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmacM_MtS_w4&amp;ei=-X49XNK5C4Xb1wLuh59o" itct="CAEQs-UBGP___________wEiEwiSmtfVle_fAhWF7VUKHe7DBw0o-B0yAml2SOOD-rGfkfnWFA">
+  <TEXT>Turing &amp; The Halting Problem</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.04800" y="73.52100" w="24.44600" h="15.92300" t="0:19.655"/>
+      <rectRegion x="70.04800" y="73.52100" w="24.44600" h="15.92300" t="0:29.405"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="0" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1852758953&amp;ei=-X49XNK5C4Xb1wLuh59o&amp;feature=iv&amp;src_vid=FK3kifY-geM&amp;v=macM_MtS_w4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2180129573" type="highlight" log_data="a-v=FK3kifY-geM&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_2180129573&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnsZsd5qtbo4&amp;ei=-X49XNK5C4Xb1wLuh59o" itct="CAIQs-UBGP___________wEiEwiSmtfVle_fAhWF7VUKHe7DBw0o-B0yAml2SOOD-rGfkfnWFA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.96500" y="0.00000" w="35.61800" h="55.09900" t="8:29.719"/>
+      <rectRegion x="61.96500" y="0.00000" w="35.61800" h="55.09900" t="8:40.728"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2180129573&amp;ei=-X49XNK5C4Xb1wLuh59o&amp;feature=iv&amp;src_vid=FK3kifY-geM&amp;v=nsZsd5qtbo4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3356575477" type="highlight" log_data="a-v=FK3kifY-geM&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_3356575477&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnsZsd5qtbo4&amp;ei=-X49XNK5C4Xb1wLuh59o" itct="CAMQs-UBGP___________wEiEwiSmtfVle_fAhWF7VUKHe7DBw0o-B0yAml2SOOD-rGfkfnWFA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.24100" y="85.07000" w="83.94600" h="13.69000" t="1:02.780"/>
+      <rectRegion x="8.24100" y="85.07000" w="83.94600" h="13.69000" t="1:15.140"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3356575477&amp;ei=-X49XNK5C4Xb1wLuh59o&amp;feature=iv&amp;src_vid=FK3kifY-geM&amp;v=nsZsd5qtbo4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_596398995" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Undecidability Tangent (History of Undecidability Part 1)</TEXT>
+  <segment spaceRelative="annotation_2180129573">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="55.07000" w="35.61800" h="12.76100" t="never"/>
+      <rectRegion x="0.00000" y="55.07000" w="35.61800" h="12.76100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2180129573" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_81141193" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Undecidability Tangent (History of Undecidability Part 1)</TEXT>
+  <segment spaceRelative="annotation_3356575477">
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="-8.26800" w="82.68600" h="23.47900" t="never"/>
+      <rectRegion x="0.79200" y="-8.26800" w="82.68600" h="23.47900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3356575477" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="a-v=FK3kifY-geM&amp;xble=0&amp;l-class=3&amp;a-type=10&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;ei=-X49XNK5C4Xb1wLuh59o">
+  <data>{&quot;end_ms&quot;:640000,&quot;image_height&quot;:23,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_width&quot;:51,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;FK3kifY-geM&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJKa19WV798CFYXtVQod7sMHDSj4HTICaXZI44P6sZ-R-dYU&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;-X49XNK5C4Xb1wLuh59o&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26hl%3Dde%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbDVfRTd1elhweEdWS1haWGRWN080TUIzWnU1QXxBQ3Jtc0tsQzljRy1tRTNPUkI5VUctcnhjZUs5R2R2TDdMSExyWjdfbmxBYTZKMmZ5QS1oeHFtNXp5V2tZT204VExyc2xDczBxN1dSQXFRX0tmeUN4Mi1pRldwQ05kYi01OG5aOFNpTWt2MzRtMExnWHBpVVdOSUo1QU9YZDIydC0tRnJ6TmlqYU9yOUxMcVBYc0g4a1Q2cXJ6TEJ4X3lCczFVQ0x5Y3FXLXhzTTFBQmNWM3o5Yjc1Nnp5RUJYRWpVNENKWE12dmRyc2VoZW9yV0Z2NDBpdE5TVFpQSDFyd1Q0ZGl6WHhHay1NNUdJQ2tiaFNUQWs4\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;channel_name&quot;:&quot;Computerphile&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

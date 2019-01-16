@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgP_fgZDv3wIVzqBVCh3anAsXKPgdMgJpdkirt6HhnI2hx0I">
+<annotation id="annotation_34723" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_587030">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_587030" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_587030" type="highlight" log_data="xble=1&amp;ei=Cnk9XIDSPM7B1gLaua64AQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DBleeptrackPodcast&amp;a-id=annotation_587030&amp;a-v=Qo6EacwoW6s&amp;a-type=3&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwiA_9-BkO_fAhXOoFUKHdqcCxco-B0yAml2SKu3oeGcjaHHQg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.59400" y="30.83300" w="51.40600" h="13.88900" t="0:10:38.3"/>
+      <rectRegion x="23.59400" y="30.83300" w="51.40600" h="13.88900" t="0:10:43.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=BleeptrackPodcast&amp;annotation_id=annotation_587030&amp;ei=Cnk9XIDSPM7B1gLaua64AQ&amp;feature=iv&amp;src_vid=Qo6EacwoW6s" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

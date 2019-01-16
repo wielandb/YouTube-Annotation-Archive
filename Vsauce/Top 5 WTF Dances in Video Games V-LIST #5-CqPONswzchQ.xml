@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgaWh6qvv3wIVlIFVCh2u0QA5KPgdMgJpdkiU5M3h7Mbz0Qo">
+<annotation id="annotation_55850" type="highlight" log_data="a-id=annotation_55850&amp;ei=NZY9XMG2OJSD1gKuo4PIAw&amp;a-type=3&amp;a-v=CqPONswzchQ&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce" itct="CAEQs-UBGP___________wEiEwiBpaHqq-_fAhWUgVUKHa7RADko-B0yAml2SJTkzeHsxvPRCg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="6.94400" t="0:00:00.0"/>
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="6.94400" t="0:01:56.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_55850&amp;ei=NZY9XMG2OJSD1gKuo4PIAw&amp;feature=iv&amp;src_vid=CqPONswzchQ" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_571200" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Want Vsauce? ;)</TEXT>
+  <segment spaceRelative="annotation_55850">
+    <movingRegion type="rect">
+      <rectRegion x="-18.28100" y="1.66700" w="17.65600" h="5.55600" t="never"/>
+      <rectRegion x="-18.28100" y="1.66700" w="17.65600" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_55850" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_62069" type="text" style="popup" log_data="xble=1&amp;ei=NZY9XMG2OJSD1gKuo4PIAw&amp;a-v=CqPONswzchQ&amp;a-type=1&amp;a-id=annotation_62069" itct="CAIQs-UBGP___________wEiEwiBpaHqq-_fAhWUgVUKHa7RADko-B0yAml2SJTkzeHsxvPRCg">
+  <TEXT>There&#39;s a great simple video on how to do these &#39;dances&#39; -- check the link in the description!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="32.96900" h="16.38900" t="0:01:33.6"/>
+      <rectRegion x="0.00000" y="0.00000" w="32.96900" h="16.38900" t="0:01:40.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

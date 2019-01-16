@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzYTdpuru3wIVTTDgCh1VPgFHKPgdMgJpdkj1ypqAhdnB0MMB">
+<annotation id="annotation_1093471971" type="highlight" log_data="a-v=w6EGyFAGpXU&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=1&amp;a-id=annotation_1093471971&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwjNhN2m6u7fAhVNMOAKHVU-AUco-B0yAml2SPXKmoCF2cHQwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="74.64800" w="27.53600" h="19.04200" t="4:44.800"/>
+      <rectRegion x="6.33900" y="74.64800" w="27.53600" h="19.04200" t="4:54.845"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2223538981" type="text" style="popup" log_data="a-v=w6EGyFAGpXU&amp;a-type=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-physics-of-playing-guitar-oscar-fernando-perez&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=1&amp;a-id=annotation_2223538981&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwjNhN2m6u7fAhVNMOAKHVU-AUco-B0yAml2SPXKmoCF2cHQwwE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.58500" y="8.45100" w="35.85700" h="9.16200" t="0:00.000"/>
+      <rectRegion x="1.58500" y="8.45100" w="35.85700" h="9.16200" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-physics-of-playing-guitar-oscar-fernando-perez" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2240444887" type="highlight" log_data="a-v=w6EGyFAGpXU&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-physics-of-playing-guitar-oscar-fernando-perez&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=1&amp;a-id=annotation_2240444887&amp;l-class=6" itct="CAMQs-UBGP___________wEiEwjNhN2m6u7fAhVNMOAKHVU-AUco-B0yAml2SPXKmoCF2cHQwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="56.05600" w="70.16600" h="14.53900" t="4:44.800"/>
+      <rectRegion x="14.89700" y="56.05600" w="70.16600" h="14.53900" t="4:54.845"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-physics-of-playing-guitar-oscar-fernando-perez" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2244077859" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2240444887">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="14.64800" w="70.32500" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="14.64800" w="70.32500" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2240444887" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2326947471" type="highlight" log_data="a-v=w6EGyFAGpXU&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=1&amp;a-id=annotation_2326947471&amp;l-class=6" itct="CAQQs-UBGP___________wEiEwjNhN2m6u7fAhVNMOAKHVU-AUco-B0yAml2SPXKmoCF2cHQwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.20600" y="74.36600" w="23.41500" h="19.88700" t="4:44.800"/>
+      <rectRegion x="70.20600" y="74.36600" w="23.41500" h="19.88700" t="4:54.845"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_247696931" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2326947471">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="20.19700" w="23.41500" h="5.43700" t="never"/>
+      <rectRegion x="0.00000" y="20.19700" w="23.41500" h="5.43700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2326947471" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2736090097" type="highlight" log_data="a-v=w6EGyFAGpXU&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=1&amp;a-id=annotation_2736090097&amp;l-class=6" itct="CAUQs-UBGP___________wEiEwjNhN2m6u7fAhVNMOAKHVU-AUco-B0yAml2SPXKmoCF2cHQwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.97500" y="74.64800" w="32.60700" h="19.89100" t="4:44.800"/>
+      <rectRegion x="35.97500" y="74.64800" w="32.60700" h="19.89100" t="4:54.845"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3691875147" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1093471971">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.63400" w="27.37700" h="5.71800" t="never"/>
+      <rectRegion x="0.00000" y="19.63400" w="27.37700" h="5.71800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1093471971" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3846573821" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2736090097">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="20.19700" w="32.44800" h="5.15500" t="never"/>
+      <rectRegion x="0.00000" y="20.19700" w="32.44800" h="5.15500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2736090097" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_707980133" type="text" style="popup" log_data="a-v=w6EGyFAGpXU&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=1&amp;a-id=annotation_707980133&amp;l-class=5" itct="CAYQs-UBGP___________wEiEwjNhN2m6u7fAhVNMOAKHVU-AUco-B0yAml2SPXKmoCF2cHQwwE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.39800" y="12.11300" w="17.79700" h="25.78900" t="4:44.800"/>
+      <rectRegion x="79.39800" y="12.11300" w="17.79700" h="25.78900" t="4:54.845"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_707980133&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;feature=iv&amp;src_vid=w6EGyFAGpXU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=w6EGyFAGpXU&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=f1E9XI3JPM3ggAfV_IS4BA&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3">
+  <data>{&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;w6EGyFAGpXU&quot;,&quot;ei&quot;:&quot;f1E9XI3JPM3ggAfV_IS4BA&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCM2E3abq7t8CFU0w4AodVT4BRyj4HTICaXZI9cqagIXZwdDDAQ&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026hl=de\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26continue_action%3DQUFFLUhqa29ZckU4bUxpZThmSlFKVjdqdEZic0JNc0VtQXxBQ3Jtc0ttZDJoTnk3OEYzZzRUOGI0em1lWnNLUUhFNnIyZU9PVTgxZXFIQTRmcS11bkJZOTExRFFtenRxUHBfMVpETzBQTlc0QzV0TWU2TkFlRGhWajZJSmcyX0FKREZIMEpuN2QxU1ZSeU51SktNWklvNmM5WlJrbW1SRVREV1NrOERLT1NhY0hNRm8tNkIwUmVDcUR0UVV4NU9fQXdva2Y1U0FNV1Q1OXRHcFZyQ3RwS012SEg1M0dhN1hxdjFBQ0pmc2VFeWdQUVdiZy1DM3JiZVJMcXNsSkF0SUxESUM2dVJ2dGJ6UmxZTTl2M1ptUVNLeklj%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26app%3Ddesktop&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:295000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrtqnhpDv3wIVCrhVCh0UFAQVKPgdMgJpdkj958L-nI6tcw">
+<annotation id="annotation_42091" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_905308">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_905308" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_784731" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_883006">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.72200" w="18.75000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="24.72200" w="18.75000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_883006" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_883006" type="highlight" log_data="a-type=3&amp;ei=FHk9XK6AIorw1gKUqJCoAQ&amp;a-id=annotation_883006&amp;l-class=3&amp;xble=1&amp;a-v=AOa0cc_Qs_0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DUlmateWebTV" itct="CAEQs-UBGP___________wEiEwiu2qeGkO_fAhUKuFUKHRQUBBUo-B0yAml2SP3nwv6cjq1z">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.96900" y="68.88900" w="73.90600" h="22.22200" t="0:02:57.3"/>
+      <rectRegion x="12.96900" y="68.88900" w="73.90600" h="22.22200" t="0:03:08.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/profile?annotation_id=annotation_883006&amp;ei=FHk9XK6AIorw1gKUqJCoAQ&amp;feature=iv&amp;src_vid=AOa0cc_Qs_0&amp;user=UlmateWebTV" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_905308" type="highlight" log_data="a-type=3&amp;ei=FHk9XK6AIorw1gKUqJCoAQ&amp;a-id=annotation_905308&amp;l-class=3&amp;xble=1&amp;a-v=AOa0cc_Qs_0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DBleeptrackPodcast" itct="CAIQs-UBGP___________wEiEwiu2qeGkO_fAhUKuFUKHRQUBBUo-B0yAml2SP3nwv6cjq1z">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.93800" y="18.61100" w="48.75000" h="48.33300" t="0:02:57.3"/>
+      <rectRegion x="25.93800" y="18.61100" w="48.75000" h="48.33300" t="0:03:08.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/profile?annotation_id=annotation_905308&amp;ei=FHk9XK6AIorw1gKUqJCoAQ&amp;feature=iv&amp;src_vid=AOa0cc_Qs_0&amp;user=BleeptrackPodcast" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

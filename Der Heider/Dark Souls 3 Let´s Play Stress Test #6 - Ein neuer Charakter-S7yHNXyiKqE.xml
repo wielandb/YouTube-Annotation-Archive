@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrpaskfvu3wIVFmTgCh31EQU5KPgdMgJpdkih1Yjl1-ah3ks">
+<annotation id="annotation_2268361545" type="highlight" log_data="a-v=S7yHNXyiKqE&amp;l-class=5&amp;a-id=annotation_2268361545&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsdArEi1oNivTWMDqFNoM9g%3Fsub_confirmation%3D1&amp;a-type=3&amp;ei=JmM9XK7rIZbIgQf1o5TIAw" itct="CAEQs-UBGP___________wEiEwiulqyR--7fAhUWZOAKHfURBTko-B0yAml2SKHViOXX5qHeSw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.64000" y="68.45100" w="30.23800" h="22.98600" t="0:00.000"/>
+      <rectRegion x="61.64000" y="68.45100" w="30.23800" h="22.98600" t="0:09.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCsdArEi1oNivTWMDqFNoM9g?annotation_id=annotation_2268361545&amp;ei=JmM9XK7rIZbIgQf1o5TIAw&amp;feature=iv&amp;src_vid=S7yHNXyiKqE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2279799507" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2268361545">
+    <movingRegion type="rect">
+      <rectRegion x="-0.15800" y="12.67600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-0.15800" y="12.67600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2268361545" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4172253421" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_4172253421&amp;ei=JmM9XK7rIZbIgQf1o5TIAw&amp;a-v=S7yHNXyiKqE&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiulqyR--7fAhUWZOAKHfURBTko-B0yAml2SKHViOXX5qHeSw">
+  <TEXT>Musste eine Bosskampf-Folge wegen Technik-Kacka löschen...deswegen laber ich da was von Folge 7 ;)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.41500" y="0.00000" w="31.58500" h="20.71800" t="0:00.000"/>
+      <rectRegion x="68.41500" y="0.00000" w="31.58500" h="20.71800" t="0:05.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

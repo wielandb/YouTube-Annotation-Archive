@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwIu9oqnv3wIVi7VVCh2Q1gO9KPgdMgJpdkip8MK2m5eix8YB">
+<annotation id="annotation_1168245367" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3137387097">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3137387097" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1333666477" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_344104103">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_344104103" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2155163521" type="highlight" log_data="ei=hpM9XMCwH4vr1gKQrY_oCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL-292yfpAFGYdTEWvXECZX8UwPgO7X3Zz&amp;a-v=xo6IubbQuCk&amp;l-class=2&amp;a-id=annotation_2155163521&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjAi72iqe_fAhWLtVUKHZDWA70o-B0yAml2SKnwwrabl6LHxgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.03600" y="4.22500" w="28.01100" h="41.29600" t="2:43.106"/>
+      <rectRegion x="67.03600" y="4.22500" w="28.01100" h="41.29600" t="2:58.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_2155163521&amp;ei=hpM9XMCwH4vr1gKQrY_oCw&amp;feature=iv&amp;list=PL-292yfpAFGYdTEWvXECZX8UwPgO7X3Zz&amp;src_vid=xo6IubbQuCk" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3137387097" type="highlight" log_data="ei=hpM9XMCwH4vr1gKQrY_oCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Folympic%3Fsub_confirmation%3D1&amp;a-v=xo6IubbQuCk&amp;l-class=5&amp;a-id=annotation_3137387097&amp;xble=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjAi72iqe_fAhWLtVUKHZDWA70o-B0yAml2SKnwwrabl6LHxgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="69.57700" w="49.56400" h="19.04600" t="2:43.100"/>
+      <rectRegion x="25.35700" y="69.57700" w="49.56400" h="19.04600" t="2:58.274"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/olympic?annotation_id=annotation_3137387097&amp;ei=hpM9XMCwH4vr1gKQrY_oCw&amp;feature=iv&amp;src_vid=xo6IubbQuCk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_344104103" type="highlight" log_data="ei=hpM9XMCwH4vr1gKQrY_oCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcE3f0350BcE&amp;a-v=xo6IubbQuCk&amp;l-class=1&amp;a-id=annotation_344104103&amp;xble=1&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjAi72iqe_fAhWLtVUKHZDWA70o-B0yAml2SKnwwrabl6LHxgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.23000" y="4.78900" w="27.85300" h="40.16900" t="2:43.106"/>
+      <rectRegion x="5.23000" y="4.78900" w="27.85300" h="40.16900" t="2:58.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_344104103&amp;ei=hpM9XMCwH4vr1gKQrY_oCw&amp;feature=iv&amp;src_vid=xo6IubbQuCk&amp;v=cE3f0350BcE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4264151925" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2155163521">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2155163521" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:d182e3e0-76be-4fc7-b424-f69da233c4ea" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=d182e3e0-76be-4fc7-b424-f69da233c4ea&amp;a-type=62&amp;a-v=xo6IubbQuCk&amp;ei=hpM9XMCwH4vr1gKQrY_oCw&amp;l-class=1&amp;link-id=cE3f0350BcE&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Empfohlen: The art of Monobob | Science of YOG with Tom Scott&quot;,&quot;is_live_now&quot;:false,&quot;meta_info&quot;:[&quot;von Olympic&quot;,&quot;24.060 Aufrufe&quot;],&quot;end_ms&quot;:162210,&quot;start_ms&quot;:162210,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/cE3f0350BcE\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;The art of Monobob | Science of YOG with Tom Scott&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1454281903001,&quot;video_duration&quot;:&quot;4:15&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;d182e3e0-76be-4fc7-b424-f69da233c4ea&quot;,&quot;ei&quot;:&quot;hpM9XMCwH4vr1gKQrY_oCw&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCMCLvaKp798CFYu1VQodkNYDvSj4HTIFY2FyZHNIqfDCtpuXosfGAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;xo6IubbQuCk&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=cE3f0350BcE&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCMCLvaKp798CFYu1VQodkNYDvSj4HTIFY2FyZHNIqfDCtpuXosfGAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCMCLvaKp798CFYu1VQodkNYDvSj4HTIFY2FyZHNIqfDCtpuXosfGAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjAi72iqe_fAhWLtVUKHZDWA70o-B0yBWNhcmRzSKnwwrabl6LHxgE&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=cE3f0350BcE"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;eventId&quot;: &quot;hpM9XMCwH4vr1gKQrY_oCw&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjAi72iqe/fAhWLtVUKHZDWA70o+B0yBWNhcmRzSKnwwrabl6LHxgE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjAi72iqe/fAhWLtVUKHZDWA70o+B0yBWNhcmRzSKnwwrabl6LHxgE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCMCLvaKp798CFYu1VQodkNYDvSj4HTIFY2FyZHNIqfDCtpuXosfGAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

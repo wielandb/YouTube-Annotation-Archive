@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIw-PChPXu3wIVm8JVCh262AyCKPgdMgJpdkjCgLCS9-LQ3ZQB">
+<annotation id="annotation_1223111487" type="text" style="popup" log_data="ei=wVw9XIP_ApuF1wK6sbOQCA&amp;a-id=annotation_1223111487&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;a-v=lLtDF3JMAEI&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjD48KE9e7fAhWbwlUKHbrYDIIo-B0yAml2SMKAsJL34tDdlAE">
+  <TEXT>PC-WELT YouTube-Channel abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="32.84600" h="11.97900" t="1:40.060"/>
+      <rectRegion x="0.00000" y="0.00000" w="32.84600" h="11.97900" t="5:37.656"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_1223111487&amp;ei=wVw9XIP_ApuF1wK6sbOQCA&amp;feature=iv&amp;src_vid=lLtDF3JMAEI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3259142927" type="highlight" log_data="ei=wVw9XIP_ApuF1wK6sbOQCA&amp;a-id=annotation_3259142927&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDKb-ZeuYDa0&amp;a-v=lLtDF3JMAEI&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjD48KE9e7fAhWbwlUKHbrYDIIo-B0yAml2SMKAsJL34tDdlAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.63700" y="10.42300" w="33.71600" h="33.40800" t="7:21.358"/>
+      <rectRegion x="58.63700" y="10.42300" w="33.71600" h="33.40800" t="7:28.659"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3259142927&amp;ei=wVw9XIP_ApuF1wK6sbOQCA&amp;feature=iv&amp;src_vid=lLtDF3JMAEI&amp;v=DKb-ZeuYDa0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3275944127" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3628764711">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3628764711" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3628764711" type="highlight" log_data="ei=wVw9XIP_ApuF1wK6sbOQCA&amp;a-id=annotation_3628764711&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDKb-ZeuYDa0&amp;a-v=lLtDF3JMAEI&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjD48KE9e7fAhWbwlUKHbrYDIIo-B0yAml2SMKAsJL34tDdlAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.16200" y="10.42300" w="33.87500" h="33.97200" t="3:57.500"/>
+      <rectRegion x="58.16200" y="10.42300" w="33.87500" h="33.97200" t="4:07.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3628764711&amp;ei=wVw9XIP_ApuF1wK6sbOQCA&amp;feature=iv&amp;src_vid=lLtDF3JMAEI&amp;v=DKb-ZeuYDa0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3633824579" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3259142927">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3259142927" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="ei=wVw9XIP_ApuF1wK6sbOQCA&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;l-class=3&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;a-v=lLtDF3JMAEI&amp;xble=0">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;ei&quot;:&quot;wVw9XIP_ApuF1wK6sbOQCA&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCMPjwoT17t8CFZvCVQodutgMgij4HTICaXZIwoCwkvfi0N2UAQ&quot;,&quot;src_vid&quot;:&quot;lLtDF3JMAEI&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;start_ms&quot;:0,&quot;image_width&quot;:55,&quot;end_ms&quot;:896000,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26continue_action%3DQUFFLUhqbTdhemNFbDNubldsQ2d3VWxXRVVxTmJJTGZrd3xBQ3Jtc0tudWNNX3FLZGJZaWZWMDJ0LVZzZzdTRVV5OW5fM3V3OXJ2ZUNXUmVfSFJkMTZjc21FblVfM29tbHdSMUhlR0xpaGx6b3RUaWpFaXAxMEdmWklVMXozcWpyalVkQ3B6d1FSWnFKRk10dllBOGE1M1RuRVV4bXJwV2lXUW9rN1BPdENIRk01eGhjR0dtREk4cnZNcDBQV1Bnc2FEYm9WLWRuRm5ZMzBYV3pMN3FjUGt2RkRBUHh2UVczbTUwQUFnazA0bkUzT1JJMmdlczhRNnB3QlBMWURHT2NxTzl5Qm9fVlI0QU9Lc01MbUFCNHp3bXhB%26hl%3Dde%26feature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue\u0026service=youtube\u0026passive=true&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;},&quot;image_height&quot;:12,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:e68645d4-368a-4844-9d43-04b600c436e6" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=e68645d4-368a-4844-9d43-04b600c436e6&amp;a-type=62&amp;a-v=lLtDF3JMAEI&amp;ei=wVw9XIP_ApuF1wK6sbOQCA&amp;l-class=1&amp;link-id=DKb-ZeuYDa0&amp;xble=0">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;e68645d4-368a-4844-9d43-04b600c436e6&quot;,&quot;ei&quot;:&quot;wVw9XIP_ApuF1wK6sbOQCA&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCMPjwoT17t8CFZvCVQodutgMgij4HTIFY2FyZHNIwoCwkvfi0N2UAQ&quot;,&quot;src_vid&quot;:&quot;lLtDF3JMAEI&quot;},&quot;video_duration&quot;:&quot;12:50&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=DKb-ZeuYDa0&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjD48KE9e7fAhWbwlUKHbrYDIIo-B0yBWNhcmRzSMKAsJL34tDdlAE&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCMPjwoT17t8CFZvCVQodutgMgij4HTIFY2FyZHNIwoCwkvfi0N2UAQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCMPjwoT17t8CFZvCVQodutgMgij4HTIFY2FyZHNIwoCwkvfi0N2UAQ&quot;},&quot;start_ms&quot;:238520,&quot;teaser_text&quot;:&quot;Empfohlen: Nvidia Shield Tablet - Gaming-Tablet im Test | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/DKb-ZeuYDa0\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;98.162 Aufrufe&quot;],&quot;card_type&quot;:&quot;video&quot;,&quot;title&quot;:&quot;Nvidia Shield Tablet - Gaming-Tablet im Test | deutsch \/ german&quot;,&quot;end_ms&quot;:238520,&quot;timestamp&quot;:1448357413685,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=DKb-ZeuYDa0"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjD48KE9e7fAhWbwlUKHbrYDIIo+B0yBWNhcmRzSMKAsJL34tDdlAE=&quot;, 
+  &quot;eventId&quot;: &quot;wVw9XIP_ApuF1wK6sbOQCA&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCMPjwoT17t8CFZvCVQodutgMgij4HTIFY2FyZHNIwoCwkvfi0N2UAQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjD48KE9e7fAhWbwlUKHbrYDIIo+B0yBWNhcmRzSMKAsJL34tDdlAE=&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;
+}</data>
+</annotation>
+</annotations></document>

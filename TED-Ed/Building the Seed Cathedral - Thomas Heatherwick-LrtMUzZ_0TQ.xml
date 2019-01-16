@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3rzSv-3u3wIVhIJ8Ch1ckAyhKPgdMgJpdki0ov-zs4rT3S4">
+<annotation id="annotation_571838" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_91228">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_91228" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_670295" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fbuilding-the-seed-cathedral-thomas-heatherwick&amp;a-v=LrtMUzZ_0TQ&amp;xble=1&amp;ei=2VQ9XJ7sIYSF8gPcoLKICg&amp;l-class=12&amp;a-id=annotation_670295&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjevNK_7e7fAhWEgnwKHVyQDKEo-B0yAml2SLSi_7OzitPdLg">
+  <TEXT>Create a custom lesson using this video on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.15600" y="74.44400" w="58.43800" h="8.88900" t="0:00:10.0"/>
+      <rectRegion x="20.15600" y="74.44400" w="58.43800" h="8.88900" t="0:00:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/building-the-seed-cathedral-thomas-heatherwick" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_91228" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fbuilding-the-seed-cathedral-thomas-heatherwick&amp;a-v=LrtMUzZ_0TQ&amp;xble=1&amp;ei=2VQ9XJ7sIYSF8gPcoLKICg&amp;l-class=12&amp;a-id=annotation_91228&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjevNK_7e7fAhWEgnwKHVyQDKEo-B0yAml2SLSi_7OzitPdLg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.03100" y="46.38900" w="44.84400" h="21.38900" t="0:00:10.0"/>
+      <rectRegion x="27.03100" y="46.38900" w="44.84400" h="21.38900" t="0:00:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/building-the-seed-cathedral-thomas-heatherwick" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;a-v=LrtMUzZ_0TQ&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=2VQ9XJ7sIYSF8gPcoLKICg&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3">
+  <data>{&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026passive=true\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop%26continue_action%3DQUFFLUhqblVpTzdtXzJzRU5NMUY1RktwcTB0aW9FM1A3QXxBQ3Jtc0treUFGdlFRQ1VmRWl1dVVuaXd5cktSc1J4ejh4Y3UwU3hwMERUVUw4UFBNSFp3V2NMYk8zcFBjRjlmeEtXWUFLWXBwMjJyeXcza0daX0J2YmNiaF9KdHhKcW5mVnNzMzBtdnVQWTFSRFJORHk4WjlxV0dLU3kyNk9pNWxTUEVYdm9qMnNHSjF5VzVoQktsUVZDNG5uNU9rVlFYOHRYVzdEdXBOdnI0VVkybzRiSXdKdkR0azdxNzRIeF9laHJBU05BN0ppZ3pkaDgweU9Va2hIT193Q3dMVElBSTFlTnp0aGZSUDhvRXpIREtUdkNET0ZN%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026hl=de&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;image_width&quot;:40,&quot;end_ms&quot;:1013000,&quot;image_type&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;2VQ9XJ7sIYSF8gPcoLKICg&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;LrtMUzZ_0TQ&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCN680r_t7t8CFYSCfAodXJAMoSj4HTICaXZItKL_s7OK090u&quot;},&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2s6zgajv3wIV15DeCh0ysgpeKPgdMgJpdkji3e-yzdTklbsB">
+<annotation id="annotation_137888" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_707820">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_707820" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_707820" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dspacefrogsradio&amp;a-type=3&amp;ei=NJI9XNrkK9eh-gay5KrwBQ&amp;a-id=annotation_707820&amp;l-class=5&amp;xble=1&amp;a-v=uyuSpNZb7uI" itct="CAEQs-UBGP___________wEiEwjazrOBqO_fAhXXkN4KHTKyCl4o-B0yAml2SOLd77LN1OSVuwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.84400" y="54.72200" w="33.28100" h="32.22200" t="0:02:28.5"/>
+      <rectRegion x="9.84400" y="54.72200" w="33.28100" h="32.22200" t="0:02:41.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=spacefrogsradio&amp;annotation_id=annotation_707820&amp;ei=NJI9XNrkK9eh-gay5KrwBQ&amp;feature=iv&amp;src_vid=uyuSpNZb7uI" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_713921" type="text" style="anchored" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzYIzQFu8OnI&amp;a-type=8&amp;ei=NJI9XNrkK9eh-gay5KrwBQ&amp;a-id=annotation_713921&amp;l-class=1&amp;xble=1&amp;a-v=uyuSpNZb7uI" itct="CAIQs-UBGP___________wEiEwjazrOBqO_fAhXXkN4KHTKyCl4o-B0yAml2SOLd77LN1OSVuwE">
+  <TEXT>Original nicht gesehen?
+Dann erstmal hier klicken!!!! ;D</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="65.93800" y="84.44400" w="34.06300" h="13.33300" sx="89.21900177" sy="100.0" t="0:00:00.0"/>
+      <anchoredRegion x="65.93800" y="84.44400" w="34.06300" h="13.33300" sx="89.21900177" sy="100.0" t="0:00:10.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_713921&amp;ei=NJI9XNrkK9eh-gay5KrwBQ&amp;feature=iv&amp;src_vid=uyuSpNZb7uI&amp;v=zYIzQFu8OnI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_899884" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fspacefrogsradio&amp;a-type=3&amp;ei=NJI9XNrkK9eh-gay5KrwBQ&amp;a-id=annotation_899884&amp;l-class=3&amp;xble=1&amp;a-v=uyuSpNZb7uI" itct="CAMQs-UBGP___________wEiEwjazrOBqO_fAhXXkN4KHTKyCl4o-B0yAml2SOLd77LN1OSVuwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.15600" y="55.27800" w="29.84400" h="44.72200" t="0:02:28.5"/>
+      <rectRegion x="70.15600" y="55.27800" w="29.84400" h="44.72200" t="0:02:41.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/spacefrogsradio?annotation_id=annotation_899884&amp;ei=NJI9XNrkK9eh-gay5KrwBQ&amp;feature=iv&amp;src_vid=uyuSpNZb7uI" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_983974" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_899884">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_899884" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

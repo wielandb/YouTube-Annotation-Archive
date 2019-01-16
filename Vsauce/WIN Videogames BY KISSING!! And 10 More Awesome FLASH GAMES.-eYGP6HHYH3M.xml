@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyszE5qvv3wIVEVbgCh2WEQFTKPgdMgJpdkjzvuCOh_3jwHk">
+<annotation id="annotation_327244" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-id=annotation_327244&amp;xble=1&amp;ei=LpY9XMr9BpGsgQeWo4SYBQ&amp;a-v=eYGP6HHYH3M&amp;l-class=5&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjKzMTmq-_fAhURVuAKHZYRAVMo-B0yAml2SPO-4I6H_ePAeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.62500" y="1.66700" w="3.12500" h="9.72200" t="0:00:14.6"/>
+      <rectRegion x="95.62500" y="1.66700" w="3.12500" h="9.72200" t="0:03:14.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_327244&amp;ei=LpY9XMr9BpGsgQeWo4SYBQ&amp;feature=iv&amp;src_vid=eYGP6HHYH3M" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_572264" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to SUBSCRIBE!</TEXT>
+  <segment spaceRelative="annotation_327244">
+    <movingRegion type="rect">
+      <rectRegion x="-21.71900" y="4.16700" w="21.25000" h="5.55600" t="never"/>
+      <rectRegion x="-21.71900" y="4.16700" w="21.25000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="5610811"/>
+  <trigger>
+    <condition ref="annotation_327244" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

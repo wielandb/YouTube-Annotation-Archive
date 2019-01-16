@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3Zyl36vv3wIVxJR8Ch1yXQ1zKPgdMgJpdkjzqqOJnI6GvWE">
+<annotation id="annotation_398600" type="highlight" log_data="a-v=YXoYccEo1XM&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1&amp;a-id=annotation_398600&amp;ei=HpY9XN2VOMSp8gPyurWYBw&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjdnKXfq-_fAhXElHwKHXJdDXMo-B0yAml2SPOqo4mcjoa9YQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="91.09400" y="1.38900" w="7.50000" h="5.55600" t="0:00:00.0"/>
+      <rectRegion x="91.09400" y="1.38900" w="7.50000" h="5.55600" t="0:03:10.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_398600&amp;ei=HpY9XN2VOMSp8gPyurWYBw&amp;feature=iv&amp;src_vid=YXoYccEo1XM" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_703953" itct="CAIQs-UBGP___________wEiEwjdnKXfq-_fAhXElHwKHXJdDXMo-B0yAml2SPOqo4mcjoa9YQ" log_data="a-id=annotation_703953&amp;ei=HpY9XN2VOMSp8gPyurWYBw&amp;a-v=YXoYccEo1XM&amp;a-type=2&amp;xble=1" style="speech" type="text"><TEXT>Links to all Images (including Todd's) in the description!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="16.9440002441" sx="8.43799972534" sy="100.0" t="0:00:07.0" w="22.1879997253" x="0.0" y="26.6669998169" /><anchoredRegion d="0" h="16.9440002441" sx="8.43799972534" sy="100.0" t="0:00:09.4" w="22.1879997253" x="0.0" y="26.6669998169" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="9828" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="0" highlightFontColor="16777215" highlightWidth="3" textSize="3.6107" /></annotation>
+<annotation id="annotation_959477" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to Subscribe!</TEXT>
+  <segment spaceRelative="annotation_398600">
+    <movingRegion type="rect">
+      <rectRegion x="-12.65600" y="7.77800" w="20.46900" h="6.38900" t="never"/>
+      <rectRegion x="-12.65600" y="7.77800" w="20.46900" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_398600" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

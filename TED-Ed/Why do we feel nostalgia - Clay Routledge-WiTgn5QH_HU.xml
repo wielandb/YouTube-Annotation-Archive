@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6Mi_xunu3wIVwhDgCh03AgupKPgdMgJpdkj1-J-g-ZO4klo">
+<annotation id="annotation_1760758067" type="highlight" log_data="l-class=1&amp;a-type=3&amp;a-id=annotation_1760758067&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3NE_OoO-N54&amp;xble=1&amp;a-v=WiTgn5QH_HU" itct="CAEQs-UBGP___________wEiEwjoyL_G6e7fAhXCEOAKHTcCC6ko-B0yAml2SPX4n6D5k7iSWg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.32000" y="25.91500" w="25.00000" h="27.77800" t="3:54.500"/>
+      <rectRegion x="58.32000" y="25.91500" w="25.00000" h="27.77800" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1760758067&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;feature=iv&amp;src_vid=WiTgn5QH_HU&amp;v=3NE_OoO-N54" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3235553961" type="highlight" log_data="l-class=1&amp;a-type=3&amp;a-id=annotation_3235553961&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMYn15yDBvxM&amp;xble=1&amp;a-v=WiTgn5QH_HU" itct="CAIQs-UBGP___________wEiEwjoyL_G6e7fAhXCEOAKHTcCC6ko-B0yAml2SPX4n6D5k7iSWg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.63700" y="60.28200" w="25.00000" h="27.77800" t="3:54.500"/>
+      <rectRegion x="58.63700" y="60.28200" w="25.00000" h="27.77800" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3235553961&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;feature=iv&amp;src_vid=WiTgn5QH_HU&amp;v=MYn15yDBvxM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3431536173" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3235553961">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3235553961" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3753613715" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1760758067">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1760758067" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_567902053" type="text" style="popup" log_data="l-class=6&amp;a-type=1&amp;a-id=annotation_567902053&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-do-we-feel-nostalgia-clay-routledge&amp;xble=1&amp;a-v=WiTgn5QH_HU" itct="CAMQs-UBGP___________wEiEwjoyL_G6e7fAhXCEOAKHTcCC6ko-B0yAml2SPX4n6D5k7iSWg">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.85900" w="37.13200" h="8.60600" t="0:00.000"/>
+      <rectRegion x="0.00000" y="9.85900" w="37.13200" h="8.60600" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-do-we-feel-nostalgia-clay-routledge" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;a-v=WiTgn5QH_HU&amp;xble=0">
+  <data>{&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;WiTgn5QH_HU&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;tlA9XOiVC8KhgAe3hKzICg&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTICaXZI9fifoPmTuJJa&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26feature%3Div%26hl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqa0xnRmdaQ25yMHRlYkJGc2FiZWRfZWJENjBLUXxBQ3Jtc0tseFBrMmRSQU1mOVV3aEEzTlB6Xy0tdU9YR2YwRmdYZnloQUd3c3l5RUlydG5fN1JlNmlhUjlBOXpQajR1eWtRNTJHRzAwdldQQWpRNWFVWlE2VjNZVWtqY0dwZEc1VEJqUU9jQktzQnR0bll0dDg5NzdTNUNRT0NVVVdCRVo5Y2JrbUk3a000dFdKMndrT09DaGd6c2E1aENkU2NGeS1fMGpReUFCU25wS2ZyTHQ1UjRQQ25LTnRCR2xYN3psdm1MalVYLXZuQTVDaHgwMjQtcDRJeXhVZElGZWE4TWRyN1dqc0tDbTJjWmlLMUllRHIw%26app%3Ddesktop\u0026hl=de\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;end_ms&quot;:249000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;image_type&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation>
+<annotation id="video:1041ce69-9a6a-4b27-ad01-622f4ab17121" style="video" type="card" log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=1041ce69-9a6a-4b27-ad01-622f4ab17121&amp;a-type=62&amp;a-v=WiTgn5QH_HU&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;l-class=1&amp;link-id=3NE_OoO-N54&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;end_ms&quot;:235389,&quot;video_duration&quot;:&quot;4:46&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=3NE_OoO-N54&quot;,&quot;start_ms&quot;:235389,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;WiTgn5QH_HU&quot;,&quot;annotation_id&quot;:&quot;1041ce69-9a6a-4b27-ad01-622f4ab17121&quot;,&quot;ei&quot;:&quot;tlA9XOiVC8KhgAe3hKzICg&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;},&quot;pause_on_navigation&quot;:true,&quot;custom_message&quot;:&quot;&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Empfohlen: Earworms: Those songs that get stuck in your head - Elizabeth Hellmuth Margulis&quot;,&quot;meta_info&quot;:[&quot;von TED-Ed&quot;,&quot;1.028.241 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/3NE_OoO-N54\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Earworms: Those songs that get stuck in your head - Elizabeth Hellmuth Margulis&quot;,&quot;timestamp&quot;:1479741216350,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjoyL_G6e7fAhXCEOAKHTcCC6ko-B0yBWNhcmRzSPX4n6D5k7iSWg&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=3NE_OoO-N54"/>
+  </action>
+</annotation>
+
+<annotation id="video:d11e90f4-ea42-4d2f-ab15-59d86df22899" style="video" type="card" log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=d11e90f4-ea42-4d2f-ab15-59d86df22899&amp;a-type=62&amp;a-v=WiTgn5QH_HU&amp;ei=tlA9XOiVC8KhgAe3hKzICg&amp;l-class=1&amp;link-id=MYn15yDBvxM&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;end_ms&quot;:235389,&quot;video_duration&quot;:&quot;5:17&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=MYn15yDBvxM&quot;,&quot;start_ms&quot;:235389,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;WiTgn5QH_HU&quot;,&quot;annotation_id&quot;:&quot;d11e90f4-ea42-4d2f-ab15-59d86df22899&quot;,&quot;ei&quot;:&quot;tlA9XOiVC8KhgAe3hKzICg&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;},&quot;pause_on_navigation&quot;:true,&quot;custom_message&quot;:&quot;&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Empfohlen: The history of tattoos - Addison Anderson&quot;,&quot;meta_info&quot;:[&quot;von TED-Ed&quot;,&quot;1.470.707 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/MYn15yDBvxM\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;The history of tattoos - Addison Anderson&quot;,&quot;timestamp&quot;:1479741225233,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwjoyL_G6e7fAhXCEOAKHTcCC6ko-B0yBWNhcmRzSPX4n6D5k7iSWg&quot;,&quot;card&quot;:&quot;CA0Q1TYY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=MYn15yDBvxM"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjoyL/G6e7fAhXCEOAKHTcCC6ko+B0yBWNhcmRzSPX4n6D5k7iSWg==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCOjIv8bp7t8CFcIQ4AodNwILqSj4HTIFY2FyZHNI9fifoPmTuJJa&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjoyL/G6e7fAhXCEOAKHTcCC6ko+B0yBWNhcmRzSPX4n6D5k7iSWg==&quot;, 
+  &quot;headerText&quot;: &quot;Von TED-Ed&quot;, 
+  &quot;eventId&quot;: &quot;tlA9XOiVC8KhgAe3hKzICg&quot;
+}</data>
+</annotation>
+</annotations></document>

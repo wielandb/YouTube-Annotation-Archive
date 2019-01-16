@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI89bQgpHv3wIVk2vgCh1mkALYKPgdMgJpdkjTjb-GzsiCjt8B">
+<annotation id="annotation_1178411387" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1656938845">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1656938845" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1656938845" type="highlight" log_data="link=https%3A%2F%2Fwww.youtube.com%2Fuser%2Faguma12345%3Fsub_confirmation%3D1&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1656938845&amp;ei=GXo9XLPmEJPXgQfmoIrADQ&amp;a-v=3xwKRODPxtM&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjz1tCCke_fAhWTa-AKHWaQAtgo-B0yAml2SNONv4bOyIKO3wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.23900" y="0.00000" w="45.76100" h="41.01400" t="0:37.024"/>
+      <rectRegion x="54.23900" y="0.00000" w="45.76100" h="41.01400" t="0:42.382"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/aguma12345?annotation_id=annotation_1656938845&amp;ei=GXo9XLPmEJPXgQfmoIrADQ&amp;feature=iv&amp;src_vid=3xwKRODPxtM&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

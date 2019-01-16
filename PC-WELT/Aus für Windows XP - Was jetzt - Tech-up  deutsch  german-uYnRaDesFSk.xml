@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI25680Pfu3wIVzFrgCh0tawgnKPgdMgJpdkipqrC9g630xLkB">
+<annotation id="annotation_1624902557" type="text" style="popup" log_data="l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;a-type=1&amp;a-v=uYnRaDesFSk&amp;a-id=annotation_1624902557&amp;ei=eV89XJv-C8y1gQet1qG4Ag&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjbnrzQ9-7fAhXMWuAKHS1rCCco-B0yAml2SKmqsL2DrfTEuQE">
+  <TEXT>PC-WELT YouTube-Channel hier abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="31.57800" h="11.41600" t="0:46.121"/>
+      <rectRegion x="0.00000" y="0.00000" w="31.57800" h="11.41600" t="2:32.831"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_1624902557&amp;ei=eV89XJv-C8y1gQet1qG4Ag&amp;feature=iv&amp;src_vid=uYnRaDesFSk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1784448583" type="highlight" log_data="l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Ftipps%2FLinuxWelt_3_2014-8626181.html%3Fredirect%3D1&amp;a-type=3&amp;a-v=uYnRaDesFSk&amp;a-id=annotation_1784448583&amp;ei=eV89XJv-C8y1gQet1qG4Ag&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjbnrzQ9-7fAhXMWuAKHS1rCCco-B0yAml2SKmqsL2DrfTEuQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="71.64800" w="100.00000" h="28.35200" t="3:16.573"/>
+      <rectRegion x="0.00000" y="71.64800" w="100.00000" h="28.35200" t="3:24.194"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/tipps/LinuxWelt_3_2014-8626181.html?redirect=1" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1886250223" type="highlight" log_data="l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fnews%2FAus_fuer_XP_-_das_neue_PC-WELT-Sonderheft-In_eigener_Sache-8654402.html&amp;a-type=3&amp;a-v=uYnRaDesFSk&amp;a-id=annotation_1886250223&amp;ei=eV89XJv-C8y1gQet1qG4Ag&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjbnrzQ9-7fAhXMWuAKHS1rCCco-B0yAml2SKmqsL2DrfTEuQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="71.08500" w="100.00000" h="28.91500" t="4:01.686"/>
+      <rectRegion x="0.00000" y="71.08500" w="100.00000" h="28.91500" t="4:09.983"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/news/Aus_fuer_XP_-_das_neue_PC-WELT-Sonderheft-In_eigener_Sache-8654402.html" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3521413825" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1886250223">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1886250223" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3868595339" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1784448583">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1784448583" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4062125509" type="text" style="popup" log_data="l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fratgeber%2FGratis-Microsoft-Tools_helfen_beim_XP-Upgrade-Windows-8655644.html&amp;a-type=1&amp;a-v=uYnRaDesFSk&amp;a-id=annotation_4062125509&amp;ei=eV89XJv-C8y1gQet1qG4Ag&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjbnrzQ9-7fAhXMWuAKHS1rCCco-B0yAml2SKmqsL2DrfTEuQE">
+  <TEXT>Upgrade-Asisstent: Ist mein Rechner fit für eine neue Windows-Version?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="53.28900" h="14.51400" t="2:53.423"/>
+      <rectRegion x="0.00000" y="0.00000" w="53.28900" h="14.51400" t="3:12.521"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="4210330" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/ratgeber/Gratis-Microsoft-Tools_helfen_beim_XP-Upgrade-Windows-8655644.html" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;ei=eV89XJv-C8y1gQet1qG4Ag&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;a-v=uYnRaDesFSk&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;l-class=3&amp;xble=0">
+  <data>{&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCNuevND37t8CFcxa4AodLWsIJyj4HTICaXZIqaqwvYOt9MS5AQ&quot;,&quot;src_vid&quot;:&quot;uYnRaDesFSk&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;eV89XJv-C8y1gQet1qG4Ag&quot;},&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_height&quot;:12,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbFNpbFlKLVctU0VPaE5wX3k5WnQ1SUh4d1pUQXxBQ3Jtc0tscXBPTTUwVG1yalRjRm5yeDVsblZXd1BnUVk3VGhPaTU4OU1wbnRudXFKT0NRT3dBOHllMHY1TnA5TXVpd0tDclBZSXNVazR6eHY2MGhsay1nYXRGNlJMdzNIQW8wT0lSZHVuTFZXYTIzWHBqYmoxejI1QWtXdzRVMUxLTWdPczNRd1hka1M0VHhQVGNBdEdtZ3BTakVhSEdxQUFzd0pZazJFRUZ2WDZzV1JPNmxhMk5tMlBPblplbVlodVYyWVI1QVp4UWhndUhkZzhMZ3J2WkFRVW1HNV9BV3d0aUgwU2hEVTY3VjFWaDNfUDNpVXhz%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26hl%3Dde\u0026passive=true\u0026hl=de\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false},&quot;image_width&quot;:55,&quot;end_ms&quot;:649000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIpt3g5qvv3wIVzaNVCh2ruwGnKPgdMgJpdkjJp6D4kb-Byzo">
+<annotation id="annotation_217979" type="text" style="popup" log_data="a-v=OpYF-R8IE8k&amp;xble=1&amp;ei=LpY9XKaOI83H1gKr94a4Cg&amp;a-type=1&amp;a-id=annotation_217979" itct="CAEQs-UBGP___________wEiEwim3eDmq-_fAhXNo1UKHau7Aaco-B0yAml2SMmnoPiRv4HLOg">
+  <TEXT>Facebook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.81300" y="83.61100" w="33.28100" h="7.77800" t="0:03:18.0"/>
+      <rectRegion x="32.81300" y="83.61100" w="33.28100" h="7.77800" t="0:03:23.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_647444" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to Vsauce for more</TEXT>
+  <segment spaceRelative="annotation_930870">
+    <movingRegion type="rect">
+      <rectRegion x="-24.06200" y="0.00000" w="22.96900" h="10.83300" t="never"/>
+      <rectRegion x="-24.06200" y="0.00000" w="22.96900" h="10.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_930870" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_930870" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-v=OpYF-R8IE8k&amp;ei=LpY9XKaOI83H1gKr94a4Cg&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_930870" itct="CAIQs-UBGP___________wEiEwim3eDmq-_fAhXNo1UKHau7Aaco-B0yAml2SMmnoPiRv4HLOg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.62500" y="0.00000" w="4.32000" h="7.01400" t="0:00:00.0"/>
+      <rectRegion x="95.62500" y="0.00000" w="4.32000" h="7.01400" t="0:03:29.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_930870&amp;ei=LpY9XKaOI83H1gKr94a4Cg&amp;feature=iv&amp;src_vid=OpYF-R8IE8k" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

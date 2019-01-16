@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxcSRzvTu3wIVRjbgCh3k4gk9KPgdMgJpdkiK0KHoy6XB80Y">
+<annotation id="annotation_2940687851" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3542797937">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3542797937" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3542797937" type="highlight" log_data="ei=Tlw9XMXlPMbsgAfkxafoAw&amp;a-type=3&amp;a-id=annotation_3542797937&amp;l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fnerd&amp;xble=1&amp;a-v=RucFLL0IaAo" itct="CAEQs-UBGP___________wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o-B0yAml2SIrQoejLpcHzRg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="80.94400" w="100.00000" h="19.05600" t="3:09.829"/>
+      <rectRegion x="0.00000" y="80.94400" w="100.00000" h="19.05600" t="3:16.059"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/nerd" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="ei=Tlw9XMXlPMbsgAfkxafoAw&amp;a-type=10&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;xble=0&amp;l-class=3&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=RucFLL0IaAo">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26hl%3Dde%26continue_action%3DQUFFLUhqbVJFeEtQR2dtaGR6dHkzd29nR1I1RTlxdWN5QXxBQ3Jtc0trNkJBVm9IVlJqOE9fa0l2TjhlRmJCa1pKamlFOHpsaVFOU2Z2cVpMNnFZRVl3ajk2LXVVSEZrLV9OMHh5TXVndXZsUUtJbFJxR3VwYXdvRXA2cS1xemhhSG9wMVdsQ2d4SXR4U2toc1N1X2VrUlo4SFp6d3BGS2l2eTI5VzJUS25YRl9WeWRjWHJ4TGpjZGlQNGdZaEI0Q3dpSnh4bEZZZWtlZmVCdmU3aV82aTBIRW1vV2o1REZwRWlPdnkyOHRzbWNJcnR3WFZHNWR3NG1BWGNNblNDNmsxQVVZeDMwRmtlLTU2T0NvNUt2b21PMFVj\u0026uilel=3\u0026hl=de\u0026service=youtube&quot;,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;end_ms&quot;:614000,&quot;image_width&quot;:55,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;image_height&quot;:12,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;src_vid&quot;:&quot;RucFLL0IaAo&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTICaXZIitCh6MulwfNG&quot;,&quot;ei&quot;:&quot;Tlw9XMXlPMbsgAfkxafoAw&quot;,&quot;feature&quot;:&quot;iv&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:38dfb260-4d32-4642-98ab-5d0546c14d83" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=38dfb260-4d32-4642-98ab-5d0546c14d83&amp;a-type=62&amp;a-v=RucFLL0IaAo&amp;ei=Tlw9XMXlPMbsgAfkxafoAw&amp;l-class=1&amp;link-id=zFaQzXqq5EE&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Das BESTE Gaming-Mainboard - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=zFaQzXqq5EE&quot;,&quot;timestamp&quot;:1469604855085,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o-B0yBWNhcmRzSIrQoejLpcHzRg&quot;},&quot;end_ms&quot;:75025,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;66.229 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/zFaQzXqq5EE\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Das BESTE Gaming-Mainboard - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;start_ms&quot;:75025,&quot;video_duration&quot;:&quot;3:23&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;38dfb260-4d32-4642-98ab-5d0546c14d83&quot;,&quot;src_vid&quot;:&quot;RucFLL0IaAo&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;ei&quot;:&quot;Tlw9XMXlPMbsgAfkxafoAw&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=zFaQzXqq5EE"/>
+  </action>
+</annotation>
+
+<annotation id="video:bcfce3d8-5152-4d0f-b3fd-c252f793f85d" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=bcfce3d8-5152-4d0f-b3fd-c252f793f85d&amp;a-type=62&amp;a-v=RucFLL0IaAo&amp;ei=Tlw9XMXlPMbsgAfkxafoAw&amp;l-class=1&amp;link-id=CPFctLU6U5Q&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;10-Kern-CPU Intel Core i7-6950X - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=CPFctLU6U5Q&quot;,&quot;timestamp&quot;:1469604863996,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o-B0yBWNhcmRzSIrQoejLpcHzRg&quot;},&quot;end_ms&quot;:112102,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;45.194 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/CPFctLU6U5Q\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 10-Kern-CPU Intel Core i7-6950X - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;start_ms&quot;:112102,&quot;video_duration&quot;:&quot;2:04&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;bcfce3d8-5152-4d0f-b3fd-c252f793f85d&quot;,&quot;src_vid&quot;:&quot;RucFLL0IaAo&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;ei&quot;:&quot;Tlw9XMXlPMbsgAfkxafoAw&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=CPFctLU6U5Q"/>
+  </action>
+</annotation>
+
+<annotation id="video:d0e883c3-0ab7-49fa-883a-0d448627fc72" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=d0e883c3-0ab7-49fa-883a-0d448627fc72&amp;a-type=62&amp;a-v=RucFLL0IaAo&amp;ei=Tlw9XMXlPMbsgAfkxafoAw&amp;l-class=1&amp;link-id=12xERg3L6Qw&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;64 GB DDR4-RAM von Corsair - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=12xERg3L6Qw&quot;,&quot;timestamp&quot;:1469604883715,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;card&quot;:&quot;CA8Q1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o-B0yBWNhcmRzSIrQoejLpcHzRg&quot;},&quot;end_ms&quot;:253273,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;36.232 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/12xERg3L6Qw\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 64 GB DDR4-RAM von Corsair - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;start_ms&quot;:253273,&quot;video_duration&quot;:&quot;2:40&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;d0e883c3-0ab7-49fa-883a-0d448627fc72&quot;,&quot;src_vid&quot;:&quot;RucFLL0IaAo&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;ei&quot;:&quot;Tlw9XMXlPMbsgAfkxafoAw&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=12xERg3L6Qw"/>
+  </action>
+</annotation>
+
+<annotation id="video:08530c99-58b0-4af3-8aca-95c057956256" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=08530c99-58b0-4af3-8aca-95c057956256&amp;a-type=62&amp;a-v=RucFLL0IaAo&amp;ei=Tlw9XMXlPMbsgAfkxafoAw&amp;l-class=1&amp;link-id=msio2Se6wg0&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Brutale Gaming-Power - ZWEI GTX 1080 in der H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=msio2Se6wg0&quot;,&quot;timestamp&quot;:1469604898219,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;card&quot;:&quot;CBMQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o-B0yBWNhcmRzSIrQoejLpcHzRg&quot;},&quot;end_ms&quot;:327534,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;55.133 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/msio2Se6wg0\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Brutale Gaming-Power - ZWEI GTX 1080 in der H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;start_ms&quot;:327534,&quot;video_duration&quot;:&quot;5:15&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;08530c99-58b0-4af3-8aca-95c057956256&quot;,&quot;src_vid&quot;:&quot;RucFLL0IaAo&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;ei&quot;:&quot;Tlw9XMXlPMbsgAfkxafoAw&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=msio2Se6wg0"/>
+  </action>
+</annotation>
+
+<annotation id="video:159d58a3-f049-476d-aa46-8be6a121b195" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=159d58a3-f049-476d-aa46-8be6a121b195&amp;a-type=62&amp;a-v=RucFLL0IaAo&amp;ei=Tlw9XMXlPMbsgAfkxafoAw&amp;l-class=1&amp;link-id=NhpDw3sMva0&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;2500-Euro-Wasserk\u00fchlung - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=NhpDw3sMva0&quot;,&quot;timestamp&quot;:1469604929288,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBgQ0DYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;card&quot;:&quot;CBcQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;icon&quot;:&quot;CBkQsJcBGP___________wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o-B0yBWNhcmRzSIrQoejLpcHzRg&quot;},&quot;end_ms&quot;:457228,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;51.075 Aufrufe&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/NhpDw3sMva0\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 2500-Euro-Wasserk\u00fchlung - H\u00f6llenmaschine Ultra VR | deutsch \/ german&quot;,&quot;start_ms&quot;:457228,&quot;video_duration&quot;:&quot;6:09&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;159d58a3-f049-476d-aa46-8be6a121b195&quot;,&quot;src_vid&quot;:&quot;RucFLL0IaAo&quot;,&quot;itct&quot;:&quot;CBcQ1TYY____________ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;,&quot;ei&quot;:&quot;Tlw9XMXlPMbsgAfkxafoAw&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=NhpDw3sMva0"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;eventId&quot;: &quot;Tlw9XMXlPMbsgAfkxafoAw&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o+B0yBWNhcmRzSIrQoejLpcHzRg==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCMXEkc707t8CFUY24Aod5OIJPSj4HTIFY2FyZHNIitCh6MulwfNG&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjFxJHO9O7fAhVGNuAKHeTiCT0o+B0yBWNhcmRzSIrQoejLpcHzRg==&quot;
+}</data>
+</annotation>
+</annotations></document>

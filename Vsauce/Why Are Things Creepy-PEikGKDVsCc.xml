@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1rTFlavv3wIVit1VCh2uYwAGKPgdMgJpdkin4NaGioOppDw">
+<annotation id="annotation_103260" type="text" style="popup" log_data="xble=1&amp;ei=hJU9XNbiD4q71wKux4Ew&amp;l-class=3&amp;a-id=annotation_103260&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FMarbleHornets&amp;a-v=PEikGKDVsCc&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjWtMWVq-_fAhWK3VUKHa5jAAYo-B0yAml2SKfg1oaKg6mkPA">
+  
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.71900" y="3.05600" w="5.62500" h="8.61100" t="0:05:25.7"/>
+      <rectRegion x="1.71900" y="3.05600" w="5.62500" h="8.61100" t="0:05:30.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/MarbleHornets?annotation_id=annotation_103260&amp;ei=hJU9XNbiD4q71wKux4Ew&amp;feature=iv&amp;src_vid=PEikGKDVsCc" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_230998" type="text" style="popup" log_data="a-v=PEikGKDVsCc&amp;xble=1&amp;ei=hJU9XNbiD4q71wKux4Ew&amp;a-type=1&amp;a-id=annotation_230998" itct="CAIQs-UBGP___________wEiEwjWtMWVq-_fAhWK3VUKHa5jAAYo-B0yAml2SKfg1oaKg6mkPA">
+  <TEXT>* arachnids, too!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.12500" y="88.33300" w="20.46900" h="8.61100" t="0:00:20.1"/>
+      <rectRegion x="78.12500" y="88.33300" w="20.46900" h="8.61100" t="0:00:21.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_360794" type="highlight" log_data="xble=1&amp;ei=hJU9XNbiD4q71wKux4Ew&amp;l-class=12&amp;a-id=annotation_360794&amp;link=http%3A%2F%2Fwww.Twitter.com%2Ftweetsauce&amp;a-v=PEikGKDVsCc&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjWtMWVq-_fAhWK3VUKHa5jAAYo-B0yAml2SKfg1oaKg6mkPA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.15600" y="38.05600" w="30.00000" h="20.04200" t="0:08:30.5"/>
+      <rectRegion x="35.15600" y="38.05600" w="30.00000" h="20.04200" t="0:08:35.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="10415454" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.Twitter.com/tweetsauce" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_593549" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_360794">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_360794" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxsrEo6zv3wIVAstVCh3a3ggdKPgdMgJpdkiTlpO12fTi1IAB">
+<annotation id="annotation_41657" type="text" style="popup" log_data="a-id=annotation_41657&amp;ei=rpY9XMa7AoKW1wLavaPoAQ&amp;a-type=1&amp;xble=1&amp;a-v=gKmLpZakyxM" itct="CAEQs-UBGP___________wEiEwjGysSjrO_fAhUCy1UKHdreCB0o-B0yAml2SJOWk7XZ9OLUgAE">
+  <TEXT>Facebook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.81300" y="64.44400" w="31.09400" h="7.22200" t="0:01:22.3"/>
+      <rectRegion x="32.81300" y="64.44400" w="31.09400" h="7.22200" t="0:01:22.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_685331" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Drelmvision&amp;xble=1&amp;a-id=annotation_685331&amp;ei=rpY9XMa7AoKW1wLavaPoAQ&amp;a-type=1&amp;l-class=3&amp;a-v=gKmLpZakyxM" itct="CAIQs-UBGP___________wEiEwjGysSjrO_fAhUCy1UKHdreCB0o-B0yAml2SJOWk7XZ9OLUgAE">
+  <TEXT>Big thanks to Mike Relm!
+
+Click here box to check out his other remixes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.81300" y="20.00000" w="32.18800" h="19.44400" t="0:01:25.7"/>
+      <rectRegion x="67.81300" y="20.00000" w="32.18800" h="19.44400" t="0:01:29.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_685331&amp;ei=rpY9XMa7AoKW1wLavaPoAQ&amp;feature=iv&amp;src_vid=gKmLpZakyxM&amp;user=relmvision" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_718634" type="text" style="popup" log_data="a-id=annotation_718634&amp;ei=rpY9XMa7AoKW1wLavaPoAQ&amp;a-type=1&amp;xble=1&amp;a-v=gKmLpZakyxM" itct="CAMQs-UBGP___________wEiEwjGysSjrO_fAhUCy1UKHdreCB0o-B0yAml2SJOWk7XZ9OLUgAE">
+  <TEXT>Tell Mike what you want him to remix next in the comments!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.71900" y="88.05600" w="30.93800" h="11.94400" t="0:01:21.5"/>
+      <rectRegion x="66.71900" y="88.05600" w="30.93800" h="11.94400" t="0:01:26.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_874044" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1&amp;a-id=annotation_874044&amp;ei=rpY9XMa7AoKW1wLavaPoAQ&amp;a-type=3&amp;l-class=5&amp;a-v=gKmLpZakyxM" itct="CAQQs-UBGP___________wEiEwjGysSjrO_fAhUCy1UKHdreCB0o-B0yAml2SJOWk7XZ9OLUgAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="92.18800" y="0.00000" w="7.81300" h="13.33300" t="0:01:17.2"/>
+      <rectRegion x="92.18800" y="0.00000" w="7.81300" h="13.33300" t="0:01:29.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_874044&amp;ei=rpY9XMa7AoKW1wLavaPoAQ&amp;feature=iv&amp;src_vid=gKmLpZakyxM" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_99491" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to Vsauce for more</TEXT>
+  <segment spaceRelative="annotation_874044">
+    <movingRegion type="rect">
+      <rectRegion x="-28.43700" y="1.94400" w="27.81300" h="9.44400" t="never"/>
+      <rectRegion x="-28.43700" y="1.94400" w="27.81300" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_874044" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

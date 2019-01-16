@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4PPq95Pv3wIVCxrgCh3WOgtJKPgdMgJpdkiOjbCO6e_x9PkB">
+<annotation id="annotation_1143054199" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Chip &amp; PIN Fraud</TEXT>
+  <segment spaceRelative="annotation_1801370215">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.64800" w="35.93500" h="11.07400" t="never"/>
+      <rectRegion x="0.00000" y="24.64800" w="35.93500" h="11.07400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1801370215" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1680148487" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM7kEpw1tn50&amp;a-type=3&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_1680148487&amp;a-v=-enHfpHMBo4&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjg8-r3k-_fAhULGuAKHdY6C0ko-B0yAml2SI6NsI7p7_H0-QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.93200" y="43.09900" w="35.77700" h="32.00000" t="12:45.754"/>
+      <rectRegion x="52.93200" y="43.09900" w="35.77700" h="32.00000" t="13:26.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1680148487&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;feature=iv&amp;src_vid=-enHfpHMBo4&amp;v=M7kEpw1tn50" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1733824737" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Numberphile: Encryption &amp; Huge Numbers</TEXT>
+  <segment spaceRelative="annotation_1680148487">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.45100" w="36.09400" h="17.27100" t="never"/>
+      <rectRegion x="0.00000" y="18.45100" w="36.09400" h="17.27100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1680148487" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1801370215" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKs0SOn8hjG8&amp;a-type=3&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_1801370215&amp;a-v=-enHfpHMBo4&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjg8-r3k-_fAhULGuAKHdY6C0ko-B0yAml2SI6NsI7p7_H0-QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.93500" y="2.81700" w="35.61800" h="31.15500" t="12:45.754"/>
+      <rectRegion x="10.93500" y="2.81700" w="35.61800" h="31.15500" t="13:26.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1801370215&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;feature=iv&amp;src_vid=-enHfpHMBo4&amp;v=Ks0SOn8hjG8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2054011413" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>How Blurs &amp; Filters work</TEXT>
+  <segment spaceRelative="annotation_3548846127">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.80300" w="35.46000" h="11.91900" t="never"/>
+      <rectRegion x="0.00000" y="23.80300" w="35.46000" h="11.91900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3548846127" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2440645549" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGSIDS_lvRv4&amp;a-type=1&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_2440645549&amp;a-v=-enHfpHMBo4&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjg8-r3k-_fAhULGuAKHdY6C0ko-B0yAml2SI6NsI7p7_H0-QE">
+  <TEXT>Public Key Cryptography</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.76500" y="85.91500" w="84.83400" h="12.95800" t="2:10.241"/>
+      <rectRegion x="7.76500" y="85.91500" w="84.83400" h="12.95800" t="2:21.675"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2440645549&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;feature=iv&amp;src_vid=-enHfpHMBo4&amp;v=GSIDS_lvRv4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2577032061" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=-enHfpHMBo4&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_2577032061" itct="CAQQs-UBGP___________wEiEwjg8-r3k-_fAhULGuAKHdY6C0ko-B0yAml2SI6NsI7p7_H0-QE">
+  <TEXT>Here Tom meant to say: 
+
+&quot;...here&#39;s my PUBLIC key...&quot;
+
+The Private key is not shared!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.95400" y="8.73200" w="39.65900" h="39.57700" t="2:45.817"/>
+      <rectRegion x="58.95400" y="8.73200" w="39.65900" h="39.57700" t="2:53.010"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2711097129" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Numberphile: Encryption &amp; Huge Numbers</TEXT>
+  <segment spaceRelative="annotation_3359474507">
+    <movingRegion type="rect">
+      <rectRegion x="5.07100" y="23.09900" w="34.98400" h="16.84500" t="never"/>
+      <rectRegion x="5.07100" y="23.09900" w="34.98400" h="16.84500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3359474507" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3054068907" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Could We Ban Encryption?</TEXT>
+  <segment spaceRelative="annotation_3386911377">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="21.54900" w="36.09400" h="14.17300" t="never"/>
+      <rectRegion x="0.00000" y="21.54900" w="36.09400" h="14.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3386911377" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3359474507" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM7kEpw1tn50&amp;a-type=3&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_3359474507&amp;a-v=-enHfpHMBo4&amp;l-class=1" itct="CAUQs-UBGP___________wEiEwjg8-r3k-_fAhULGuAKHdY6C0ko-B0yAml2SI6NsI7p7_H0-QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.52800" y="0.00000" w="42.43300" h="53.40800" t="2:28.388"/>
+      <rectRegion x="57.52800" y="0.00000" w="42.43300" h="53.40800" t="2:34.305"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3359474507&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;feature=iv&amp;src_vid=-enHfpHMBo4&amp;v=M7kEpw1tn50" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3386911377" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DShUyfk4QB-8&amp;a-type=3&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_3386911377&amp;a-v=-enHfpHMBo4&amp;l-class=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.77700" y="43.38000" w="36.25200" h="31.15500" t="12:45.754"/>
+      <rectRegion x="10.77700" y="43.38000" w="36.25200" h="31.15500" t="13:26.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3386911377&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;feature=iv&amp;src_vid=-enHfpHMBo4&amp;v=ShUyfk4QB-8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3548846127" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC_zFhWdM4ic&amp;a-type=3&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=annotation_3548846127&amp;a-v=-enHfpHMBo4&amp;l-class=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.93200" y="2.81700" w="35.93500" h="31.71800" t="12:45.754"/>
+      <rectRegion x="52.93200" y="2.81700" w="35.93500" h="31.71800" t="13:26.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3548846127&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;feature=iv&amp;src_vid=-enHfpHMBo4&amp;v=C_zFhWdM4ic" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="xble=0&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;ei=J309XKDEOYu0gAfW9azIBA&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;a-v=-enHfpHMBo4&amp;l-class=3&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA">
+  <data>{&quot;end_ms&quot;:809000,&quot;image_width&quot;:51,&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;-enHfpHMBo4&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCODz6veT798CFQsa4Aod1joLSSj4HTICaXZIjo2wjunv8fT5AQ&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;J309XKDEOYu0gAfW9azIBA&quot;},&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dde%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26feature%3Div%26continue_action%3DQUFFLUhqbS0xSjBBNHdyeHJiUGMtaVdlZWhUWXZvSmotZ3xBQ3Jtc0trcW1EYy1ES3NEUG5NTTJ1NTFwekYtOW94X0hKSFJDd2xBcjZmNmZpZjFhVDdzaGhNNzRWTk1QOVFObG5teXZNaXV3UTA3R1FMWWszbnJfUFBWa1FVYnQtWXAtUGlLMm1DWFZNUVpvQWRiaGc4d1dzdW9pQUE1dll4QUVKVG5vcy1UREltRkZfMzNNR2pseU81dWI4OWJfNElHT2JNdHlpdTlUM1lYd3BiUkx5b2oxMWxWRGZoY3BublltQjZYMXRsclJYd3F0OFJGXzg4UHZaZXFNNnpCSGNxblNfVHNuN3pUYkV2QUsxQnNyRkIyRGRz\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_height&quot;:23}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

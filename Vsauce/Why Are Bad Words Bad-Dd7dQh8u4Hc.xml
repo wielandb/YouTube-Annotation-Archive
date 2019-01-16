@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyt6pj6vv3wIVAg_gCh0_IgEFKPgdMgJpdkj3wLv5oai37w0">
+<annotation id="annotation_2110881141" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_934880525">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_934880525" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_934880525" type="highlight" log_data="ei=d5U9XIrHDYKegAe_xIQo&amp;xble=1&amp;link=https%3A%2F%2Ftwitter.com%2Ftweetsauce&amp;a-id=annotation_934880525&amp;a-type=3&amp;l-class=14&amp;a-v=Dd7dQh8u4Hc" itct="CAEQs-UBGP___________wEiEwjK3qmPq-_fAhUCD-AKHT8iAQUo-B0yAml2SPfAu_mhqLfvDQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="39.87300" y="44.54900" w="22.78100" h="13.98600" t="10:33.897"/>
+      <rectRegion x="39.87300" y="44.54900" w="22.78100" h="13.98600" t="10:45.478"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="10415454" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://twitter.com/tweetsauce" link_class="14"/>
+  </action>
+
+</annotation>
+</annotations></document>

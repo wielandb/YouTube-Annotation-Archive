@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwJCrzunu3wIVRalVCh1PSQ5hKPgdMgJpdkj3_rKHlZ6X5V0">
+<annotation id="annotation_128427159" type="highlight" log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;xble=1&amp;a-id=annotation_128427159&amp;l-class=6&amp;a-v=Xcpc8VDsv3c" itct="CAEQs-UBGP___________wEiEwjAkKvO6e7fAhVFqVUKHU9JDmEo-B0yAml2SPf-soeVnpflXQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="70.70400" w="27.53600" h="21.29900" t="4:09.000"/>
+      <rectRegion x="6.33900" y="70.70400" w="27.53600" h="21.29900" t="4:19.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1537517727" type="text" style="popup" log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-should-you-listen-to-vivaldi-s-four-seasons-betsy-schwarm&amp;xble=1&amp;a-id=annotation_1537517727&amp;l-class=6&amp;a-v=Xcpc8VDsv3c" itct="CAIQs-UBGP___________wEiEwjAkKvO6e7fAhVFqVUKHU9JDmEo-B0yAml2SPf-soeVnpflXQ">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.64500" y="3.09900" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="3.64500" y="3.09900" w="30.00000" h="8.88900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-should-you-listen-to-vivaldi-s-four-seasons-betsy-schwarm" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2747313895" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_128427159">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_128427159" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2999847851" type="highlight" log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-should-you-listen-to-vivaldi-s-four-seasons-betsy-schwarm&amp;xble=1&amp;a-id=annotation_2999847851&amp;l-class=6&amp;a-v=Xcpc8VDsv3c" itct="CAMQs-UBGP___________wEiEwjAkKvO6e7fAhVFqVUKHU9JDmEo-B0yAml2SPf-soeVnpflXQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.42200" y="52.95800" w="70.80000" h="16.79200" t="4:09.000"/>
+      <rectRegion x="14.42200" y="52.95800" w="70.80000" h="16.79200" t="4:19.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-should-you-listen-to-vivaldi-s-four-seasons-betsy-schwarm" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3181373645" type="highlight" log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;a-id=annotation_3181373645&amp;l-class=6&amp;a-v=Xcpc8VDsv3c" itct="CAQQs-UBGP___________wEiEwjAkKvO6e7fAhVFqVUKHU9JDmEo-B0yAml2SPf-soeVnpflXQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.88900" y="71.26800" w="23.73200" h="19.88700" t="4:09.000"/>
+      <rectRegion x="69.88900" y="71.26800" w="23.73200" h="19.88700" t="4:19.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3458844217" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2999847851">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2999847851" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3749707353" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_551970059">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_551970059" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4244007431" type="text" style="popup" log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;a-id=annotation_4244007431&amp;l-class=5&amp;a-v=Xcpc8VDsv3c" itct="CAUQs-UBGP___________wEiEwjAkKvO6e7fAhVFqVUKHU9JDmEo-B0yAml2SPf-soeVnpflXQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.65500" y="11.83100" w="17.31400" h="24.08500" t="4:09.000"/>
+      <rectRegion x="77.65500" y="11.83100" w="17.31400" h="24.08500" t="4:19.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_4244007431&amp;ei=xlA9XMCVJsXS1gLPkrmIBg&amp;feature=iv&amp;src_vid=Xcpc8VDsv3c&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_551970059" type="highlight" log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;xble=1&amp;a-id=annotation_551970059&amp;l-class=6&amp;a-v=Xcpc8VDsv3c" itct="CAYQs-UBGP___________wEiEwjAkKvO6e7fAhVFqVUKHU9JDmEo-B0yAml2SPf-soeVnpflXQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.65800" y="71.26800" w="32.76500" h="19.60900" t="4:09.000"/>
+      <rectRegion x="35.65800" y="71.26800" w="32.76500" h="19.60900" t="4:19.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_725967219" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3181373645">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3181373645" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="ei=xlA9XMCVJsXS1gLPkrmIBg&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;a-v=Xcpc8VDsv3c&amp;link-id=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;xlA9XMCVJsXS1gLPkrmIBg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMCQq87p7t8CFUWpVQodT0kOYSj4HTICaXZI9_6yh5Wel-Vd&quot;,&quot;src_vid&quot;:&quot;Xcpc8VDsv3c&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;start_ms&quot;:0,&quot;end_ms&quot;:260000,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbVl1M2V1c19JSnhLWW53dUtDV3d4UlRiOTJGd3xBQ3Jtc0tuclBjdXFvU3hMcS1xQkl3ZDFPRElIalhlekJwMXptS1lZNlhCSXRSLXhHTGc3NTVwTlJuc0hUSGF4ekhleC15RVA1Yi1YY2xMWkVkd3JRbkY1dG1zc2V3SHpkRF8ycmNCdDJFMjg5X2JURWxBeFJlY1pRWmpFNlI1dERNYllfOTZpLTRLNmFid2RyMlM0UmxTUG04VnNxME1qby14LTJUZkphTVFza05wOWZiemFqaWxIRHRMc0h6WEdsMG1TZTNWbmZ4cmxUalliUmdrLVhzN2xZdUNZZUczRUQ5U3VUWjYzYXhNdU5CdFF5dFFwMHln%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

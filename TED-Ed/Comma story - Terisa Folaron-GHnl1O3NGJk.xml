@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImYjVnezu3wIVAUDgCh0YWQXSKPgdMgJpdkiZsbTuzrr5vBg">
+<annotation id="annotation_114916" type="highlight" log_data="l-class=12&amp;xble=1&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=annotation_114916&amp;a-v=GHnl1O3NGJk&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiZiNWd7O7fAhUBQOAKHRhZBdIo-B0yAml2SJmxtO7Ouvm8GA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.87500" y="72.22200" w="26.40600" h="16.94400" t="0:04:49.1"/>
+      <rectRegion x="6.87500" y="72.22200" w="26.40600" h="16.94400" t="0:04:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_142791" type="highlight" log_data="l-class=12&amp;xble=1&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=annotation_142791&amp;a-v=GHnl1O3NGJk&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fcomma-story-terisa-folaron&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiZiNWd7O7fAhUBQOAKHRhZBdIo-B0yAml2SJmxtO7Ouvm8GA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="51.94400" w="69.21900" h="16.11100" t="0:04:49.1"/>
+      <rectRegion x="15.00000" y="51.94400" w="69.21900" h="16.11100" t="0:04:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/comma-story-terisa-folaron" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_212086" type="highlight" log_data="l-class=6&amp;xble=1&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=annotation_212086&amp;a-v=GHnl1O3NGJk&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiZiNWd7O7fAhUBQOAKHRhZBdIo-B0yAml2SJmxtO7Ouvm8GA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.62500" y="71.66700" w="22.03100" h="18.88900" t="4:49.100"/>
+      <rectRegion x="70.62500" y="71.66700" w="22.03100" h="18.88900" t="4:59.090"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_280659" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_114916">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.33300" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.33300" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_114916" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_319213" type="text" style="popup" log_data="l-class=12&amp;xble=1&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=annotation_319213&amp;a-v=GHnl1O3NGJk&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fcomma-story-terisa-folaron&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwiZiNWd7O7fAhUBQOAKHRhZBdIo-B0yAml2SJmxtO7Ouvm8GA">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.00000" w="35.46900" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="10.00000" w="35.46900" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/comma-story-terisa-folaron" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_504761" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_560522">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_560522" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_560522" type="highlight" log_data="l-class=12&amp;xble=1&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=annotation_560522&amp;a-v=GHnl1O3NGJk&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwiZiNWd7O7fAhUBQOAKHRhZBdIo-B0yAml2SJmxtO7Ouvm8GA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.09400" y="71.11100" w="31.87500" h="18.88900" t="0:04:49.1"/>
+      <rectRegion x="36.09400" y="71.11100" w="31.87500" h="18.88900" t="0:04:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_622237" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=annotation_622237&amp;a-v=GHnl1O3NGJk&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-type=1" itct="CAYQs-UBGP___________wEiEwiZiNWd7O7fAhUBQOAKHRhZBdIo-B0yAml2SJmxtO7Ouvm8GA">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.06300" y="12.22200" w="14.37500" h="30.83300" t="0:04:49.1"/>
+      <rectRegion x="79.06300" y="12.22200" w="14.37500" h="30.83300" t="0:04:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_622237&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;feature=iv&amp;src_vid=GHnl1O3NGJk" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_791008" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_142791">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_142791" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_98542" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_212086">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_212086" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;xble=0&amp;ei=hVM9XNmxNIGAgQeYspWQDQ&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=GHnl1O3NGJk&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10">
+  <data>{&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJmI1Z3s7t8CFQFA4AodGFkF0ij4HTICaXZImbG07s66-bwY&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;hVM9XNmxNIGAgQeYspWQDQ&quot;,&quot;src_vid&quot;:&quot;GHnl1O3NGJk&quot;},&quot;end_ms&quot;:300000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqa25uR2g1UjlQbGRHTmw2QV9OdllvUnVUNmJLUXxBQ3Jtc0ttdmM0RGo3NlMtVENZcjFyUndCd1hqRGNoYWRxMVZtaXoybmJWUlA0NDBsaFpEZVBhQ1dEZEdNVy1GTWZYSEVhZmxXbHhQeWxQMWN2OUdWTmRRVFNFYk96ZXdCWGpUaU9pMGdqMzdzZzh5NWttVFR1LUFBTXZGSTJhX0pfYW5nTTNSVGQwaG9QTF9zUzhOelJPaFlBczNFUmd4M2NLV3h5cXJxYTdBUjVObmZCZWxRUHJocjB1d0lCYjRuRF9IUGg2bmlaY2FrTDRlRXk4NkNWeGo0UmVHMXkzOWRuS2poejlaWnJYU05fMFc5ZHFGZjVR%26action_handle_signin%3Dtrue%26feature%3Div\u0026service=youtube\u0026passive=true\u0026uilel=3&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false},&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_type&quot;:0,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

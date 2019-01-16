@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzO7Lzuru3wIVQuJVCh1wWQH2KPgdMgJpdkiosMr-pZfUwh8">
+<annotation id="annotation_1221773893" type="highlight" log_data="a-v=H4VQul_SmCg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=6&amp;a-id=annotation_1221773893" itct="CAEQs-UBGP___________wEiEwjM7svO6u7fAhVC4lUKHXBZAfYo-B0yAml2SKiwyv6ll9TCHw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.68100" y="71.54900" w="22.30600" h="18.76400" t="4:41.100"/>
+      <rectRegion x="70.68100" y="71.54900" w="22.30600" h="18.76400" t="4:51.061"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1229336345" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2854824759">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2854824759" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1461316959" type="text" style="popup" log_data="a-v=H4VQul_SmCg&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=5&amp;a-id=annotation_1461316959" itct="CAIQs-UBGP___________wEiEwjM7svO6u7fAhVC4lUKHXBZAfYo-B0yAml2SKiwyv6ll9TCHw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.33800" y="11.83100" w="19.37400" h="37.88700" t="4:41.100"/>
+      <rectRegion x="77.33800" y="11.83100" w="19.37400" h="37.88700" t="4:51.061"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_1461316959&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;feature=iv&amp;src_vid=H4VQul_SmCg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1609558861" type="highlight" log_data="a-v=H4VQul_SmCg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;xble=1&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=6&amp;a-id=annotation_1609558861" itct="CAMQs-UBGP___________wEiEwjM7svO6u7fAhVC4lUKHXBZAfYo-B0yAml2SKiwyv6ll9TCHw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="71.54900" w="31.97300" h="18.76400" t="4:41.100"/>
+      <rectRegion x="36.29200" y="71.54900" w="31.97300" h="18.76400" t="4:51.061"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2854824759" type="highlight" log_data="a-v=H4VQul_SmCg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-do-buildings-fall-in-earthquakes-vicki-v-may&amp;xble=1&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=6&amp;a-id=annotation_2854824759" itct="CAQQs-UBGP___________wEiEwjM7svO6u7fAhVC4lUKHXBZAfYo-B0yAml2SKiwyv6ll9TCHw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.21400" y="53.23900" w="69.53200" h="13.69000" t="4:41.100"/>
+      <rectRegion x="15.21400" y="53.23900" w="69.53200" h="13.69000" t="4:51.062"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-do-buildings-fall-in-earthquakes-vicki-v-may" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2951735139" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3799609089">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="27.06000" h="9.66200" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="27.06000" h="9.66200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3799609089" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3799609089" type="highlight" log_data="a-v=H4VQul_SmCg&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;xble=1&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=6&amp;a-id=annotation_3799609089" itct="CAUQs-UBGP___________wEiEwjM7svO6u7fAhVC4lUKHXBZAfYo-B0yAml2SKiwyv6ll9TCHw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="70.98600" w="27.06000" h="19.32700" t="4:41.100"/>
+      <rectRegion x="6.65600" y="70.98600" w="27.06000" h="19.32700" t="4:51.061"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_570721653" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1221773893">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="22.30600" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="22.30600" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1221773893" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_593696625" type="text" style="popup" log_data="a-v=H4VQul_SmCg&amp;a-type=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-do-buildings-fall-in-earthquakes-vicki-v-may&amp;xble=1&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=6&amp;a-id=annotation_593696625" itct="CAYQs-UBGP___________wEiEwjM7svO6u7fAhVC4lUKHXBZAfYo-B0yAml2SKiwyv6ll9TCHw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.58500" y="7.60600" w="36.01400" h="10.56300" t="0:00.000"/>
+      <rectRegion x="1.58500" y="7.60600" w="36.01400" h="10.56300" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-do-buildings-fall-in-earthquakes-vicki-v-may" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_826295825" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1609558861">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.78900" w="31.81500" h="9.66200" t="never"/>
+      <rectRegion x="0.00000" y="18.78900" w="31.81500" h="9.66200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1609558861" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=H4VQul_SmCg&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;ei=01E9XIy5JMLE1wLwsoWwDw&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_type&quot;:0,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMzuy87q7t8CFULiVQodcFkB9ij4HTICaXZIqLDK_qWX1MIf&quot;,&quot;ei&quot;:&quot;01E9XIy5JMLE1wLwsoWwDw&quot;,&quot;src_vid&quot;:&quot;H4VQul_SmCg&quot;},&quot;end_ms&quot;:292000,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;start_ms&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbGlMRk9mTjk2VFJqVzFPcmNIdnV1czJVcUFwQXxBQ3Jtc0trbHljcHBfN0JaOXlzWGZ6VXR6dlRrV1NNbU1rMFd4dHZ4dW8zTVNfR09JeFlMVlpPUFVpQmdrS0NJNTN4ZXJpTW9OMWRTSlFFemxtZjhXd1R2OXRQOVAwS0U3VUpZTVh2YzN4cU5pbUtRYjVBSHFpUGpzNTUwRjNCNDFNZE9oc0M0U01idi1KVDZ6bjVYa2hqMnZSRGd1NnZ3SU1RXzc1ck1JRlhvVFJLU2tNaUQ1WWlOMURMZ3dvSmRVOFFXRkdOUGx5bURQMkpLZlRPem1laDBIc1psQzlWRzFJWDd1cnFCQWh0Nm5TVF9ySUNiMTVV%26feature%3Div%26action_handle_signin%3Dtrue%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop\u0026passive=true&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

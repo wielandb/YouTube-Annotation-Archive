@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjpmZ8Kzv3wIViqVVCh35jQ4LKPgdMgJpdkiSiZqAxvjPtQQ">
+<annotation id="annotation_1327257337" type="text" style="anchored" log_data="l-class=1&amp;ei=Tpc9XI66MYrL1gL5m7pY&amp;a-v=BGs_xGAGhJI&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPOnn9EBX74&amp;a-id=annotation_1327257337&amp;a-type=8" itct="CAEQs-UBGP___________wEiEwiOmZnwrO_fAhWKpVUKHfmNDgso-B0yAml2SJKJmoDG-M-1BA">
+  <TEXT>Did you know:
+Albert was born from a supermarket egg          -click-</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="66.40300" y="1.97200" w="32.48800" h="26.33800" sx="81.8939971924" sy="30.3099994659" t="5:53.272"/>
+      <anchoredRegion x="66.40300" y="1.97200" w="32.48800" h="26.33800" sx="81.8939971924" sy="30.3099994659" t="6:00.697"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1327257337&amp;ei=Tpc9XI66MYrL1gL5m7pY&amp;feature=iv&amp;src_vid=BGs_xGAGhJI&amp;v=IPOnn9EBX74" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1606524939" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe</TEXT>
+  <segment spaceRelative="annotation_3217577623">
+    <movingRegion type="rect">
+      <rectRegion x="-1.26800" y="11.26800" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-1.26800" y="11.26800" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3217577623" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3217577623" type="highlight" log_data="l-class=5&amp;ei=Tpc9XI66MYrL1gL5m7pY&amp;a-v=BGs_xGAGhJI&amp;xble=1&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBjh-uGy5RcclATnFpQBobw%3Fsub_confirmation%3D1&amp;a-id=annotation_3217577623&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiOmZnwrO_fAhWKpVUKHfmNDgso-B0yAml2SJKJmoDG-M-1BA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.46300" y="57.18300" w="22.61500" h="36.50700" t="5:53.541"/>
+      <rectRegion x="68.46300" y="57.18300" w="22.61500" h="36.50700" t="6:00.392"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13319742" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCBjh-uGy5RcclATnFpQBobw?annotation_id=annotation_3217577623&amp;ei=Tpc9XI66MYrL1gL5m7pY&amp;feature=iv&amp;src_vid=BGs_xGAGhJI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

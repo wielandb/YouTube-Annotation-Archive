@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIg8eBoYPv3wIV0VngCh0oNgyFKPgdMgJpdkj2ipjJ08faoJwB">
+<annotation id="annotation_1300565747" type="highlight" log_data="a-id=annotation_1300565747&amp;xble=1&amp;l-class=6&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.extra-credits.net&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiDx4Ghg-_fAhXRWeAKHSg2DIUo-B0yAml2SPaKmMnTx9qgnAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="47.22700" y="5.35200" w="49.40600" h="8.33800" t="5:36.201"/>
+      <rectRegion x="47.22700" y="5.35200" w="49.40600" h="8.33800" t="5:41.398"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.extra-credits.net" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1322024467" type="highlight" log_data="a-id=annotation_1322024467&amp;xble=1&amp;l-class=6&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.extra-credits.net%2Ffacebook&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiDx4Ghg-_fAhXRWeAKHSg2DIUo-B0yAml2SPaKmMnTx9qgnAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.21700" y="15.21100" w="23.89100" h="19.88700" t="5:36.201"/>
+      <rectRegion x="73.21700" y="15.21100" w="23.89100" h="19.88700" t="5:41.398"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.extra-credits.net/facebook" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1909065567" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1322024467">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1322024467" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2098549923" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1300565747">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.54900" w="21.03800" h="4.17300" t="never"/>
+      <rectRegion x="0.00000" y="31.54900" w="21.03800" h="4.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1300565747" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2139099817" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_413157665">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_413157665" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2379756233" type="highlight" log_data="a-id=annotation_2379756233&amp;xble=1&amp;l-class=1&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Didye-4w-M9E%26list%3DPLhyKYa0YJ_5DNVpOci8qhGuI4mFYcIm4V%26index%3D48&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiDx4Ghg-_fAhXRWeAKHSg2DIUo-B0yAml2SPaKmMnTx9qgnAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.56900" y="12.11300" w="28.01100" h="28.05600" t="5:25.400"/>
+      <rectRegion x="11.56900" y="12.11300" w="28.01100" h="28.05600" t="5:41.398"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2379756233&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;feature=iv&amp;index=48&amp;list=PLhyKYa0YJ_5DNVpOci8qhGuI4mFYcIm4V&amp;src_vid=nEFqPTkmBXY&amp;v=idye-4w-M9E" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2705374655" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3944026385">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3944026385" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3130543521" type="highlight" log_data="a-id=annotation_3130543521&amp;xble=1&amp;l-class=6&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.extra-credits.net%2Ftwitter&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwiDx4Ghg-_fAhXRWeAKHSg2DIUo-B0yAml2SPaKmMnTx9qgnAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="47.70200" y="14.64800" w="24.68300" h="22.14100" t="5:36.201"/>
+      <rectRegion x="47.70200" y="14.64800" w="24.68300" h="22.14100" t="5:41.398"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.extra-credits.net/twitter" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_332765087" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3445595809">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3445595809" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3445595809" type="highlight" log_data="a-id=annotation_3445595809&amp;xble=1&amp;l-class=5&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fextracreditz%3Fsub_confirmation%3D1&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwiDx4Ghg-_fAhXRWeAKHSg2DIUo-B0yAml2SPaKmMnTx9qgnAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.92100" y="62.81700" w="34.35000" h="25.52400" t="5:25.576"/>
+      <rectRegion x="49.92100" y="62.81700" w="34.35000" h="25.52400" t="5:41.398"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/extracreditz?annotation_id=annotation_3445595809&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;feature=iv&amp;src_vid=nEFqPTkmBXY&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_385283609" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2379756233">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2379756233" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3944026385" type="highlight" log_data="a-id=annotation_3944026385&amp;xble=1&amp;l-class=1&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH_2E0RxVHH4%26list%3DPLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu%26index%3D28&amp;a-type=3" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.56900" y="51.83100" w="27.53600" h="27.77500" t="5:25.400"/>
+      <rectRegion x="11.56900" y="51.83100" w="27.53600" h="27.77500" t="5:41.398"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3944026385&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;feature=iv&amp;index=28&amp;list=PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu&amp;src_vid=nEFqPTkmBXY&amp;v=H_2E0RxVHH4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_413157665" type="highlight" log_data="a-id=annotation_413157665&amp;xble=1&amp;l-class=5&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;a-v=nEFqPTkmBXY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fextracreditz%3Fsub_confirmation%3D1&amp;a-type=3" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.91900" y="28.73200" w="64.18200" h="46.74200" t="5:41.500"/>
+      <rectRegion x="20.91900" y="28.73200" w="64.18200" h="46.74200" t="5:46.974"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/extracreditz?annotation_id=annotation_413157665&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;feature=iv&amp;src_vid=nEFqPTkmBXY&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4155441549" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3130543521">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3130543521" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56c30f10-0000-2858-b912-94eb2c080390" style="branding" type="branding"
+            log_data="a-id=56c30f10-0000-2858-b912-94eb2c080390&amp;xble=0&amp;l-class=3&amp;a-ch=UCCODtTcd5M1JavPCOr_Uydg&amp;a-v=nEFqPTkmBXY&amp;ei=qms9XIPKNtGzgQeo7LCoCA&amp;link-id=UCCODtTcd5M1JavPCOr_Uydg&amp;a-type=10">
+  <data>{&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FExtraCreditz%26continue_action%3DQUFFLUhqa2d2bXl1Z2dhdVJSX0lFVnhuaTBURmZndHVqd3xBQ3Jtc0trcGZtWFdwM0YtTHY0VFhkeERYWDMtel84Q2NnQlItNmwtQ2k5ZHMzNmFWd0dxd3FNWEtMTUV3bW1PQmw0bzhqazZqMERIb3JmUS1DY3ZubnNnR2xrSVlwRzhWTTA3RkIwZ2N0N19mRXdXdEJUZXowRVBEVkVXTTFLODN6My1zekJkQklNTmNRZkNXTk5kcXBlWHY2WTNMOElUSEdQV3B1Mk1OVGsxSVhWbldSOTc5WWNsajlFcm1SR3R1UlhWNlo5YWh6ZzNTRmltdG5EU0d2QkkxV1VmWmxVYUxxdTAtd2swSF9FNHNuUGswR2RiaWhj%26app%3Ddesktop%26feature%3Div%26hl%3Dde%26action_handle_signin%3Dtrue\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;1,8\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;1,8\u00a0Mio.&quot;},&quot;num_subscribers&quot;:&quot;1898233&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCIPHgaGD798CFdFZ4AodKDYMhSj4HTICaXZI9oqYydPH2qCcAQ&quot;,&quot;ei&quot;:&quot;qms9XIPKNtGzgQeo7LCoCA&quot;,&quot;src_vid&quot;:&quot;nEFqPTkmBXY&quot;,&quot;annotation_id&quot;:&quot;56c30f10-0000-2858-b912-94eb2c080390&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:347000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/CODtTcd5M1JavPCOr_Uydg\/featured_channel.jpg?v=56cfc21d&quot;,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCCODtTcd5M1JavPCOr_Uydg&quot;,&quot;image_type&quot;:1,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;Extra Credits&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/ExtraCreditz"/>
+  </action>
+</annotation></annotations></document>

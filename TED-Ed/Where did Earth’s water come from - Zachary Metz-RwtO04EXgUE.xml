@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIn7GAw-ru3wIVBbpVCh1pfADvKPgdMgJpdkjBgt6IuNrThUc">
+<annotation id="annotation_1239920325" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4140749163">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="14.08500" w="69.84900" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="14.08500" w="69.84900" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4140749163" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1260359535" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3512779237">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="27.37700" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="27.37700" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3512779237" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1582452931" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2574565013">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="32.44800" h="9.09900" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="32.44800" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2574565013" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1666620589" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2552782077">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="22.78100" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="22.78100" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2552782077" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2136448501" type="text" style="popup" log_data="a-id=annotation_2136448501&amp;xble=1&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;a-v=RwtO04EXgUE&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwifsYDD6u7fAhUFulUKHWl8AO8o-B0yAml2SMGC3oi42tOFRw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.55600" y="12.67600" w="17.95600" h="29.16900" t="3:42.500"/>
+      <rectRegion x="79.55600" y="12.67600" w="17.95600" h="29.16900" t="3:52.546"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_2136448501&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;feature=iv&amp;src_vid=RwtO04EXgUE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2552782077" type="highlight" log_data="a-id=annotation_2552782077&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=RwtO04EXgUE&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwifsYDD6u7fAhUFulUKHWl8AO8o-B0yAml2SMGC3oi42tOFRw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.36500" y="71.26800" w="22.78100" h="19.04600" t="3:42.500"/>
+      <rectRegion x="70.36500" y="71.26800" w="22.78100" h="19.04600" t="3:52.546"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2574565013" type="highlight" log_data="a-id=annotation_2574565013&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;a-v=RwtO04EXgUE&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwifsYDD6u7fAhUFulUKHWl8AO8o-B0yAml2SMGC3oi42tOFRw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.97500" y="71.54900" w="32.29000" h="19.04600" t="3:42.500"/>
+      <rectRegion x="35.97500" y="71.54900" w="32.29000" h="19.04600" t="3:52.546"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3512779237" type="highlight" log_data="a-id=annotation_3512779237&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;a-v=RwtO04EXgUE&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwifsYDD6u7fAhUFulUKHWl8AO8o-B0yAml2SMGC3oi42tOFRw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.49800" y="71.54900" w="27.37700" h="18.76400" t="3:42.500"/>
+      <rectRegion x="6.49800" y="71.54900" w="27.37700" h="18.76400" t="3:52.546"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4109166531" type="text" style="popup" log_data="a-id=annotation_4109166531&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhere-did-earth-s-water-come-from-zachary-metz&amp;a-v=RwtO04EXgUE&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-type=1" itct="CAUQs-UBGP___________wEiEwifsYDD6u7fAhUFulUKHWl8AO8o-B0yAml2SMGC3oi42tOFRw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="7.32400" w="36.01500" h="9.72600" t="0:00.000"/>
+      <rectRegion x="3.48700" y="7.32400" w="36.01500" h="9.72600" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/where-did-earth-s-water-come-from-zachary-metz" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4140749163" type="highlight" log_data="a-id=annotation_4140749163&amp;xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhere-did-earth-s-water-come-from-zachary-metz&amp;a-v=RwtO04EXgUE&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-type=3" itct="CAYQs-UBGP___________wEiEwifsYDD6u7fAhUFulUKHWl8AO8o-B0yAml2SMGC3oi42tOFRw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.21400" y="53.23900" w="69.69100" h="14.25700" t="3:42.500"/>
+      <rectRegion x="15.21400" y="53.23900" w="69.69100" h="14.25700" t="3:52.547"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/where-did-earth-s-water-come-from-zachary-metz" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;l-class=3&amp;ei=u1E9XN_nEYX01gLp-IH4Dg&amp;a-v=RwtO04EXgUE&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqazIxazRVY3Z1VWc2MXRzZmNfVEpVaEdTSy0xZ3xBQ3Jtc0tsSUlubU1WRUVnMG1BUWFFTDlLWGc2MUxOUzF6MzhMbzdBSE84YnRnYkVvTkE4WUNnakd4WHZsZUhTMERMVGJCYmppMW9LZ05SbTN0OWtXZTZWUHhiLXB5QU8ydVJHSm15bHRuYVRfMnBVcFpxRldiWnlURk9iZklmMG9oSW1lR2FyaFZJeUs2bnFfQ3M4bEVURXhDbnc0aDlJWDEtTHRqeTJaZHlkVUx5YTB3YnNMSzUzblNPQTNaUnlJWWJ4bDVaTzlENFVyZXh5dzNGYTlfRG5YZ0s1N0pEVlFjOUIzS1NXUnpfdFAtMXZfUG9hS2Zr%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Dde\u0026uilel=3\u0026hl=de\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;RwtO04EXgUE&quot;,&quot;ei&quot;:&quot;u1E9XN_nEYX01gLp-IH4Dg&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJ-xgMPq7t8CFQW6VQodaXwA7yj4HTICaXZIwYLeiLja04VH&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:233000,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

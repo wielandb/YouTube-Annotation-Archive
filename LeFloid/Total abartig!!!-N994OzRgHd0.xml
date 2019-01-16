@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5PyK7v7u3wIV1oB7Ch3xrAgRKPgdMgJpdkjdu4Cjs4fe7zc">
+<annotation id="annotation_112485" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Mein Kanal!</TEXT>
+  <segment spaceRelative="annotation_307417">
+    <movingRegion type="rect">
+      <rectRegion x="7.18700" y="30.55600" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="7.18700" y="30.55600" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_307417" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_15943" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-v=N994OzRgHd0&amp;a-id=annotation_15943" itct="CAEQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <TEXT>Entfernt das Video nach einiger Zeit einfach wieder aus euren Favos! Bis dahin ist der Vollpfosten sicherlich eh schon gebannt! :)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.93800" y="87.22200" w="62.96900" h="11.11100" t="0:02:37.8"/>
+      <rectRegion x="0.93800" y="87.22200" w="62.96900" h="11.11100" t="0:02:42.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_302417" type="text" style="popup" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1e6bjMW-hy8&amp;a-v=N994OzRgHd0&amp;a-type=1&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-id=annotation_302417" itct="CAIQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <TEXT>Was zum Lachen!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.50000" y="93.05600" w="22.50000" h="6.94400" t="0:00:00.6"/>
+      <rectRegion x="77.50000" y="93.05600" w="22.50000" h="6.94400" t="0:02:55.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_302417&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;feature=iv&amp;src_vid=N994OzRgHd0&amp;v=1e6bjMW-hy8" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_307417" type="highlight" log_data="l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;a-v=N994OzRgHd0&amp;a-type=3&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-id=annotation_307417" itct="CAMQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.50000" y="27.77800" w="35.31300" h="38.61100" t="0:02:55.5"/>
+      <rectRegion x="32.50000" y="27.77800" w="35.31300" h="38.61100" t="0:03:12.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_307417&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;feature=iv&amp;src_vid=N994OzRgHd0&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_448784" type="text" style="popup" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRwkR-UVgPbk&amp;a-v=N994OzRgHd0&amp;a-type=1&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-id=annotation_448784" itct="CAQQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <TEXT>Next Video</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="83.90600" y="0.00000" w="16.09400" h="6.94400" t="0:00:00.6"/>
+      <rectRegion x="83.90600" y="0.00000" w="16.09400" h="6.94400" t="0:02:55.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_448784&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;feature=iv&amp;src_vid=N994OzRgHd0&amp;v=RwkR-UVgPbk" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_601119" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DLeFloid&amp;a-v=N994OzRgHd0&amp;a-type=1&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-id=annotation_601119" itct="CAUQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <TEXT>Nix mehr verpassen!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="24.21900" h="6.94400" t="0:00:00.6"/>
+      <rectRegion x="0.00000" y="0.00000" w="24.21900" h="6.94400" t="0:02:55.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=LeFloid&amp;annotation_id=annotation_601119&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;feature=iv&amp;src_vid=N994OzRgHd0" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_631180" type="text" style="popup" log_data="l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DKanackenVergasen&amp;a-v=N994OzRgHd0&amp;a-type=1&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-id=annotation_631180" itct="CAYQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <TEXT>Sein Name ist zu beschissen um ihn hier hinzuschreiben! Warum darf so etwas auf YouTube sein???</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.96900" y="82.22200" w="37.65600" h="15.55600" t="0:02:12.6"/>
+      <rectRegion x="27.96900" y="82.22200" w="37.65600" h="15.55600" t="0:02:20.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_631180&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;feature=iv&amp;src_vid=N994OzRgHd0&amp;user=KanackenVergasen" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_914525" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;ei=Dmc9XOS9FdaB7gPx2aKIAQ&amp;a-v=N994OzRgHd0&amp;a-id=annotation_914525" itct="CAcQs-UBGP___________wEiEwjk_Iru_u7fAhXWgHsKHfGsCBEo-B0yAml2SN27gKOzh97vNw">
+  <TEXT>Wir haben es geschafft! Den Kanal gibt es nicht mehr! Ich melde mich, wenn er sich unter neuem Namen bei mir meldet! :P</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.87500" y="46.11100" w="32.34400" h="31.94400" t="0:02:12.6"/>
+      <rectRegion x="1.87500" y="46.11100" w="32.34400" h="31.94400" t="0:02:21.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="5610811" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

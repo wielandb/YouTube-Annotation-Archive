@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIieXA2-nu3wIVWJXeCh2otwUXKPgdMgJpdkjvzKOUrOHe6nw">
+<annotation id="annotation_2889287349" type="text" style="popup" log_data="a-v=fNV7CsKI5m8&amp;ei=4lA9XInsDtiq-gao75a4AQ&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fone-of-the-most-difficult-words-to-translate-krystian-aparta&amp;a-type=1&amp;a-id=annotation_2889287349&amp;l-class=6&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiJ5cDb6e7fAhVYld4KHai3BRco-B0yAml2SO_Mo5Ss4d7qfA">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.85300" y="3.94400" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="2.85300" y="3.94400" w="30.00000" h="8.88900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/one-of-the-most-difficult-words-to-translate-krystian-aparta" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4183147975" type="highlight" log_data="a-v=fNV7CsKI5m8&amp;ei=4lA9XInsDtiq-gao75a4AQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gwJHuEa9Jc&amp;a-type=3&amp;a-id=annotation_4183147975&amp;l-class=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiJ5cDb6e7fAhVYld4KHai3BRco-B0yAml2SO_Mo5Ss4d7qfA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.92100" y="26.19700" w="43.22500" h="44.67600" t="3:40.000"/>
+      <rectRegion x="49.92100" y="26.19700" w="43.22500" h="44.67600" t="3:59.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4183147975&amp;ei=4lA9XInsDtiq-gao75a4AQ&amp;feature=iv&amp;src_vid=fNV7CsKI5m8&amp;v=_gwJHuEa9Jc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_858427627" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4183147975">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4183147975" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=fNV7CsKI5m8&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=4lA9XInsDtiq-gao75a4AQ&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqbklIT1hLZ284UW45bEMybXpVN1JCQkRnSHU0QXxBQ3Jtc0trdGlhWHlHMWVpZEw3SXRhU3AzcmtUOTd6ZmRxTXJ2YjlvT0lCLUVfSDB4SlVfOWI3VHBQejI4SzZwT282ZkVMcjlFNk4ybmV5N3QyUHJPeGlNcGJVcHo2Y1lTRnU0NkhicVVKYVFwTVNrUnJMbHhOcEtEcElxZmxjSTNZalAyN1lHU0t0cUdJUS01M2JkZS1aUmFkcTdYTkIzaUZZNmV0aWJNMXp3c2hsMElySHdfbEdodGNlSFpobE5VYThlbXlmU1djS2lJWDVtb3Q4RjViQUZzLU1tSmczQWpfNFYxdmtSNUdoVmJxZkVhOExSV1ln%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26action_handle_signin%3Dtrue%26feature%3Div&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;4lA9XInsDtiq-gao75a4AQ&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTICaXZI78yjlKzh3up8&quot;,&quot;src_vid&quot;:&quot;fNV7CsKI5m8&quot;},&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_type&quot;:0,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:228000,&quot;image_height&quot;:40,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation>
+<annotation id="video:13ffaa5b-b8b5-420b-b120-8da4d1fa8be2" style="simple" type="card" log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=13ffaa5b-b8b5-420b-b120-8da4d1fa8be2&amp;a-type=61&amp;a-v=fNV7CsKI5m8&amp;ei=4lA9XInsDtiq-gao75a4AQ&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2Fteded&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1509459218568,&quot;url&quot;:&quot;\/redirect?q=https%3A%2F%2Fwww.patreon.com%2Fteded\u0026event=infocard\u0026redir_token=8epmUfCfqFhXGoa-j12A7ADnU6F8MTU0NzYwODY3NEAxNTQ3NTIyMjc0&quot;,&quot;meta_info&quot;:[],&quot;teaser_text&quot;:&quot;Learn more&quot;,&quot;custom_message&quot;:&quot;Learn more&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/fNV7CsKI5m8\/13ffaa5b-b8b5-420b-b120-8da4d1fa8be2_mq.jpg?v=59f88510&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;4lA9XInsDtiq-gao75a4AQ&quot;,&quot;annotation_id&quot;:&quot;13ffaa5b-b8b5-420b-b120-8da4d1fa8be2&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;,&quot;src_vid&quot;:&quot;fNV7CsKI5m8&quot;},&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:220652,&quot;start_ms&quot;:220652,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiJ5cDb6e7fAhVYld4KHai3BRco-B0yBWNhcmRzSO_Mo5Ss4d7qfA&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;},&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Check out our Patreon page&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=https%3A%2F%2Fwww.patreon.com%2Fteded&amp;event=infocard&amp;redir_token=8epmUfCfqFhXGoa-j12A7ADnU6F8MTU0NzYwODY3NEAxNTQ3NTIyMjc0"/>
+  </action>
+</annotation>
+
+<annotation id="video:4d2dff95-5e11-45ce-8604-825304501b4b" style="video" type="card" log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=4d2dff95-5e11-45ce-8604-825304501b4b&amp;a-type=62&amp;a-v=fNV7CsKI5m8&amp;ei=4lA9XInsDtiq-gao75a4AQ&amp;l-class=1&amp;link-id=_gwJHuEa9Jc&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/_gwJHuEa9Jc\/mqdefault.jpg&quot;,&quot;timestamp&quot;:1471653888002,&quot;meta_info&quot;:[&quot;von TED-Ed&quot;,&quot;594.998 Aufrufe&quot;],&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;4:27&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;4lA9XInsDtiq-gao75a4AQ&quot;,&quot;annotation_id&quot;:&quot;4d2dff95-5e11-45ce-8604-825304501b4b&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;,&quot;src_vid&quot;:&quot;fNV7CsKI5m8&quot;},&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:220720,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;A brief history of plural word...s - John McWhorter&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:220720,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwiJ5cDb6e7fAhVYld4KHai3BRco-B0yBWNhcmRzSO_Mo5Ss4d7qfA&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=_gwJHuEa9Jc&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: A brief history of plural word...s - John McWhorter&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=_gwJHuEa9Jc"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von TED-Ed&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiJ5cDb6e7fAhVYld4KHai3BRco+B0yBWNhcmRzSO/Mo5Ss4d7qfA==&quot;, 
+  &quot;eventId&quot;: &quot;4lA9XInsDtiq-gao75a4AQ&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCInlwNvp7t8CFViV3godqLcFFyj4HTIFY2FyZHNI78yjlKzh3up8&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiJ5cDb6e7fAhVYld4KHai3BRco+B0yBWNhcmRzSO/Mo5Ss4d7qfA==&quot;
+}</data>
+</annotation>
+</annotations></document>

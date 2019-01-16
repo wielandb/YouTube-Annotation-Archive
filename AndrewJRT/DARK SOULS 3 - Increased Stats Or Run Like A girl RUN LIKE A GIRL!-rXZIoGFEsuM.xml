@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIneqevrDv3wIVhj7gCh2TZw60KPgdMgJpdkjj5ZKKhpSSu60B">
+<annotation id="annotation_1387467193" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3451274683">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3451274683" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1410545207" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2226504135">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2226504135" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1611826785" type="highlight" log_data="xble=1&amp;ei=F5s9XN2CMIb9gAeTz7mgCw&amp;a-v=rXZIoGFEsuM&amp;a-type=3&amp;a-id=annotation_1611826785" itct="CAEQs-UBGP___________wEiEwid6p6-sO_fAhWGPuAKHZNnDrQo-B0yAml2SOPlkoqGlJK7rQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="42.94800" y="58.59200" w="53.52600" h="19.04200" t="9:46.370"/>
+      <rectRegion x="42.94800" y="58.59200" w="53.52600" h="19.04200" t="10:17.231"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_2176934231" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1611826785">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1611826785" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2226504135" type="highlight" log_data="ei=F5s9XN2CMIb9gAeTz7mgCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv7RsMWNAa8c%26list%3DPL6ShnvJSYWXhqOWMSiQi0bdZsRdFtbo_E%26index%3D1&amp;xble=1&amp;l-class=1&amp;a-id=annotation_2226504135&amp;a-v=rXZIoGFEsuM&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwid6p6-sO_fAhWGPuAKHZNnDrQo-B0yAml2SOPlkoqGlJK7rQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.39600" y="6.19700" w="46.07800" h="51.15500" t="9:46.370"/>
+      <rectRegion x="50.39600" y="6.19700" w="46.07800" h="51.15500" t="10:17.231"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2226504135&amp;ei=F5s9XN2CMIb9gAeTz7mgCw&amp;feature=iv&amp;index=1&amp;list=PL6ShnvJSYWXhqOWMSiQi0bdZsRdFtbo_E&amp;src_vid=rXZIoGFEsuM&amp;v=v7RsMWNAa8c" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3451274683" type="highlight" log_data="ei=F5s9XN2CMIb9gAeTz7mgCw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgsmyOqLhQe4%26list%3DPL6ShnvJSYWXhNW7hJ1HnTVeFGiuDPjuW0%26index%3D17&amp;xble=1&amp;l-class=1&amp;a-id=annotation_3451274683&amp;a-v=rXZIoGFEsuM&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwid6p6-sO_fAhWGPuAKHZNnDrQo-B0yAml2SOPlkoqGlJK7rQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="5.91500" w="46.23600" h="51.71800" t="9:46.370"/>
+      <rectRegion x="3.48700" y="5.91500" w="46.23600" h="51.71800" t="10:17.231"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3451274683&amp;ei=F5s9XN2CMIb9gAeTz7mgCw&amp;feature=iv&amp;index=17&amp;list=PL6ShnvJSYWXhNW7hJ1HnTVeFGiuDPjuW0&amp;src_vid=rXZIoGFEsuM&amp;v=gsmyOqLhQe4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:fc7f8b62-fbe4-404e-875b-e0d88d0f613f" style="branding" type="branding"
+            log_data="ei=F5s9XN2CMIb9gAeTz7mgCw&amp;a-ch=UCg44vJ8AHcK7GcG6KqGBKag&amp;xble=0&amp;l-class=3&amp;a-id=fc7f8b62-fbe4-404e-875b-e0d88d0f613f&amp;a-v=rXZIoGFEsuM&amp;a-type=10&amp;link-id=UCg44vJ8AHcK7GcG6KqGBKag">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/g44vJ8AHcK7GcG6KqGBKag\/featured_channel.jpg?v=5b2fbdb5&quot;,&quot;num_subscribers&quot;:&quot;670162&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;AndrewJRT&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqbkxmdXByWFQ1emJTeTN0NEx1WVBOT29vTC1PUXxBQ3Jtc0tsQXUzbmlSRGQyQmdWcUhmbFc2NjlLdFJoaDc0MGxpTG00TC1sWUZaNkthVVBudi0zcUZFb1JPSmlrUmh1MnZ1ak1UdWNIaWNrRjJpWDU0UnRUdDBNenE0cDdUZTM2Zi12Zkp4Wm1HTF94SmJIWHo5RWNZTmVkb0FHdFp2LVZJTHJ0cmZucnk0UUtPWWdoOU5lQThweXJfbEFPWnFnMzRyYmdYdXBzZlRqSDBBa1NmcEpScG5wcTI2cXhhR1NFWVhBLWp3aUtwanFac3Zub0lKN3haaVRVTGJPcTFyU1FxMDkxazZkZV9FdTA3ZDdMUmtV%26action_handle_signin%3Dtrue%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTaylorHD1080P%26feature%3Div\u0026passive=true&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;670.162&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;670.163&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;end_ms&quot;:618000,&quot;image_width&quot;:46,&quot;image_height&quot;:33,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCg44vJ8AHcK7GcG6KqGBKag&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;fc7f8b62-fbe4-404e-875b-e0d88d0f613f&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTICaXZI4-WSioaUkrutAQ&quot;,&quot;ei&quot;:&quot;F5s9XN2CMIb9gAeTz7mgCw&quot;,&quot;src_vid&quot;:&quot;rXZIoGFEsuM&quot;},&quot;is_mobile&quot;:false,&quot;start_ms&quot;:5000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TaylorHD1080P"/>
+  </action>
+</annotation>
+<annotation id="video:88016f9c-0a09-4619-b82f-d99d904a8200" style="playlist" type="card" log_data="a-ch=UCg44vJ8AHcK7GcG6KqGBKag&amp;a-id=88016f9c-0a09-4619-b82f-d99d904a8200&amp;a-type=63&amp;a-v=rXZIoGFEsuM&amp;ei=F5s9XN2CMIb9gAeTz7mgCw&amp;l-class=2&amp;link-id=PL6ShnvJSYWXhqOWMSiQi0bdZsRdFtbo_E&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/v7RsMWNAa8c\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von AndrewJRT&quot;,&quot;22\u00a0Videos&quot;],&quot;title&quot;:&quot;DARK SOULS&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: DARK SOULS&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;timestamp&quot;:1466957707989,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwid6p6-sO_fAhWGPuAKHZNnDrQo-B0yBWNhcmRzSOPlkoqGlJK7rQE&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;},&quot;end_ms&quot;:17,&quot;target&quot;:&quot;new&quot;,&quot;playlist_video_count&quot;:&quot;22&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=v7RsMWNAa8c\u0026list=PL6ShnvJSYWXhqOWMSiQi0bdZsRdFtbo_E&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;88016f9c-0a09-4619-b82f-d99d904a8200&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;,&quot;ei&quot;:&quot;F5s9XN2CMIb9gAeTz7mgCw&quot;,&quot;src_vid&quot;:&quot;rXZIoGFEsuM&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:17,&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=v7RsMWNAa8c&amp;list=PL6ShnvJSYWXhqOWMSiQi0bdZsRdFtbo_E"/>
+  </action>
+</annotation>
+
+<annotation id="video:b588dbf1-257a-4248-bbc4-f7d2980795f8" style="playlist" type="card" log_data="a-ch=UCg44vJ8AHcK7GcG6KqGBKag&amp;a-id=b588dbf1-257a-4248-bbc4-f7d2980795f8&amp;a-type=63&amp;a-v=rXZIoGFEsuM&amp;ei=F5s9XN2CMIb9gAeTz7mgCw&amp;l-class=2&amp;link-id=PL6ShnvJSYWXhNW7hJ1HnTVeFGiuDPjuW0&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/VGnvYYx6100\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von AndrewJRT&quot;,&quot;113\u00a0Videos&quot;],&quot;title&quot;:&quot;OVERWATCH&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: OVERWATCH&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;timestamp&quot;:1466957715551,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwid6p6-sO_fAhWGPuAKHZNnDrQo-B0yBWNhcmRzSOPlkoqGlJK7rQE&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;},&quot;end_ms&quot;:17,&quot;target&quot;:&quot;new&quot;,&quot;playlist_video_count&quot;:&quot;113&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=VGnvYYx6100\u0026list=PL6ShnvJSYWXhNW7hJ1HnTVeFGiuDPjuW0&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;b588dbf1-257a-4248-bbc4-f7d2980795f8&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;,&quot;ei&quot;:&quot;F5s9XN2CMIb9gAeTz7mgCw&quot;,&quot;src_vid&quot;:&quot;rXZIoGFEsuM&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:17,&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=VGnvYYx6100&amp;list=PL6ShnvJSYWXhNW7hJ1HnTVeFGiuDPjuW0"/>
+  </action>
+</annotation>
+
+<annotation id="video:1e32501a-d8e7-4dd6-b948-774d9653eb79" style="playlist" type="card" log_data="a-ch=UCg44vJ8AHcK7GcG6KqGBKag&amp;a-id=1e32501a-d8e7-4dd6-b948-774d9653eb79&amp;a-type=63&amp;a-v=rXZIoGFEsuM&amp;ei=F5s9XN2CMIb9gAeTz7mgCw&amp;l-class=2&amp;link-id=PL6ShnvJSYWXizYKpY5vJbJvGD30bD92-O&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/mjSO8kW8ugA\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von AndrewJRT&quot;,&quot;4\u00a0Videos&quot;],&quot;title&quot;:&quot;LAYERS OF FEAR&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: LAYERS OF FEAR&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;timestamp&quot;:1466957735614,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBEQ1TYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;,&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwid6p6-sO_fAhWGPuAKHZNnDrQo-B0yBWNhcmRzSOPlkoqGlJK7rQE&quot;,&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;},&quot;end_ms&quot;:17,&quot;target&quot;:&quot;new&quot;,&quot;playlist_video_count&quot;:&quot;4&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=mjSO8kW8ugA\u0026list=PL6ShnvJSYWXizYKpY5vJbJvGD30bD92-O&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;1e32501a-d8e7-4dd6-b948-774d9653eb79&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCJ3qnr6w798CFYY-4Aodk2cOtCj4HTIFY2FyZHNI4-WSioaUkrutAQ&quot;,&quot;ei&quot;:&quot;F5s9XN2CMIb9gAeTz7mgCw&quot;,&quot;src_vid&quot;:&quot;rXZIoGFEsuM&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:17,&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=mjSO8kW8ugA&amp;list=PL6ShnvJSYWXizYKpY5vJbJvGD30bD92-O"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwid6p6+sO/fAhWGPuAKHZNnDrQo+B0yBWNhcmRzSOPlkoqGlJK7rQE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwid6p6+sO/fAhWGPuAKHZNnDrQo+B0yBWNhcmRzSOPlkoqGlJK7rQE=&quot;, 
+  &quot;eventId&quot;: &quot;F5s9XN2CMIb9gAeTz7mgCw&quot;, 
+  &quot;headerText&quot;: &quot;Von AndrewJRT&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCJ3qnr6w798CFYY+4Aodk2cOtCj4HTIFY2FyZHNI4+WSioaUkrutAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

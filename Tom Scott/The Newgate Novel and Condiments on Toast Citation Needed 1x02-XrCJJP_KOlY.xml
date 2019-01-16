@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI14fX9anv3wIViFLgCh3kmAhxKPgdMgJpdkjW9Kj-z6Si2F4">
+<annotation id="annotation_1226844189" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-v=XrCJJP_KOlY&amp;ei=NZQ9XJcZiKWBB-SxoogH&amp;a-id=annotation_1226844189&amp;l-class=5&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjXh9f1qe_fAhWIUuAKHeSYCHEo-B0yAml2SNb0qP7PpKLYXg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.99500" y="14.93000" w="73.33600" h="14.25700" t="15:02.181"/>
+      <rectRegion x="12.99500" y="14.93000" w="73.33600" h="14.25700" t="15:20.785"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1226844189&amp;ei=NZQ9XJcZiKWBB-SxoogH&amp;feature=iv&amp;src_vid=XrCJJP_KOlY&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2727832537" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1226844189">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1226844189" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3530280891" type="text" style="popup" log_data="ei=NZQ9XJcZiKWBB-SxoogH&amp;a-id=annotation_3530280891&amp;a-type=1&amp;a-v=XrCJJP_KOlY&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjXh9f1qe_fAhWIUuAKHeSYCHEo-B0yAml2SNb0qP7PpKLYXg">
+  <TEXT>And we&#39;re off! Just a reminder: if you&#39;re looking for full-on FACT, keep movin&#39;.
+We&#39;re going old school.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="88.00000" w="100.00000" h="12.00000" t="0:05.767"/>
+      <rectRegion x="0.00000" y="88.00000" w="100.00000" h="12.00000" t="0:11.631"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="3355443" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3579280919" type="text" style="popup" log_data="ei=NZQ9XJcZiKWBB-SxoogH&amp;a-id=annotation_3579280919&amp;a-type=1&amp;a-v=XrCJJP_KOlY&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjXh9f1qe_fAhWIUuAKHeSYCHEo-B0yAml2SNb0qP7PpKLYXg">
+  <TEXT>If you&#39;ve made it this far, then thanks for watching! Leave us a comment if you liked the show: balancing out the &quot;you&#39;ve changed, so it&#39;s terrible&quot; crowd can make a big difference!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="86.31000" w="100.00000" h="13.69000" t="15:00.567"/>
+      <rectRegion x="0.00000" y="86.31000" w="100.00000" h="13.69000" t="15:20.786"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

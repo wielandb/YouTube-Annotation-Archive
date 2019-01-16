@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI78L59Oru3wIVgalVCh0gZAtMKPgdMgJpdkjZm4qTv9Or6aMB">
+<annotation id="annotation_1216473177" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;a-id=annotation_1216473177&amp;a-type=1&amp;l-class=5&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA" itct="CAEQs-UBGP___________wEiEwjvwvn06u7fAhWBqVUKHSBkC0wo-B0yAml2SNmbipO_06vpowE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.55600" y="11.54900" w="16.83800" h="31.70400" t="3:08.248"/>
+      <rectRegion x="79.55600" y="11.54900" w="16.83800" h="31.70400" t="3:18.156"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_1216473177&amp;ei=JFI9XO-gAoHT1gKgyK3gBA&amp;feature=iv&amp;src_vid=o9Kum_Jijdk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_127323131" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;xble=1&amp;a-id=annotation_127323131&amp;a-type=3&amp;l-class=6&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA" itct="CAIQs-UBGP___________wEiEwjvwvn06u7fAhWBqVUKHSBkC0wo-B0yAml2SNmbipO_06vpowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="71.83100" w="31.81500" h="18.48200" t="3:08.248"/>
+      <rectRegion x="36.29200" y="71.83100" w="31.81500" h="18.48200" t="3:18.155"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1391391521" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_127323131">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_127323131" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_233389445" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2718254955">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2718254955" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2688967675" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_327768983">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_327768983" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2718254955" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-many-meanings-of-michelangelo-s-statue-of-david-james-earle&amp;xble=1&amp;a-id=annotation_2718254955&amp;a-type=3&amp;l-class=6&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA" itct="CAMQs-UBGP___________wEiEwjvwvn06u7fAhWBqVUKHSBkC0wo-B0yAml2SNmbipO_06vpowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.05500" y="53.80300" w="69.69100" h="13.41200" t="3:08.248"/>
+      <rectRegion x="15.05500" y="53.80300" w="69.69100" h="13.41200" t="3:18.155"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-many-meanings-of-michelangelo-s-statue-of-david-james-earle" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2879312985" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;a-id=annotation_2879312985&amp;a-type=3&amp;l-class=6&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA" itct="CAQQs-UBGP___________wEiEwjvwvn06u7fAhWBqVUKHSBkC0wo-B0yAml2SNmbipO_06vpowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.68100" y="72.94400" w="22.46400" h="17.08800" t="3:08.248"/>
+      <rectRegion x="70.68100" y="72.94400" w="22.46400" h="17.08800" t="3:18.155"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_327768983" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;xble=1&amp;a-id=annotation_327768983&amp;a-type=3&amp;l-class=6&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA" itct="CAUQs-UBGP___________wEiEwjvwvn06u7fAhWBqVUKHSBkC0wo-B0yAml2SNmbipO_06vpowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="72.09900" w="26.74300" h="17.93300" t="3:08.248"/>
+      <rectRegion x="6.65600" y="72.09900" w="26.74300" h="17.93300" t="3:18.155"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_80309581" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-many-meanings-of-michelangelo-s-statue-of-david-james-earle&amp;xble=1&amp;a-id=annotation_80309581&amp;a-type=1&amp;l-class=6&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA" itct="CAYQs-UBGP___________wEiEwjvwvn06u7fAhWBqVUKHSBkC0wo-B0yAml2SNmbipO_06vpowE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.14100" w="38.23400" h="8.88100" t="0:00.000"/>
+      <rectRegion x="0.00000" y="10.14100" w="38.23400" h="8.88100" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-many-meanings-of-michelangelo-s-statue-of-david-james-earle" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_972054675" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2879312985">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2879312985" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-v=o9Kum_Jijdk&amp;ei=JFI9XO-gAoHT1gKgyK3gBA">
+  <data>{&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;o9Kum_Jijdk&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCO_C-fTq7t8CFYGpVQodIGQLTCj4HTICaXZI2ZuKk7_Tq-mjAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;JFI9XO-gAoHT1gKgyK3gBA&quot;},&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbF95WEliUjgzZ19lTDcwNWhjeWZMQzd6VG9Yd3xBQ3Jtc0ttMHJNY3cxWWxQeHVLUlg1aWlVRGJfdlJRVlM3Q19nNHVPT1lXenlNNkpEZDNXeTM2Uko4VFQ5OTlnSS1EUkNTemYzQTFPdTNUdXpJal9YV1BOUXJtRXpUNDFOZS04YzJ3eUJJNGZmak9LS0ZyTWtJdzdPeFVEMWtPczMtd0tVUGJHUmlPSlZBcDRqSFlsczVwRlVOUWY2LXY5ckN4UlZPcUNmaks3MngwN1ZFZDNUeXRQWDZiSktObURDMnpLa2JaRURuV1NCeFRUUWk0UG0xUElJUEJ4ZVhkQUg3c0ZxcmczcVFQNmZvWjdqNHhaTWhV%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false},&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;end_ms&quot;:199000,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

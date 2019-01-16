@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI89PZq-7u3wIVDQjgCh0KtgjkKPgdMgJpdkiN2t-omKOqsyM">
+<annotation id="annotation_103065" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;a-v=I2apGYUX7Q0&amp;l-class=12&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1&amp;a-type=3&amp;a-id=annotation_103065" itct="CAEQs-UBGP___________wEiEwjz09mr7u7fAhUNCOAKHQq2COQo-B0yAml2SI3a36iYo6qzIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.40600" y="65.00000" w="30.31200" h="21.94400" t="0:05:58.5"/>
+      <rectRegion x="6.40600" y="65.00000" w="30.31200" h="21.94400" t="0:06:03.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_192136" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-v=I2apGYUX7Q0&amp;l-class=5&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1&amp;a-type=1&amp;a-id=annotation_192136" itct="CAIQs-UBGP___________wEiEwjz09mr7u7fAhUNCOAKHQq2COQo-B0yAml2SI3a36iYo6qzIw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.59400" y="16.94400" w="14.84400" h="32.77800" t="0:05:58.5"/>
+      <rectRegion x="78.59400" y="16.94400" w="14.84400" h="32.77800" t="0:06:03.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_192136&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;feature=iv&amp;src_vid=I2apGYUX7Q0" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_334592" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_853093">
+    <movingRegion type="rect">
+      <rectRegion x="-38.12500" y="29.72200" w="97.81300" h="4.44400" t="never"/>
+      <rectRegion x="-38.12500" y="29.72200" w="97.81300" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_853093" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="TEDEducation" id="annotation_523396" log_data="a-type=0&amp;a-id=annotation_523396&amp;a-v=I2apGYUX7Q0&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:06:00.7" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:06:00.7" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_610533" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_103065">
+    <movingRegion type="rect">
+      <rectRegion x="-6.40600" y="29.72200" w="97.81300" h="4.44400" t="never"/>
+      <rectRegion x="-6.40600" y="29.72200" w="97.81300" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_103065" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_70148" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_899994">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_899994" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_853093" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=I2apGYUX7Q0&amp;l-class=6&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1&amp;a-type=3&amp;a-id=annotation_853093" itct="CAMQs-UBGP___________wEiEwjz09mr7u7fAhUNCOAKHQq2COQo-B0yAml2SI3a36iYo6qzIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.12500" y="65.27800" w="24.53100" h="20.83300" t="5:58.500"/>
+      <rectRegion x="38.12500" y="65.27800" w="24.53100" h="20.83300" t="6:03.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_899994" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;a-v=I2apGYUX7Q0&amp;l-class=12&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1&amp;a-type=3&amp;a-id=annotation_899994" itct="CAQQs-UBGP___________wEiEwjz09mr7u7fAhUNCOAKHQq2COQo-B0yAml2SI3a36iYo6qzIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.06300" y="64.72200" w="30.00000" h="22.22200" t="0:05:58.5"/>
+      <rectRegion x="64.06300" y="64.72200" w="30.00000" h="22.22200" t="0:06:03.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_503485" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-can-t-we-see-evidence-of-alien-life&amp;a-v=I2apGYUX7Q0&amp;l-class=12&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1&amp;a-type=1&amp;a-id=annotation_503485" itct="CAUQs-UBGP___________wEiEwjz09mr7u7fAhUNCOAKHQq2COQo-B0yAml2SI3a36iYo6qzIw">
+  <TEXT>View Full Lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.00000" w="37.65600" h="9.16700" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="10.00000" w="37.65600" h="9.16700" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-can-t-we-see-evidence-of-alien-life" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_989978" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-can-t-we-see-evidence-of-alien-life&amp;a-v=I2apGYUX7Q0&amp;l-class=12&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;xble=1&amp;a-type=1&amp;a-id=annotation_989978" itct="CAYQs-UBGP___________wEiEwjz09mr7u7fAhUNCOAKHQq2COQo-B0yAml2SI3a36iYo6qzIw">
+  <TEXT>View Full Lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="16.11100" w="14.84400" h="33.88900" t="0:05:58.5"/>
+      <rectRegion x="5.62500" y="16.11100" w="14.84400" h="33.88900" t="0:06:03.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10066329" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-can-t-we-see-evidence-of-alien-life" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="link-id=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;a-v=I2apGYUX7Q0&amp;l-class=3&amp;ei=vFU9XPOFCo2QgAeK7KKgDg&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e">
+  <data>{&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqbGlkNk95c0QxSFNfeEdsUmlMdmp2MmU4RU5EUXxBQ3Jtc0tsVUItRjU0QXpVTGtCUTBMZ0hGZ0JRXzNwRHlDdTB6T0RQeURaeVNSN0dMc096N3RyTll6WVZ2MWtZQkJ3RnAydXhWV1dfU3l0VDdodVBTOGxEQTYwSjEwbVZoYU44ZlQybDdrdDhwOXUzRVdySVFKTkpCQkZfUXhaZ243ZGJteXEwX3NMNWNsTFMteDNRanppY0E2ckIxdERwUzQ2c29meGgtTml6a09oX3R1N2lBOWFQeGQ1dkQwdTJJbFpja0ctWXp1VWZDejE0SF9lbWZxQkNkUmhDT2xRZmNUazYtQUpYTy1hRXFEcVFZVVlYREhJ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026uilel=3\u0026hl=de\u0026service=youtube&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;start_ms&quot;:0,&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;end_ms&quot;:364000,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;I2apGYUX7Q0&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCPPT2avu7t8CFQ0I4AodCrYI5Cj4HTICaXZIjdrfqJijqrMj&quot;,&quot;ei&quot;:&quot;vFU9XPOFCo2QgAeK7KKgDg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

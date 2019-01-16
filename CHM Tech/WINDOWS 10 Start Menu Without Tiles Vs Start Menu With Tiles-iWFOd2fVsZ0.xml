@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIg5_gh5Lv3wIVxLHeCh2UBwe9KPgdMgJpdkid49a-9s7TsIkB">
+<annotation id="annotation_160814859" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3434465383">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3434465383" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2762546537" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_501794585">
+    <movingRegion type="rect">
+      <rectRegion x="-0.95100" y="43.09900" w="41.16500" h="4.17300" t="never"/>
+      <rectRegion x="-0.95100" y="43.09900" w="41.16500" h="4.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_501794585" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3434465383" type="highlight" log_data="a-v=iWFOd2fVsZ0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNsbp0GQHOGc&amp;xble=1&amp;a-type=3&amp;a-id=annotation_3434465383&amp;ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiDn-CHku_fAhXEsd4KHZQHB70o-B0yAml2SJ3j1r72ztOwiQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.67500" y="29.57700" w="40.37200" h="41.01400" t="5:34.294"/>
+      <rectRegion x="54.67500" y="29.57700" w="40.37200" h="41.01400" t="6:05.969"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3434465383&amp;ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;feature=iv&amp;src_vid=iWFOd2fVsZ0&amp;v=Nsbp0GQHOGc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_501794585" type="highlight" log_data="a-v=iWFOd2fVsZ0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuC5OfRREWpM&amp;xble=1&amp;a-type=3&amp;a-id=annotation_501794585&amp;ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiDn-CHku_fAhXEsd4KHZQHB70o-B0yAml2SJ3j1r72ztOwiQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.27900" y="29.29600" w="41.00600" h="41.01400" t="5:34.294"/>
+      <rectRegion x="4.27900" y="29.29600" w="41.00600" h="41.01400" t="6:05.969"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_501794585&amp;ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;feature=iv&amp;src_vid=iWFOd2fVsZ0&amp;v=uC5OfRREWpM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_671985133" type="text" style="anchored" log_data="ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;xble=1&amp;a-type=8&amp;a-id=annotation_671985133&amp;a-v=iWFOd2fVsZ0" itct="CAMQs-UBGP___________wEiEwiDn-CHku_fAhXEsd4KHZQHB70o-B0yAml2SJ3j1r72ztOwiQE">
+  <TEXT>I also found that I was often doing quite a bit of typing in the search box, in order to open things that would be just two clicks away if I had the tile menu.</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="45.95900" y="54.64800" w="45.18900" h="34.80400" sx="93.1480026245" sy="86.1969985962" t="3:40.519"/>
+      <anchoredRegion x="45.95900" y="54.64800" w="45.18900" h="34.80400" sx="93.1480026245" sy="86.1969985962" t="3:58.817"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="channel:577e8d65-0000-2834-8195-001a113d4b5a" style="branding" type="branding"
+            log_data="a-v=iWFOd2fVsZ0&amp;link-id=UCdHIPSWf3kkwNg9y_puaChA&amp;a-ch=UCdHIPSWf3kkwNg9y_puaChA&amp;ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;l-class=3&amp;a-id=577e8d65-0000-2834-8195-001a113d4b5a&amp;xble=0&amp;a-type=10">
+  <data>{&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;577e8d65-0000-2834-8195-001a113d4b5a&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;MHs9XIPHG8Tj-gaUj5zoCw&quot;,&quot;src_vid&quot;:&quot;iWFOd2fVsZ0&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCIOf4IeS798CFcSx3godlAcHvSj4HTICaXZInePWvvbO07CJAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/dHIPSWf3kkwNg9y_puaChA\/featured_channel.jpg?v=577fdf30&quot;,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;239521&quot;,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCdHIPSWf3kkwNg9y_puaChA&quot;,&quot;channel_name&quot;:&quot;CHM Tech&quot;,&quot;end_ms&quot;:366000,&quot;image_width&quot;:47,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;239.522&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026passive=true\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbFBGMjlVODZkOUstdlhZNDZHd0NQemw4V1dsQXxBQ3Jtc0tua3pKMjhUbWtEc0ZZRURnTmhGb3dkdnZqazd1bnYteG9YZHVYMlJFUHBFUEU2bkdJQjVLU3p4TWNWX1N5N2RhSnprZDBuQjJ6TlhsaFFscTVsclY3b0owZDFVdjVhakpQNUFyaWtnOEZrODhlZ25FSnhjMktKOHNsZTRDSUJtOGN1VzJ5Nl9zd3hoX1F1SlhBQkZRVWhUd1NQcmpqeXF2NDhiR0JCa2hNdWphenFxZlA2aTF3TzZwZ2lnZ0hpSzlfYkZFbG1qaWk4cWdRYi1hQjhPNkRxc25vX0c3czVJSGwtV3MzUy1meUZJX2hlSnU4%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fhotmonkey000%26app%3Ddesktop%26action_handle_signin%3Dtrue&quot;,&quot;subscribeCount&quot;:&quot;239.521&quot;},&quot;image_height&quot;:30}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/hotmonkey000"/>
+  </action>
+</annotation>
+<annotation id="video:20855e26-fae2-4c53-8c30-2d6d7e2317c2" style="video" type="card" log_data="a-ch=UCdHIPSWf3kkwNg9y_puaChA&amp;a-id=20855e26-fae2-4c53-8c30-2d6d7e2317c2&amp;a-type=62&amp;a-v=iWFOd2fVsZ0&amp;ei=MHs9XIPHG8Tj-gaUj5zoCw&amp;l-class=1&amp;link-id=tcuSW3fx3xA&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:286066,&quot;meta_info&quot;:[&quot;von CHM Tech&quot;,&quot;71.095 Aufrufe&quot;],&quot;video_duration&quot;:&quot;8:17&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/tcuSW3fx3xA\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: History of the Windows Start Menu (1995 - 2015)&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;end_ms&quot;:286066,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;20855e26-fae2-4c53-8c30-2d6d7e2317c2&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;MHs9XIPHG8Tj-gaUj5zoCw&quot;,&quot;src_vid&quot;:&quot;iWFOd2fVsZ0&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCIOf4IeS798CFcSx3godlAcHvSj4HTIFY2FyZHNInePWvvbO07CJAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=tcuSW3fx3xA&quot;,&quot;timestamp&quot;:1467556006813,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;History of the Windows Start Menu (1995 - 2015)&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCIOf4IeS798CFcSx3godlAcHvSj4HTIFY2FyZHNInePWvvbO07CJAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiDn-CHku_fAhXEsd4KHZQHB70o-B0yBWNhcmRzSJ3j1r72ztOwiQE&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCIOf4IeS798CFcSx3godlAcHvSj4HTIFY2FyZHNInePWvvbO07CJAQ&quot;},&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=tcuSW3fx3xA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;MHs9XIPHG8Tj-gaUj5zoCw&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiDn+CHku/fAhXEsd4KHZQHB70o+B0yBWNhcmRzSJ3j1r72ztOwiQE=&quot;, 
+  &quot;headerText&quot;: &quot;Von CHM Tech&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiDn+CHku/fAhXEsd4KHZQHB70o+B0yBWNhcmRzSJ3j1r72ztOwiQE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCIOf4IeS798CFcSx3godlAcHvSj4HTIFY2FyZHNInePWvvbO07CJAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjPfq9KTv3wIV3GTgCh1-RQnDKPgdMgJpdkivjJiQ2d_LtusB">
+<annotation id="annotation_567090" type="highlight" log_data="a-type=3&amp;a-v=620u_ZIGBi8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC4MjJpyqmcA&amp;l-class=1&amp;a-id=annotation_567090&amp;xble=1&amp;ei=9Y49XMyoA9zJgQf-iqWYDA" itct="CAEQs-UBGP___________wEiEwiM9-r0pO_fAhXcZOAKHX5FCcMo-B0yAml2SK-MmJDZ38u26wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.37500" y="20.27800" w="27.81300" h="29.16700" t="0:02:47.4"/>
+      <rectRegion x="69.37500" y="20.27800" w="27.81300" h="29.16700" t="0:02:51.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_567090&amp;ei=9Y49XMyoA9zJgQf-iqWYDA&amp;feature=iv&amp;src_vid=620u_ZIGBi8&amp;v=C4MjJpyqmcA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_715402" type="highlight" log_data="a-type=3&amp;a-v=620u_ZIGBi8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsDddh87U3yo&amp;l-class=1&amp;a-id=annotation_715402&amp;xble=1&amp;ei=9Y49XMyoA9zJgQf-iqWYDA" itct="CAIQs-UBGP___________wEiEwiM9-r0pO_fAhXcZOAKHX5FCcMo-B0yAml2SK-MmJDZ38u26wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.53100" y="63.05600" w="28.12500" h="27.77800" t="0:02:44.8"/>
+      <rectRegion x="69.53100" y="63.05600" w="28.12500" h="27.77800" t="0:02:51.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_715402&amp;ei=9Y49XMyoA9zJgQf-iqWYDA&amp;feature=iv&amp;src_vid=620u_ZIGBi8&amp;v=sDddh87U3yo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_778311" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Fakten  ber Franzosen</TEXT>
+  <segment spaceRelative="annotation_567090">
+    <movingRegion type="rect">
+      <rectRegion x="5.46900" y="10.27800" w="17.18800" h="9.44400" t="never"/>
+      <rectRegion x="5.46900" y="10.27800" w="17.18800" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_567090" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_870759" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Facts about Germans</TEXT>
+  <segment spaceRelative="annotation_715402">
+    <movingRegion type="rect">
+      <rectRegion x="4.53100" y="9.16700" w="18.28100" h="10.27800" t="never"/>
+      <rectRegion x="4.53100" y="9.16700" w="18.28100" h="10.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_715402" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

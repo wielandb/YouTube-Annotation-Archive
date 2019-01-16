@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI84-qjcjv3wIVyRzgCh1JFww0KPgdMgJpdkj1mqOh_vyw3SE">
+<annotation id="annotation_1106447945" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_687155675">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_687155675" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_687155675" type="highlight" log_data="ei=27M9XLO2KMm5gAfJrrCgAw&amp;link=http%3A%2F%2Fwww.hellointernet.fm%2Fitunes&amp;a-v=IbrD5-QozXU&amp;l-class=6&amp;xble=1&amp;a-id=annotation_687155675&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjzj6qNyO_fAhXJHOAKHUkXDDQo-B0yAml2SPWao6H-_LDdIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.14200" y="86.86900" w="24.29000" h="11.86900" t="0:03.839"/>
+      <rectRegion x="75.14200" y="86.86900" w="24.29000" h="11.86900" t="1:35:37.139"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.hellointernet.fm/itunes" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:535bf9dd-0-276c-94b3-1a1139dd0c" style="branding" type="branding"
+            log_data="a-ch=UCwez9XDNV_wS0WNDZteXjgw&amp;ei=27M9XLO2KMm5gAfJrrCgAw&amp;link-id=UCwez9XDNV_wS0WNDZteXjgw&amp;a-v=IbrD5-QozXU&amp;l-class=3&amp;xble=0&amp;a-id=535bf9dd-0-276c-94b3-1a1139dd0c&amp;a-type=10">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCPOPqo3I798CFckc4AodSRcMNCj4HTICaXZI9Zqjof78sN0h&quot;,&quot;annotation_id&quot;:&quot;535bf9dd-0-276c-94b3-1a1139dd0c&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;27M9XLO2KMm5gAfJrrCgAw&quot;,&quot;src_vid&quot;:&quot;IbrD5-QozXU&quot;},&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FHelloInternetPodcast%26continue_action%3DQUFFLUhqbDA2RmRTdW1ha2lLc3g2RkRTcS1rVWpFNFQtZ3xBQ3Jtc0trTFNYVEt1SWlKUi0tM0xiNUY1TkhTTVFiMVVwc0pYWGZ6c0JfYkJSWnFMaW8xN1lncHBvT1BQaE5ZdmtRT1hfSk0yZVIwMXJxY0xPaU9Oc0daeXR3aXl5NE5sWTRqUmFTWXI0a3FvYjlzS0dBcnFkQ2dGRlg4NEZpbjdJVXNRWmRld1psRnl4RHhubUhRSU9IWk9mRHFuVWVVM0I3b2dlT3ZxLXVxRmd3ZzZhUkpnODhsSTlxbEY3R1pYQ25WZUlRcW1NY29uVDVsQmphV3QwbmVJVi1Iak9KTWp3V2l2bi11NzVPYVROOGc2WGgwNlJF%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;154.357&quot;,&quot;unsubscribeCount&quot;:&quot;154.358&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true},&quot;channel_name&quot;:&quot;Hello Internet&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wez9XDNV_wS0WNDZteXjgw\/featured_channel.jpg?v=536035d1&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCwez9XDNV_wS0WNDZteXjgw&quot;,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;end_ms&quot;:5738000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;154357&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/HelloInternetPodcast"/>
+  </action>
+</annotation>
+<annotation id="video:ede71cd7-95d2-4176-9c58-51acbf75220c" style="simple" type="card" log_data="a-ch=UCwez9XDNV_wS0WNDZteXjgw&amp;a-id=ede71cd7-95d2-4176-9c58-51acbf75220c&amp;a-type=68&amp;a-v=IbrD5-QozXU&amp;ei=27M9XLO2KMm5gAfJrrCgAw&amp;l-class=6&amp;link=http%3A%2F%2Fwww.hellointernet.fm%2F&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:761,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;Click for the latest show&quot;,&quot;display_domain&quot;:&quot;hellointernet.fm&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/LGI0tiO_ZGiaZ590W0whWFIyd-pqdeg6qGeXePXdH-RsAjU9zmoU6zBy1bv2Ia9e4OGKRz8RUhtM3OpjveyMuLvsfxWJOSauWbVnNMIXogeV5lrxmlNha48AwSfWWWF4cSYctN5YPczbQRMnibb61ycl15ou8uBnUHWjjGykz8LIqfufNbQ2KPxKamo&quot;,&quot;meta_info&quot;:[],&quot;card_type&quot;:&quot;simple&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;url&quot;:&quot;\/redirect?redir_token=m2vUC7_7xa2T8VdoxDyVxHrWWfR8MTU0NzYzNDAxMUAxNTQ3NTQ3NjEx\u0026q=http%3A%2F%2Fwww.hellointernet.fm%2F\u0026event=infocard&quot;,&quot;teaser_text&quot;:&quot;Click for the latest show&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAcQ1TYY____________ASITCPOPqo3I798CFckc4AodSRcMNCj4HTIFY2FyZHNI9Zqjof78sN0h&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCPOPqo3I798CFckc4AodSRcMNCj4HTIFY2FyZHNI9Zqjof78sN0h&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjzj6qNyO_fAhXJHOAKHUkXDDQo-B0yBWNhcmRzSPWao6H-_LDdIQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;show_link_icon&quot;:true,&quot;sponsored&quot;:false,&quot;title&quot;:&quot;H.I. Podcast&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCPOPqo3I798CFckc4AodSRcMNCj4HTIFY2FyZHNI9Zqjof78sN0h&quot;,&quot;annotation_id&quot;:&quot;ede71cd7-95d2-4176-9c58-51acbf75220c&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;27M9XLO2KMm5gAfJrrCgAw&quot;,&quot;src_vid&quot;:&quot;IbrD5-QozXU&quot;},&quot;end_ms&quot;:761}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=m2vUC7_7xa2T8VdoxDyVxHrWWfR8MTU0NzYzNDAxMUAxNTQ3NTQ3NjEx&amp;q=http%3A%2F%2Fwww.hellointernet.fm%2F&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjzj6qNyO/fAhXJHOAKHUkXDDQo+B0yBWNhcmRzSPWao6H+/LDdIQ==&quot;, 
+  &quot;eventId&quot;: &quot;27M9XLO2KMm5gAfJrrCgAw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCPOPqo3I798CFckc4AodSRcMNCj4HTIFY2FyZHNI9Zqjof78sN0h&quot;, 
+  &quot;headerText&quot;: &quot;Von Hello Internet&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjzj6qNyO/fAhXJHOAKHUkXDDQo+B0yBWNhcmRzSPWao6H+/LDdIQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

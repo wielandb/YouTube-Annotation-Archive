@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIu-Dez5jv3wIVSwXgCh2BugHdKPgdMgJpdkj6jZSp19H8_Ro">
+<annotation id="annotation_1959828937" type="highlight" log_data="a-v=GvvyjXUlBvo&amp;xble=1&amp;l-class=1&amp;a-id=annotation_1959828937&amp;ei=EoI9XLuPAsuKgAeB9YboDQ&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv2ZPm8ClJMo" itct="CAEQs-UBGP___________wEiEwi74N7PmO_fAhVLBeAKHYG6Ad0o-B0yAml2SPqNlKnX0fz9Gg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.39000" y="43.09900" w="31.02200" h="31.43700" t="14:10.608"/>
+      <rectRegion x="34.39000" y="43.09900" w="31.02200" h="31.43700" t="14:15.886"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1959828937&amp;ei=EoI9XLuPAsuKgAeB9YboDQ&amp;feature=iv&amp;src_vid=GvvyjXUlBvo&amp;v=v2ZPm8ClJMo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_283253907" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3998994737">
+    <movingRegion type="rect">
+      <rectRegion x="0.15800" y="0.12700" w="30.38000" h="15.31000" t="never"/>
+      <rectRegion x="0.15800" y="0.12700" w="30.38000" h="15.31000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3998994737" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3998994737" type="highlight" log_data="a-v=GvvyjXUlBvo&amp;xble=1&amp;l-class=5&amp;a-id=annotation_3998994737&amp;ei=EoI9XLuPAsuKgAeB9YboDQ&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FGameomat%3Fsub_confirmation%3D1" itct="CAIQs-UBGP___________wEiEwi74N7PmO_fAhVLBeAKHYG6Ad0o-B0yAml2SPqNlKnX0fz9Gg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.48500" y="21.16900" w="31.02200" h="16.23900" t="14:10.608"/>
+      <rectRegion x="34.48500" y="21.16900" w="31.02200" h="16.23900" t="14:15.886"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Gameomat?annotation_id=annotation_3998994737&amp;ei=EoI9XLuPAsuKgAeB9YboDQ&amp;feature=iv&amp;src_vid=GvvyjXUlBvo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_989675103" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1959828937">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.14100" w="31.33900" h="31.07000" t="never"/>
+      <rectRegion x="0.00000" y="0.14100" w="31.33900" h="31.07000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1959828937" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

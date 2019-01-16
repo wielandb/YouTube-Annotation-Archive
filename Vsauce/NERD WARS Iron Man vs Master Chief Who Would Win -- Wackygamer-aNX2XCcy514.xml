@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIj-a47qvv3wIVjjHgCh1TiAUdKPgdMgJpdkjezsu5wsv96mg"><annotation author="vsauce" id="annotation_130970" itct="CAEQs-UBGP___________wEiEwiP5rjuq-_fAhWOMeAKHVOIBR0o-B0yAml2SN7Oy7nCy_3qaA" log_data="ei=PpY9XI_PKo7jgAfTkJboAQ&amp;a-v=aNX2XCcy514&amp;xble=1&amp;a-type=2&amp;a-id=annotation_130970" style="speech" type="text"><TEXT>"Like" this to support epic battles!!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="13.611000061" sx="5.93800020218" sy="100.0" t="0:00:05.0" w="23.125" x="4.21899986267" y="48.0559997559" /><anchoredRegion d="0" h="13.611000061" sx="5.93800020218" sy="100.0" t="0:00:10.4" w="23.125" x="4.21899986267" y="48.0559997559" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation>
+<annotation id="annotation_161111" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to Wackygamer for more of these guys!</TEXT>
+  <segment spaceRelative="annotation_241224">
+    <movingRegion type="rect">
+      <rectRegion x="9.84400" y="2.77800" w="24.21900" h="13.88900" t="never"/>
+      <rectRegion x="9.84400" y="2.77800" w="24.21900" h="13.88900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_241224" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_241224" type="highlight" log_data="ei=PpY9XI_PKo7jgAfTkJboAQ&amp;xble=1&amp;l-class=5&amp;a-id=annotation_241224&amp;a-v=aNX2XCcy514&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy" itct="CAIQs-UBGP___________wEiEwiP5rjuq-_fAhWOMeAKHVOIBR0o-B0yAml2SN7Oy7nCy_3qaA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="9.21900" h="19.72200" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="0.00000" w="9.21900" h="19.72200" t="0:03:20.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_241224&amp;ei=PpY9XI_PKo7jgAfTkJboAQ&amp;feature=iv&amp;src_vid=aNX2XCcy514" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_27669" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to Vsauce</TEXT>
+  <segment spaceRelative="annotation_658919">
+    <movingRegion type="rect">
+      <rectRegion x="-34.53100" y="0.27800" w="32.03100" h="5.83300" t="never"/>
+      <rectRegion x="-34.53100" y="0.27800" w="32.03100" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_658919" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_302174" type="text" style="popup" log_data="ei=PpY9XI_PKo7jgAfTkJboAQ&amp;a-v=aNX2XCcy514&amp;xble=1&amp;a-type=1&amp;a-id=annotation_302174" itct="CAMQs-UBGP___________wEiEwiP5rjuq-_fAhWOMeAKHVOIBR0o-B0yAml2SN7Oy7nCy_3qaA">
+  <TEXT>Who do you think would win?
+COMMENT IT!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.81300" y="0.00000" w="29.21900" h="11.11100" t="0:00:31.9"/>
+      <rectRegion x="57.81300" y="0.00000" w="29.21900" h="11.11100" t="0:00:40.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_658919" type="highlight" log_data="ei=PpY9XI_PKo7jgAfTkJboAQ&amp;xble=1&amp;l-class=5&amp;a-id=annotation_658919&amp;a-v=aNX2XCcy514&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce" itct="CAQQs-UBGP___________wEiEwiP5rjuq-_fAhWOMeAKHVOIBR0o-B0yAml2SN7Oy7nCy_3qaA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.62500" y="0.00000" w="4.37500" h="7.77800" t="0:00:00.0"/>
+      <rectRegion x="95.62500" y="0.00000" w="4.37500" h="7.77800" t="0:03:20.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_658919&amp;ei=PpY9XI_PKo7jgAfTkJboAQ&amp;feature=iv&amp;src_vid=aNX2XCcy514" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

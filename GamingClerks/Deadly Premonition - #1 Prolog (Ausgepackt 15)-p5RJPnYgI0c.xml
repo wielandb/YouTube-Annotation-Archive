@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsrydvdzu3wIVCsNVCh1YLA0gKPgdMgJpdkjHxoCx56eSyqcB">
+<annotation id="annotation_120000" type="highlight" log_data="a-v=p5RJPnYgI0c&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSAPpc4vT2Zs&amp;xble=1&amp;ei=AUM9XPK3BYqG1wLY2LSAAg&amp;l-class=1&amp;a-id=annotation_120000&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiyvJ293O7fAhUKw1UKHVgsDSAo-B0yAml2SMfGgLHnp5LKpwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.65600" y="2.77800" w="94.84400" h="93.88900" t="0:13:51.0"/>
+      <rectRegion x="2.65600" y="2.77800" w="94.84400" h="93.88900" t="0:14:27.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_120000&amp;ei=AUM9XPK3BYqG1wLY2LSAAg&amp;feature=iv&amp;src_vid=p5RJPnYgI0c&amp;v=SAPpc4vT2Zs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_612556" type="text" style="popup" log_data="xble=1&amp;a-v=p5RJPnYgI0c&amp;ei=AUM9XPK3BYqG1wLY2LSAAg&amp;a-id=annotation_612556&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwiyvJ293O7fAhUKw1UKHVgsDSAo-B0yAml2SMfGgLHnp5LKpwE">
+  <TEXT>BITTE BITTE schaut euch unbedingt das Ausgepackt mindestens bis Part 4 um den tollen Humor und die tollen Charaktere &amp; den Humor etwas kennenzulernen!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.93800" y="88.33300" w="76.87500" h="11.66700" t="0:00:00.0"/>
+      <rectRegion x="10.93800" y="88.33300" w="76.87500" h="11.66700" t="0:00:15.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="2.708" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_759115" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Klick mich um zum 2ten Part zu gelangen!</TEXT>
+  <segment spaceRelative="annotation_120000">
+    <movingRegion type="rect">
+      <rectRegion x="74.53100" y="81.94400" w="18.75000" h="14.44400" t="never"/>
+      <rectRegion x="74.53100" y="81.94400" w="18.75000" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="2.708" highlightFontColor="13369344"/>
+  <trigger>
+    <condition ref="annotation_120000" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

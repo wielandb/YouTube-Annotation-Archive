@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIytaPyJPv3wIVgmXgCh3pPAcwKPgdMgJpdkj8oriAgurW5DQ">
+<annotation id="annotation_1154115369" type="highlight" log_data="a-type=3&amp;ei=w3w9XIrpNYLLgQfp-ZyAAw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrbeYwh2CstQ&amp;a-id=annotation_1154115369&amp;xble=1&amp;a-v=NMlbUCAOEXw&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjK1o_Ik-_fAhWCZeAKHek8BzAo-B0yAml2SPyiuICC6tbkNA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="7.88700" w="42.59100" h="44.39400" t="9:30.704"/>
+      <rectRegion x="4.12000" y="7.88700" w="42.59100" h="44.39400" t="9:43.880"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1154115369&amp;ei=w3w9XIrpNYLLgQfp-ZyAAw&amp;feature=iv&amp;src_vid=NMlbUCAOEXw&amp;v=rbeYwh2CstQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1222499587" type="highlight" log_data="a-type=3&amp;ei=w3w9XIrpNYLLgQfp-ZyAAw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOqQk7kLuaK4&amp;a-id=annotation_1222499587&amp;xble=1&amp;a-v=NMlbUCAOEXw&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjK1o_Ik-_fAhWCZeAKHek8BzAo-B0yAml2SPyiuICC6tbkNA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.24900" y="7.88700" w="42.27400" h="43.83100" t="9:30.704"/>
+      <rectRegion x="53.24900" y="7.88700" w="42.27400" h="43.83100" t="9:43.880"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1222499587&amp;ei=w3w9XIrpNYLLgQfp-ZyAAw&amp;feature=iv&amp;src_vid=NMlbUCAOEXw&amp;v=OqQk7kLuaK4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3587188931" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>How YouTube Works</TEXT>
+  <segment spaceRelative="annotation_1222499587">
+    <movingRegion type="rect">
+      <rectRegion x="-0.15800" y="34.78900" w="42.43300" h="7.40800" t="never"/>
+      <rectRegion x="-0.15800" y="34.78900" w="42.43300" h="7.40800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1222499587" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4042143251" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>EXTRA BITS: More on the Mac at 30</TEXT>
+  <segment spaceRelative="annotation_1154115369">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="34.78900" w="42.59100" h="7.97200" t="never"/>
+      <rectRegion x="0.00000" y="34.78900" w="42.59100" h="7.97200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1154115369" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="a-type=10&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;ei=w3w9XIrpNYLLgQfp-ZyAAw&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;xble=0&amp;a-v=NMlbUCAOEXw&amp;l-class=3">
+  <data>{&quot;start_ms&quot;:5000,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbE44NU5paHBkTEVlOFpyQ2p1ZjZneXQwOWxwQXxBQ3Jtc0tseXRUWmdaWll3THBUSVhzQk5KbVB5VS1nZGpSSXJIOVBvbDQ1UXB6R1pBVnp0MDlNYmIzTGJiY2xCZUNFR3d6dVNma3ZZZUtTbmhROWtSYVI3dG5JS3JFNzU2Zm41NnY5d0xENG9pSmtPT3F2aHp0YnBiTlgzYmxCWXV5ZFBPS29aa0FkYUE1TlRaUUdzenUwWFZSWEJGalJVT3p6My04TXMyeDVldkpLLUZ1cEhDYmpvN2NwRkN4aTVxLTRrLXN6clpPTnczWUMyYTFUUFE4LVlXcU9PbDdTVnVFQi1Ya3Jra01MNzNWamJnZi1rMnZB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26hl%3Dde%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;subscribed&quot;:false},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;NMlbUCAOEXw&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;w3w9XIrpNYLLgQfp-ZyAAw&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMrWj8iT798CFYJl4Aod6TwHMCj4HTICaXZI_KK4gILq1uQ0&quot;},&quot;image_width&quot;:51,&quot;end_ms&quot;:584000,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_height&quot;:23,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

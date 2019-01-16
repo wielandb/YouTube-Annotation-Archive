@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIybn3ueru3wIV0BngCh0-WwZiKPgdMgJpdkj9ipeZo7qUyyM">
+<annotation id="annotation_1137609063" type="text" style="popup" log_data="a-v=I5ZR0jMlxX0&amp;a-type=1&amp;a-id=annotation_1137609063&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;ei=qFE9XMnFENCzgAe-tpmQBg" itct="CAEQs-UBGP___________wEiEwjJufe56u7fAhXQGeAKHT5bBmIo-B0yAml2SP2Kl5mjupTLIw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.39800" y="12.39400" w="18.10600" h="23.24700" t="4:06.800"/>
+      <rectRegion x="79.39800" y="12.39400" w="18.10600" h="23.24700" t="4:16.764"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_1137609063&amp;ei=qFE9XMnFENCzgAe-tpmQBg&amp;feature=iv&amp;src_vid=I5ZR0jMlxX0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1186066497" type="highlight" log_data="a-v=I5ZR0jMlxX0&amp;a-type=3&amp;a-id=annotation_1186066497&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=qFE9XMnFENCzgAe-tpmQBg" itct="CAIQs-UBGP___________wEiEwjJufe56u7fAhXQGeAKHT5bBmIo-B0yAml2SP2Kl5mjupTLIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="71.80300" w="22.94000" h="18.22900" t="4:06.800"/>
+      <rectRegion x="70.52300" y="71.80300" w="22.94000" h="18.22900" t="4:16.764"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2495537819" type="highlight" log_data="a-v=I5ZR0jMlxX0&amp;a-type=3&amp;a-id=annotation_2495537819&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-causes-economic-bubbles-prateek-singh&amp;ei=qFE9XMnFENCzgAe-tpmQBg" itct="CAMQs-UBGP___________wEiEwjJufe56u7fAhXQGeAKHT5bBmIo-B0yAml2SP2Kl5mjupTLIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="53.23900" w="70.00800" h="14.25700" t="4:06.800"/>
+      <rectRegion x="14.89700" y="53.23900" w="70.00800" h="14.25700" t="4:16.764"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-causes-economic-bubbles-prateek-singh" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2575510681" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1186066497">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.08500" w="22.78100" h="9.94400" t="never"/>
+      <rectRegion x="0.00000" y="19.08500" w="22.78100" h="9.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1186066497" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2888700155" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2495537819">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.80300" w="69.84900" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="13.80300" w="69.84900" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2495537819" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3738982659" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_405896681">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.63400" w="27.21900" h="9.09900" t="never"/>
+      <rectRegion x="0.00000" y="19.63400" w="27.21900" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_405896681" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_405896681" type="highlight" log_data="a-v=I5ZR0jMlxX0&amp;a-type=3&amp;a-id=annotation_405896681&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;ei=qFE9XMnFENCzgAe-tpmQBg" itct="CAQQs-UBGP___________wEiEwjJufe56u7fAhXQGeAKHT5bBmIo-B0yAml2SP2Kl5mjupTLIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="71.26800" w="27.21900" h="19.32700" t="4:06.800"/>
+      <rectRegion x="6.65600" y="71.26800" w="27.21900" h="19.32700" t="4:16.764"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4227419333" type="text" style="popup" log_data="a-v=I5ZR0jMlxX0&amp;a-type=1&amp;a-id=annotation_4227419333&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-causes-economic-bubbles-prateek-singh&amp;ei=qFE9XMnFENCzgAe-tpmQBg" itct="CAUQs-UBGP___________wEiEwjJufe56u7fAhXQGeAKHT5bBmIo-B0yAml2SP2Kl5mjupTLIw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.32800" y="7.88700" w="35.85700" h="9.16200" t="0:00.000"/>
+      <rectRegion x="3.32800" y="7.88700" w="35.85700" h="9.16200" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-causes-economic-bubbles-prateek-singh" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_828743837" type="highlight" log_data="a-v=I5ZR0jMlxX0&amp;a-type=3&amp;a-id=annotation_828743837&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;ei=qFE9XMnFENCzgAe-tpmQBg" itct="CAYQs-UBGP___________wEiEwjJufe56u7fAhXQGeAKHT5bBmIo-B0yAml2SP2Kl5mjupTLIw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="71.54900" w="32.29000" h="19.04600" t="4:06.800"/>
+      <rectRegion x="36.13300" y="71.54900" w="32.29000" h="19.04600" t="4:16.764"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_895322067" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_828743837">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="32.29000" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="32.29000" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_828743837" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=I5ZR0jMlxX0&amp;ei=qFE9XMnFENCzgAe-tpmQBg">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;I5ZR0jMlxX0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMm597nq7t8CFdAZ4AodPlsGYij4HTICaXZI_YqXmaO6lMsj&quot;,&quot;ei&quot;:&quot;qFE9XMnFENCzgAe-tpmQBg&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbnA5djJfdzVMb0FJMlYwNTdfRno3S09QTzB3QXxBQ3Jtc0tuY09jSEJSQXBOcXlGU2lXUEtqQ3N4cXdfUEI4alhwY3M1cFpPRWVJaG9QcnQwdUswYlN4Tmo1dUlpZ19KY1JwaVJzTHhvY3NzVWc2RnJHZ011TWdNT3RlVHpFYkxKQlNIajVXT2JJUXFQYUtjb3R6ZGtZMFlJQ19DS213SjEwS0YyRmk3MkJqZXpOX19mUTlzcUFISjVRV0k5Zk5jVUg4NExVYjlOSHUydnZHTjRjVFhOcDFUSU44RlZIMEFqaWpMZk5yaEZvZ19GVlVxcFphTjQ0NEdRMFVSTlhDX2RtMWFCaWdvQlBmc2lsbzBBVF84%26action_handle_signin%3Dtrue\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;end_ms&quot;:257000,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

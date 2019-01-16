@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhrGB9vru3wIVz2vgCh0omAhGKPgdMgJpdkjH77zY_JfXxXA">
+<annotation id="annotation_2164424433" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3827925471">
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="10.15500" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="6.65600" y="10.15500" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3827925471" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3827925471" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsdArEi1oNivTWMDqFNoM9g%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;a-v=cItcv8sPN8c&amp;a-type=3&amp;ei=7WI9XMaGDs_XgQeosKKwBA&amp;a-id=annotation_3827925471" itct="CAEQs-UBGP___________wEiEwiGsYH2-u7fAhXPa-AKHSiYCEYo-B0yAml2SMfvvNj8l9fFcA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.65300" y="69.56300" w="43.22500" h="20.46800" t="0:00.000"/>
+      <rectRegion x="48.65300" y="69.56300" w="43.22500" h="20.46800" t="0:09.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCsdArEi1oNivTWMDqFNoM9g?annotation_id=annotation_3827925471&amp;ei=7WI9XMaGDs_XgQeosKKwBA&amp;feature=iv&amp;src_vid=cItcv8sPN8c&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:31d81b56-17f9-4e5a-8c2b-4dbe3eacf32e" style="playlist" type="card" log_data="a-ch=UCsdArEi1oNivTWMDqFNoM9g&amp;a-id=31d81b56-17f9-4e5a-8c2b-4dbe3eacf32e&amp;a-type=63&amp;a-v=cItcv8sPN8c&amp;ei=7WI9XMaGDs_XgQeosKKwBA&amp;l-class=2&amp;link-id=PL6ijCbcHt0U9Eb4y16olaSdY4-yHK_Hh-&amp;xble=0">
+  <data>{&quot;start_ms&quot;:1,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;von Der Heider&quot;,&quot;113\u00a0Videos&quot;],&quot;title&quot;:&quot;GEHEIDERT&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=LmqWrJRDvvg\u0026list=PL6ijCbcHt0U9Eb4y16olaSdY4-yHK_Hh-&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAgQsJcBGP___________wEiEwiGsYH2-u7fAhXPa-AKHSiYCEYo-B0yBWNhcmRzSMfvvNj8l9fFcA&quot;,&quot;teaser&quot;:&quot;CAcQ0DYY____________ASITCIaxgfb67t8CFc9r4AodKJgIRij4HTIFY2FyZHNIx--82PyX18Vw&quot;,&quot;card&quot;:&quot;CAYQ1TYY____________ASITCIaxgfb67t8CFc9r4AodKJgIRij4HTIFY2FyZHNIx--82PyX18Vw&quot;},&quot;teaser_text&quot;:&quot;Empfohlen: GEHEIDERT&quot;,&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:1,&quot;playlist_video_count&quot;:&quot;113&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cItcv8sPN8c&quot;,&quot;annotation_id&quot;:&quot;31d81b56-17f9-4e5a-8c2b-4dbe3eacf32e&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAYQ1TYY____________ASITCIaxgfb67t8CFc9r4AodKJgIRij4HTIFY2FyZHNIx--82PyX18Vw&quot;,&quot;ei&quot;:&quot;7WI9XMaGDs_XgQeosKKwBA&quot;},&quot;timestamp&quot;:1449068922867,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/LmqWrJRDvvg\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=LmqWrJRDvvg&amp;list=PL6ijCbcHt0U9Eb4y16olaSdY4-yHK_Hh-"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAMQsZcBGP///////////wEiEwiGsYH2+u7fAhXPa+AKHSiYCEYo+B0yBWNhcmRzSMfvvNj8l9fFcA==&quot;, 
+  &quot;headerText&quot;: &quot;Von Der Heider&quot;, 
+  &quot;trackingParams&quot;: &quot;CAIQwjcY////////////ASITCIaxgfb67t8CFc9r4AodKJgIRij4HTIFY2FyZHNIx++82PyX18Vw&quot;, 
+  &quot;eventId&quot;: &quot;7WI9XMaGDs_XgQeosKKwBA&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAQQsJcBGP///////////wEiEwiGsYH2+u7fAhXPa+AKHSiYCEYo+B0yBWNhcmRzSMfvvNj8l9fFcA==&quot;
+}</data>
+</annotation>
+</annotations></document>

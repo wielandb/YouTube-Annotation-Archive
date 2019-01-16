@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1MHfgZHv3wIVhIPeCh34HQqeKPgdMgJpdkierJud1NOUqRk">
+<annotation id="annotation_1825683501" type="text" style="popup" log_data="a-id=annotation_1825683501&amp;ei=F3o9XJTaGYSH-gb4u6jwCQ&amp;xble=1&amp;a-v=GVJSnUOm1h4&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjUwd-Bke_fAhWEg94KHfgdCp4o-B0yAml2SJ6sm53U05SpGQ">
+  <TEXT>The text was so long it didn&#39;t display correctly. You can find Meester Tweester&#39;s full confessional in the description!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="72.23900" w="50.59400" h="27.76100" t="5:00.433"/>
+      <rectRegion x="0.00000" y="72.23900" w="50.59400" h="27.76100" t="5:04.785"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2358482003" type="highlight" log_data="a-id=annotation_2358482003&amp;xble=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGVJSnUOm1h4%23t%3D12m49s&amp;a-v=GVJSnUOm1h4&amp;ei=F3o9XJTaGYSH-gb4u6jwCQ&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjUwd-Bke_fAhWEg94KHfgdCp4o-B0yAml2SJ6sm53U05SpGQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.92400" y="36.90100" w="17.07600" h="54.81700" t="9:28.785"/>
+      <rectRegion x="82.92400" y="36.90100" w="17.07600" h="54.81700" t="12:50.090"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2358482003&amp;ei=F3o9XJTaGYSH-gb4u6jwCQ&amp;feature=iv&amp;src_vid=GVJSnUOm1h4&amp;v=GVJSnUOm1h4#t=12m49s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3198907833" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_394833545">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_394833545" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3719694587" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2358482003">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2358482003" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_394833545" type="highlight" log_data="a-id=annotation_394833545&amp;xble=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGVJSnUOm1h4%23t%3D6m34s&amp;a-v=GVJSnUOm1h4&amp;ei=F3o9XJTaGYSH-gb4u6jwCQ&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjUwd-Bke_fAhWEg94KHfgdCp4o-B0yAml2SJ6sm53U05SpGQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.91400" y="53.23900" w="66.18700" h="45.32600" t="1:16.864"/>
+      <rectRegion x="33.91400" y="53.23900" w="66.18700" h="45.32600" t="1:21.797"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_394833545&amp;ei=F3o9XJTaGYSH-gb4u6jwCQ&amp;feature=iv&amp;src_vid=GVJSnUOm1h4&amp;v=GVJSnUOm1h4#t=6m34s" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

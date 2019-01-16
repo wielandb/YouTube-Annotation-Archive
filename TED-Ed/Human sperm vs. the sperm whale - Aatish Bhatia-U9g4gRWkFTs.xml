@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyIuqs-vu3wIVR1jgCh1Iqg_bKPgdMgJpdki7qpCtkZCO7FM">
+<annotation id="annotation_1014542471" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2805215857">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2805215857" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1292410517" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-v=U9g4gRWkFTs&amp;a-type=1&amp;a-id=annotation_1292410517&amp;ei=plI9XMigNMewgQfI1L7YDQ" itct="CAEQs-UBGP___________wEiEwjIi6qz6-7fAhVHWOAKHUiqD9so-B0yAml2SLuqkK2RkI7sUw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="12.39400" w="16.83800" h="32.26800" t="4:08.000"/>
+      <rectRegion x="79.08100" y="12.39400" w="16.83800" h="32.26800" t="4:18.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_1292410517&amp;ei=plI9XMigNMewgQfI1L7YDQ&amp;feature=iv&amp;src_vid=U9g4gRWkFTs" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1413333389" type="highlight" log_data="l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-v=U9g4gRWkFTs&amp;a-type=3&amp;a-id=annotation_1413333389&amp;ei=plI9XMigNMewgQfI1L7YDQ" itct="CAIQs-UBGP___________wEiEwjIi6qz6-7fAhVHWOAKHUiqD9so-B0yAml2SLuqkK2RkI7sUw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="72.95800" w="31.81500" h="18.76400" t="4:08.000"/>
+      <rectRegion x="36.29200" y="72.95800" w="31.81500" h="18.76400" t="4:18.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2015389307" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1413333389">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1413333389" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2418308187" type="highlight" log_data="l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhuman-sperm-vs-the-sperm-whale-aatish-bhatia&amp;a-v=U9g4gRWkFTs&amp;a-type=3&amp;a-id=annotation_2418308187&amp;ei=plI9XMigNMewgQfI1L7YDQ" itct="CAMQs-UBGP___________wEiEwjIi6qz6-7fAhVHWOAKHUiqD9so-B0yAml2SLuqkK2RkI7sUw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.05500" y="54.36600" w="69.69100" h="13.97500" t="4:08.000"/>
+      <rectRegion x="15.05500" y="54.36600" w="69.69100" h="13.97500" t="4:18.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/human-sperm-vs-the-sperm-whale-aatish-bhatia" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2443349203" type="highlight" log_data="l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=U9g4gRWkFTs&amp;a-type=3&amp;a-id=annotation_2443349203&amp;ei=plI9XMigNMewgQfI1L7YDQ" itct="CAQQs-UBGP___________wEiEwjIi6qz6-7fAhVHWOAKHUiqD9so-B0yAml2SLuqkK2RkI7sUw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="73.23900" w="22.78100" h="18.20100" t="4:08.000"/>
+      <rectRegion x="70.52300" y="73.23900" w="22.78100" h="18.20100" t="4:17.339"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2805215857" type="highlight" log_data="l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-v=U9g4gRWkFTs&amp;a-type=3&amp;a-id=annotation_2805215857&amp;ei=plI9XMigNMewgQfI1L7YDQ" itct="CAUQs-UBGP___________wEiEwjIi6qz6-7fAhVHWOAKHUiqD9so-B0yAml2SLuqkK2RkI7sUw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="73.23900" w="27.21900" h="18.76400" t="4:08.000"/>
+      <rectRegion x="6.65600" y="73.23900" w="27.21900" h="18.76400" t="4:18.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3111679495" type="text" style="popup" log_data="l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhuman-sperm-vs-the-sperm-whale-aatish-bhatia&amp;a-v=U9g4gRWkFTs&amp;a-type=1&amp;a-id=annotation_3111679495&amp;ei=plI9XMigNMewgQfI1L7YDQ" itct="CAYQs-UBGP___________wEiEwjIi6qz6-7fAhVHWOAKHUiqD9so-B0yAml2SLuqkK2RkI7sUw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.26800" w="38.86800" h="8.03600" t="0:00.000"/>
+      <rectRegion x="0.00000" y="11.26800" w="38.86800" h="8.03600" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/human-sperm-vs-the-sperm-whale-aatish-bhatia" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_316821895" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2418308187">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2418308187" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_472484461" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2443349203">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2443349203" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-v=U9g4gRWkFTs&amp;xble=0&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=plI9XMigNMewgQfI1L7YDQ">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;end_ms&quot;:258000,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;U9g4gRWkFTs&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMiLqrPr7t8CFUdY4AodSKoP2yj4HTICaXZIu6qQrZGQjuxT&quot;,&quot;ei&quot;:&quot;plI9XMigNMewgQfI1L7YDQ&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqa0VBdVAxZUd2dW55R24xcWNoRy1fZ3RZZ0Jfd3xBQ3Jtc0ttUmpnN3ZVX1FIOFUyUE1ieWRrZ1FfcDJsU1A2U0VHbWJibGhDMTdMeHRHNXlRUWtXZzVzaUQwU3FCemZFZDVFT3FzVlhHUHN5X2JLUXA1VXpNS3Y2S3lNUUk0MHpEYmxuMC1qRHVfQVBVTDNxTHFRdlFzSFd1am85Vk1EZW9GeHFZa0dqQlNFQUF4MTNIQ2NDOXZnMVh4Y3h6ZzU2bEFleVJOVFd1UHFMSkE2eko1YWg0eVF0LVJab2pKWDRXUFNQZEUwTHV4Q3ZtZFhITExCbWFDYVhNTUpOajZnZk1fMWhmeEU3SGgyWVE5NW9sTGlN%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

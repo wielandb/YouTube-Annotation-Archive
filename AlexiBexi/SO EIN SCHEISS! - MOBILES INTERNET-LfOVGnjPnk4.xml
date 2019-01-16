@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgMTv9q3v3wIVCYFVCh0w2QvFKPgdMgJpdkjOvL7Gp6Pl-S0">
+<annotation id="annotation_156902" type="highlight" log_data="a-type=3&amp;a-id=annotation_156902&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDiLc-Snb1AU&amp;a-v=LfOVGnjPnk4&amp;ei=aZg9XMDrDomC1gKwsq-oDA" itct="CAEQs-UBGP___________wEiEwiAxO_2re_fAhUJgVUKHTDZC8Uo-B0yAml2SM68vsano-X5LQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.62500" y="70.55600" w="25.00000" h="27.77800" t="0:01:06.1"/>
+      <rectRegion x="70.62500" y="70.55600" w="25.00000" h="27.77800" t="0:01:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_156902&amp;ei=aZg9XMDrDomC1gKwsq-oDA&amp;feature=iv&amp;src_vid=LfOVGnjPnk4&amp;v=DiLc-Snb1AU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_202381" type="text" style="popup" log_data="ei=aZg9XMDrDomC1gKwsq-oDA&amp;a-id=annotation_202381&amp;a-type=1&amp;a-v=LfOVGnjPnk4&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiAxO_2re_fAhUJgVUKHTDZC8Uo-B0yAml2SM68vsano-X5LQ">
+  <TEXT>twitter.com/alextv</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.81300" y="91.38900" w="17.18800" h="7.77800" t="0:00:00.5"/>
+      <rectRegion x="82.81300" y="91.38900" w="17.18800" h="7.77800" t="0:01:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_208141" type="highlight" log_data="a-type=3&amp;a-id=annotation_208141&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXI7t9LTNjQw&amp;a-v=LfOVGnjPnk4&amp;ei=aZg9XMDrDomC1gKwsq-oDA" itct="CAMQs-UBGP___________wEiEwiAxO_2re_fAhUJgVUKHTDZC8Uo-B0yAml2SM68vsano-X5LQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.75000" y="1.38900" w="25.00000" h="27.77800" t="0:01:06.1"/>
+      <rectRegion x="3.75000" y="1.38900" w="25.00000" h="27.77800" t="0:01:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_208141&amp;ei=aZg9XMDrDomC1gKwsq-oDA&amp;feature=iv&amp;src_vid=LfOVGnjPnk4&amp;v=XI7t9LTNjQw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_424520" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>RADIOSENDER</TEXT>
+  <segment spaceRelative="annotation_156902">
+    <movingRegion type="rect">
+      <rectRegion x="4.37500" y="0.55600" w="17.34400" h="5.55600" t="never"/>
+      <rectRegion x="4.37500" y="0.55600" w="17.34400" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.30980833333333" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_156902" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_443827" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>AUTOKORREKTUR</TEXT>
+  <segment spaceRelative="annotation_670338">
+    <movingRegion type="rect">
+      <rectRegion x="2.18800" y="0.83300" w="21.56300" h="5.55600" t="never"/>
+      <rectRegion x="2.18800" y="0.83300" w="21.56300" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.30980833333333" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_670338" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_496490" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>ÖFFENTLICHE TOILETTEN</TEXT>
+  <segment spaceRelative="annotation_526709">
+    <movingRegion type="rect">
+      <rectRegion x="-0.93700" y="0.83300" w="26.71900" h="5.55600" t="never"/>
+      <rectRegion x="-0.93700" y="0.83300" w="26.71900" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.30980833333333" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_526709" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_526709" type="highlight" log_data="a-type=3&amp;a-id=annotation_526709&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBtoMiZMTk8E&amp;a-v=LfOVGnjPnk4&amp;ei=aZg9XMDrDomC1gKwsq-oDA" itct="CAQQs-UBGP___________wEiEwiAxO_2re_fAhUJgVUKHTDZC8Uo-B0yAml2SM68vsano-X5LQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.75000" y="69.72200" w="25.00000" h="27.77800" t="0:01:06.1"/>
+      <rectRegion x="3.75000" y="69.72200" w="25.00000" h="27.77800" t="0:01:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_526709&amp;ei=aZg9XMDrDomC1gKwsq-oDA&amp;feature=iv&amp;src_vid=LfOVGnjPnk4&amp;v=BtoMiZMTk8E" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_670338" type="highlight" log_data="a-type=3&amp;a-id=annotation_670338&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc8AlnPwaVlg&amp;a-v=LfOVGnjPnk4&amp;ei=aZg9XMDrDomC1gKwsq-oDA" itct="CAUQs-UBGP___________wEiEwiAxO_2re_fAhUJgVUKHTDZC8Uo-B0yAml2SM68vsano-X5LQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="69.16700" w="25.00000" h="27.77800" t="0:01:06.1"/>
+      <rectRegion x="37.50000" y="69.16700" w="25.00000" h="27.77800" t="0:01:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_670338&amp;ei=aZg9XMDrDomC1gKwsq-oDA&amp;feature=iv&amp;src_vid=LfOVGnjPnk4&amp;v=c8AlnPwaVlg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_821550" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>BENZINPREISE</TEXT>
+  <segment spaceRelative="annotation_208141">
+    <movingRegion type="rect">
+      <rectRegion x="3.90600" y="21.38900" w="18.75000" h="5.55600" t="never"/>
+      <rectRegion x="3.90600" y="21.38900" w="18.75000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.30980833333333" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_208141" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_925877" type="text" style="popup" log_data="ei=aZg9XMDrDomC1gKwsq-oDA&amp;a-id=annotation_925877&amp;a-type=1&amp;a-v=LfOVGnjPnk4&amp;xble=1" itct="CAYQs-UBGP___________wEiEwiAxO_2re_fAhUJgVUKHTDZC8Uo-B0yAml2SM68vsano-X5LQ">
+  <TEXT>facebook.de/alextvmedia</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.27800" w="23.75000" h="7.77800" t="0:00:00.5"/>
+      <rectRegion x="0.00000" y="90.27800" w="23.75000" h="7.77800" t="0:01:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+<annotation id="channel:53d76bbb-0000-2ecf-88c3-001a1140dcae" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=53d76bbb-0000-2ecf-88c3-001a1140dcae&amp;l-class=3&amp;xble=0&amp;a-v=LfOVGnjPnk4&amp;link-id=UCzH549YlZhdhIqhtvz7XHmQ&amp;ei=aZg9XMDrDomC1gKwsq-oDA&amp;a-ch=UCzH549YlZhdhIqhtvz7XHmQ">
+  <data>{&quot;num_subscribers&quot;:&quot;1338198&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/zH549YlZhdhIqhtvz7XHmQ\/featured_channel.jpg?v=53de02fb&quot;,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:80000,&quot;channel_name&quot;:&quot;AlexiBexi&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;unsubscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbkllZko1czVVRDlIWk5LM2xWeEZJdzBqNkw0d3xBQ3Jtc0ttUUlwbmhRT3I3QmJHVkxIWU9iSzc5a1JTUlpTaUZ3aWZHaVFETTFPNFZJckx6dUxKdVZ5QklmdTMzUW15SFpQenQ5Vktua240SFA0UWhVNXlIemQ4dHNySlpKbkl2WmMzY0hHVVg1WUxxV2FCRGRHc0RrSDRETDNMZjdYOHZ0Z2pGS2VnR2t4ZFVMWnZZNVRTZE8yUWNtQkw1ZDlOUHl2TWx1bjhFM2VqamIxNURGWVZ6U1VjRUVrU0dhRWd0LVRkcnhLRVpiTDJhV2JrV0xpUHlJUGQ3UUlaVHdsU1NFRFZWU25xTVRlY2VVaWJTUVNB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlexiBexi%26hl%3Dde&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false},&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCzH549YlZhdhIqhtvz7XHmQ&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;aZg9XMDrDomC1gKwsq-oDA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;LfOVGnjPnk4&quot;,&quot;annotation_id&quot;:&quot;53d76bbb-0000-2ecf-88c3-001a1140dcae&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCIDE7_at798CFQmBVQodMNkLxSj4HTICaXZIzry-xqej5fkt&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlexiBexi"/>
+  </action>
+</annotation></annotations></document>

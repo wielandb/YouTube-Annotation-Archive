@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIlrm--_7u3wIVmTXgCh3rbgYtKPgdMgJpdkjrs6HspMrB02k">
+<annotation id="annotation_523701" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;a-type=3&amp;l-class=3&amp;xble=1&amp;ei=Kmc9XJb8G5nrgAfr3ZnoAg&amp;a-id=annotation_523701&amp;a-v=aacGUk2IWes" itct="CAEQs-UBGP___________wEiEwiWub77_u7fAhWZNeAKHetuBi0o-B0yAml2SOuzoeykysHTaQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.78100" y="18.61100" w="48.28100" h="50.00000" t="0:02:13.9"/>
+      <rectRegion x="25.78100" y="18.61100" w="48.28100" h="50.00000" t="0:02:20.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_523701&amp;ei=Kmc9XJb8G5nrgAfr3ZnoAg&amp;feature=iv&amp;src_vid=aacGUk2IWes&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_945326" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ab zu mir nach Hause! :D</TEXT>
+  <segment spaceRelative="annotation_523701">
+    <movingRegion type="rect">
+      <rectRegion x="11.71900" y="42.22200" w="25.62500" h="5.55600" t="never"/>
+      <rectRegion x="11.71900" y="42.22200" w="25.62500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_523701" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

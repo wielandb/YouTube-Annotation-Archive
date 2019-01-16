@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8deXg__u3wIVnIFVCh3hyQvgKPgdMgJpdkim3O6rysfriPoB">
+<annotation id="annotation_354249" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;xble=1&amp;a-id=annotation_354249&amp;a-type=3&amp;l-class=3&amp;a-v=-hGuPKV7riY&amp;ei=Omc9XPHSJJyD1gLhk6-ADg" itct="CAEQs-UBGP___________wEiEwjx15eD_-7fAhWcgVUKHeHJC-Ao-B0yAml2SKbc7qvKx-uI-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.28100" y="45.27800" w="29.53100" h="30.83300" t="0:03:55.4"/>
+      <rectRegion x="48.28100" y="45.27800" w="29.53100" h="30.83300" t="0:04:03.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="3052840" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_354249&amp;ei=Omc9XPHSJJyD1gLhk6-ADg&amp;feature=iv&amp;src_vid=-hGuPKV7riY&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_390852" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;xble=1&amp;a-id=annotation_390852&amp;a-type=3&amp;l-class=3&amp;a-v=-hGuPKV7riY&amp;ei=Omc9XPHSJJyD1gLhk6-ADg" itct="CAIQs-UBGP___________wEiEwjx15eD_-7fAhWcgVUKHeHJC-Ao-B0yAml2SKbc7qvKx-uI-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="92.18800" y="0.00000" w="7.34400" h="99.72200" t="0:00:17.3"/>
+      <rectRegion x="92.18800" y="0.00000" w="7.34400" h="99.72200" t="0:00:27.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_390852&amp;ei=Omc9XPHSJJyD1gLhk6-ADg&amp;feature=iv&amp;src_vid=-hGuPKV7riY&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_568061" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ab zu mir nach Hause! ^___^</TEXT>
+  <segment spaceRelative="annotation_390852">
+    <movingRegion type="rect">
+      <rectRegion x="-16.56200" y="89.72200" w="15.62500" h="9.44400" t="never"/>
+      <rectRegion x="-16.56200" y="89.72200" w="15.62500" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="13369344"/>
+  <trigger>
+    <condition ref="annotation_390852" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_621555" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;xble=1&amp;a-id=annotation_621555&amp;a-type=3&amp;l-class=3&amp;a-v=-hGuPKV7riY&amp;ei=Omc9XPHSJJyD1gLhk6-ADg" itct="CAMQs-UBGP___________wEiEwjx15eD_-7fAhWcgVUKHeHJC-Ao-B0yAml2SKbc7qvKx-uI-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="91.87500" y="0.00000" w="7.81300" h="99.44400" t="0:01:02.8"/>
+      <rectRegion x="91.87500" y="0.00000" w="7.81300" h="99.44400" t="0:03:46.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_621555&amp;ei=Omc9XPHSJJyD1gLhk6-ADg&amp;feature=iv&amp;src_vid=-hGuPKV7riY&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_718541" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Neustes Video ansehen!</TEXT>
+  <segment spaceRelative="annotation_354249">
+    <movingRegion type="rect">
+      <rectRegion x="1.71900" y="1.94400" w="25.31300" h="5.27800" t="never"/>
+      <rectRegion x="1.71900" y="1.94400" w="25.31300" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="3052840"/>
+  <trigger>
+    <condition ref="annotation_354249" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="LeFloid" id="annotation_919316" itct="CAQQs-UBGP___________wEiEwjx15eD_-7fAhWcgVUKHeHJC-Ao-B0yAml2SKbc7qvKx-uI-gE" log_data="a-id=annotation_919316&amp;a-type=2&amp;a-v=-hGuPKV7riY&amp;xble=1&amp;ei=Omc9XPHSJJyD1gLhk6-ADg" style="speech" type="text"><TEXT>Ich kann auch HD</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="8.61100006104" sx="85.625" sy="100.0" t="0:00:00.9" w="21.4060001373" x="66.40599823" y="86.388999939" /><anchoredRegion d="0" h="8.61100006104" sx="85.625" sy="100.0" t="0:00:05.7" w="21.4060001373" x="66.40599823" y="86.388999939" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation>
+<annotation id="annotation_97508" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ab zu mir nach Hause ^___^</TEXT>
+  <segment spaceRelative="annotation_621555">
+    <movingRegion type="rect">
+      <rectRegion x="-16.56200" y="89.16700" w="15.00000" h="9.44400" t="never"/>
+      <rectRegion x="-16.56200" y="89.16700" w="15.00000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="13369344"/>
+  <trigger>
+    <condition ref="annotation_621555" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

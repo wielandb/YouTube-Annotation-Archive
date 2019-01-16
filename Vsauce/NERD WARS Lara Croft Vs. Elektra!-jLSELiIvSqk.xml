@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3Lef6avv3wIVQxvgCh0q3w8fKPgdMgJpdkiplb2R4oWh2owB">
+<annotation id="annotation_112814" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to Wackygamer!</TEXT>
+  <segment spaceRelative="annotation_150456">
+    <movingRegion type="rect">
+      <rectRegion x="8.43800" y="-0.27800" w="15.46900" h="13.61100" t="never"/>
+      <rectRegion x="8.43800" y="-0.27800" w="15.46900" h="13.61100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_150456" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_115986" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_115986&amp;a-v=jLSELiIvSqk&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE">
+  <TEXT>There&#39;s an audio cut here where Jeff mentioned that Jolie stole Brad Pitt from Jen Aniston.. hence the lady switch!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="74.68800" y="0.00000" w="25.31300" h="25.00000" t="0:02:49.5"/>
+      <rectRegion x="74.68800" y="0.00000" w="25.31300" h="25.00000" t="0:02:57.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_140543" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_140543&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D631u-hRSLYA&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE">
+  <TEXT>Newest nerd wars is online!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="81.25000" y="0.00000" w="18.75000" h="11.66700" t="0:00:40.1"/>
+      <rectRegion x="81.25000" y="0.00000" w="18.75000" h="11.66700" t="0:00:45.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_140543&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=631u-hRSLYA" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_150456" type="highlight" log_data="a-type=3&amp;a-id=annotation_150456&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.31300" y="0.27800" w="7.96900" h="18.88900" t="0:00:00.0"/>
+      <rectRegion x="0.31300" y="0.27800" w="7.96900" h="18.88900" t="0:03:42.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_150456&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_174049" type="highlight" log_data="a-type=3&amp;a-id=annotation_174049&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D36LkpMPgwcA&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.56300" y="73.33300" w="20.93800" h="20.00000" t="0:03:42.1"/>
+      <rectRegion x="41.56300" y="73.33300" w="20.93800" h="20.00000" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_174049&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=36LkpMPgwcA" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_186887" itct="CAUQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE" log_data="a-type=2&amp;a-id=annotation_186887&amp;a-v=jLSELiIvSqk&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;xble=1" style="speech" type="text"><TEXT>Thumbs up for girl-on-girl! :p</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="12.7779998779" sx="6.56300020218" sy="99.7220001221" t="0:00:11.2" w="17.1879997253" x="8.125" y="65.2779998779" /><anchoredRegion d="0" h="12.7779998779" sx="6.56300020218" sy="99.7220001221" t="0:00:15.8" w="17.1879997253" x="8.125" y="65.2779998779" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="3052840" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="50" highlightFontColor="3052840" highlightWidth="3" /></annotation>
+<annotation id="annotation_198456" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bioshock Infinite</TEXT>
+  <segment spaceRelative="annotation_521581">
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="8.05600" w="18.75000" h="5.55600" t="never"/>
+      <rectRegion x="1.40600" y="8.05600" w="18.75000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_521581" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_287962" type="highlight" log_data="a-type=3&amp;a-id=annotation_287962&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVGZM994KrkU&amp;xble=1" itct="CAYQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.71900" y="18.33300" w="21.71900" h="20.27800" t="0:03:42.1"/>
+      <rectRegion x="41.71900" y="18.33300" w="21.71900" h="20.27800" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_287962&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=VGZM994KrkU" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_320039" itct="CAcQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE" log_data="a-type=2&amp;a-id=annotation_320039&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;xble=1" style="speech" type="text"><TEXT>Our channel has content you can't find on vsauce!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="13.3330001831" sx="7.96899986267" sy="18.611000061" t="0:00:11.1" w="30.4689998627" x="10.9379997253" y="0.0" /><anchoredRegion d="0" h="13.3330001831" sx="7.96899986267" sy="18.611000061" t="0:00:16.1" w="30.4689998627" x="10.9379997253" y="0.0" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="5" trusted="true" type="hyperlink" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_320039&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk" /></action><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation><annotation author="vsauce" id="annotation_393679" itct="CAgQs-UBGP___________wEiEwjct5_pq-_fAhVDG-AKHSrfDx8o-B0yAml2SKmVvZHihaHajAE" log_data="a-type=2&amp;a-id=annotation_393679&amp;a-v=jLSELiIvSqk&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;xble=1" style="speech" type="text"><TEXT>Who do you think would win?  Got suggestions?  Leave a comment!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="17.7779998779" sx="47.03099823" sy="100.0" t="0:00:17.7" w="26.7189998627" x="43.75" y="61.9440002441" /><anchoredRegion d="0" h="17.7779998779" sx="47.03099823" sy="100.0" t="0:00:24.7" w="26.7189998627" x="43.75" y="61.9440002441" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation>
+<annotation id="annotation_43952" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Deadpool vs Boba Fett</TEXT>
+  <segment spaceRelative="annotation_678083">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="8.05600" w="19.53100" h="10.00000" t="never"/>
+      <rectRegion x="0.15600" y="8.05600" w="19.53100" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_678083" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_458589" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Harry Potter Standup</TEXT>
+  <segment spaceRelative="annotation_174049">
+    <movingRegion type="rect">
+      <rectRegion x="3.28100" y="6.38900" w="15.00000" h="10.00000" t="never"/>
+      <rectRegion x="3.28100" y="6.38900" w="15.00000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_174049" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_504764" type="highlight" log_data="a-type=3&amp;a-id=annotation_504764&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG0gQbQq0xlM&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.90600" y="45.55600" w="20.93800" h="20.27800" t="0:03:42.1"/>
+      <rectRegion x="73.90600" y="45.55600" w="20.93800" h="20.27800" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_504764&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=G0gQbQq0xlM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_521581" type="highlight" log_data="a-type=3&amp;a-id=annotation_521581&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnbUzIN7d7bw&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.25000" y="44.44400" w="22.18800" h="21.11100" t="0:03:42.1"/>
+      <rectRegion x="41.25000" y="44.44400" w="22.18800" h="21.11100" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_521581&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=nbUzIN7d7bw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_653672" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>WoW Standup Comedy</TEXT>
+  <segment spaceRelative="annotation_287962">
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="7.50000" w="18.75000" h="10.00000" t="never"/>
+      <rectRegion x="1.40600" y="7.50000" w="18.75000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_287962" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_678083" type="highlight" log_data="a-type=3&amp;a-id=annotation_678083&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DComW5VzKEvw&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="74.53100" y="73.61100" w="21.09400" h="21.38900" t="0:03:42.3"/>
+      <rectRegion x="74.53100" y="73.61100" w="21.09400" h="21.38900" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_678083&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=ComW5VzKEvw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_822462" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Altair vs Daredevil</TEXT>
+  <segment spaceRelative="annotation_504764">
+    <movingRegion type="rect">
+      <rectRegion x="1.25000" y="6.38900" w="18.75000" h="5.55600" t="never"/>
+      <rectRegion x="1.25000" y="6.38900" w="18.75000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_504764" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_906020" type="highlight" log_data="a-type=3&amp;a-id=annotation_906020&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0xJx-0YF5vs&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.75000" y="18.61100" w="21.25000" h="19.16700" t="0:03:42.1"/>
+      <rectRegion x="73.75000" y="18.61100" w="21.25000" h="19.16700" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_906020&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk&amp;v=0xJx-0YF5vs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_962211" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Thor vs Kratos</TEXT>
+  <segment spaceRelative="annotation_906020">
+    <movingRegion type="rect">
+      <rectRegion x="1.25000" y="7.22200" w="18.75000" h="5.55600" t="never"/>
+      <rectRegion x="1.25000" y="7.22200" w="18.75000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_906020" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="vsauce" id="annotation_991006" log_data="a-type=2&amp;a-id=annotation_991006&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;a-v=jLSELiIvSqk&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;xble=1" style="speech" type="text"><TEXT>Don't forget to subscribe</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="8.88899993896" sx="7.81300020218" sy="9.44400024414" t="0:00:06.0" w="30.625" x="11.875" y="0.0" /><anchoredRegion d="0" h="8.88899993896" sx="7.81300020218" sy="9.44400024414" t="0:00:11.0" w="30.625" x="11.875" y="0.0" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="5" trusted="true" type="hyperlink" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_991006&amp;ei=M5Y9XJzSMMO2gAeqvr_4AQ&amp;feature=iv&amp;src_vid=jLSELiIvSqk" /></action><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation></annotations></document>

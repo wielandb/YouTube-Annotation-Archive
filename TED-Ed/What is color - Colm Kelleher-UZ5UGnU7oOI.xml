@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI66rf6-3u3wIVxY1VCh0R4gpLKPgdMgJpdkjiwe6pp4OVz1E">
+<annotation id="annotation_11324" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;a-v=UZ5UGnU7oOI&amp;xble=1&amp;l-class=12&amp;a-id=annotation_11324&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" itct="CAEQs-UBGP___________wEiEwjrqt_r7e7fAhXFjVUKHRHiCkso-B0yAml2SOLB7qmng5XPUQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.40600" y="71.66700" w="31.71900" h="17.50000" t="0:03:03.2"/>
+      <rectRegion x="36.40600" y="71.66700" w="31.71900" h="17.50000" t="0:03:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_121708" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-v=UZ5UGnU7oOI&amp;xble=1&amp;l-class=5&amp;a-id=annotation_121708&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" itct="CAIQs-UBGP___________wEiEwjrqt_r7e7fAhXFjVUKHRHiCkso-B0yAml2SOLB7qmng5XPUQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.75000" y="11.66700" w="14.37500" h="30.55600" t="0:03:03.2"/>
+      <rectRegion x="78.75000" y="11.66700" w="14.37500" h="30.55600" t="0:03:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_121708&amp;ei=NlU9XOu3AsWb1gKRxKvYBA&amp;feature=iv&amp;src_vid=UZ5UGnU7oOI" link_class="5"/>
+  </action>
+
+</annotation><annotation author="" id="annotation_366302" log_data="a-v=UZ5UGnU7oOI&amp;a-type=0&amp;xble=1&amp;a-id=annotation_366302&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:03:07.0" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:03:07.0" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_425910" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=UZ5UGnU7oOI&amp;xble=1&amp;l-class=6&amp;a-id=annotation_425910&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" itct="CAMQs-UBGP___________wEiEwjrqt_r7e7fAhXFjVUKHRHiCkso-B0yAml2SOLB7qmng5XPUQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.78100" y="71.94400" w="21.56300" h="17.50000" t="3:03.200"/>
+      <rectRegion x="70.78100" y="71.94400" w="21.56300" h="17.50000" t="3:09.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_544318" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_11324">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.88900" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_11324" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_551437" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-do-we-see-color-colm-kelleher&amp;a-v=UZ5UGnU7oOI&amp;xble=1&amp;l-class=12&amp;a-id=annotation_551437&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" itct="CAQQs-UBGP___________wEiEwjrqt_r7e7fAhXFjVUKHRHiCkso-B0yAml2SOLB7qmng5XPUQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.15600" y="54.72200" w="68.90600" h="12.77800" t="0:03:03.2"/>
+      <rectRegion x="15.15600" y="54.72200" w="68.90600" h="12.77800" t="0:03:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-do-we-see-color-colm-kelleher" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_650069" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;a-v=UZ5UGnU7oOI&amp;xble=1&amp;l-class=12&amp;a-id=annotation_650069&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" itct="CAUQs-UBGP___________wEiEwjrqt_r7e7fAhXFjVUKHRHiCkso-B0yAml2SOLB7qmng5XPUQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.71900" y="71.38900" w="26.71900" h="18.61100" t="0:03:03.2"/>
+      <rectRegion x="6.71900" y="71.38900" w="26.71900" h="18.61100" t="0:03:09.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_710449" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_425910">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_425910" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_779867" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_551437">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_551437" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_80043" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-do-we-see-color-colm-kelleher&amp;a-v=UZ5UGnU7oOI&amp;xble=1&amp;l-class=12&amp;a-id=annotation_80043&amp;ei=NlU9XOu3AsWb1gKRxKvYBA" itct="CAYQs-UBGP___________wEiEwjrqt_r7e7fAhXFjVUKHRHiCkso-B0yAml2SOLB7qmng5XPUQ">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.27800" w="36.71900" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="10.27800" w="36.71900" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-do-we-see-color-colm-kelleher" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_900382" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_650069">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_650069" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=UZ5UGnU7oOI&amp;xble=0&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=NlU9XOu3AsWb1gKRxKvYBA">
+  <data>{&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dde%26continue_action%3DQUFFLUhqa1ZWbnhCQmlqUk9qZmo3Zi1kajZXcVVIa1NtUXxBQ3Jtc0tsRHVOY014WVQ0MXluT25Ta0E4MUNyUHVZMmd6cEg0dUFDd1RGME1EVk9HY2J6Z1dKSzdlbnJmeWV3bGZpZTFmY0NrN0E3aGgzaV9aTy1HVFdjRW5WRjhPRWE1ZDVER183Z0xRM3hDZjBmM1hrQUcxQV9WVkJ3YzR1dHMwYnptSlpBbU1Gd2JkdERId3BxaGR0X2NLSDZiZ2JDcGxJS241T2MxTGVJVEVNdEduVG9OWnc4TEdOcFRWeDJpNS11bXBUR1Y3cW5sQjVHMzhMZXpaVlBLUDBSQ3RKNnpjSmltLUZhZTQ5Nm91aFRiVG4xczFz%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop\u0026uilel=3\u0026passive=true&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;end_ms&quot;:190000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCOuq3-vt7t8CFcWNVQodEeIKSyj4HTICaXZI4sHuqaeDlc9R&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;NlU9XOu3AsWb1gKRxKvYBA&quot;,&quot;src_vid&quot;:&quot;UZ5UGnU7oOI&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

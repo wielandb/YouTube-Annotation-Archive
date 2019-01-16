@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIme70p-vu3wIVFfBVCh1rBQuEKPgdMgJpdkjSnO-2j7nX6j8">
+<annotation id="annotation_1096055235" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3746557411">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3746557411" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1119644405" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_602491505">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_602491505" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_179738921" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=3&amp;l-class=6&amp;a-v=P9VdyPbbzlI&amp;xble=1&amp;a-id=annotation_179738921" itct="CAEQs-UBGP___________wEiEwiZ7vSn6-7fAhUV8FUKHWsFC4Qo-B0yAml2SNKc77aPudfqPw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="73.23900" w="31.97300" h="19.60900" t="4:20.400"/>
+      <rectRegion x="36.29200" y="73.23900" w="31.97300" h="19.60900" t="4:30.436"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1851368937" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=3&amp;l-class=6&amp;a-v=P9VdyPbbzlI&amp;xble=1&amp;a-id=annotation_1851368937" itct="CAIQs-UBGP___________wEiEwiZ7vSn6-7fAhUV8FUKHWsFC4Qo-B0yAml2SNKc77aPudfqPw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="73.23900" w="22.78100" h="18.20100" t="4:20.400"/>
+      <rectRegion x="70.52300" y="73.23900" w="22.78100" h="18.20100" t="4:30.436"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2945516455" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_179738921">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_179738921" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3088031777" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=1&amp;l-class=5&amp;a-v=P9VdyPbbzlI&amp;xble=1&amp;a-id=annotation_3088031777" itct="CAMQs-UBGP___________wEiEwiZ7vSn6-7fAhUV8FUKHWsFC4Qo-B0yAml2SNKc77aPudfqPw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="12.67600" w="16.52900" h="31.42300" t="4:20.400"/>
+      <rectRegion x="79.08100" y="12.67600" w="16.52900" h="31.42300" t="4:30.437"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_3088031777&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;feature=iv&amp;src_vid=P9VdyPbbzlI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_31522955" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1851368937">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1851368937" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3746557411" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-fight-for-the-right-to-vote-in-the-united-states-nicki-beaman-griffin&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=3&amp;l-class=6&amp;a-v=P9VdyPbbzlI&amp;xble=1&amp;a-id=annotation_3746557411" itct="CAQQs-UBGP___________wEiEwiZ7vSn6-7fAhUV8FUKHWsFC4Qo-B0yAml2SNKc77aPudfqPw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.21400" y="54.36600" w="69.53200" h="14.53900" t="4:20.400"/>
+      <rectRegion x="15.21400" y="54.36600" w="69.53200" h="14.53900" t="4:30.436"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-fight-for-the-right-to-vote-in-the-united-states-nicki-beaman-griffin" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4041255729" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-fight-for-the-right-to-vote-in-the-united-states-nicki-beaman-griffin&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=1&amp;l-class=6&amp;a-v=P9VdyPbbzlI&amp;xble=1&amp;a-id=annotation_4041255729" itct="CAUQs-UBGP___________wEiEwiZ7vSn6-7fAhUV8FUKHWsFC4Qo-B0yAml2SNKc77aPudfqPw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="12.11300" w="35.85700" h="7.19000" t="0:00.000"/>
+      <rectRegion x="0.00000" y="12.11300" w="35.85700" h="7.19000" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-fight-for-the-right-to-vote-in-the-united-states-nicki-beaman-griffin" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_602491505" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=3&amp;l-class=6&amp;a-v=P9VdyPbbzlI&amp;xble=1&amp;a-id=annotation_602491505" itct="CAYQs-UBGP___________wEiEwiZ7vSn6-7fAhUV8FUKHWsFC4Qo-B0yAml2SNKc77aPudfqPw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="73.23900" w="26.90200" h="17.91900" t="4:20.400"/>
+      <rectRegion x="6.65600" y="73.23900" w="26.90200" h="17.91900" t="4:30.436"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="ei=jlI9XJnvN5Xg1wLriqygCA&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-v=P9VdyPbbzlI&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e">
+  <data>{&quot;end_ms&quot;:271000,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbWNNYXZaZ1NMdExxOEt2clNzV0dPRWY2THVrZ3xBQ3Jtc0ttQlc4WGV2cUxZdll6MGM0YnJnR0l2VGROenBkTFJKbjNPUVRnazlPclYwSzZreFFMaFdKTndLMm0tU2haVzB4X05ZT1EzSnA5NVFhMXNaQUw4a1VJNWRoazJYbGdybnBjSUlOWkE5MkdPOHdCQ1J1aXk4X3ZGSEw4b3dGOU5qSG41STdyMTVnRnhBaVpWZ3dHWkF1MV9mbW1iNUV0NFhUVk50ejEzRnBEbVh1OHFFUWItQnBXUjY3bVJSdU5iZTRaZmIyMGtIODlKMklJczdsUlhFbXBWMXRZVWdSakdOV1VyUkozd0QybHgzXzJWcEpF%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26action_handle_signin%3Dtrue%26feature%3Div\u0026passive=true&quot;},&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;jlI9XJnvN5Xg1wLriqygCA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJnu9Kfr7t8CFRXwVQodawULhCj4HTICaXZI0pzvto-51-o_&quot;,&quot;src_vid&quot;:&quot;P9VdyPbbzlI&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

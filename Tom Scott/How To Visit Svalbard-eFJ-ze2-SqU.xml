@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItczrv6nv3wIVGfFVCh2OFAxkKPgdMgJpdkillfnt3tmfqXg">
+<annotation id="annotation_597093651" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_978929317">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_978929317" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_978929317" type="highlight" log_data="a-type=3&amp;ei=xJM9XLXaBZni1wKOqbCgBg&amp;a-id=annotation_978929317&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;a-v=eFJ-ze2-SqU" itct="CAEQs-UBGP___________wEiEwi1zOu_qe_fAhUZ8VUKHY4UDGQo-B0yAml2SKWV-e3e2Z-peA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="82.07000" w="100.00000" h="17.93000" t="8:37.418"/>
+      <rectRegion x="0.00000" y="82.07000" w="100.00000" h="17.93000" t="8:47.254"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

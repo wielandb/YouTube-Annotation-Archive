@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwNzHiovv3wIV1Q_gCh1nhA5JKPgdMgJpdkjKipe2sJiIkEA">
+<annotation id="annotation_26882" type="highlight" log_data="a-id=annotation_26882&amp;xble=1&amp;ei=33M9XIDxEdWfgAfniLrIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtomzalat&amp;a-type=3&amp;a-v=QCAgwwbFxUo&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjA3MeKi-_fAhXVD-AKHWeEDkko-B0yAml2SMqKl7awmIiQQA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.68800" y="4.44400" w="27.96900" h="16.11100" t="00:02:03.6"/>
+      <rectRegion x="69.68800" y="4.44400" w="27.96900" h="16.11100" t="00:02:14.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=tomzalat&amp;annotation_id=annotation_26882&amp;ei=33M9XIDxEdWfgAfniLrIBA&amp;feature=iv&amp;src_vid=QCAgwwbFxUo" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_327263" type="highlight" log_data="a-id=annotation_327263&amp;xble=1&amp;ei=33M9XIDxEdWfgAfniLrIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU8PmTCAPmIA%26index%3D19%26list%3DPLDA308F5DD6606CFC&amp;a-type=3&amp;a-v=QCAgwwbFxUo&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjA3MeKi-_fAhXVD-AKHWeEDkko-B0yAml2SMqKl7awmIiQQA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.18800" y="32.50000" w="34.68800" h="37.22200" t="00:02:03.6"/>
+      <rectRegion x="32.18800" y="32.50000" w="34.68800" h="37.22200" t="00:02:14.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_327263&amp;ei=33M9XIDxEdWfgAfniLrIBA&amp;feature=iv&amp;index=19&amp;list=PLDA308F5DD6606CFC&amp;src_vid=QCAgwwbFxUo&amp;v=U8PmTCAPmIA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_393449" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Voll niedlich!</TEXT>
+  <segment spaceRelative="annotation_327263">
+    <movingRegion type="rect">
+      <rectRegion x="5.15600" y="48.05600" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="5.15600" y="48.05600" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_327263" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_396594" log_data="a-v=QCAgwwbFxUo&amp;a-type=0&amp;a-id=annotation_396594&amp;xble=1&amp;ei=33M9XIDxEdWfgAfniLrIBA" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="00:02:12.9" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="00:02:12.9" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:10.0" /></action></annotation>
+<annotation id="annotation_894185" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bitte! Danke!^^</TEXT>
+  <segment spaceRelative="annotation_26882">
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="19.44400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="1.40600" y="19.44400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_26882" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:cd06f572-2b50-2445-8691-bcaec511e134" style="branding" type="branding"
+            log_data="link-id=UCSTSJT-X8obSxoJ7ySioGXQ&amp;a-id=cd06f572-2b50-2445-8691-bcaec511e134&amp;xble=0&amp;ei=33M9XIDxEdWfgAfniLrIBA&amp;a-ch=UCSTSJT-X8obSxoJ7ySioGXQ&amp;a-type=10&amp;a-v=QCAgwwbFxUo&amp;l-class=3">
+  <data>{&quot;start_ms&quot;:18000,&quot;num_subscribers&quot;:&quot;28073&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;cd06f572-2b50-2445-8691-bcaec511e134&quot;,&quot;src_vid&quot;:&quot;QCAgwwbFxUo&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMDcx4qL798CFdUP4AodZ4QOSSj4HTICaXZIyoqXtrCYiJBA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;33M9XIDxEdWfgAfniLrIBA&quot;},&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTSJT-X8obSxoJ7ySioGXQ&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026uilel=3\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTomzalat%26continue_action%3DQUFFLUhqbFRJbHpHUzd2TU9SSGdiSHA4aFRrRm1VcnZJd3xBQ3Jtc0tsUjhKVTZyS3c5OWg4WUtwS2s0LWZrbjJMSjd4ZUZZdmp4M0lKb2syeC1WcHNYTXVIOG5welc4RkZTbVlGZjg4YnJzVFoyczNJQ2FLYXo0S1lTall3V09IMHU3VmJ5SmR0RHhzdFZLRG95b3VXSVRyLVBmZEJhX2Z5dW53ZGZQZExBVFVrNUgyOVozS1BYaHAwUG9RbmRWOXprci1BV3ZCRWlmbjlRdjdpbGhoaTB5dTlicjhlVUlzWUxaTDZhVnZDc1JzajlrUkZMcy1xeUllZkNNcDJaZmlvb2wzVlA0QU1wRlZQMkF3V09DRGstakdB%26hl%3Dde%26feature%3Div%26action_handle_signin%3Dtrue%26app%3Ddesktop&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;28.074&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;28.073&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STSJT-X8obSxoJ7ySioGXQ\/featured_channel.jpg?v=509e7bda&quot;,&quot;image_width&quot;:40,&quot;end_ms&quot;:135000,&quot;channel_name&quot;:&quot;LetsGameDev&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Tomzalat"/>
+  </action>
+</annotation></annotations></document>

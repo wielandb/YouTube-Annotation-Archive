@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5Lep4JPv3wIVxkjgCh3EMAxgKPgdMgJpdkj8tqndo82P7S4">
+<annotation id="annotation_256250" type="highlight" log_data="ei=9nw9XOTkJsaRgQfE4bCABg&amp;a-id=annotation_256250&amp;xble=1&amp;a-type=3&amp;a-v=Lto-ajuqW3w" itct="CAEQs-UBGP___________wEiEwjkt6ngk-_fAhXGSOAKHcQwDGAo-B0yAml2SPy2qd2jzY_tLg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.28100" y="8.33300" w="42.60200" h="43.18100" t="0:07:24.1"/>
+      <rectRegion x="53.28100" y="8.33300" w="42.60200" h="43.18100" t="0:07:38.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_376602" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Networking - COMING SOON!</TEXT>
+  <segment spaceRelative="annotation_256250">
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="34.44400" w="40.05500" h="8.79200" t="never"/>
+      <rectRegion x="1.40600" y="34.44400" w="40.05500" h="8.79200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_256250" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_480098" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Compression and Entropy</TEXT>
+  <segment spaceRelative="annotation_854394">
+    <movingRegion type="rect">
+      <rectRegion x="1.87500" y="34.44400" w="38.59400" h="9.06900" t="never"/>
+      <rectRegion x="1.87500" y="34.44400" w="38.59400" h="9.06900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_854394" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_818567" type="text" style="popup" log_data="l-class=1&amp;a-id=annotation_818567&amp;a-type=1&amp;a-v=Lto-ajuqW3w&amp;ei=9nw9XOTkJsaRgQfE4bCABg&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM5c_RFKVkko" itct="CAIQs-UBGP___________wEiEwjkt6ngk-_fAhXGSOAKHcQwDGAo-B0yAml2SPy2qd2jzY_tLg">
+  <TEXT>continued here....</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.68800" y="86.38900" w="40.31300" h="8.61100" t="0:07:16.1"/>
+      <rectRegion x="59.68800" y="86.38900" w="40.31300" h="8.61100" t="0:07:23.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_818567&amp;ei=9nw9XOTkJsaRgQfE4bCABg&amp;feature=iv&amp;src_vid=Lto-ajuqW3w&amp;v=M5c_RFKVkko" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_854394" type="highlight" log_data="l-class=1&amp;a-id=annotation_854394&amp;a-type=3&amp;a-v=Lto-ajuqW3w&amp;ei=9nw9XOTkJsaRgQfE4bCABg&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM5c_RFKVkko" itct="CAMQs-UBGP___________wEiEwjkt6ngk-_fAhXGSOAKHcQwDGAo-B0yAml2SPy2qd2jzY_tLg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.21900" y="8.05600" w="42.23400" h="43.95800" t="0:07:24.1"/>
+      <rectRegion x="4.21900" y="8.05600" w="42.23400" h="43.95800" t="0:07:38.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_854394&amp;ei=9nw9XOTkJsaRgQfE4bCABg&amp;feature=iv&amp;src_vid=Lto-ajuqW3w&amp;v=M5c_RFKVkko" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;l-class=3&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;a-type=10&amp;a-v=Lto-ajuqW3w&amp;ei=9nw9XOTkJsaRgQfE4bCABg&amp;xble=0">
+  <data>{&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_width&quot;:51,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26feature%3Div%26continue_action%3DQUFFLUhqbU1iM2RVUUJFMWlnd0IxVWRidmx5V0xnQUk1QXxBQ3Jtc0trYUJUV2F2QXE0TFhlUUFIMEhfaWd5WGxNdlptNEc1QlpXbGNPOGVzdzE5anNXUkZtd0JJUWpOS2FaNk8wTmJtX1kyNDBxejZqVGtxYTBnb1JuVkNLZ3BQSjlmeW42Z3huTmdoTE9tNFAxajB0LWRMOWw0bzBad01XdTFhcEZSd0QtMmcyeTJzSFZMaklGZ3duRkF3Y09adkZBUFhjcDZ6WVJSdE83cDVkWUlYZG9KQ3FEV2xFTDBWekV6ZTRlTmhfQVNCZnhlakRINHBaeVhyeVFRcW83aVdsUTdLZXJaWGlyLVJuTlpHWFg2bWFoOUpn%26action_handle_signin%3Dtrue%26hl%3Dde%26app%3Ddesktop\u0026passive=true&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;},&quot;image_height&quot;:23,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;end_ms&quot;:458000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCOS3qeCT798CFcZI4AodxDAMYCj4HTICaXZI_Lap3aPNj-0u&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;9nw9XOTkJsaRgQfE4bCABg&quot;,&quot;src_vid&quot;:&quot;Lto-ajuqW3w&quot;},&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8ae_56vv3wIVDJ1VCh3jDQjsKPgdMgJpdkizutu7p4-Kml4">
+<annotation id="annotation_301583" type="highlight" log_data="ei=MJY9XPHPB4y61gLjm6DgDg&amp;a-id=annotation_301583&amp;a-type=3&amp;a-v=XjQoend23TM&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce" itct="CAEQs-UBGP___________wEiEwjxp7_nq-_fAhUMnVUKHeMNCOwo-B0yAml2SLO627unj4qaXg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="7.77800" t="0:00:00.0"/>
+      <rectRegion x="96.87500" y="0.00000" w="3.12500" h="7.77800" t="0:03:09.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_301583&amp;ei=MJY9XPHPB4y61gLjm6DgDg&amp;feature=iv&amp;src_vid=XjQoend23TM" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_485961" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to Vsauce for MORE!</TEXT>
+  <segment spaceRelative="annotation_301583">
+    <movingRegion type="rect">
+      <rectRegion x="-19.84400" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="-19.84400" y="0.00000" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_301583" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_607012" type="text" style="popup" log_data="ei=MJY9XPHPB4y61gLjm6DgDg&amp;a-id=annotation_607012&amp;xble=1&amp;a-type=1&amp;a-v=XjQoend23TM" itct="CAIQs-UBGP___________wEiEwjxp7_nq-_fAhUMnVUKHeMNCOwo-B0yAml2SLO627unj4qaXg">
+  <TEXT>Props to Facebook fan Shinodax for this screen grab :)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.37500" y="54.16700" w="32.65600" h="11.11100" t="0:02:17.1"/>
+      <rectRegion x="34.37500" y="54.16700" w="32.65600" h="11.11100" t="0:02:20.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

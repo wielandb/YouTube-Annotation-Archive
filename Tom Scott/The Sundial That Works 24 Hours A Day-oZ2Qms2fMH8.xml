@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7pqZxKnv3wIV0gvgCh0snQCPKPgdMgJpdkj_4PzsrJPkzqEB">
+<annotation id="annotation_2390270281" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4232314069">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4232314069" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3429418923" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dd9Qnobvx_kM%26list%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem%26index%3D45&amp;a-type=1&amp;a-id=annotation_3429418923&amp;ei=zZM9XK6ADtKXgAesuoL4CA&amp;xble=1&amp;l-class=1&amp;a-v=oZ2Qms2fMH8" itct="CAEQs-UBGP___________wEiEwjumpnEqe_fAhXSC-AKHSydAI8o-B0yAml2SP_g_Oysk-TOoQE">
+  <TEXT>You may also like: The Equation of Time: Clocks vs Sundials</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.58800" y="9.57700" w="37.76500" h="16.21100" t="1:27.897"/>
+      <rectRegion x="59.58800" y="9.57700" w="37.76500" h="16.21100" t="1:44.396"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3429418923&amp;ei=zZM9XK6ADtKXgAesuoL4CA&amp;feature=iv&amp;index=45&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=oZ2Qms2fMH8&amp;v=d9Qnobvx_kM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4232314069" type="highlight" log_data="link=http%3A%2F%2Fwww.tomscott.com%2F&amp;a-type=3&amp;a-id=annotation_4232314069&amp;ei=zZM9XK6ADtKXgAesuoL4CA&amp;xble=1&amp;l-class=6&amp;a-v=oZ2Qms2fMH8" itct="CAIQs-UBGP___________wEiEwjumpnEqe_fAhXSC-AKHSydAI8o-B0yAml2SP_g_Oysk-TOoQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="85.45100" w="100.00000" h="14.54900" t="1:27.897"/>
+      <rectRegion x="0.00000" y="85.45100" w="100.00000" h="14.54900" t="1:44.396"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_832342171" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-type=1&amp;a-id=annotation_832342171&amp;ei=zZM9XK6ADtKXgAesuoL4CA&amp;xble=1&amp;l-class=5&amp;a-v=oZ2Qms2fMH8" itct="CAMQs-UBGP___________wEiEwjumpnEqe_fAhXSC-AKHSydAI8o-B0yAml2SP_g_Oysk-TOoQE">
+  <TEXT>Subscribe for more like this!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.42900" y="27.32400" w="37.76500" h="14.23900" t="1:27.897"/>
+      <rectRegion x="59.42900" y="27.32400" w="37.76500" h="14.23900" t="1:44.396"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_832342171&amp;ei=zZM9XK6ADtKXgAesuoL4CA&amp;feature=iv&amp;src_vid=oZ2Qms2fMH8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

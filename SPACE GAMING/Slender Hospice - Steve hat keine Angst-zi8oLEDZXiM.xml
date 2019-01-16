@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvuzArsnu3wIVyyjgCh06PQI_KPgdMgJpdkijvOWGxIXKl84B">
+<annotation id="annotation_100546" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ricks Rage - BF3 Alborz Mountains #3</TEXT>
+  <segment spaceRelative="annotation_469173">
+    <movingRegion type="rect">
+      <rectRegion x="10.00000" y="19.16700" w="25.00000" h="10.00000" t="never"/>
+      <rectRegion x="10.00000" y="19.16700" w="25.00000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_469173" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_469173" type="highlight" log_data="ei=9S49XP6dOcvRgAe6-oj4Aw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaXiQ0av-6rE%26index%3D1%26list%3DPLgkVYt8lgiE9h3mfv19WUXtH-_A4OWKZf&amp;a-id=annotation_469173&amp;a-v=zi8oLEDZXiM&amp;a-type=3&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwi-7MCuye7fAhXLKOAKHTo9Aj8o-B0yAml2SKO85YbEhcqXzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.81200" y="47.50000" w="42.50000" h="45.27800" t="0:06:12.0"/>
+      <rectRegion x="52.81200" y="47.50000" w="42.50000" h="45.27800" t="0:06:29.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_469173&amp;ei=9S49XP6dOcvRgAe6-oj4Aw&amp;feature=iv&amp;index=1&amp;list=PLgkVYt8lgiE9h3mfv19WUXtH-_A4OWKZf&amp;src_vid=zi8oLEDZXiM&amp;v=aXiQ0av-6rE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_542277" type="highlight" log_data="ei=9S49XP6dOcvRgAe6-oj4Aw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DL271XOnf9qE%26index%3D1%26list%3DPLgkVYt8lgiE-fXLpgBuybUvEy-mG-m40f&amp;a-id=annotation_542277&amp;a-v=zi8oLEDZXiM&amp;a-type=3&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwi-7MCuye7fAhXLKOAKHTo9Aj8o-B0yAml2SKO85YbEhcqXzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.84400" y="48.05600" w="42.18800" h="44.72200" t="0:06:12.0"/>
+      <rectRegion x="4.84400" y="48.05600" w="42.18800" h="44.72200" t="0:06:29.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_542277&amp;ei=9S49XP6dOcvRgAe6-oj4Aw&amp;feature=iv&amp;index=1&amp;list=PLgkVYt8lgiE-fXLpgBuybUvEy-mG-m40f&amp;src_vid=zi8oLEDZXiM&amp;v=L271XOnf9qE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_979725" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ricks Quest - Schlitten fahren in Mafia 2</TEXT>
+  <segment spaceRelative="annotation_542277">
+    <movingRegion type="rect">
+      <rectRegion x="8.43800" y="20.00000" w="25.00000" h="10.00000" t="never"/>
+      <rectRegion x="8.43800" y="20.00000" w="25.00000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_542277" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

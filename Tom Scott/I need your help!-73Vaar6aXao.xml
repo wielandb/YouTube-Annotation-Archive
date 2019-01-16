@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsP3K7Knv3wIVhQ7gCh3NtABvKPgdMgJpdkiqu-n0q83Wuu8B">
+<annotation id="annotation_1382042021" type="highlight" log_data="xble=1&amp;a-type=3&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;a-id=annotation_1382042021&amp;l-class=6&amp;link=http%3A%2F%2Fwww.tomscott.com%2Fcontact%2F&amp;a-v=73Vaar6aXao" itct="CAEQs-UBGP___________wEiEwiw_crsqe_fAhWFDuAKHc20AG8o-B0yAml2SKq76fSrzda67wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.24200" y="36.33800" w="62.75800" h="32.28200" t="1:36.830"/>
+      <rectRegion x="37.24200" y="36.33800" w="62.75800" h="32.28200" t="1:53.279"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/contact/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2576151045" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_679446639">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_679446639" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_357009179" type="highlight" log_data="xble=1&amp;a-type=3&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;a-id=annotation_357009179&amp;l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGIo2odDuuPeYtb7BtQ1kBhp&amp;a-v=73Vaar6aXao" itct="CAIQs-UBGP___________wEiEwiw_crsqe_fAhWFDuAKHc20AG8o-B0yAml2SKq76fSrzda67wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.34700" y="14.36600" w="44.80200" h="66.93000" t="1:20.381"/>
+      <rectRegion x="51.34700" y="14.36600" w="44.80200" h="66.93000" t="1:25.747"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_357009179&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;feature=iv&amp;list=PL96C35uN7xGIo2odDuuPeYtb7BtQ1kBhp&amp;src_vid=73Vaar6aXao" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3805944111" type="text" style="popup" log_data="a-type=1&amp;a-v=73Vaar6aXao&amp;xble=1&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;a-id=annotation_3805944111" itct="CAMQs-UBGP___________wEiEwiw_crsqe_fAhWFDuAKHc20AG8o-B0yAml2SKq76fSrzda67wE">
+  <TEXT>WAIT! I got way too many emails! You&#39;re all amazing and I wasn&#39;t expecting that. To save my sanity, instead of emailing about the quiz show, please click on the link in the description and fill in the Google form there.
+
+You need to be over 18, and able to get to central London on Friday afternoons!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.83800" y="26.47900" w="57.57500" h="49.73200" t="1:10.375"/>
+      <rectRegion x="41.83800" y="26.47900" w="57.57500" h="49.73200" t="1:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3924679677" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_357009179">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_357009179" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4137402883" type="text" style="popup" log_data="a-type=1&amp;a-v=73Vaar6aXao&amp;xble=1&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;a-id=annotation_4137402883" itct="CAQQs-UBGP___________wEiEwiw_crsqe_fAhWFDuAKHc20AG8o-B0yAml2SKq76fSrzda67wE">
+  <TEXT>I should be doing some more videos for Computerphile too!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.53500" w="64.38200" h="9.46500" t="1:31.475"/>
+      <rectRegion x="0.00000" y="90.53500" w="64.38200" h="9.46500" t="1:35.289"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_679446639" type="highlight" log_data="xble=1&amp;a-type=3&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;a-id=annotation_679446639&amp;l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;a-v=73Vaar6aXao" itct="CAUQs-UBGP___________wEiEwiw_crsqe_fAhWFDuAKHc20AG8o-B0yAml2SKq76fSrzda67wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="47.86100" y="17.46500" w="49.24700" h="49.18300" t="0:07.272"/>
+      <rectRegion x="47.86100" y="17.46500" w="49.24700" h="49.18300" t="0:12.935"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_679446639&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=73Vaar6aXao" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_793526621" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_880167747">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_880167747" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_802814755" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1382042021">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1382042021" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_880167747" type="highlight" log_data="xble=1&amp;a-type=3&amp;ei=IZQ9XPDoOIWdgAfN6YL4Bg&amp;a-id=annotation_880167747&amp;l-class=6&amp;link=http%3A%2F%2Fwww.tomscott.com%2Fcontact%2F&amp;a-v=73Vaar6aXao" itct="CAYQs-UBGP___________wEiEwiw_crsqe_fAhWFDuAKHc20AG8o-B0yAml2SKq76fSrzda67wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="39.46100" y="38.59200" w="59.86500" h="26.93300" t="0:36.080"/>
+      <rectRegion x="39.46100" y="38.59200" w="59.86500" h="26.93300" t="0:45.137"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/contact/" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

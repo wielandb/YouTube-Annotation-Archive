@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5vyL35fv3wIV1GHgCh0QtAw2KPgdMgJpdkiN2bOemMOjlNkB">
+<annotation id="annotation_151985" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Faffinitie&amp;a-type=3&amp;l-class=3&amp;xble=1&amp;ei=JYE9XKbWMNTDgQeQ6LKwAw&amp;a-id=annotation_151985&amp;a-v=2SiOGYPM7I0" itct="CAEQs-UBGP___________wEiEwjm_Ivfl-_fAhXUYeAKHRC0DDYo-B0yAml2SI3Zs56Yw6OU2QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.81300" y="27.77800" w="64.00800" h="63.88900" t="0:02:05.9"/>
+      <rectRegion x="17.81300" y="27.77800" w="64.00800" h="63.88900" t="0:02:14.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/affinitie?annotation_id=annotation_151985&amp;ei=JYE9XKbWMNTDgQeQ6LKwAw&amp;feature=iv&amp;src_vid=2SiOGYPM7I0" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_661062" type="text" style="popup" log_data="a-type=1&amp;a-v=2SiOGYPM7I0&amp;xble=1&amp;ei=JYE9XKbWMNTDgQeQ6LKwAw&amp;a-id=annotation_661062" itct="CAIQs-UBGP___________wEiEwjm_Ivfl-_fAhXUYeAKHRC0DDYo-B0yAml2SI3Zs56Yw6OU2QE">
+  <TEXT>100 Likes?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="88.88900" w="17.18800" h="11.11100" t="0:00:06.0"/>
+      <rectRegion x="0.00000" y="88.88900" w="17.18800" h="11.11100" t="0:00:46.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_991938" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_151985">
+    <movingRegion type="rect">
+      <rectRegion x="21.87500" y="68.05600" w="59.37500" h="4.16700" t="never"/>
+      <rectRegion x="21.87500" y="68.05600" w="59.37500" h="4.16700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_151985" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:52be840c-0-29ac-8925-1a11c2d77a" style="branding" type="branding"
+            log_data="a-ch=UCateXk5ghT-ylv77j2HYg1g&amp;a-type=10&amp;link-id=UCateXk5ghT-ylv77j2HYg1g&amp;l-class=3&amp;xble=0&amp;ei=JYE9XKbWMNTDgQeQ6LKwAw&amp;a-id=52be840c-0-29ac-8925-1a11c2d77a&amp;a-v=2SiOGYPM7I0">
+  <data>{&quot;is_mobile&quot;:false,&quot;image_width&quot;:53,&quot;channel_name&quot;:&quot;FunWithGuru&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbXlyTi1HZGhKeVdtXzd0MUZaRVp6WGs0MzJCd3xBQ3Jtc0tsekcwOF9RTUtJUWxIYkZrUWZqSmViZkVSN0hxdEhyMktHUldqcDMxTmd6OF9hVnl0OHJneWJvdTU1V1RZNnBLRGZUQXZnLXRyZnZKVTJFVGFnNGoyNmxPZVhvQmFZTXgzMk5HTkx2WmVoNjhESVZ3TjBMeWt4Z1htSjFYM3BBcXp3LVJhc2oxd3RBN1RDN1R3cjd0VXNVSVNPZ29TVkxUZjI2WXBibTl1RExOMmZWRFdoakZBblB6c2pMekJtQ2dRRmJxNXBxSU1qRHpJSWkxWV8xSHVLbjVHampYU1RFUW40U0o0amR1NUlWSzBmYTN3%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FFunWithGuru%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026hl=de\u0026passive=true&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;638.448&quot;,&quot;subscribeCount&quot;:&quot;638.447&quot;,&quot;classic&quot;:true},&quot;image_height&quot;:17,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;638447&quot;,&quot;start_ms&quot;:5000,&quot;channel_id&quot;:&quot;UCateXk5ghT-ylv77j2HYg1g&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCOb8i9-X798CFdRh4AodELQMNij4HTICaXZIjdmznpjDo5TZAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;JYE9XKbWMNTDgQeQ6LKwAw&quot;,&quot;annotation_id&quot;:&quot;52be840c-0-29ac-8925-1a11c2d77a&quot;,&quot;src_vid&quot;:&quot;2SiOGYPM7I0&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:15000,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/ateXk5ghT-ylv77j2HYg1g\/featured_channel.jpg?v=52d04812&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/FunWithGuru"/>
+  </action>
+</annotation></annotations></document>

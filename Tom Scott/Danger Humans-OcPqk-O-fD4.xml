@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyM3Gzqnv3wIVyK1VCh1geA06KPgdMgJpdki--PmdvtL64Tk">
+<annotation id="annotation_1013843061" type="text" style="popup" log_data="a-v=OcPqk-O-fD4&amp;l-class=5&amp;a-id=annotation_1013843061&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-type=1&amp;ei=4pM9XMjUOcjb1gLg8LXQAw" itct="CAEQs-UBGP___________wEiEwjIzcbOqe_fAhXIrVUKHWB4DToo-B0yAml2SL74-Z2-0vrhOQ">
+  <TEXT>Subscribe for more like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.60700" y="7.04200" w="87.36900" h="8.60600" t="4:09.305"/>
+      <rectRegion x="7.60700" y="7.04200" w="87.36900" h="8.60600" t="4:29.833"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1013843061&amp;ei=4pM9XMjUOcjb1gLg8LXQAw&amp;feature=iv&amp;src_vid=OcPqk-O-fD4&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1183439069" type="highlight" log_data="a-v=OcPqk-O-fD4&amp;l-class=6&amp;a-id=annotation_1183439069&amp;xble=1&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;a-type=3&amp;ei=4pM9XMjUOcjb1gLg8LXQAw" itct="CAIQs-UBGP___________wEiEwjIzcbOqe_fAhXIrVUKHWB4DToo-B0yAml2SL74-Z2-0vrhOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.91300" y="43.09900" w="54.31900" h="25.24300" t="4:09.305"/>
+      <rectRegion x="4.91300" y="43.09900" w="54.31900" h="25.24300" t="4:29.833"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2848157673" type="text" style="popup" log_data="a-v=OcPqk-O-fD4&amp;a-type=1&amp;a-id=annotation_2848157673&amp;xble=1&amp;ei=4pM9XMjUOcjb1gLg8LXQAw" itct="CAMQs-UBGP___________wEiEwjIzcbOqe_fAhXIrVUKHWB4DToo-B0yAml2SL74-Z2-0vrhOQ">
+  <TEXT>I know, I know, oxygen isn&#39;t flammable. The translator locked onto some dodgy documentation. That&#39;s my story and I&#39;m sticking to it.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.49800" y="90.98600" w="93.50200" h="6.64800" t="4:09.305"/>
+      <rectRegion x="6.49800" y="90.98600" w="93.50200" h="6.64800" t="4:29.833"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_4077917441" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1183439069">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1183439069" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_542982559" type="text" style="popup" log_data="a-v=OcPqk-O-fD4&amp;l-class=1&amp;a-id=annotation_542982559&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIFe9wiDfb0E&amp;a-type=1&amp;ei=4pM9XMjUOcjb1gLg8LXQAw" itct="CAQQs-UBGP___________wEiEwjIzcbOqe_fAhXIrVUKHWB4DToo-B0yAml2SL74-Z2-0vrhOQ">
+  <TEXT>You may also like &quot;Welcome to Life: the Singularity, ruined by lawyers&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.60700" y="18.59200" w="87.52800" h="8.32400" t="4:09.305"/>
+      <rectRegion x="7.60700" y="18.59200" w="87.52800" h="8.32400" t="4:29.833"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_542982559&amp;ei=4pM9XMjUOcjb1gLg8LXQAw&amp;feature=iv&amp;src_vid=OcPqk-O-fD4&amp;v=IFe9wiDfb0E" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

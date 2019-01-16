@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxcLikI7v3wIVXULgCh0PjQJUKPgdMgJpdkiElpvY3Nifr6MB">
+<annotation id="annotation_1130438307" type="highlight" log_data="l-class=1&amp;a-v=o15-xcsGywQ&amp;a-type=3&amp;a-id=annotation_1130438307&amp;ei=EXc9XIX2Jd2EgQePmoqgBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAwUxXMPyLqk&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjFwuKQju_fAhVdQuAKHQ-NAlQo-B0yAml2SISWm9jc2J-vowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.02400" y="61.69000" w="31.81500" h="28.90100" t="0:55.550"/>
+      <rectRegion x="35.02400" y="61.69000" w="31.81500" h="28.90100" t="1:00.712"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1130438307&amp;ei=EXc9XIX2Jd2EgQePmoqgBQ&amp;feature=iv&amp;src_vid=o15-xcsGywQ&amp;v=AwUxXMPyLqk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2522637849" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>NFS 2015</TEXT>
+  <segment spaceRelative="annotation_1130438307">
+    <movingRegion type="rect">
+      <rectRegion x="3.64500" y="-10.70400" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="3.64500" y="-10.70400" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1130438307" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

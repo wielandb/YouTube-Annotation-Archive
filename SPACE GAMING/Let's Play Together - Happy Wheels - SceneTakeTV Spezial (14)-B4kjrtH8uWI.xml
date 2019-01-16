@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjZ37q8nu3wIVx4B8Ch1QAQ6IKPgdMgJpdkji8vKP7fXIxAc">
+<annotation id="annotation_446089" type="text" style="popup" log_data="xble=1&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FSceneTakeTV&amp;a-v=B4kjrtH8uWI&amp;a-type=1&amp;a-id=annotation_446089&amp;ei=8C49XI3lJMeB8gPQgrjACA" itct="CAEQs-UBGP___________wEiEwiNnfurye7fAhXHgHwKHVABDogo-B0yAml2SOLy8o_t9cjEBw">
+  <TEXT>SceneTakeTV</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="91.11100" w="17.03100" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="91.11100" w="17.03100" h="8.88900" t="0:03:43.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/SceneTakeTV?annotation_id=annotation_446089&amp;ei=8C49XI3lJMeB8gPQgrjACA&amp;feature=iv&amp;src_vid=B4kjrtH8uWI" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_78588" type="text" style="popup" log_data="xble=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzFoll-H4Q0g&amp;a-v=B4kjrtH8uWI&amp;a-type=1&amp;a-id=annotation_78588&amp;ei=8C49XI3lJMeB8gPQgrjACA" itct="CAIQs-UBGP___________wEiEwiNnfurye7fAhXHgHwKHVABDogo-B0yAml2SOLy8o_t9cjEBw">
+  <TEXT>Nächster Teil</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="83.90600" y="91.11100" w="16.09400" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="83.90600" y="91.11100" w="16.09400" h="8.88900" t="0:03:43.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_78588&amp;ei=8C49XI3lJMeB8gPQgrjACA&amp;feature=iv&amp;src_vid=B4kjrtH8uWI&amp;v=zFoll-H4Q0g" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

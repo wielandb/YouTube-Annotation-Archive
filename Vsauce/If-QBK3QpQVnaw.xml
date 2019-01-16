@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkP_Mkqvv3wIVGpFVCh3CWQwXKPgdMgJpdkisu9agqeitiUA">
+<annotation id="annotation_466782" type="highlight" log_data="a-v=QBK3QpQVnaw&amp;ei=fpU9XJDIBZqi1gLCs7G4AQ&amp;l-class=1&amp;a-id=annotation_466782&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7vc-Uvp3vwg" itct="CAEQs-UBGP___________wEiEwiQ_8ySq-_fAhUakVUKHcJZDBco-B0yAml2SKy71qCp6K2JQA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.68800" y="4.16700" w="67.60600" h="73.95800" t="0:01:54.5"/>
+      <rectRegion x="24.68800" y="4.16700" w="67.60600" h="73.95800" t="0:01:57.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="10415454" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_466782&amp;ei=fpU9XJDIBZqi1gLCs7G4AQ&amp;feature=iv&amp;src_vid=QBK3QpQVnaw&amp;v=7vc-Uvp3vwg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_663197" type="text" style="popup" log_data="a-v=QBK3QpQVnaw&amp;ei=fpU9XJDIBZqi1gLCs7G4AQ&amp;l-class=3&amp;a-id=annotation_663197&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Feuronewsknowledge" itct="CAIQs-UBGP___________wEiEwiQ_8ySq-_fAhUakVUKHcJZDBco-B0yAml2SKy71qCp6K2JQA">
+  <TEXT>Check out Euronews Knowledge</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="74.21900" y="73.33300" w="25.74200" h="14.31900" t="0:00:06.5"/>
+      <rectRegion x="74.21900" y="73.33300" w="25.74200" h="14.31900" t="0:00:11.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6605272" fgColor="0" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/euronewsknowledge?annotation_id=annotation_663197&amp;ei=fpU9XJDIBZqi1gLCs7G4AQ&amp;feature=iv&amp;src_vid=QBK3QpQVnaw" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_71623" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_466782">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="31.87500" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="31.87500" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_466782" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_791266" type="text" style="popup" log_data="a-v=QBK3QpQVnaw&amp;ei=fpU9XJDIBZqi1gLCs7G4AQ&amp;l-class=1&amp;a-id=annotation_791266&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D52ZkOE1v4Fs%26list%3DPLs1F2vzc3UcnLMDiS-KqQomGhCQf6pgyJ" itct="CAMQs-UBGP___________wEiEwiQ_8ySq-_fAhUakVUKHcJZDBco-B0yAml2SKy71qCp6K2JQA">
+  <TEXT>Click here for Euronews Knowledge and more about the Vega rocket!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.46900" y="62.22200" w="30.00000" h="18.33300" t="0:13:17.6"/>
+      <rectRegion x="35.46900" y="62.22200" w="30.00000" h="18.33300" t="0:13:23.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_791266&amp;ei=fpU9XJDIBZqi1gLCs7G4AQ&amp;feature=iv&amp;list=PLs1F2vzc3UcnLMDiS-KqQomGhCQf6pgyJ&amp;src_vid=QBK3QpQVnaw&amp;v=52ZkOE1v4Fs" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

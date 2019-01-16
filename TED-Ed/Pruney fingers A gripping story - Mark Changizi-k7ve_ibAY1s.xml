@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7MXv1uzu3wIVRK1VCh07jQPlKPgdMgJpdkjbxoG24t_33ZMB">
+<annotation id="annotation_158938" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_85994">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_85994" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_313850" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_516153">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_516153" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_467412" type="text" style="popup" log_data="a-id=annotation_467412&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=1&amp;a-v=k7ve_ibAY1s&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fpruney-fingers-a-gripping-story-mark-changizi&amp;xble=1&amp;l-class=12" itct="CAEQs-UBGP___________wEiEwjsxe_W7O7fAhVErVUKHTuNA-Uo-B0yAml2SNvGgbbi3_fdkwE">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.00000" w="36.25000" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="10.00000" w="36.25000" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/pruney-fingers-a-gripping-story-mark-changizi" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_516153" type="highlight" log_data="a-id=annotation_516153&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=3&amp;a-v=k7ve_ibAY1s&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1&amp;l-class=12" itct="CAIQs-UBGP___________wEiEwjsxe_W7O7fAhVErVUKHTuNA-Uo-B0yAml2SNvGgbbi3_fdkwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.62500" y="71.38900" w="32.03100" h="19.16700" t="0:04:10.9"/>
+      <rectRegion x="35.62500" y="71.38900" w="32.03100" h="19.16700" t="0:04:20.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_686409" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_853092">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_853092" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_739617" type="highlight" log_data="a-id=annotation_739617&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=3&amp;a-v=k7ve_ibAY1s&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;l-class=6" itct="CAMQs-UBGP___________wEiEwjsxe_W7O7fAhVErVUKHTuNA-Uo-B0yAml2SNvGgbbi3_fdkwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.78100" y="70.83300" w="22.03100" h="19.72200" t="4:10.900"/>
+      <rectRegion x="70.78100" y="70.83300" w="22.03100" h="19.72200" t="4:20.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_769253" type="text" style="popup" log_data="a-id=annotation_769253&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=1&amp;a-v=k7ve_ibAY1s&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1&amp;l-class=5" itct="CAQQs-UBGP___________wEiEwjsxe_W7O7fAhVErVUKHTuNA-Uo-B0yAml2SNvGgbbi3_fdkwE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.75000" y="12.22200" w="14.37500" h="30.55600" t="0:04:10.9"/>
+      <rectRegion x="78.75000" y="12.22200" w="14.37500" h="30.55600" t="0:04:20.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_769253&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;feature=iv&amp;src_vid=k7ve_ibAY1s" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_853092" type="highlight" log_data="a-id=annotation_853092&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=3&amp;a-v=k7ve_ibAY1s&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1&amp;l-class=12" itct="CAUQs-UBGP___________wEiEwjsxe_W7O7fAhVErVUKHTuNA-Uo-B0yAml2SNvGgbbi3_fdkwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.25000" y="71.38900" w="26.71900" h="18.05600" t="0:04:10.9"/>
+      <rectRegion x="6.25000" y="71.38900" w="26.71900" h="18.05600" t="0:04:20.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_85994" type="highlight" log_data="a-id=annotation_85994&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=3&amp;a-v=k7ve_ibAY1s&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fpruney-fingers-a-gripping-story-mark-changizi&amp;xble=1&amp;l-class=12" itct="CAYQs-UBGP___________wEiEwjsxe_W7O7fAhVErVUKHTuNA-Uo-B0yAml2SNvGgbbi3_fdkwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.84400" y="53.88900" w="69.53100" h="14.16700" t="0:04:10.9"/>
+      <rectRegion x="14.84400" y="53.88900" w="69.53100" h="14.16700" t="0:04:20.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/pruney-fingers-a-gripping-story-mark-changizi" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_916651" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_739617">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.72200" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.72200" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_739617" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=_VM9XKzTMsTa1gK7mo6oDg&amp;a-type=10&amp;a-v=k7ve_ibAY1s&amp;xble=0&amp;l-class=3&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Dde%26app%3Ddesktop%26continue_action%3DQUFFLUhqbmxUdm9tQ1VlTWN5QmgtOTg1ZFdaZm9yNHVpUXxBQ3Jtc0traWdUTmlqRFdaNUZneVNkbDNuaGdUMkRjVDRaLTk5ZHJLLWstQXk2NzBnWG1xcW0wMVZaOU5pUmFhZDIyTjhfdVViNTZsZUVjQURwVWlKV1NnUjNXNlBhTzN2MjNIY3FudEdhcXlrWVlpV2p6YktLeHlUM0dDMlhGekJ0bmJxV09OcEVBSWNKN0IxcVI3WEc5dGNpV2R2UEN5SksxbWNBRGs3S2VMZ25oOGJxMHpDMlN2c2Rpc3BLcXJhSG9uNEhoVlBnRWNQRWZLS01aTnZtOU5KYXpzSnhVQlB5QTZXeUVkQkVVcTNpZTloSlFGVzBJ%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026hl=de\u0026uilel=3\u0026passive=true&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false},&quot;end_ms&quot;:261000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCOzF79bs7t8CFUStVQodO40D5Sj4HTICaXZI28aBtuLf992TAQ&quot;,&quot;ei&quot;:&quot;_VM9XKzTMsTa1gK7mo6oDg&quot;,&quot;src_vid&quot;:&quot;k7ve_ibAY1s&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;},&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

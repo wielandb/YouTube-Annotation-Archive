@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqN6Sgtnu3wIVzYJVCh1sIgodKPgdMgJpdkiHromFwYugxTA">
+<annotation id="annotation_286622" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_554634">
+    <movingRegion type="rect">
+      <rectRegion x="-2.96900" y="7.77800" w="62.81300" h="4.44400" t="never"/>
+      <rectRegion x="-2.96900" y="7.77800" w="62.81300" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_554634" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_476732" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_660918">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_660918" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_486514" type="text" style="popup" log_data="a-id=annotation_486514&amp;ei=Xz89XOiyNc2F1gLsxKjoAQ&amp;a-v=MIqAXBCiVwc&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwio3pKC2e7fAhXNglUKHWwiCh0o-B0yAml2SIeuiYXBi6DFMA">
+  <TEXT>Daumen hoch für den Fail! :D</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.03100" y="86.66700" w="39.21900" h="10.83300" t="0:00:00.0"/>
+      <rectRegion x="32.03100" y="86.66700" w="39.21900" h="10.83300" t="0:00:08.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_554634" type="highlight" log_data="a-type=3&amp;a-id=annotation_554634&amp;ei=Xz89XOiyNc2F1gLsxKjoAQ&amp;xble=1&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks&amp;a-v=MIqAXBCiVwc" itct="CAIQs-UBGP___________wEiEwio3pKC2e7fAhXNglUKHWwiCh0o-B0yAml2SIeuiYXBi6DFMA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="39.68800" y="87.77800" w="20.62500" h="12.22200" t="0:11:12.0"/>
+      <rectRegion x="39.68800" y="87.77800" w="20.62500" h="12.22200" t="0:12:10.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_554634&amp;ei=Xz89XOiyNc2F1gLsxKjoAQ&amp;feature=iv&amp;src_vid=MIqAXBCiVwc" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_660918" type="highlight" log_data="a-type=3&amp;a-id=annotation_660918&amp;ei=Xz89XOiyNc2F1gLsxKjoAQ&amp;xble=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIFmHvteHaSU%26index%3D2%26list%3DPLNlv0WYGRAB3kQXUcSgd7WRoj4hoxujJC&amp;a-v=MIqAXBCiVwc" itct="CAMQs-UBGP___________wEiEwio3pKC2e7fAhXNglUKHWwiCh0o-B0yAml2SIeuiYXBi6DFMA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.78100" y="47.77800" w="37.96900" h="50.27800" t="0:11:43.0"/>
+      <rectRegion x="60.78100" y="47.77800" w="37.96900" h="50.27800" t="0:11:48.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_660918&amp;ei=Xz89XOiyNc2F1gLsxKjoAQ&amp;feature=iv&amp;index=2&amp;list=PLNlv0WYGRAB3kQXUcSgd7WRoj4hoxujJC&amp;src_vid=MIqAXBCiVwc&amp;v=IFmHvteHaSU" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

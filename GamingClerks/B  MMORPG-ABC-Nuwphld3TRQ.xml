@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIu9-Fjtvu3wIVxaxVCh1i0gBvKPgdMgJpdkiUmt275bCK9jY">
+<annotation id="annotation_191714" type="highlight" log_data="a-v=Nuwphld3TRQ&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks&amp;a-id=annotation_191714&amp;ei=kUE9XPvSKsXZ1gLipIP4Bg&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwi734WO2-7fAhXFrFUKHWLSAG8o-B0yAml2SJSa3bvlsIr2Ng">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.96900" y="35.55600" w="44.74200" h="34.86100" t="0:05:54.7"/>
+      <rectRegion x="27.96900" y="35.55600" w="44.74200" h="34.86100" t="0:06:20.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_191714&amp;ei=kUE9XPvSKsXZ1gLipIP4Bg&amp;feature=iv&amp;src_vid=Nuwphld3TRQ" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_804675" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_191714">
+    <movingRegion type="rect">
+      <rectRegion x="68.90600" y="58.88900" w="3.12500" h="5.55600" t="never"/>
+      <rectRegion x="68.90600" y="58.88900" w="3.12500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_191714" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_854639" type="text" style="popup" log_data="a-v=Nuwphld3TRQ&amp;a-id=annotation_854639&amp;ei=kUE9XPvSKsXZ1gLipIP4Bg&amp;xble=1&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwi734WO2-7fAhXFrFUKHWLSAG8o-B0yAml2SJSa3bvlsIr2Ng">
+  <TEXT>ß</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.81300" y="39.44400" w="5.46900" h="12.50000" t="0:04:11.9"/>
+      <rectRegion x="17.81300" y="39.44400" w="5.46900" h="12.50000" t="0:04:16.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+</annotation></annotations></document>

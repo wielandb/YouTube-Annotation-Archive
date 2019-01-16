@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgsbcl6nv3wIVE4Z7Ch3rag0sKPgdMgJpdkj58L3QkIP58eQB">
+<annotation id="annotation_2266746733" type="highlight" log_data="a-v=5OPkGQoPeHk&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;xble=1&amp;ei=b5M9XMLSOpOM7gPr1bXgAg&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_2266746733" itct="CAEQs-UBGP___________wEiEwiCxtyXqe_fAhUThnsKHetqDSwo-B0yAml2SPnwvdCQg_nx5AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.29200" y="62.38000" w="32.19500" h="28.28500" t="10:37.086"/>
+      <rectRegion x="6.29200" y="62.38000" w="32.19500" h="28.28500" t="11:24.570"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2757544679" type="text" style="popup" log_data="a-v=5OPkGQoPeHk&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fstandupmaths%2Fvideos&amp;xble=1&amp;ei=b5M9XMLSOpOM7gPr1bXgAg&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_2757544679" itct="CAIQs-UBGP___________wEiEwiCxtyXqe_fAhUThnsKHetqDSwo-B0yAml2SPnwvdCQg_nx5AE">
+  <TEXT>Matt Parker also has a YouTube channel: StandUpMaths!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.31900" y="46.36600" w="30.00000" h="15.00200" t="10:47.424"/>
+      <rectRegion x="64.31900" y="46.36600" w="30.00000" h="15.00200" t="11:21.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/standupmaths/videos?annotation_id=annotation_2757544679&amp;ei=b5M9XMLSOpOM7gPr1bXgAg&amp;feature=iv&amp;src_vid=5OPkGQoPeHk" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3085703295" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3532515191">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3532515191" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3532515191" type="highlight" log_data="a-v=5OPkGQoPeHk&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=b5M9XMLSOpOM7gPr1bXgAg&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_3532515191" itct="CAMQs-UBGP___________wEiEwiCxtyXqe_fAhUThnsKHetqDSwo-B0yAml2SPnwvdCQg_nx5AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.71900" y="79.78900" w="54.92900" h="11.39800" t="10:37.086"/>
+      <rectRegion x="41.71900" y="79.78900" w="54.92900" h="11.39800" t="11:24.570"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_3532515191&amp;ei=b5M9XMLSOpOM7gPr1bXgAg&amp;feature=iv&amp;src_vid=5OPkGQoPeHk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3833490709" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2266746733">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2266746733" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:ee2db8a7-64e1-40e2-bfe5-af2fa3883978" style="simple" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=ee2db8a7-64e1-40e2-bfe5-af2fa3883978&amp;a-type=68&amp;a-v=5OPkGQoPeHk&amp;ei=b5M9XMLSOpOM7gPr1bXgAg&amp;l-class=6&amp;link=http%3A%2F%2Fwww.tomscott.com%2Fspeaking%2F&amp;xble=0">
+  <data>{&quot;end_ms&quot;:637150,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiCxtyXqe_fAhUThnsKHetqDSwo-B0yBWNhcmRzSPnwvdCQg_nx5AE&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCILG3Jep798CFROGewod62oNLCj4HTIFY2FyZHNI-fC90JCD-fHkAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCILG3Jep798CFROGewod62oNLCj4HTIFY2FyZHNI-fC90JCD-fHkAQ&quot;},&quot;teaser_text&quot;:&quot;Hire Tom to speak&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;display_domain&quot;:&quot;tomscott.com&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/H5Pc45SPGm5nUV45nM6s-Lylx8k5lFIwKbAralGNcQYohHHaIlczFXI8w3QUlwnASldw1ujIsmWnywiJsPg&quot;,&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Hire Tom to speak at your conference&quot;,&quot;show_link_icon&quot;:true,&quot;custom_message&quot;:&quot;Click here for Tom&#39;s site&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1459439013407,&quot;meta_info&quot;:[],&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fwww.tomscott.com%2Fspeaking%2F\u0026redir_token=nvN-kkVrIZ8S8Dq9PCFd3xZi7s58MTU0NzYyNTcxMkAxNTQ3NTM5MzEy\u0026event=infocard&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;b5M9XMLSOpOM7gPr1bXgAg&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCILG3Jep798CFROGewod62oNLCj4HTIFY2FyZHNI-fC90JCD-fHkAQ&quot;,&quot;annotation_id&quot;:&quot;ee2db8a7-64e1-40e2-bfe5-af2fa3883978&quot;,&quot;src_vid&quot;:&quot;5OPkGQoPeHk&quot;},&quot;start_ms&quot;:637150,&quot;pause_on_navigation&quot;:true,&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fwww.tomscott.com%2Fspeaking%2F&amp;redir_token=nvN-kkVrIZ8S8Dq9PCFd3xZi7s58MTU0NzYyNTcxMkAxNTQ3NTM5MzEy&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiCxtyXqe/fAhUThnsKHetqDSwo+B0yBWNhcmRzSPnwvdCQg/nx5AE=&quot;, 
+  &quot;eventId&quot;: &quot;b5M9XMLSOpOM7gPr1bXgAg&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiCxtyXqe/fAhUThnsKHetqDSwo+B0yBWNhcmRzSPnwvdCQg/nx5AE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCILG3Jep798CFROGewod62oNLCj4HTIFY2FyZHNI+fC90JCD+fHkAQ==&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;
+}</data>
+</annotation>
+</annotations></document>

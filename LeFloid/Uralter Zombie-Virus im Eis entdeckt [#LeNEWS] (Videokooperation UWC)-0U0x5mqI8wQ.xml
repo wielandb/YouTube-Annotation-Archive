@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5-GSt_3u3wIVmCLgCh315gVfKPgdMgJpdkiE5qPU5rzMptEB">
+<annotation id="annotation_1109716637" type="text" style="popup" log_data="l-class=5&amp;a-type=1&amp;a-id=annotation_1109716637&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FDoktorFroid%3Fsub_confirmation%3D1&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="CAEQs-UBGP___________wEiEwjn4ZK3_e7fAhWYIuAKHfXmBV8o-B0yAml2SITmo9TmvMym0QE">
+  <TEXT>Geek-Channel!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="44.23100" y="0.00000" w="17.93200" h="6.85900" t="0:00.000"/>
+      <rectRegion x="44.23100" y="0.00000" w="17.93200" h="6.85900" t="5:23.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.3098083333333332" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/DoktorFroid?annotation_id=annotation_1109716637&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;src_vid=0U0x5mqI8wQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1218915847" type="highlight" log_data="l-class=5&amp;a-type=3&amp;a-id=annotation_1218915847&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCidly38Zlq6tfx6voNAHQoA%3Fsub_confirmation%3D1&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="CAIQs-UBGP___________wEiEwjn4ZK3_e7fAhWYIuAKHfXmBV8o-B0yAml2SITmo9TmvMym0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.12800" y="35.49300" w="25.00000" h="27.77800" t="5:23.070"/>
+      <rectRegion x="69.12800" y="35.49300" w="25.00000" h="27.77800" t="6:05.296"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCidly38Zlq6tfx6voNAHQoA?annotation_id=annotation_1218915847&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;src_vid=0U0x5mqI8wQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1227161779" type="highlight" log_data="l-class=3&amp;a-type=3&amp;a-id=annotation_1227161779&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FFlipFloid&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="CAMQs-UBGP___________wEiEwjn4ZK3_e7fAhWYIuAKHfXmBV8o-B0yAml2SITmo9TmvMym0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.07300" y="68.31000" w="25.00000" h="27.77800" t="5:23.070"/>
+      <rectRegion x="69.07300" y="68.31000" w="25.00000" h="27.77800" t="6:05.296"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/FlipFloid?annotation_id=annotation_1227161779&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;src_vid=0U0x5mqI8wQ" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1421730875" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3521806087">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3521806087" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1532238989" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1218915847">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1218915847" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2085340875" type="highlight" log_data="l-class=5&amp;a-type=3&amp;a-id=annotation_2085340875&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FDoktorFroid%3Fsub_confirmation%3D1&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="CAQQs-UBGP___________wEiEwjn4ZK3_e7fAhWYIuAKHfXmBV8o-B0yAml2SITmo9TmvMym0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.32600" y="3.33800" w="25.00000" h="27.77800" t="5:23.070"/>
+      <rectRegion x="69.32600" y="3.33800" w="25.00000" h="27.77800" t="6:05.296"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/DoktorFroid?annotation_id=annotation_2085340875&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;src_vid=0U0x5mqI8wQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2771490107" type="text" style="popup" log_data="l-class=5&amp;a-type=1&amp;a-id=annotation_2771490107&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FLeFloid%3Fsub_confirmation%3D1&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="CAUQs-UBGP___________wEiEwjn4ZK3_e7fAhWYIuAKHfXmBV8o-B0yAml2SITmo9TmvMym0QE">
+  <TEXT>Abonnieren - sicher vorsorgen gegen Zombies!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="44.23900" h="6.88700" t="0:00.000"/>
+      <rectRegion x="0.00000" y="0.00000" w="44.23900" h="6.88700" t="5:23.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.3098083333333332" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/LeFloid?annotation_id=annotation_2771490107&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;src_vid=0U0x5mqI8wQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3081480947" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4071817197">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4071817197" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3252652341" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1227161779">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1227161779" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3521806087" type="highlight" log_data="l-class=5&amp;a-type=3&amp;a-id=annotation_3521806087&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FLeFloid%3Fsub_confirmation%3D1&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="CAYQs-UBGP___________wEiEwjn4ZK3_e7fAhWYIuAKHfXmBV8o-B0yAml2SITmo9TmvMym0QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.84000" y="4.19700" w="53.21700" h="53.32400" t="5:23.070"/>
+      <rectRegion x="5.84000" y="4.19700" w="53.21700" h="53.32400" t="6:05.296"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/LeFloid?annotation_id=annotation_3521806087&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;src_vid=0U0x5mqI8wQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4071817197" type="highlight" log_data="l-class=1&amp;a-type=3&amp;a-id=annotation_4071817197&amp;a-v=0U0x5mqI8wQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrIqfXRvuOU4%26list%3DUULm6s42r_wCbBX0QqXNCTwg&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.79600" y="58.35200" w="33.32000" h="9.67600" t="5:23.070"/>
+      <rectRegion x="13.79600" y="58.35200" w="33.32000" h="9.67600" t="6:05.296"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4071817197&amp;ei=jmU9XOfiKpjFgAf1zZf4BQ&amp;feature=iv&amp;list=UULm6s42r_wCbBX0QqXNCTwg&amp;src_vid=0U0x5mqI8wQ&amp;v=rIqfXRvuOU4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_751031685" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2085340875">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2085340875" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr_GomOru3wIV1YF7Ch3AjAXkKPgdMgJpdkjV_aD9-azd9b8B">
+<annotation id="annotation_1558679277" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;l-class=5&amp;a-v=v-t1Z5-oPtU&amp;a-type=1&amp;a-id=annotation_1558679277" itct="CAEQs-UBGP___________wEiEwiv8aiY6u7fAhXVgXsKHcCMBeQo-B0yAml2SNX9oP35rN31vwE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="80.03200" y="12.95800" w="17.31400" h="22.11300" t="4:32.100"/>
+      <rectRegion x="80.03200" y="12.95800" w="17.31400" h="22.11300" t="4:42.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_1558679277&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;feature=iv&amp;src_vid=v-t1Z5-oPtU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1588311041" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_667675529">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.80300" w="70.00800" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="13.80300" w="70.00800" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_667675529" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1999247603" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4002364871">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="32.44800" h="9.09900" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="32.44800" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4002364871" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3450652097" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;xble=1&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;l-class=6&amp;a-v=v-t1Z5-oPtU&amp;a-type=3&amp;a-id=annotation_3450652097" itct="CAIQs-UBGP___________wEiEwiv8aiY6u7fAhXVgXsKHcCMBeQo-B0yAml2SNX9oP35rN31vwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.49800" y="71.83100" w="27.53600" h="18.76400" t="4:32.100"/>
+      <rectRegion x="6.49800" y="71.83100" w="27.53600" h="18.76400" t="4:42.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3553332245" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3600394837">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="23.41500" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="23.41500" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3600394837" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3600394837" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;l-class=6&amp;a-v=v-t1Z5-oPtU&amp;a-type=3&amp;a-id=annotation_3600394837" itct="CAMQs-UBGP___________wEiEwiv8aiY6u7fAhXVgXsKHcCMBeQo-B0yAml2SNX9oP35rN31vwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.20600" y="71.54900" w="23.25700" h="18.76100" t="4:32.100"/>
+      <rectRegion x="70.20600" y="71.54900" w="23.25700" h="18.76100" t="4:42.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4002364871" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;xble=1&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;l-class=6&amp;a-v=v-t1Z5-oPtU&amp;a-type=3&amp;a-id=annotation_4002364871" itct="CAQQs-UBGP___________wEiEwiv8aiY6u7fAhXVgXsKHcCMBeQo-B0yAml2SNX9oP35rN31vwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.97500" y="71.54900" w="32.29000" h="19.32700" t="4:32.100"/>
+      <rectRegion x="35.97500" y="71.54900" w="32.29000" h="19.32700" t="4:42.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_458152917" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-stress-affects-your-body-sharon-horesh-bergquist&amp;xble=1&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;l-class=6&amp;a-v=v-t1Z5-oPtU&amp;a-type=1&amp;a-id=annotation_458152917" itct="CAUQs-UBGP___________wEiEwiv8aiY6u7fAhXVgXsKHcCMBeQo-B0yAml2SNX9oP35rN31vwE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.21900" y="8.16900" w="35.85600" h="8.31000" t="0:00.000"/>
+      <rectRegion x="2.21900" y="8.16900" w="35.85600" h="8.31000" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-stress-affects-your-body-sharon-horesh-bergquist" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_460883225" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3450652097">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.78900" w="27.53600" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="18.78900" w="27.53600" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3450652097" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_667675529" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-stress-affects-your-body-sharon-horesh-bergquist&amp;xble=1&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;l-class=6&amp;a-v=v-t1Z5-oPtU&amp;a-type=3&amp;a-id=annotation_667675529" itct="CAYQs-UBGP___________wEiEwiv8aiY6u7fAhXVgXsKHcCMBeQo-B0yAml2SNX9oP35rN31vwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.73900" y="53.52100" w="70.00800" h="13.97500" t="4:32.100"/>
+      <rectRegion x="14.73900" y="53.52100" w="70.00800" h="13.97500" t="4:42.168"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-stress-affects-your-body-sharon-horesh-bergquist" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=YVE9XO-8L9WD7gPAmZagDg&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-v=v-t1Z5-oPtU&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbXJQcHdWWGpSZ3I4d2lHVkNLZnFRdEtsOGVqd3xBQ3Jtc0trbDlDR0RUS1FoeFNKcGY3UDFuUHc5bjYtTzlyT1lLX3ozb1V5Unpxc2hUakx2SjJZM0tvV1pBZU1FRVpXVk41R25HT0dQQ0pYTFNNQkZkbUwzbi1SdXlBTG5ERUVWaDlVdll0OU9LaVR5QzVhcC1CejI1Xy1HZzhzRU9NX2JwNmZiZE5ZVDliekJ6aDdreWdraDlEQmVXOGNxcVI5NWJ2enZ5T3M0b3QzQ0VOSEQ5WGJMQUNFd0xoalVvQXB6ZURhSC1uTXRObkZwRDREdExmVWlyZ0hFa043UE9NVjBJVlFYMURHUE9mT3pYelNLX3kw%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde\u0026uilel=3\u0026service=youtube&quot;},&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;YVE9XO-8L9WD7gPAmZagDg&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCK_xqJjq7t8CFdWBewodwIwF5Cj4HTICaXZI1f2g_fms3fW_AQ&quot;,&quot;src_vid&quot;:&quot;v-t1Z5-oPtU&quot;},&quot;end_ms&quot;:283000,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;8355161&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

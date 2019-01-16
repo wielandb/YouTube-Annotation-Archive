@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIuKDQ-f7u3wIVSHLgCh02Ng03KPgdMgJpdkiZrZ-8jIGU6ZAB">
+<annotation id="annotation_239088" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;xble=1&amp;ei=Jmc9XLj1IcjkgQe27LS4Aw&amp;l-class=3&amp;a-v=kNJQCMeH1pk&amp;a-id=annotation_239088&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwi4oND5_u7fAhVIcuAKHTY2DTco-B0yAml2SJmtn7yMgZTpkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.71900" y="13.88900" w="66.56300" h="46.66700" t="0:01:24.6"/>
+      <rectRegion x="1.71900" y="13.88900" w="66.56300" h="46.66700" t="0:01:41.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_239088&amp;ei=Jmc9XLj1IcjkgQe27LS4Aw&amp;feature=iv&amp;src_vid=kNJQCMeH1pk&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_423652" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGjY-uwiKEt4&amp;xble=1&amp;ei=Jmc9XLj1IcjkgQe27LS4Aw&amp;l-class=1&amp;a-v=kNJQCMeH1pk&amp;a-id=annotation_423652&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwi4oND5_u7fAhVIcuAKHTY2DTco-B0yAml2SJmtn7yMgZTpkAE">
+  <TEXT>Hier klicken für das
+I HATE ALPHABET</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="68.33300" w="24.21900" h="11.11100" t="0:01:24.5"/>
+      <rectRegion x="0.00000" y="68.33300" w="24.21900" h="11.11100" t="0:01:41.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_423652&amp;ei=Jmc9XLj1IcjkgQe27LS4Aw&amp;feature=iv&amp;src_vid=kNJQCMeH1pk&amp;v=GjY-uwiKEt4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_494888" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Back2School ist 
+der Hammer! :D</TEXT>
+  <segment spaceRelative="annotation_618517">
+    <movingRegion type="rect">
+      <rectRegion x="1.09400" y="29.72200" w="19.37500" h="9.44400" t="never"/>
+      <rectRegion x="1.09400" y="29.72200" w="19.37500" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_618517" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_576246" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Zu meinem Kanal</TEXT>
+  <segment spaceRelative="annotation_239088">
+    <movingRegion type="rect">
+      <rectRegion x="27.50000" y="47.50000" w="27.81300" h="5.55600" t="never"/>
+      <rectRegion x="27.50000" y="47.50000" w="27.81300" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_239088" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_618517" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DBackToSchool182&amp;xble=1&amp;ei=Jmc9XLj1IcjkgQe27LS4Aw&amp;l-class=3&amp;a-v=kNJQCMeH1pk&amp;a-id=annotation_618517&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwi4oND5_u7fAhVIcuAKHTY2DTco-B0yAml2SJmtn7yMgZTpkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.62500" y="30.55600" w="23.75000" h="28.05600" t="0:01:24.6"/>
+      <rectRegion x="70.62500" y="30.55600" w="23.75000" h="28.05600" t="0:01:41.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_618517&amp;ei=Jmc9XLj1IcjkgQe27LS4Aw&amp;feature=iv&amp;src_vid=kNJQCMeH1pk&amp;user=BackToSchool182" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

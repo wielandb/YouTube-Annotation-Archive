@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8snQie7u3wIVxhHgCh1AhwIHKPgdMgJpdkinhfae0aOjgHQ">
+<annotation id="annotation_109177" type="highlight" log_data="l-class=12&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_109177&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fdiagnosing-a-zombie-tim-verstynen-brad-voytek&amp;a-v=dACNHRPdgqc" itct="CAEQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="52.22200" w="69.53100" h="15.83300" t="0:03:40.0"/>
+      <rectRegion x="15.00000" y="52.22200" w="69.53100" h="15.83300" t="0:03:46.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/diagnosing-a-zombie-tim-verstynen-brad-voytek" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_260851" type="highlight" log_data="l-class=12&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_260851&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;a-v=dACNHRPdgqc" itct="CAIQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.25000" y="70.55600" w="27.96900" h="20.00000" t="0:03:40.0"/>
+      <rectRegion x="6.25000" y="70.55600" w="27.96900" h="20.00000" t="0:03:46.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_301700" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_260851">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_260851" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_346085" type="highlight" log_data="l-class=12&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_346085&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;a-v=dACNHRPdgqc" itct="CAMQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.78100" y="70.55600" w="32.34400" h="18.88900" t="0:03:40.0"/>
+      <rectRegion x="35.78100" y="70.55600" w="32.34400" h="18.88900" t="0:03:46.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_519475" type="text" style="popup" log_data="l-class=12&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_519475&amp;a-type=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fdiagnosing-a-zombie-tim-verstynen-brad-voytek&amp;a-v=dACNHRPdgqc" itct="CAQQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.16700" w="38.12500" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.16700" w="38.12500" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/diagnosing-a-zombie-tim-verstynen-brad-voytek" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_555432" type="highlight" log_data="l-class=6&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_555432&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=dACNHRPdgqc" itct="CAUQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.15600" y="71.38900" w="23.75000" h="18.88900" t="3:40.000"/>
+      <rectRegion x="70.15600" y="71.38900" w="23.75000" h="18.88900" t="3:46.059"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_596085" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_346085">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="25.00000" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_346085" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_699016" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_699016&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-v=dACNHRPdgqc" itct="CAYQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.37500" y="11.94400" w="13.59400" h="31.94400" t="0:03:40.7"/>
+      <rectRegion x="79.37500" y="11.94400" w="13.59400" h="31.94400" t="0:03:46.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_699016&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;feature=iv&amp;src_vid=dACNHRPdgqc" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_722899" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_555432">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_555432" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_758176" type="text" style="popup" log_data="l-class=12&amp;xble=1&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_758176&amp;a-type=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fdiagnosing-a-zombie-brain-and-behavior-tim-verstynen-bradley-voytek&amp;a-v=dACNHRPdgqc" itct="CAcQs-UBGP___________wEiEwjyydCJ7u7fAhXGEeAKHUCHAgco-B0yAml2SKeF9p7Ro6OAdA">
+  <TEXT>Watch part two of Diagnosing Zombies</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.00000" y="12.22200" w="14.53100" h="31.38900" t="0:03:40.7"/>
+      <rectRegion x="5.00000" y="12.22200" w="14.53100" h="31.38900" t="0:03:46.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/diagnosing-a-zombie-brain-and-behavior-tim-verstynen-bradley-voytek" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_813511" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_109177">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_109177" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_889510" log_data="xble=1&amp;a-type=0&amp;a-v=dACNHRPdgqc&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;a-id=annotation_889510" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:03:44.6" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:03:44.6" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=dFU9XPK_K8ajgAfAjoo4&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=dACNHRPdgqc">
+  <data>{&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;image_type&quot;:0,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAgQ8zcY____________ASITCPLJ0Inu7t8CFcYR4AodQIcCByj4HTICaXZIp4X2ntGjo4B0&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;dFU9XPK_K8ajgAfAjoo4&quot;,&quot;src_vid&quot;:&quot;dACNHRPdgqc&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26hl%3Dde%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbmRLQ0JzSlFSdWk1bXBXLU8tS0JfcFY4VGg5UXxBQ3Jtc0tuTW5veXNNd21RR3VpZ2lnbU5UU0o1UXdEQjdGOThYMWNsVFg1Rldrcktld256SmhpajVhb000QWRKZG9RSUx1UmNQbGI0QXFjV2ZwWWVhXzd1c2R6TUMzSTVHbnpMckhlVTYxOENRblpnM0hicWZ2V0YzT0JscnBpbG9tMmI3bS00SU9vZllJdGE5b2pOX294NFRPSFJtdEJoakZqajVKZ1RPSnphbTUwVGxiVXp6LTgtbGR1NUhtbm9MOFM0NUtXUVVXcVJ4clJ5UU5CQ1Q0OXJEbmIxNElsWmVJakJTRlVaeHc2aFF2YXJEQTN4X0xN\u0026service=youtube\u0026uilel=3\u0026passive=true&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;end_ms&quot;:227000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

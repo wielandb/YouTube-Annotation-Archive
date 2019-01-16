@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIx5CTnavv3wIVGpFVCh0O9gfsKPgdMgJpdkjr4aLgm4enoBk">
+<annotation id="annotation_20330" type="highlight" log_data="a-v=GUCcObwIsOs&amp;ei=lJU9XMf2DJqi1gKO7J_gDg&amp;l-class=5&amp;a-id=annotation_20330&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce" itct="CAEQs-UBGP___________wEiEwjHkJOdq-_fAhUakVUKHQ72B-wo-B0yAml2SOvhouCbh6egGQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="63.61100" w="12.18800" h="12.50000" t="0:09:39.7"/>
+      <rectRegion x="15.00000" y="63.61100" w="12.18800" h="12.50000" t="0:09:53.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_20330&amp;ei=lJU9XMf2DJqi1gKO7J_gDg&amp;feature=iv&amp;src_vid=GUCcObwIsOs" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_343814" type="text" style="popup" log_data="xble=1&amp;a-v=GUCcObwIsOs&amp;ei=lJU9XMf2DJqi1gKO7J_gDg&amp;a-id=annotation_343814&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjHkJOdq-_fAhUakVUKHQ72B-wo-B0yAml2SOvhouCbh6egGQ">
+  <TEXT>*should be &quot;fondue&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.46900" y="29.44400" w="22.47700" h="9.11100" t="0:03:48.1"/>
+      <rectRegion x="65.46900" y="29.44400" w="22.47700" h="9.11100" t="0:03:53.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_984900" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK FOR KNOWLEDGE!</TEXT>
+  <segment spaceRelative="annotation_20330">
+    <movingRegion type="rect">
+      <rectRegion x="-7.65600" y="15.00000" w="31.09400" h="5.83300" t="never"/>
+      <rectRegion x="-7.65600" y="15.00000" w="31.09400" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_20330" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIpP3btanv3wIVmclVCh0WrAtyKPgdMgJpdkj5_bqCvaLQhdwB">
+<annotation id="annotation_1317154771" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2604190733">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2604190733" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1325087493" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>The Art of the Bodge: How I Made The Emoji Keyboard</TEXT>
+  <segment spaceRelative="annotation_3410705393">
+    <movingRegion type="rect">
+      <rectRegion x="2.69400" y="27.88700" w="34.81800" h="11.21500" t="never"/>
+      <rectRegion x="2.69400" y="27.88700" w="34.81800" h="11.21500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3410705393" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1791604557" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_287013421">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_287013421" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2604190733" type="highlight" log_data="a-id=annotation_2604190733&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;xble=1&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;l-class=6&amp;a-type=3&amp;a-v=3AtBE9BOvvk" itct="CAEQs-UBGP___________wEiEwik_du1qe_fAhWZyVUKHRasC3Io-B0yAml2SPn9uoK9otCF3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.69400" y="2.53500" w="75.55500" h="23.54900" t="1:59.059"/>
+      <rectRegion x="2.69400" y="2.53500" w="75.55500" h="23.54900" t="2:12.493"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_287013421" type="highlight" log_data="a-id=annotation_287013421&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Funnamedculprit&amp;xble=1&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;l-class=3&amp;a-type=3&amp;a-v=3AtBE9BOvvk" itct="CAIQs-UBGP___________wEiEwik_du1qe_fAhWZyVUKHRasC3Io-B0yAml2SPn9uoK9otCF3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="26.19700" w="76.50600" h="23.83100" t="1:59.059"/>
+      <rectRegion x="3.17000" y="26.19700" w="76.50600" h="23.83100" t="2:12.493"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/unnamedculprit?annotation_id=annotation_287013421&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;feature=iv&amp;src_vid=3AtBE9BOvvk" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3410705393" type="highlight" log_data="a-id=annotation_3410705393&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3AtBE9BOvvk&amp;xble=1&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;l-class=1&amp;a-type=3&amp;a-v=3AtBE9BOvvk" itct="CAMQs-UBGP___________wEiEwik_du1qe_fAhWZyVUKHRasC3Io-B0yAml2SPn9uoK9otCF3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="50.98600" w="40.05500" h="40.45100" t="1:59.059"/>
+      <rectRegion x="6.33900" y="50.98600" w="40.05500" h="40.45100" t="2:12.493"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3410705393&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;feature=iv&amp;src_vid=3AtBE9BOvvk&amp;v=3AtBE9BOvvk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_538752705" type="text" style="popup" log_data="a-id=annotation_538752705&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;l-class=5&amp;a-type=1&amp;a-v=3AtBE9BOvvk" itct="CAQQs-UBGP___________wEiEwik_du1qe_fAhWZyVUKHRasC3Io-B0yAml2SPn9uoK9otCF3AE">
+  <TEXT>Subscribe for more like this!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.52800" y="78.87300" w="35.54700" h="11.14300" t="1:59.059"/>
+      <rectRegion x="57.52800" y="78.87300" w="35.54700" h="11.14300" t="2:12.493"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_538752705&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;feature=iv&amp;src_vid=3AtBE9BOvvk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="video:9d1c4f12-ecee-42bc-bc83-9f28d2d6c4e9" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=9d1c4f12-ecee-42bc-bc83-9f28d2d6c4e9&amp;a-type=62&amp;a-v=3AtBE9BOvvk&amp;ei=rpM9XKTuNJmT1wKW2K6QBw&amp;l-class=1&amp;link-id=lIFE7h3m40U&amp;xble=0">
+  <data>{&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;The Art of the Bodge: How I Made The Emoji Keyboard&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: The Art of the Bodge: How I Made The Emoji Keyboard&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/lIFE7h3m40U\/mqdefault.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=lIFE7h3m40U&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:116229,&quot;video_duration&quot;:&quot;17:15&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;9d1c4f12-ecee-42bc-bc83-9f28d2d6c4e9&quot;,&quot;src_vid&quot;:&quot;3AtBE9BOvvk&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCKT927Wp798CFZnJVQodFqwLcij4HTIFY2FyZHNI-f26gr2i0IXcAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;rpM9XKTuNJmT1wKW2K6QBw&quot;},&quot;target&quot;:&quot;new&quot;,&quot;timestamp&quot;:1443258926188,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:116229,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;1.116.967 Aufrufe&quot;],&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCKT927Wp798CFZnJVQodFqwLcij4HTIFY2FyZHNI-f26gr2i0IXcAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwik_du1qe_fAhWZyVUKHRasC3Io-B0yBWNhcmRzSPn9uoK9otCF3AE&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCKT927Wp798CFZnJVQodFqwLcij4HTIFY2FyZHNI-f26gr2i0IXcAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=lIFE7h3m40U"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwik/du1qe/fAhWZyVUKHRasC3Io+B0yBWNhcmRzSPn9uoK9otCF3AE=&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwik/du1qe/fAhWZyVUKHRasC3Io+B0yBWNhcmRzSPn9uoK9otCF3AE=&quot;, 
+  &quot;eventId&quot;: &quot;rpM9XKTuNJmT1wKW2K6QBw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCKT927Wp798CFZnJVQodFqwLcij4HTIFY2FyZHNI+f26gr2i0IXcAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

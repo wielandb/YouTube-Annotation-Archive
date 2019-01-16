@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIopT0iuru3wIVGpFVCh2szgeeKPgdMgJpdkiQ-MaNmbiiprMB">
+<annotation id="annotation_1178338775" type="highlight" log_data="a-v=s0yJwZGxvBA&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ&amp;l-class=6&amp;a-id=annotation_1178338775&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator" itct="CAEQs-UBGP___________wEiEwiilPSK6u7fAhUakVUKHazOB54o-B0yAml2SJD4xo2ZuKKmswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.45000" y="72.11300" w="31.49800" h="18.48200" t="6:27.200"/>
+      <rectRegion x="36.45000" y="72.11300" w="31.49800" h="18.48200" t="6:37.245"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1403144925" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2081722623">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2081722623" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2081722623" type="highlight" log_data="a-v=s0yJwZGxvBA&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ&amp;l-class=12&amp;a-id=annotation_2081722623&amp;a-type=3&amp;xble=1&amp;link=https%3A%2F%2Fed.ted.com%2Flessons%2Fthe-surprising-and-invisible-signatures-of-sea-creatures-kakani-katija" itct="CAIQs-UBGP___________wEiEwiilPSK6u7fAhUakVUKHazOB54o-B0yAml2SJD4xo2ZuKKmswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="53.52100" w="69.69100" h="13.41200" t="6:27.200"/>
+      <rectRegion x="14.89700" y="53.52100" w="69.69100" h="13.41200" t="6:37.245"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://ed.ted.com/lessons/the-surprising-and-invisible-signatures-of-sea-creatures-kakani-katija" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3060872075" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1178338775">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1178338775" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3319948733" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_807253271">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_807253271" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3935251779" type="text" style="popup" log_data="a-v=s0yJwZGxvBA&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ&amp;l-class=5&amp;a-id=annotation_3935251779&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1" itct="CAMQs-UBGP___________wEiEwiilPSK6u7fAhUakVUKHazOB54o-B0yAml2SJD4xo2ZuKKmswE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.07300" y="12.11300" w="16.68800" h="31.14100" t="6:27.200"/>
+      <rectRegion x="79.07300" y="12.11300" w="16.68800" h="31.14100" t="6:37.246"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_3935251779&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ&amp;feature=iv&amp;src_vid=s0yJwZGxvBA&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3986270747" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_506858439">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_506858439" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_506858439" type="highlight" log_data="a-v=s0yJwZGxvBA&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ&amp;l-class=6&amp;a-id=annotation_506858439&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator" itct="CAQQs-UBGP___________wEiEwiilPSK6u7fAhUakVUKHazOB54o-B0yAml2SJD4xo2ZuKKmswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.81500" y="72.38000" w="26.74300" h="17.37000" t="6:27.200"/>
+      <rectRegion x="6.81500" y="72.38000" w="26.74300" h="17.37000" t="6:37.245"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_807253271" type="highlight" log_data="a-v=s0yJwZGxvBA&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ&amp;l-class=6&amp;a-id=annotation_807253271&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved" itct="CAUQs-UBGP___________wEiEwiilPSK6u7fAhUakVUKHazOB54o-B0yAml2SJD4xo2ZuKKmswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.68100" y="71.81700" w="22.14700" h="18.21500" t="6:27.200"/>
+      <rectRegion x="70.68100" y="71.81700" w="22.14700" h="18.21500" t="6:37.245"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=s0yJwZGxvBA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=RVE9XOLdJ5qi1gKsnZ_wCQ">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;RVE9XOLdJ5qi1gKsnZ_wCQ&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCKKU9Irq7t8CFRqRVQodrM4Hnij4HTICaXZIkPjGjZm4oqazAQ&quot;,&quot;src_vid&quot;:&quot;s0yJwZGxvBA&quot;},&quot;image_width&quot;:40,&quot;end_ms&quot;:398000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbnI1anpkTXRDbklrcE1pNl84RWtBdVQ2V2lOUXxBQ3Jtc0ttSzI3c2xwbWN5QnZUZGoza0pfbzk5U0ItSEkwanhLLXVnN3ZwZ1loZWVYN1VmWl9tSE9JRkR6Qmw5LUxKQVl5NlpESTJJNGl2RDFXT2RkT3NLUGZEcUh3YUYtTjZfNGd1WGZzOUlVRkNoREhBbTFWNnhUcS1LeG9RZEt4a2xRYW14RGNjQnpNclp3OVkwRjlfR1ZJbGJWRV9YZHh5UE1TMURaeldieExzdzNmU3lKeEhLWjJMN05DUDk5Z3h4QXQtRk5QdUpFd3hPb1FHQV9pNHJxY3l6a21WdlhkZU1vLTlTbC10TmMwWnExNWpSN2pv%26hl%3Dde\u0026passive=true\u0026hl=de&quot;},&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;TED-Ed&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

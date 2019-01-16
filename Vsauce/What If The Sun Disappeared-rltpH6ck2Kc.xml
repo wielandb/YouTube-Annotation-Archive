@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIleHxmqvv3wIVRjTgCh25zAzKKPgdMgJpdkinsZO5-qPara4B">
+<annotation id="annotation_174974" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_492075">
+    <movingRegion type="rect">
+      <rectRegion x="-2.34400" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+      <rectRegion x="-2.34400" y="29.72200" w="28.43800" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_492075" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_317159" type="highlight" log_data="a-id=annotation_317159&amp;l-class=12&amp;xble=1&amp;ei=j5U9XNXdHMbogAe5mbPQDA&amp;a-type=3&amp;a-v=rltpH6ck2Kc&amp;link=http%3A%2F%2Fwww.twitter.com%2Ftweetsauce" itct="CAEQs-UBGP___________wEiEwiV4fGaq-_fAhVGNOAKHbnMDMoo-B0yAml2SKexk7n6o9qtrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.50000" y="73.33300" w="31.70300" h="13.72200" t="0:11:27.1"/>
+      <rectRegion x="7.50000" y="73.33300" w="31.70300" h="13.72200" t="0:11:43.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.twitter.com/tweetsauce" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_33946" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_317159">
+    <movingRegion type="rect">
+      <rectRegion x="-7.50000" y="22.50000" w="97.81300" h="4.16700" t="never"/>
+      <rectRegion x="-7.50000" y="22.50000" w="97.81300" h="4.16700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_317159" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_492075" type="highlight" log_data="a-id=annotation_492075&amp;l-class=12&amp;xble=1&amp;ei=j5U9XNXdHMbogAe5mbPQDA&amp;a-type=3&amp;a-v=rltpH6ck2Kc&amp;link=http%3A%2F%2Fbit.ly%2FXkxwmu" itct="CAIQs-UBGP___________wEiEwiV4fGaq-_fAhVGNOAKHbnMDMoo-B0yAml2SKexk7n6o9qtrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.90600" y="7.77800" w="14.10200" h="25.30600" t="0:11:27.1"/>
+      <rectRegion x="73.90600" y="7.77800" w="14.10200" h="25.30600" t="0:11:43.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://bit.ly/Xkxwmu" link_class="12"/>
+  </action>
+
+</annotation>
+</annotations></document>

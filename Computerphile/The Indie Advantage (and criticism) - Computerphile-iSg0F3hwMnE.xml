@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-5Gd35Pv3wIV2EvgCh14yQogKPgdMgJpdkjx5MDD94KNlIkB">
+<annotation id="annotation_1258862029" type="highlight" log_data="ei=9Hw9XPvHFNiXgQf4kquAAg&amp;a-id=annotation_1258862029&amp;xble=1&amp;a-type=3&amp;a-v=iSg0F3hwMnE" itct="CAEQs-UBGP___________wEiEwj7kZ3fk-_fAhXYS-AKHXjJCiAo-B0yAml2SPHkwMP3go2UiQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.14300" y="41.97200" w="37.67800" h="38.76100" t="7:30.519"/>
+      <rectRegion x="10.14300" y="41.97200" w="37.67800" h="38.76100" t="7:49.251"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_1789847663" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLzH6n4zXucko143CdpqH5AW6St02cxOjT&amp;a-v=iSg0F3hwMnE&amp;l-class=2&amp;xble=1&amp;a-id=annotation_1789847663&amp;ei=9Hw9XPvHFNiXgQf4kquAAg" itct="CAIQs-UBGP___________wEiEwj7kZ3fk-_fAhXYS-AKHXjJCiAo-B0yAml2SPHkwMP3go2UiQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.82600" y="0.84500" w="38.31200" h="39.32400" t="7:30.519"/>
+      <rectRegion x="9.82600" y="0.84500" w="38.31200" h="39.32400" t="7:49.251"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1789847663&amp;ei=9Hw9XPvHFNiXgQf4kquAAg&amp;feature=iv&amp;list=PLzH6n4zXucko143CdpqH5AW6St02cxOjT&amp;src_vid=iSg0F3hwMnE" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1890107657" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1789847663">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1789847663" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2150693175" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7AF8CV1zDrc&amp;a-v=iSg0F3hwMnE&amp;l-class=1&amp;xble=1&amp;a-id=annotation_2150693175&amp;ei=9Hw9XPvHFNiXgQf4kquAAg" itct="CAMQs-UBGP___________wEiEwj7kZ3fk-_fAhXYS-AKHXjJCiAo-B0yAml2SPHkwMP3go2UiQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.98100" y="1.12700" w="37.83700" h="39.04200" t="7:30.519"/>
+      <rectRegion x="51.98100" y="1.12700" w="37.83700" h="39.04200" t="7:49.251"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2150693175&amp;ei=9Hw9XPvHFNiXgQf4kquAAg&amp;feature=iv&amp;src_vid=iSg0F3hwMnE&amp;v=7AF8CV1zDrc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2757261147" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3331677853">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3331677853" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3331677853" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLzH6n4zXucko143CdpqH5AW6St02cxOjT&amp;a-v=iSg0F3hwMnE&amp;l-class=2&amp;xble=1&amp;a-id=annotation_3331677853&amp;ei=9Hw9XPvHFNiXgQf4kquAAg" itct="CAQQs-UBGP___________wEiEwj7kZ3fk-_fAhXYS-AKHXjJCiAo-B0yAml2SPHkwMP3go2UiQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.29800" y="41.69000" w="37.20300" h="40.16900" t="7:30.519"/>
+      <rectRegion x="52.29800" y="41.69000" w="37.20300" h="40.16900" t="7:49.251"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_3331677853&amp;ei=9Hw9XPvHFNiXgQf4kquAAg&amp;feature=iv&amp;list=PLzH6n4zXucko143CdpqH5AW6St02cxOjT&amp;src_vid=iSg0F3hwMnE" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3644443829" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1258862029">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1258862029" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_485491869" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2150693175">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2150693175" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;ei=9Hw9XPvHFNiXgQf4kquAAg&amp;a-v=iSg0F3hwMnE&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;l-class=3&amp;xble=0&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e">
+  <data>{&quot;image_height&quot;:23,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;image_width&quot;:51,&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;9Hw9XPvHFNiXgQf4kquAAg&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTICaXZI8eTAw_eCjZSJAQ&quot;,&quot;src_vid&quot;:&quot;iSg0F3hwMnE&quot;},&quot;end_ms&quot;:470000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26feature%3Div%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbmdmaDJ1X1BaMXZrNXdvc3kySjZFUzJYNEh6UXxBQ3Jtc0tudDRBOEljYkwzbXVFZTBTbzdUR0xOUFV5WXpqZUZZMXRuQlNQcVdVMlpLbUl5NHpwZE03bXVycmpBbks2U3hmYlVCX2VyQTY4UUl5V0FVVWoxSDFNNm5IdzdmVVJsTXVwOEFDVDFPazYwenYtYUlJSF9qaWRoXzl1MnlMVmtuc0V0eHFvWEVwSjNEYy1POEFvX2FGc1NLam1hWS1iQWpkNURBQmF2bmJNRmt3NmhlamNzQTBHNzZ3V3AzSDFDUUdwMUhFdkZDNlB0VkttdVp1eXpyR0FiUHJKSDFJQ2pIYUJmQU1nWEp6dmtncTBmR1BN\u0026service=youtube&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;start_ms&quot;:5000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation>
+<annotation id="video:42b31b0d-bc27-4c50-a9b6-4d28751d4f44" style="playlist" type="card" log_data="a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;a-id=42b31b0d-bc27-4c50-a9b6-4d28751d4f44&amp;a-type=63&amp;a-v=iSg0F3hwMnE&amp;ei=9Hw9XPvHFNiXgQf4kquAAg&amp;l-class=2&amp;link-id=PLzH6n4zXucko143CdpqH5AW6St02cxOjT&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=yVRtJbXQsL8\u0026list=PLzH6n4zXucko143CdpqH5AW6St02cxOjT&quot;,&quot;title&quot;:&quot;Indie App Developer - Marco Arment Interview&quot;,&quot;timestamp&quot;:1460109146032,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[&quot;von Computerphile&quot;,&quot;4\u00a0Videos&quot;],&quot;teaser_text&quot;:&quot;Empfohlen: Indie App Developer - Marco Arment Interview&quot;,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/yVRtJbXQsL8\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;42b31b0d-bc27-4c50-a9b6-4d28751d4f44&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;9Hw9XPvHFNiXgQf4kquAAg&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw_eCjZSJAQ&quot;,&quot;src_vid&quot;:&quot;iSg0F3hwMnE&quot;},&quot;end_ms&quot;:448781,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAoQ1TYY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw_eCjZSJAQ&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw_eCjZSJAQ&quot;,&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwj7kZ3fk-_fAhXYS-AKHXjJCiAo-B0yBWNhcmRzSPHkwMP3go2UiQE&quot;},&quot;playlist_video_count&quot;:&quot;4&quot;,&quot;start_ms&quot;:448781}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=yVRtJbXQsL8&amp;list=PLzH6n4zXucko143CdpqH5AW6St02cxOjT"/>
+  </action>
+</annotation>
+
+<annotation id="video:75d64845-be3b-4c4e-8e7a-0f664b20b811" style="video" type="card" log_data="a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;a-id=75d64845-be3b-4c4e-8e7a-0f664b20b811&amp;a-type=62&amp;a-v=iSg0F3hwMnE&amp;ei=9Hw9XPvHFNiXgQf4kquAAg&amp;l-class=1&amp;link-id=7AF8CV1zDrc&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;32:26&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7AF8CV1zDrc&quot;,&quot;title&quot;:&quot;EXTRA BITS: Developing an Indie Game - Computerphile&quot;,&quot;timestamp&quot;:1460109180907,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;meta_info&quot;:[&quot;von Computerphile&quot;,&quot;11.453 Aufrufe&quot;],&quot;teaser_text&quot;:&quot;Empfohlen: EXTRA BITS: Developing an Indie Game - Computerphile&quot;,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/7AF8CV1zDrc\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;75d64845-be3b-4c4e-8e7a-0f664b20b811&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;9Hw9XPvHFNiXgQf4kquAAg&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw_eCjZSJAQ&quot;,&quot;src_vid&quot;:&quot;iSg0F3hwMnE&quot;},&quot;end_ms&quot;:454813,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA4Q1TYY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw_eCjZSJAQ&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCPuRnd-T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw_eCjZSJAQ&quot;,&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwj7kZ3fk-_fAhXYS-AKHXjJCiAo-B0yBWNhcmRzSPHkwMP3go2UiQE&quot;},&quot;start_ms&quot;:454813}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=7AF8CV1zDrc"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;9Hw9XPvHFNiXgQf4kquAAg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCPuRnd+T798CFdhL4AodeMkKICj4HTIFY2FyZHNI8eTAw/eCjZSJAQ==&quot;, 
+  &quot;headerText&quot;: &quot;Von Computerphile&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwj7kZ3fk+/fAhXYS+AKHXjJCiAo+B0yBWNhcmRzSPHkwMP3go2UiQE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwj7kZ3fk+/fAhXYS+AKHXjJCiAo+B0yBWNhcmRzSPHkwMP3go2UiQE=&quot;
+}</data>
+</annotation>
+</annotations></document>

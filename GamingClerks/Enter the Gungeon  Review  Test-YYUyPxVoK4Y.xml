@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxqavxtbu3wIVxzPgCh2iDwNfKPgdMgJpdkiG16Cr8cfMwmE">
+<annotation id="annotation_2699089775" type="highlight" log_data="a-type=3&amp;a-v=YYUyPxVoK4Y&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRQp8QpuQ-BY%23t%3D15s&amp;l-class=1&amp;a-id=annotation_2699089775&amp;xble=1&amp;ei=yTw9XIaeJ8fngAein4z4BQ" itct="CAEQs-UBGP___________wEiEwjGpq_G1u7fAhXHM-AKHaIPA18o-B0yAml2SIbXoKvxx8zCYQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.65900" y="61.40800" w="34.50900" h="34.53500" t="3:35.170"/>
+      <rectRegion x="64.65900" y="61.40800" w="34.50900" h="34.53500" t="3:47.601"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2699089775&amp;ei=yTw9XIaeJ8fngAein4z4BQ&amp;feature=iv&amp;src_vid=YYUyPxVoK4Y&amp;v=RQp8QpuQ-BY#t=15s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4248061281" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Mehr Gameplay!</TEXT>
+  <segment spaceRelative="annotation_2699089775">
+    <movingRegion type="rect">
+      <rectRegion x="4.75400" y="-7.88700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="4.75400" y="-7.88700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2699089775" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

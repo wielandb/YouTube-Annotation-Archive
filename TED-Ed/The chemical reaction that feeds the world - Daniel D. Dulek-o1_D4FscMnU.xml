@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzdu7pevu3wIVqgngCh1cYggXKPgdMgJpdkj15PDYhfzwr6MB">
+<annotation id="annotation_152252385" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-chemical-reaction-that-feeds-the-world-daniel-d-dulek&amp;a-type=3&amp;l-class=6&amp;a-id=annotation_152252385&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="CAEQs-UBGP___________wEiEwjN27ul6-7fAhWqCeAKHVxiCBco-B0yAml2SPXk8NiF_PCvowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.21400" y="54.64800" w="69.05700" h="13.41200" t="5:08.900"/>
+      <rectRegion x="15.21400" y="54.64800" w="69.05700" h="13.41200" t="5:18.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-chemical-reaction-that-feeds-the-world-daniel-d-dulek" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1583171939" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-type=3&amp;l-class=6&amp;a-id=annotation_1583171939&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="CAIQs-UBGP___________wEiEwjN27ul6-7fAhWqCeAKHVxiCBco-B0yAml2SPXk8NiF_PCvowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="72.95800" w="26.90200" h="19.32700" t="5:08.900"/>
+      <rectRegion x="6.65600" y="72.95800" w="26.90200" h="19.32700" t="5:18.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1903339661" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-chemical-reaction-that-feeds-the-world-daniel-d-dulek%23digdeeper&amp;a-type=1&amp;l-class=6&amp;a-id=annotation_1903339661&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="CAMQs-UBGP___________wEiEwjN27ul6-7fAhWqCeAKHVxiCBco-B0yAml2SPXk8NiF_PCvowE">
+  <TEXT>Read criticisms of Haber&#39;s work here</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.21900" y="11.83100" w="16.99700" h="32.83100" t="5:08.900"/>
+      <rectRegion x="2.21900" y="11.83100" w="16.99700" h="32.83100" t="5:18.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-chemical-reaction-that-feeds-the-world-daniel-d-dulek#digdeeper" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2506584271" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1583171939">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1583171939" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2979441459" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3963552317">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3963552317" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3495472133" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_152252385">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_152252385" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3601527557" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_673813721">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_673813721" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3880767089" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;a-type=1&amp;l-class=5&amp;a-id=annotation_3880767089&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="CAQQs-UBGP___________wEiEwjN27ul6-7fAhWqCeAKHVxiCBco-B0yAml2SPXk8NiF_PCvowE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.23900" y="12.39400" w="16.68000" h="31.42300" t="5:08.900"/>
+      <rectRegion x="79.23900" y="12.39400" w="16.68000" h="31.42300" t="5:18.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_3880767089&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;feature=iv&amp;src_vid=o1_D4FscMnU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3963552317" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3&amp;l-class=6&amp;a-id=annotation_3963552317&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="CAUQs-UBGP___________wEiEwjN27ul6-7fAhWqCeAKHVxiCBco-B0yAml2SPXk8NiF_PCvowE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="72.95800" w="22.62300" h="19.04600" t="5:08.900"/>
+      <rectRegion x="70.52300" y="72.95800" w="22.62300" h="19.04600" t="5:18.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3972484995" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-chemical-reaction-that-feeds-the-world-daniel-d-dulek%23digdeeper&amp;a-type=1&amp;l-class=6&amp;a-id=annotation_3972484995&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="CAYQs-UBGP___________wEiEwjN27ul6-7fAhWqCeAKHVxiCBco-B0yAml2SPXk8NiF_PCvowE">
+  <TEXT>Read criticisms of Haber&#39;s work here</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="24.50700" w="28.72400" h="17.62000" t="1:32.000"/>
+      <rectRegion x="2.37700" y="24.50700" w="28.72400" h="17.62000" t="2:04.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-chemical-reaction-that-feeds-the-world-daniel-d-dulek#digdeeper" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4162555993" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-chemical-reaction-that-feeds-the-world-daniel-d-dulek&amp;a-type=1&amp;l-class=6&amp;a-id=annotation_4162555993&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.54900" w="38.23400" h="7.19000" t="0:00.000"/>
+      <rectRegion x="0.00000" y="11.54900" w="38.23400" h="7.19000" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-chemical-reaction-that-feeds-the-world-daniel-d-dulek" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_673813721" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-type=3&amp;l-class=6&amp;a-id=annotation_673813721&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="73.23900" w="31.81500" h="17.91900" t="5:08.900"/>
+      <rectRegion x="36.13300" y="73.23900" w="31.81500" h="17.91900" t="5:18.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;l-class=3&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=iVI9XI3zL6qTgAfcxKG4AQ&amp;a-v=o1_D4FscMnU&amp;link-id=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;end_ms&quot;:319000,&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;o1_D4FscMnU&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCM3bu6Xr7t8CFaoJ4AodXGIIFyj4HTICaXZI9eTw2IX88K-jAQ&quot;,&quot;ei&quot;:&quot;iVI9XI3zL6qTgAfcxKG4AQ&quot;},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbTFaaWtiSXNfM3g1TDMxc2JfdmNMZkRJZjhHZ3xBQ3Jtc0ttZkdPckp0RG9jeVdRZ0RRbnp0OHpUSXdPU0xtRUF1Ri1aeXlKNmg4a1dpRjFBX0xURnJKNm1GcE9TWkF5bml1Vm1DSGJnR1J1LU9UZnR0TDhuanZ3bFpVa3pBb3RwTnMyMHctZjV3R0pCUVZZRlJQYm9pamNKTFQ5dGJ0WU96MlVzUVB0LVd3VFNRZnZjbkFib1FaZWJKS29hTXFZLS1wQnl4Q20xQUdycW81SkF4empSSkY3TjlCa3RKUTFRYkU1ZWVOdmtwZ1BtaWx3eWItWFdrZk9hLU5aYzZCWkI3TWN6TWtWZ1J4a0FnUTVkT3dJ\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;},&quot;image_width&quot;:40,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

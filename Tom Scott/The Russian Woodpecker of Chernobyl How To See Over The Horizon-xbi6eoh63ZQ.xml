@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7u_5jqnv3wIVh75VCh0z7QbmKPgdMgJpdkiUu-vDqM-u3MUB">
+<annotation id="annotation_1412318545" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>The Toxic Blue Lagoon of Buxton</TEXT>
+  <segment spaceRelative="annotation_1644689451">
+    <movingRegion type="rect">
+      <rectRegion x="-18.06700" y="-13.80300" w="22.30600" h="12.76100" t="never"/>
+      <rectRegion x="-18.06700" y="-13.80300" w="22.30600" h="12.76100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1644689451" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1644689451" type="highlight" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwVBZLoNffPw&amp;a-v=xbi6eoh63ZQ&amp;a-type=3&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;a-id=annotation_1644689451" itct="CAEQs-UBGP___________wEiEwju7_mOqe_fAhWHvlUKHTPtBuYo-B0yAml2SJS768Ooz67cxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.88900" y="71.26800" w="3.96200" h="4.11600" t="2:21.022"/>
+      <rectRegion x="69.88900" y="71.26800" w="3.96200" h="4.11600" t="2:30.349"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1644689451&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;feature=iv&amp;src_vid=xbi6eoh63ZQ&amp;v=wVBZLoNffPw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2504617863" type="text" style="popup" log_data="l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-v=xbi6eoh63ZQ&amp;a-type=1&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;a-id=annotation_2504617863" itct="CAIQs-UBGP___________wEiEwju7_mOqe_fAhWHvlUKHTPtBuYo-B0yAml2SJS768Ooz67cxQE">
+  <TEXT>And that&#39;s the end of Chernobyl Week! Subscribe to keep up with what&#39;s next.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="41.12700" w="44.10500" h="14.23900" t="2:21.022"/>
+      <rectRegion x="6.33900" y="41.12700" w="44.10500" h="14.23900" t="2:30.349"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_2504617863&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;feature=iv&amp;src_vid=xbi6eoh63ZQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_356890209" type="highlight" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnhtL2dBrmlI&amp;a-v=xbi6eoh63ZQ&amp;a-type=3&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;a-id=annotation_356890209" itct="CAMQs-UBGP___________wEiEwju7_mOqe_fAhWHvlUKHTPtBuYo-B0yAml2SJS768Ooz67cxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.65800" y="76.05600" w="60.65800" h="18.47900" t="2:21.022"/>
+      <rectRegion x="35.65800" y="76.05600" w="60.65800" h="18.47900" t="2:30.349"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_356890209&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;feature=iv&amp;src_vid=xbi6eoh63ZQ&amp;v=nhtL2dBrmlI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_982127107" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_356890209">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_356890209" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:27ecad55-b95d-4d6c-953e-11c43c1679f4" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=27ecad55-b95d-4d6c-953e-11c43c1679f4&amp;a-type=62&amp;a-v=xbi6eoh63ZQ&amp;ei=XZM9XK7NIof91gKz2puwDg&amp;l-class=1&amp;link-id=ch7HwhGynXk&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;1:52&quot;,&quot;title&quot;:&quot;The Islands Where Guns are Required&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;XZM9XK7NIof91gKz2puwDg&quot;,&quot;annotation_id&quot;:&quot;27ecad55-b95d-4d6c-953e-11c43c1679f4&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCO7v-Y6p798CFYe-VQodM-0G5ij4HTIFY2FyZHNIlLvrw6jPrtzFAQ&quot;,&quot;src_vid&quot;:&quot;xbi6eoh63ZQ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: The Islands Where Guns are Required&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ch7HwhGynXk\/mqdefault.jpg&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;end_ms&quot;:139935,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCO7v-Y6p798CFYe-VQodM-0G5ij4HTIFY2FyZHNIlLvrw6jPrtzFAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwju7_mOqe_fAhWHvlUKHTPtBuYo-B0yBWNhcmRzSJS768Ooz67cxQE&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCO7v-Y6p798CFYe-VQodM-0G5ij4HTIFY2FyZHNIlLvrw6jPrtzFAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ch7HwhGynXk&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:139935,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;436.389 Aufrufe&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ch7HwhGynXk"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwju7/mOqe/fAhWHvlUKHTPtBuYo+B0yBWNhcmRzSJS768Ooz67cxQE=&quot;, 
+  &quot;eventId&quot;: &quot;XZM9XK7NIof91gKz2puwDg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCO7v+Y6p798CFYe+VQodM+0G5ij4HTIFY2FyZHNIlLvrw6jPrtzFAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwju7/mOqe/fAhWHvlUKHTPtBuYo+B0yBWNhcmRzSJS768Ooz67cxQE=&quot;
+}</data>
+</annotation>
+</annotations></document>

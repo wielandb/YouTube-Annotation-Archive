@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhL_ujpfv3wIVXgLgCh0gpQtzKPgdMgJpdkjumJKB35TloBQ">
+<annotation id="annotation_2001016975" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_818270749">
+    <movingRegion type="rect">
+      <rectRegion x="-3.43700" y="24.80600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-3.43700" y="24.80600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_818270749" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3756799739" type="text" style="popup" log_data="a-id=annotation_3756799739&amp;a-type=1&amp;a-v=FEGUpfAkjG4&amp;xble=1&amp;ei=fYA9XMSMId6EgAegyq6YBw" itct="CAEQs-UBGP___________wEiEwiEv-6Ol-_fAhVeAuAKHSClC3Mo-B0yAml2SO6YkoHflOWgFA">
+  <TEXT>1500 Likes?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="93.05600" w="15.46100" h="7.05500" t="0:14.339"/>
+      <rectRegion x="0.00000" y="93.05600" w="15.46100" h="7.05500" t="0:45.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_818270749" type="highlight" log_data="a-id=annotation_818270749&amp;l-class=1&amp;xble=1&amp;a-type=3&amp;a-v=FEGUpfAkjG4&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU2T2ABkRswU&amp;ei=fYA9XMSMId6EgAegyq6YBw" itct="CAIQs-UBGP___________wEiEwiEv-6Ol-_fAhVeAuAKHSClC3Mo-B0yAml2SO6YkoHflOWgFA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.46900" y="42.52800" w="18.98400" h="17.36100" t="8:48.069"/>
+      <rectRegion x="40.46900" y="42.52800" w="18.98400" h="17.36100" t="8:54.131"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_818270749&amp;ei=fYA9XMSMId6EgAegyq6YBw&amp;feature=iv&amp;src_vid=FEGUpfAkjG4&amp;v=U2T2ABkRswU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:52be840c-0-29ac-8925-1a11c2d77a" style="branding" type="branding"
+            log_data="a-id=52be840c-0-29ac-8925-1a11c2d77a&amp;l-class=3&amp;xble=0&amp;link-id=UCateXk5ghT-ylv77j2HYg1g&amp;a-type=10&amp;a-v=FEGUpfAkjG4&amp;ei=fYA9XMSMId6EgAegyq6YBw&amp;a-ch=UCateXk5ghT-ylv77j2HYg1g">
+  <data>{&quot;channel_id&quot;:&quot;UCateXk5ghT-ylv77j2HYg1g&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:17,&quot;image_width&quot;:53,&quot;end_ms&quot;:15000,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;638.448&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FFunWithGuru%26hl%3Dde%26feature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbjRaRUVDU3d3ejFvZGVadVhHZWMzT015eE44Z3xBQ3Jtc0ttTE9zNGFkc0NSY3BKNmFLVHhiM2d0QllqU3NfaXdDbUU0OUpHeFVpN09FV0NGaTFpaE1yNmNzaGhUdXJYN1FOUWNqOUFLLUtobC1ZYmtEd2Vkd1hsakZBV1lfUWJkbzhpVi00UldfMXNoV0c3enpURHFUTkdxMGZhbDRuUFNiMUt2dHpYZFktd3RJUTkyd0FpQnQzcXY0eHJ3Ny05d2lBbHY0UmtyRkRMNjZIcEJOUGFtZXd1bUZHcEVzeWNGY0ZKWC1zaF8wTk9xMnEzMThMeC1GaTVod1F6WVhzYk54R3hqYjkwMlJZY1djVGRJY1ZR\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;638.447&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false},&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;FEGUpfAkjG4&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCIS_7o6X798CFV4C4AodIKULcyj4HTICaXZI7piSgd-U5aAU&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;52be840c-0-29ac-8925-1a11c2d77a&quot;,&quot;ei&quot;:&quot;fYA9XMSMId6EgAegyq6YBw&quot;},&quot;start_ms&quot;:5000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/ateXk5ghT-ylv77j2HYg1g\/featured_channel.jpg?v=52d04812&quot;,&quot;channel_name&quot;:&quot;FunWithGuru&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;638447&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/FunWithGuru"/>
+  </action>
+</annotation></annotations></document>

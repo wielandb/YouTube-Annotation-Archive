@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIv7CGoKzv3wIVDKN7Ch1dCQV-KPgdMgJpdkjLj_Wy8vieqOEB">
+<annotation id="annotation_171902" type="text" style="popup" log_data="a-v=4VB7xyZdR8s&amp;a-id=annotation_171902&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;xble=1&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwi_sIagrO_fAhUMo3sKHV0JBX4o-B0yAml2SMuP9bLy-J6o4QE">
+  <TEXT>Which kind are you??
+
+COMMENT IT! =D</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.41700" y="0.00000" w="30.00000" h="15.27800" t="0:00:11.8"/>
+      <rectRegion x="55.41700" y="0.00000" w="30.00000" h="15.27800" t="0:00:19.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_353674" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click HERE if you&#39;re saucey ;)</TEXT>
+  <segment spaceRelative="annotation_363553">
+    <movingRegion type="rect">
+      <rectRegion x="-25.83300" y="0.00000" w="24.58300" h="9.72200" t="never"/>
+      <rectRegion x="-25.83300" y="0.00000" w="24.58300" h="9.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_363553" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_363553" type="highlight" log_data="a-id=annotation_363553&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;a-type=3&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-v=4VB7xyZdR8s" itct="CAIQs-UBGP___________wEiEwi_sIagrO_fAhUMo3sKHV0JBX4o-B0yAml2SMuP9bLy-J6o4QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="93.54200" y="0.00000" w="6.45800" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="93.54200" y="0.00000" w="6.45800" h="8.88900" t="0:02:35.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_363553&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;feature=iv&amp;src_vid=4VB7xyZdR8s" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_381089" type="text" style="popup" log_data="a-id=annotation_381089&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;a-type=1&amp;l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Dquickietv&amp;a-v=4VB7xyZdR8s" itct="CAMQs-UBGP___________wEiEwi_sIagrO_fAhUMo3sKHV0JBX4o-B0yAml2SMuP9bLy-J6o4QE">
+  <TEXT>CLICK HERE MORE LACEY</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.87500" y="0.00000" w="43.12500" h="7.22200" t="0:02:35.3"/>
+      <rectRegion x="56.87500" y="0.00000" w="43.12500" h="7.22200" t="0:02:45.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_381089&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;feature=iv&amp;src_vid=4VB7xyZdR8s&amp;user=quickietv" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_710405" type="text" style="popup" log_data="a-v=4VB7xyZdR8s&amp;a-id=annotation_710405&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;xble=1&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwi_sIagrO_fAhUMo3sKHV0JBX4o-B0yAml2SMuP9bLy-J6o4QE">
+  <TEXT>FaceBook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="41.94400" w="41.45800" h="7.77800" t="0:02:37.1"/>
+      <rectRegion x="5.62500" y="41.94400" w="41.45800" h="7.77800" t="0:02:39.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_966837" type="text" style="popup" log_data="a-v=4VB7xyZdR8s&amp;a-id=annotation_966837&amp;ei=ppY9XL_FLIzG7gPdkpTwBw&amp;xble=1&amp;a-type=1" itct="CAUQs-UBGP___________wEiEwi_sIagrO_fAhUMo3sKHV0JBX4o-B0yAml2SMuP9bLy-J6o4QE">
+  <TEXT>Click LIKE to say hello to Lacey!! :p</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="30.00000" h="11.33300" t="0:00:04.3"/>
+      <rectRegion x="0.00000" y="0.00000" w="30.00000" h="11.33300" t="0:00:07.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

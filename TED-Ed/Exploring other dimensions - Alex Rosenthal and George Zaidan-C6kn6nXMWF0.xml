@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-uzwmezu3wIVDIR7Ch2J8wYJKPgdMgJpdkjdsLGup_3J1As">
+<annotation id="annotation_1572134273" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2025060979">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2025060979" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2025060979" type="highlight" log_data="a-v=C6kn6nXMWF0&amp;a-type=3&amp;a-id=annotation_2025060979&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;ei=fVM9XLq6OIyI7gOJ55tI" itct="CAEQs-UBGP___________wEiEwj67PCZ7O7fAhUMhHsKHYnzBgko-B0yAml2SN2wsa6n_cnUCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="71.83100" w="31.97300" h="18.76400" t="4:38.300"/>
+      <rectRegion x="36.29200" y="71.83100" w="31.97300" h="18.76400" t="4:48.330"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2648269037" type="text" style="popup" log_data="a-v=C6kn6nXMWF0&amp;a-type=1&amp;a-id=annotation_2648269037&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;ei=fVM9XLq6OIyI7gOJ55tI" itct="CAIQs-UBGP___________wEiEwj67PCZ7O7fAhUMhHsKHYnzBgko-B0yAml2SN2wsa6n_cnUCw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.03300" y="12.11300" w="14.14400" h="31.42300" t="4:38.300"/>
+      <rectRegion x="79.03300" y="12.11300" w="14.14400" h="31.42300" t="4:48.330"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_2648269037&amp;ei=fVM9XLq6OIyI7gOJ55tI&amp;feature=iv&amp;src_vid=C6kn6nXMWF0" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2788334071" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4184996167">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_4184996167" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2975785861" type="text" style="popup" log_data="a-v=C6kn6nXMWF0&amp;a-type=1&amp;a-id=annotation_2975785861&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fexploring-other-dimensions-alex-rosenthal-and-george-zaidan&amp;ei=fVM9XLq6OIyI7gOJ55tI" itct="CAMQs-UBGP___________wEiEwj67PCZ7O7fAhUMhHsKHYnzBgko-B0yAml2SN2wsa6n_cnUCw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.85900" w="32.36900" h="8.32400" t="0:00.000"/>
+      <rectRegion x="0.00000" y="9.85900" w="32.36900" h="8.32400" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/exploring-other-dimensions-alex-rosenthal-and-george-zaidan" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3104435867" type="highlight" log_data="a-v=C6kn6nXMWF0&amp;a-type=3&amp;a-id=annotation_3104435867&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=fVM9XLq6OIyI7gOJ55tI" itct="CAQQs-UBGP___________wEiEwj67PCZ7O7fAhUMhHsKHYnzBgko-B0yAml2SN2wsa6n_cnUCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="72.11300" w="22.94000" h="18.76400" t="4:38.300"/>
+      <rectRegion x="70.52300" y="72.11300" w="22.94000" h="18.76400" t="4:48.330"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3732753157" type="highlight" log_data="a-v=C6kn6nXMWF0&amp;a-type=3&amp;a-id=annotation_3732753157&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;ei=fVM9XLq6OIyI7gOJ55tI" itct="CAUQs-UBGP___________wEiEwj67PCZ7O7fAhUMhHsKHYnzBgko-B0yAml2SN2wsa6n_cnUCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="71.26800" w="27.53600" h="19.32700" t="4:38.300"/>
+      <rectRegion x="6.18100" y="71.26800" w="27.53600" h="19.32700" t="4:48.330"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3954015925" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3104435867">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3104435867" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3966312865" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3732753157">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3732753157" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4184996167" type="highlight" log_data="a-v=C6kn6nXMWF0&amp;a-type=3&amp;a-id=annotation_4184996167&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fexploring-other-dimensions-alex-rosenthal-and-george-zaidan&amp;ei=fVM9XLq6OIyI7gOJ55tI" itct="CAYQs-UBGP___________wEiEwj67PCZ7O7fAhUMhHsKHYnzBgko-B0yAml2SN2wsa6n_cnUCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="52.95800" w="69.53200" h="14.53900" t="4:38.300"/>
+      <rectRegion x="14.89700" y="52.95800" w="69.53200" h="14.53900" t="4:48.330"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/exploring-other-dimensions-alex-rosenthal-and-george-zaidan" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=C6kn6nXMWF0&amp;ei=fVM9XLq6OIyI7gOJ55tI">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;C6kn6nXMWF0&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCPrs8Jns7t8CFQyEewodifMGCSj4HTICaXZI3bCxrqf9ydQL&quot;,&quot;ei&quot;:&quot;fVM9XLq6OIyI7gOJ55tI&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbUNnXy1MSW9SNk5lNXQxT2tRdFFwTVo4XzNwUXxBQ3Jtc0ttLWFFUVotRWNFc0lBZUNQei1OYUN6R2F5S3l4RmhWVFJzRGtjSHFuYUZrUjFZZmpONDYyX2htUEZ2emROeERPUVBIbDVaVFR3dy0yZ0ZYX2xIMkZkTVMzRGdyOE9mRldpNzlmOThhbGhORDUyd3A3STh2NUZtUWhMdWZ5WDl2WTVWeDdmZl9mZC1DZHpfZUpxajI0Q0dVRkFUT3VSRGpQdE5xaXprMWZCSkpmZXN4MUI0eVB1RHVZME90dGhZQklPMzZlMmdoQUxHcm1Qd2lTSGVMRzBGeDhJTnhSTGJOWFg0OGdZdUlHekxuUFF3UUJZ%26action_handle_signin%3Dtrue\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;end_ms&quot;:289000,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

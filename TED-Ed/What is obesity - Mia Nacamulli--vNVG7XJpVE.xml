@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkOXd5unu3wIVjnPgCh3_xgZxKPgdMgJpdkjRyqauu6PV-foB">
+<annotation id="annotation_2232443805" type="highlight" log_data="a-id=annotation_2232443805&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3&amp;a-v=-vNVG7XJpVE&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yAml2SNHKpq67o9X5-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.04800" y="70.70400" w="23.57400" h="20.16900" t="5:00.000"/>
+      <rectRegion x="70.04800" y="70.70400" w="23.57400" h="20.16900" t="5:10.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_234818943" type="text" style="popup" log_data="a-id=annotation_234818943&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-is-obesity-mia-nacamulli&amp;a-type=1&amp;a-v=-vNVG7XJpVE&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yAml2SNHKpq67o9X5-gE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.26800" y="4.50700" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="1.26800" y="4.50700" w="30.00000" h="8.88900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-is-obesity-mia-nacamulli" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_304108781" type="highlight" log_data="a-id=annotation_304108781&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;a-type=3&amp;a-v=-vNVG7XJpVE&amp;l-class=6" itct="CAMQs-UBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yAml2SNHKpq67o9X5-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.81600" y="70.42300" w="32.76500" h="20.73600" t="5:00.000"/>
+      <rectRegion x="35.81600" y="70.42300" w="32.76500" h="20.73600" t="5:10.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3333872927" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_304108781">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="21.04200" w="32.92400" h="8.53500" t="never"/>
+      <rectRegion x="0.00000" y="21.04200" w="32.92400" h="8.53500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_304108781" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3356265103" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_965007765">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="21.60600" w="28.32800" h="7.97200" t="never"/>
+      <rectRegion x="0.00000" y="21.60600" w="28.32800" h="7.97200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_965007765" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3659611515" type="highlight" log_data="a-id=annotation_3659611515&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-is-obesity-mia-nacamulli&amp;a-type=3&amp;a-v=-vNVG7XJpVE&amp;l-class=6" itct="CAQQs-UBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yAml2SNHKpq67o9X5-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.73900" y="52.67600" w="70.16600" h="15.38400" t="5:00.000"/>
+      <rectRegion x="14.73900" y="52.67600" w="70.16600" h="15.38400" t="5:10.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-is-obesity-mia-nacamulli" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4213539547" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3659611515">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3659611515" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_897402217" type="text" style="popup" log_data="a-id=annotation_897402217&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fa%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;a-type=1&amp;a-v=-vNVG7XJpVE&amp;l-class=11" itct="CAUQs-UBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yAml2SNHKpq67o9X5-gE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.97100" y="13.80300" w="17.15500" h="26.05600" t="5:00.000"/>
+      <rectRegion x="77.97100" y="13.80300" w="17.15500" h="26.05600" t="5:10.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/a/user/TEDEducation?annotation_id=annotation_897402217&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;feature=iv&amp;src_vid=-vNVG7XJpVE&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_933696457" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2232443805">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="20.19700" w="23.57400" h="9.09900" t="never"/>
+      <rectRegion x="0.00000" y="20.19700" w="23.57400" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2232443805" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_965007765" type="highlight" log_data="a-id=annotation_965007765&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;a-type=3&amp;a-v=-vNVG7XJpVE&amp;l-class=6" itct="CAYQs-UBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yAml2SNHKpq67o9X5-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="70.42300" w="28.17000" h="21.86300" t="5:00.000"/>
+      <rectRegion x="6.33900" y="70.42300" w="28.17000" h="21.86300" t="5:10.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;xble=0&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=-vNVG7XJpVE&amp;l-class=3">
+  <data>{&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;image_type&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbmRTa3QwOWU2dnVqUTFMYW1EaHhIbTY2eU5ZZ3xBQ3Jtc0tsdkltTmwyYVVoMFE5b0JKZ0daWi16dk9mY3o2dHN6SkNzQ0RVVEJzWmE0dWk5ejVYVV9CcjlOOEx6U1RCQVhLSjVOd2hhSy1mejYzYkRfNWNOSVZ3ZlFDLU1HUDJ1bWRKUWc0Szcyc3VJRmRCMmtnV3BaU1FuNUlMUXRqZ0Vrc2pTY0dEVFdOV2lJRGVJQWtTekJfVmZzR0tjY09HcDRCNGFDV1hvcUxZTHhkamlWRng3X19pU3ZXSFBTYnZVaTR0TFMwS3g0N1R3QnRiS3RHYUp2dnQ1UXBsVHFqZzB0RmN5eG9nX3FEYmRGWjdpa3U4%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26feature%3Div%26action_handle_signin%3Dtrue\u0026service=youtube\u0026hl=de\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;-vNVG7XJpVE&quot;,&quot;ei&quot;:&quot;-VA9XNCEMI7ngQf_jZuIBw&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJDl3ebp7t8CFY5z4Aod_8YGcSj4HTICaXZI0cqmrruj1fn6AQ&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:311000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation>
+<annotation id="video:7f15e4ab-d072-42a1-8d06-d780f5103923" style="simple" type="card" log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=7f15e4ab-d072-42a1-8d06-d780f5103923&amp;a-type=61&amp;a-v=-vNVG7XJpVE&amp;ei=-VA9XNCEMI7ngQf_jZuIBw&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2Fteded&amp;xble=0">
+  <data>{&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:297091,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCJDl3ebp7t8CFY5z4Aod_8YGcSj4HTIFY2FyZHNI0cqmrruj1fn6AQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwiQ5d3m6e7fAhWOc-AKHf_GBnEo-B0yBWNhcmRzSNHKpq67o9X5-gE&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCJDl3ebp7t8CFY5z4Aod_8YGcSj4HTIFY2FyZHNI0cqmrruj1fn6AQ&quot;},&quot;sponsored&quot;:false,&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1510587951189,&quot;card_type&quot;:&quot;simple&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[],&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;7f15e4ab-d072-42a1-8d06-d780f5103923&quot;,&quot;src_vid&quot;:&quot;-vNVG7XJpVE&quot;,&quot;ei&quot;:&quot;-VA9XNCEMI7ngQf_jZuIBw&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCJDl3ebp7t8CFY5z4Aod_8YGcSj4HTIFY2FyZHNI0cqmrruj1fn6AQ&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;\/redirect?q=https%3A%2F%2Fwww.patreon.com%2Fteded\u0026redir_token=gzspfCOcQ-Okvi2fp8pyFjtKcMN8MTU0NzYwODY5N0AxNTQ3NTIyMjk3\u0026event=infocard&quot;,&quot;teaser_text&quot;:&quot;Learn more&quot;,&quot;title&quot;:&quot;Check out our Patreon page&quot;,&quot;end_ms&quot;:297091,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/-vNVG7XJpVE\/7f15e4ab-d072-42a1-8d06-d780f5103923_mq.jpg?v=5a09be2b&quot;,&quot;custom_message&quot;:&quot;Learn more&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=https%3A%2F%2Fwww.patreon.com%2Fteded&amp;redir_token=gzspfCOcQ-Okvi2fp8pyFjtKcMN8MTU0NzYwODY5N0AxNTQ3NTIyMjk3&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von TED-Ed&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAoQsJcBGP///////////wEiEwiQ5d3m6e7fAhWOc+AKHf/GBnEo+B0yBWNhcmRzSNHKpq67o9X5+gE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAkQsZcBGP///////////wEiEwiQ5d3m6e7fAhWOc+AKHf/GBnEo+B0yBWNhcmRzSNHKpq67o9X5+gE=&quot;, 
+  &quot;eventId&quot;: &quot;-VA9XNCEMI7ngQf_jZuIBw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAgQwjcY////////////ASITCJDl3ebp7t8CFY5z4Aod/8YGcSj4HTIFY2FyZHNI0cqmrruj1fn6AQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

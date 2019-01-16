@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwPHH35fv3wIVFx7gCh3kVw4oKPgdMgJpdkip8NHjpr_Dro0B">
+<annotation id="annotation_399246" type="highlight" log_data="a-id=annotation_399246&amp;a-type=3&amp;a-v=jV0N-mx0eCk&amp;xble=1&amp;ei=JoE9XMDGL5e8gAfkr7nAAg" itct="CAEQs-UBGP___________wEiEwjA8cffl-_fAhUXHuAKHeRXDigo-B0yAml2SKnw0eOmv8OujQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.65600" y="9.72200" w="94.37500" h="53.05600" t="0:00:04.2"/>
+      <rectRegion x="2.65600" y="9.72200" w="94.37500" h="53.05600" t="0:00:51.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+</annotation>
+
+<annotation id="annotation_576235" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_399246">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.40300" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.40300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_399246" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:52be840c-0-29ac-8925-1a11c2d77a" style="branding" type="branding"
+            log_data="a-v=jV0N-mx0eCk&amp;a-type=10&amp;link-id=UCateXk5ghT-ylv77j2HYg1g&amp;ei=JoE9XMDGL5e8gAfkr7nAAg&amp;a-id=52be840c-0-29ac-8925-1a11c2d77a&amp;a-ch=UCateXk5ghT-ylv77j2HYg1g&amp;xble=0&amp;l-class=3">
+  <data>{&quot;end_ms&quot;:15000,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCateXk5ghT-ylv77j2HYg1g&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;jV0N-mx0eCk&quot;,&quot;annotation_id&quot;:&quot;52be840c-0-29ac-8925-1a11c2d77a&quot;,&quot;ei&quot;:&quot;JoE9XMDGL5e8gAfkr7nAAg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCMDxx9-X798CFRce4Aod5FcOKCj4HTICaXZIqfDR46a_w66NAQ&quot;},&quot;image_height&quot;:17,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/ateXk5ghT-ylv77j2HYg1g\/featured_channel.jpg?v=52d04812&quot;,&quot;num_subscribers&quot;:&quot;638447&quot;,&quot;start_ms&quot;:5000,&quot;image_width&quot;:53,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FFunWithGuru%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqa3p5cFhaU01xak8wdG8wUmlZUGNGOUI3U0Mwd3xBQ3Jtc0tsRGktWUUyQWtHUl96MVQ4THRIX3FkQ2RqTUlJdjFlN0VMNW54cDl6UGItYWxETU9DbGdreVVydVdxS1dBdEl1VEVOMzZvNE1VOHJFN3NvdXhUSlNpVUdzZnk3X2xhOGRFaWtDMTdUOXBIWWZnQ3l2RmQ4bWRzNEhsNzdLT3VSM0VGTEFVbDE0Q0NlOE5fdXo4MXFLOWRqUFVGUEVMSjAtaU4wbjVzLUlFTU9NUl9qWlNQTzJlbWZnQXZwekRxdDd4ZzVwYlN1bnRqZ2ZiX2FTaEFLTzNwaG1DTTJvYXE2YzVnUlVVTW5JaUZEemVPMnFv%26feature%3Div\u0026passive=true\u0026uilel=3\u0026service=youtube\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;638.447&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;638.448&quot;,&quot;subscribed&quot;:false},&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;FunWithGuru&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/FunWithGuru"/>
+  </action>
+</annotation></annotations></document>

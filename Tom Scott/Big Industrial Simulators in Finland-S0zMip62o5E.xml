@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2-7Fkanv3wIVAiDgCh1OJQ7JKPgdMgJpdkiRx9r1qZGzpks">
+<annotation id="annotation_1293190623" type="highlight" log_data="a-v=S0zMip62o5E&amp;a-type=3&amp;a-id=annotation_1293190623&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FMeVEALtd&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yAml2SJHH2vWpkbOmSw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="9.29600" w="39.26300" h="39.88700" t="3:29.752"/>
+      <rectRegion x="6.33900" y="9.29600" w="39.26300" h="39.88700" t="3:48.739"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/MeVEALtd?annotation_id=annotation_1293190623&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;feature=iv&amp;src_vid=S0zMip62o5E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1360300399" type="text" style="popup" log_data="xble=1&amp;a-v=S0zMip62o5E&amp;a-type=1&amp;a-id=annotation_1360300399&amp;ei=Y5M9XJsxgsCAB87KuMgM" itct="CAIQs-UBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yAml2SJHH2vWpkbOmSw">
+  <TEXT>Wheel loader simulator</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.07100" y="71.26800" w="46.64000" h="10.85900" t="0:23.654"/>
+      <rectRegion x="5.07100" y="71.26800" w="46.64000" h="10.85900" t="0:30.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="textdropshadow">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_1889568479" type="highlight" log_data="a-v=S0zMip62o5E&amp;a-type=3&amp;a-id=annotation_1889568479&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddvr0LzEb0ww&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yAml2SJHH2vWpkbOmSw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="49.29600" w="39.58000" h="39.60600" t="3:29.752"/>
+      <rectRegion x="6.33900" y="49.29600" w="39.58000" h="39.60600" t="3:48.739"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1889568479&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;feature=iv&amp;src_vid=S0zMip62o5E&amp;v=dvr0LzEb0ww" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1915548355" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3271167479">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3271167479" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2807609331" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4053256317">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.43700" w="31.33900" h="6.28500" t="never"/>
+      <rectRegion x="0.00000" y="29.43700" w="31.33900" h="6.28500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4053256317" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3128847323" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1889568479">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1889568479" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3271167479" type="highlight" log_data="a-v=S0zMip62o5E&amp;a-type=3&amp;a-id=annotation_3271167479&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Funnamedculprit&amp;l-class=3" itct="CAQQs-UBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yAml2SJHH2vWpkbOmSw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.13900" y="38.59200" w="46.54500" h="24.95800" t="3:36.079"/>
+      <rectRegion x="52.13900" y="38.59200" w="46.54500" h="24.95800" t="3:48.739"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/unnamedculprit?annotation_id=annotation_3271167479&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;feature=iv&amp;src_vid=S0zMip62o5E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4053256317" type="highlight" log_data="a-v=S0zMip62o5E&amp;a-type=3&amp;a-id=annotation_4053256317&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;l-class=5" itct="CAUQs-UBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yAml2SJHH2vWpkbOmSw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.13900" y="10.14100" w="46.55300" h="29.18600" t="3:36.079"/>
+      <rectRegion x="52.13900" y="10.14100" w="46.55300" h="29.18600" t="3:48.739"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_4053256317&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;feature=iv&amp;src_vid=S0zMip62o5E&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_720481933" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1293190623">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1293190623" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:7caf659a-3855-4b42-8e79-9c9e7b8c2c26" style="collaborator" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=7caf659a-3855-4b42-8e79-9c9e7b8c2c26&amp;a-type=69&amp;a-v=S0zMip62o5E&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;l-class=3&amp;link-id=UCLUwL6UTwjCEDTFDKsXcWXw&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Mevea&quot;,&quot;channel_id&quot;:&quot;UCLUwL6UTwjCEDTFDKsXcWXw&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/user\/MeVEALtd&quot;,&quot;start_ms&quot;:209032,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;teaser_text&quot;:&quot;Mevea&#39;s YouTube Channel&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mBsgXxnK1t65F-mtwy1DzE23YVIeoy9kZZJ3g=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;timestamp&quot;:1449419450105,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;7caf659a-3855-4b42-8e79-9c9e7b8c2c26&quot;,&quot;src_vid&quot;:&quot;S0zMip62o5E&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;,&quot;ei&quot;:&quot;Y5M9XJsxgsCAB87KuMgM&quot;},&quot;custom_message&quot;:&quot;Thanks to everyone at Mevea!&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yBWNhcmRzSJHH2vWpkbOmSw&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;},&quot;end_ms&quot;:209032,&quot;meta_info&quot;:[&quot;1186\u00a0Abonnenten&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;collaborator&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MeVEALtd"/>
+  </action>
+</annotation>
+
+<annotation id="video:410da290-36be-4ed2-84b6-dedf94b5fbe8" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=410da290-36be-4ed2-84b6-dedf94b5fbe8&amp;a-type=62&amp;a-v=S0zMip62o5E&amp;ei=Y5M9XJsxgsCAB87KuMgM&amp;l-class=1&amp;link-id=dvr0LzEb0ww&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Mevea Simulation and a Finnish Steelworks: Behind The Scenes&quot;,&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=dvr0LzEb0ww&quot;,&quot;start_ms&quot;:214013,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;12:44&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Mevea Simulation and a Finnish Steelworks: Behind The Scenes&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/dvr0LzEb0ww\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;timestamp&quot;:1449419470479,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;410da290-36be-4ed2-84b6-dedf94b5fbe8&quot;,&quot;src_vid&quot;:&quot;S0zMip62o5E&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;,&quot;ei&quot;:&quot;Y5M9XJsxgsCAB87KuMgM&quot;},&quot;is_live_now&quot;:false,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwjb7sWRqe_fAhUCIOAKHU4lDsko-B0yBWNhcmRzSJHH2vWpkbOmSw&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;von Matt and Tom&quot;,&quot;67.603 Aufrufe&quot;],&quot;end_ms&quot;:214013,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=dvr0LzEb0ww"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCNvuxZGp798CFQIg4AodTiUOySj4HTIFY2FyZHNIkcfa9amRs6ZL&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwjb7sWRqe/fAhUCIOAKHU4lDsko+B0yBWNhcmRzSJHH2vWpkbOmSw==&quot;, 
+  &quot;eventId&quot;: &quot;Y5M9XJsxgsCAB87KuMgM&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwjb7sWRqe/fAhUCIOAKHU4lDsko+B0yBWNhcmRzSJHH2vWpkbOmSw==&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;
+}</data>
+</annotation>
+</annotations></document>

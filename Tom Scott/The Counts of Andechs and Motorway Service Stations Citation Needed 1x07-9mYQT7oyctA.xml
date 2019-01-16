@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI57b776nv3wIVxaxVCh3QxgrEKPgdMgJpdkjQ5cnR-4mEs_YB">
+<annotation id="annotation_1985336091" type="highlight" log_data="a-v=9mYQT7oyctA&amp;a-id=annotation_1985336091&amp;ei=KZQ9XKd-xdnWAtCNq6AM&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjntvvvqe_fAhXFrFUKHdDGCsQo-B0yAml2SNDlydH7iYSz9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.36100" y="16.62000" w="74.60400" h="11.15800" t="11:33.830"/>
+      <rectRegion x="12.36100" y="16.62000" w="74.60400" h="11.15800" t="11:52.450"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_3720372733" type="text" style="popup" log_data="a-v=9mYQT7oyctA&amp;a-id=annotation_3720372733&amp;ei=KZQ9XKd-xdnWAtCNq6AM&amp;xble=1&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjntvvvqe_fAhXFrFUKHdDGCsQo-B0yAml2SNDlydH7iYSz9gE">
+  <TEXT>Thanks for watching! If you liked the show, do leave us a comment: we really do appreciate it.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="91.26800" w="99.68300" h="8.73200" t="11:33.830"/>
+      <rectRegion x="0.00000" y="91.26800" w="99.68300" h="8.73200" t="11:52.877"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_658007081" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1985336091">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1985336091" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

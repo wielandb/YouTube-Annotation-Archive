@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsKaW15nv3wIVR5R8Ch1MdwkFKPgdMgJpdkic9cP19KKY97EB">
+<annotation id="annotation_119431" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=se5hF06w-pw&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;a-id=annotation_119431" itct="CAEQs-UBGP___________wEiEwiwppbXme_fAhVHlHwKHUx3CQUo-B0yAml2SJz1w_X0opj3sQE">
+  <TEXT>Hallo an euch, die mich auf dem Gamingclerks-Kanal sehen!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.93100" y="40.55600" w="33.33300" h="17.77800" t="0:00:00.0"/>
+      <rectRegion x="14.93100" y="40.55600" w="33.33300" h="17.77800" t="0:00:09.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5670865" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.46685004234" bottom="2.34696006775" right="1.95580005646"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_313975" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=se5hF06w-pw&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;a-id=annotation_313975" itct="CAIQs-UBGP___________wEiEwiwppbXme_fAhVHlHwKHUx3CQUo-B0yAml2SJz1w_X0opj3sQE">
+  <TEXT>Joa, wenn ihr Lust habt, könnt ihr mich auf meinem Kanal &quot;Geemeeofficial&quot; besuchen...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.90300" y="52.50000" w="30.55600" h="26.66700" t="0:00:12.5"/>
+      <rectRegion x="5.90300" y="52.50000" w="30.55600" h="26.66700" t="0:00:21.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5670865" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.46685004234" bottom="2.34696006775" right="1.95580005646"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_332788" type="highlight" log_data="ei=LoM9XLDXA8eo8gPM7qUo&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmUay5hD5Sog&amp;a-v=se5hF06w-pw&amp;l-class=1&amp;xble=1&amp;a-id=annotation_332788&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiwppbXme_fAhVHlHwKHUx3CQUo-B0yAml2SJz1w_X0opj3sQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.31300" y="0.00000" w="6.59700" h="99.16700" t="0:00:40.8"/>
+      <rectRegion x="45.31300" y="0.00000" w="6.59700" h="99.16700" t="0:00:44.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_332788&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;feature=iv&amp;src_vid=se5hF06w-pw&amp;v=mUay5hD5Sog" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_344129" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_332788">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_332788" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_414124" type="text" style="popup" log_data="ei=LoM9XLDXA8eo8gPM7qUo&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgeemeeofficial&amp;a-v=se5hF06w-pw&amp;l-class=5&amp;xble=1&amp;a-id=annotation_414124&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwiwppbXme_fAhVHlHwKHUx3CQUo-B0yAml2SJz1w_X0opj3sQE">
+  <TEXT>Hier gibts Musik für Lau ;)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.01400" y="91.11100" w="32.98600" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="67.01400" y="91.11100" w="32.98600" h="8.88900" t="0:01:03.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="3355443" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.46685004234" bottom="2.34696006775" right="1.95580005646"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=geemeeofficial&amp;annotation_id=annotation_414124&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;feature=iv&amp;src_vid=se5hF06w-pw" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_445901" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=se5hF06w-pw&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;a-id=annotation_445901" itct="CAUQs-UBGP___________wEiEwiwppbXme_fAhVHlHwKHUx3CQUo-B0yAml2SJz1w_X0opj3sQE">
+  <TEXT>Mit meiner Musik könnt ihr anstellen was ihr wollt, aber verlinkt mich bitte ;)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="46.35400" y="56.38900" w="30.03500" h="22.22200" t="0:00:19.2"/>
+      <rectRegion x="46.35400" y="56.38900" w="30.03500" h="22.22200" t="0:00:30.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5670865" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.46685004234" bottom="2.34696006775" right="1.95580005646"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_703798" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=se5hF06w-pw&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;a-id=annotation_703798" itct="CAYQs-UBGP___________wEiEwiwppbXme_fAhVHlHwKHUx3CQUo-B0yAml2SJz1w_X0opj3sQE">
+  <TEXT>Mein Name ist Tim, und bei mir spielt die Musik...
+
+
+(Dieser Witz hat mich 4 Minuten gekostet)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.55600" y="5.55600" w="30.03500" h="35.55600" t="0:00:06.3"/>
+      <rectRegion x="5.55600" y="5.55600" w="30.03500" h="35.55600" t="0:00:17.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5670865" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.46685004234" bottom="2.34696006775" right="1.95580005646"/>
+  </appearance>
+  
+</annotation>
+<annotation id="channel:51840aed-0-212a-9238-47d7b3a8822" style="branding" type="branding"
+            log_data="a-ch=UC-SSgYlhmxTTh8J2L58bV3g&amp;ei=LoM9XLDXA8eo8gPM7qUo&amp;link-id=UC-SSgYlhmxTTh8J2L58bV3g&amp;a-v=se5hF06w-pw&amp;l-class=3&amp;xble=0&amp;a-id=51840aed-0-212a-9238-47d7b3a8822&amp;a-type=10">
+  <data>{&quot;is_mobile&quot;:false,&quot;start_ms&quot;:53000,&quot;channel_id&quot;:&quot;UC-SSgYlhmxTTh8J2L58bV3g&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCLCmlteZ798CFUeUfAodTHcJBSj4HTICaXZInPXD9fSimPexAQ&quot;,&quot;annotation_id&quot;:&quot;51840aed-0-212a-9238-47d7b3a8822&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;LoM9XLDXA8eo8gPM7qUo&quot;,&quot;src_vid&quot;:&quot;se5hF06w-pw&quot;},&quot;channel_name&quot;:&quot;Kammerton&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAOkfPCajP-fc_yf8Uac1ysBDpMaJMgKzmguw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FGeemeeofficial%26continue_action%3DQUFFLUhqbTVZbWFZZTdfMHBMUlk1VXplVHVqODQ0TVkxQXxBQ3Jtc0tuRzRqcTFCUUlCeDFrOHlQSklkNHdJT2VTRkIxYnBmYzdzWkFZSUdUNXdVMW1abUdybVlWN28zaVBfeHJjbEUyYkdxc191dFEyWHl0NklCUkRrcGVmbzFQZ3VzeUJjS1l5YTVCQ09PcW9MOThwTS1NcGg4cV9TVE9RXzhqNjhSd2dENDdjclpiOGZGa0lybjhCTlZnMDR2QlhDWGRZMG9yaHl0Q1Q2ZHRIWnNwMXBwc0lvTkxxWUFxLXZGSnVfdnVZWkwzTUdoZ2ptV3p4czludjVFZ2lVZGVJbjZrb3JmSmZ5ZG5iVGVKSFB1QnU4NzRv%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;26.690&quot;,&quot;unsubscribeCount&quot;:&quot;26.691&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true},&quot;end_ms&quot;:63000,&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;26690&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Geemeeofficial"/>
+  </action>
+</annotation></annotations></document>

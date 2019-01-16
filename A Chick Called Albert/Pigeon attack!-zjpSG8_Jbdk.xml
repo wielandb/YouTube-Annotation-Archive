@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgY7b76zv3wIVzSfgCh02dQP6KPgdMgJpdkjZ26X-vMOUnc4B">
+<annotation id="annotation_3004762587" type="highlight" log_data="ei=TZc9XMGzMM3PgAe26o3QDw&amp;a-id=annotation_3004762587&amp;l-class=5&amp;xble=1&amp;a-v=zjpSG8_Jbdk&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBjh-uGy5RcclATnFpQBobw%3Fsub_confirmation%3D1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiBjtvvrO_fAhXNJ-AKHTZ1A_oo-B0yAml2SNnbpf68w5SdzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.62100" y="56.33800" w="22.45600" h="37.07000" t="5:22.117"/>
+      <rectRegion x="68.62100" y="56.33800" w="22.45600" h="37.07000" t="5:36.735"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13319742" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCBjh-uGy5RcclATnFpQBobw?annotation_id=annotation_3004762587&amp;ei=TZc9XMGzMM3PgAe26o3QDw&amp;feature=iv&amp;src_vid=zjpSG8_Jbdk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_441580703" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe</TEXT>
+  <segment spaceRelative="annotation_3004762587">
+    <movingRegion type="rect">
+      <rectRegion x="-1.26800" y="12.67600" w="24.35900" h="6.84500" t="never"/>
+      <rectRegion x="-1.26800" y="12.67600" w="24.35900" h="6.84500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3004762587" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_661444553" type="text" style="popup" log_data="ei=TZc9XMGzMM3PgAe26o3QDw&amp;a-id=annotation_661444553&amp;l-class=1&amp;xble=1&amp;a-v=zjpSG8_Jbdk&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPOnn9EBX74&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwiBjtvvrO_fAhXNJ-AKHTZ1A_oo-B0yAml2SNnbpf68w5SdzgE">
+  <TEXT>Click to see a supermarket egg hatching</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.53600" y="64.50700" w="35.54700" h="13.39400" t="5:27.626"/>
+      <rectRegion x="2.53600" y="64.50700" w="35.54700" h="13.39400" t="5:36.734"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_661444553&amp;ei=TZc9XMGzMM3PgAe26o3QDw&amp;feature=iv&amp;src_vid=zjpSG8_Jbdk&amp;v=IPOnn9EBX74" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

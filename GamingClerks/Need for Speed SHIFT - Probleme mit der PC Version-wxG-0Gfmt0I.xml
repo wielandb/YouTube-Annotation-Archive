@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIm63Nxt3u3wIV0ADgCh1vNgRXKPgdMgJpdkjC7pq_htrviMMB">
+<annotation id="annotation_192387" type="text" style="popup" log_data="a-type=1&amp;a-v=wxG-0Gfmt0I&amp;xble=1&amp;ei=IUQ9XNuYC9CBgAfv7JC4BQ&amp;a-id=annotation_192387" itct="CAEQs-UBGP___________wEiEwibrc3G3e7fAhXQAOAKHW82BFco-B0yAml2SMLumr-G2u-IwwE">
+  <TEXT>Wir werden das mal testen (:</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.56300" y="90.27800" w="28.43800" h="7.22200" t="0:04:03.9"/>
+      <rectRegion x="71.56300" y="90.27800" w="28.43800" h="7.22200" t="0:04:10.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_701955" type="text" style="popup" log_data="a-type=1&amp;a-v=wxG-0Gfmt0I&amp;xble=1&amp;ei=IUQ9XNuYC9CBgAfv7JC4BQ&amp;a-id=annotation_701955" itct="CAIQs-UBGP___________wEiEwibrc3G3e7fAhXQAOAKHW82BFco-B0yAml2SMLumr-G2u-IwwE">
+  <TEXT>3. Schattenqualität 
+Offenbar macht auf einigen Rechnern die Schattenqualität Probleme. User berichten, dass die Einstellung auf &quot;Mittel&quot; die wenigsten Probleme bereitet. 
+
+4. Kompatibilitätsmodus 
+Bei einigen Anwendern hilft auch das Starten von NFS Shift im Win98/ME-Kompatiblitätsmodus. Ein rechter Mausklick auf die Exe, dann &quot;Eigenschaften&quot; auswählen und im Reiter &quot;Kompatibilität&quot; den entsprechenden Modus auswählen. 
+
+5. Weitere Tipps: NFS Shift stürzt ab 
+Was bei vielen Usern ebenfalls geholfen hat: 
+- Jeweils aktuelles Service Pack installieren 
+- Jeweils aktuelle Grafikkarten-Treiber installieren 
+- Jeweils aktuellen Soundkarten-Treiber installieren 
+- Nvidia-Karten: In der Nvidia-Systemsteuerung im ersten Bildqualitäts-Menü den Punkt &quot;3D Einstellung entscheiden lassen&quot; auswählen. 
+- Sidebar deaktivieren 
+- Den ganzen Ordner unter C:\Users\[YourUserName]\Documents\NFS SHIFT löschen, dann neu starten. Neues Profil erstellen, dann automatisches Speichern in den Optionen deaktivieren </TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.46900" y="2.22200" w="71.09400" h="96.11100" t="0:04:06.4"/>
+      <rectRegion x="0.46900" y="2.22200" w="71.09400" h="96.11100" t="0:04:17.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_830360" type="text" style="popup" log_data="a-type=1&amp;a-v=wxG-0Gfmt0I&amp;xble=1&amp;ei=IUQ9XNuYC9CBgAfv7JC4BQ&amp;a-id=annotation_830360" itct="CAMQs-UBGP___________wEiEwibrc3G3e7fAhXQAOAKHW82BFco-B0yAml2SMLumr-G2u-IwwE">
+  <TEXT>Laut diversen Foren lassen sich ANGEBLICH die Fehler wie folgt umgehen:
+
+1. Graphicsconfig.xml (1) 
+Unter C:\Users\[YourUserName]\Documents\NFS SHIFT (Pfad kann je nach Betriebssystem anders lauten) liegt normalerweise die Datei graphicsconfig.xml. Einige User berichten, dass das Löschen dieser Datei alle Probleme behoben hat. Am besten ist, wenn Sie diese Datei entweder umbenennen oder in einen anderen Ordner verschieben, um sie notfalls wiederherzustellen. 
+
+2. Graphicsconfig.xml (2) 
+Andere User berichten, dass NFS Shift zumindest im Fenster-Modus einwandfrei läuft. Um den Fenstermods vor dem Start zu aktivieren, müssen Sie die Datei graphicsconfig.xml mit dem Notepad (oder einem ähnlichen Tool) öffnen und aus 
+prop name=&quot;Windowed&quot; windowed=&quot;0&quot;
+ein 
+prop name=&quot;Windowed&quot; windowed=&quot;1&quot;
+machen. </TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="1.38900" w="59.53100" h="96.11100" t="0:03:50.7"/>
+      <rectRegion x="0.00000" y="1.38900" w="59.53100" h="96.11100" t="0:04:04.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsszCmarv3wIVEv9VCh0ZxwOAKPgdMgJpdkjmi96zqd-g_2U">
+<annotation id="annotation_155750" type="highlight" log_data="ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;a-id=annotation_155750&amp;a-type=3&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;a-v=Zf6C-pZ3heY" itct="CAEQs-UBGP___________wEiEwiyzMKZqu_fAhUS_1UKHRnHA4Ao-B0yAml2SOaL3rOp36D_ZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.15600" y="13.33300" w="28.59400" h="7.50000" t="0:02:54.3"/>
+      <rectRegion x="45.15600" y="13.33300" w="28.59400" h="7.50000" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_246411" type="text" style="popup" log_data="ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;a-id=annotation_246411&amp;a-type=1&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIFe9wiDfb0E&amp;a-v=Zf6C-pZ3heY" itct="CAIQs-UBGP___________wEiEwiyzMKZqu_fAhUS_1UKHRnHA4Ao-B0yAml2SOaL3rOp36D_ZQ">
+  <TEXT>Or &quot;Welcome to Life&quot;: the singularity, ruined by lawyers.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.46900" y="77.22200" w="49.84400" h="16.11100" t="0:02:54.5"/>
+      <rectRegion x="45.46900" y="77.22200" w="49.84400" h="16.11100" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_246411&amp;ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;feature=iv&amp;src_vid=Zf6C-pZ3heY&amp;v=IFe9wiDfb0E" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_271445" type="text" style="popup" log_data="ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;a-id=annotation_271445&amp;a-type=1&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Denyay&amp;a-v=Zf6C-pZ3heY" itct="CAMQs-UBGP___________wEiEwiyzMKZqu_fAhUS_1UKHRnHA4Ao-B0yAml2SOaL3rOp36D_ZQ">
+  <TEXT>Subscribe for more videos like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.31300" y="23.88900" w="50.62500" h="29.44400" t="0:02:54.5"/>
+      <rectRegion x="45.31300" y="23.88900" w="50.62500" h="29.44400" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=enyay&amp;annotation_id=annotation_271445&amp;ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;feature=iv&amp;src_vid=Zf6C-pZ3heY" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_465305" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_155750">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_155750" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_935666" type="text" style="popup" log_data="ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;a-id=annotation_935666&amp;a-type=1&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWcPhMqLPuvQ%26index%3D5%26list%3DSPCFAD753388263FB3&amp;a-v=Zf6C-pZ3heY" itct="CAQQs-UBGP___________wEiEwiyzMKZqu_fAhUS_1UKHRnHA4Ao-B0yAml2SOaL3rOp36D_ZQ">
+  <TEXT>You may also enjoy &quot;Is This You&quot;, about lifelogging, privacy and scandal</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.31300" y="57.50000" w="50.15600" h="16.94400" t="0:02:54.5"/>
+      <rectRegion x="45.31300" y="57.50000" w="50.15600" h="16.94400" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_935666&amp;ei=gJQ9XLKMCpL-1wKZjo-ACA&amp;feature=iv&amp;index=5&amp;list=SPCFAD753388263FB3&amp;src_vid=Zf6C-pZ3heY&amp;v=WcPhMqLPuvQ" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

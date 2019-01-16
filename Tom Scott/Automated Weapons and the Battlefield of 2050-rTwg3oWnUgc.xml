@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2P_dq6nv3wIVh5lVCh02CAaaKPgdMgJpdkiHpJ2t6JuInq0B">
+<annotation id="annotation_1121004371" type="highlight" log_data="a-type=3&amp;a-v=rTwg3oWnUgc&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;ei=mZM9XJjPOIez1gK2kJjQCQ&amp;xble=1&amp;a-id=annotation_1121004371" itct="CAEQs-UBGP___________wEiEwjY_92rqe_fAhWHmVUKHTYIBpoo-B0yAml2SIekna3om4ierQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.51700" y="47.32400" w="44.65100" h="20.45100" t="3:09.154"/>
+      <rectRegion x="54.51700" y="47.32400" w="44.65100" h="20.45100" t="3:17.647"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1121004371&amp;ei=mZM9XJjPOIez1gK2kJjQCQ&amp;feature=iv&amp;src_vid=rTwg3oWnUgc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1364791891" type="highlight" log_data="a-type=3&amp;a-v=rTwg3oWnUgc&amp;l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;ei=mZM9XJjPOIez1gK2kJjQCQ&amp;xble=1&amp;a-id=annotation_1364791891" itct="CAIQs-UBGP___________wEiEwjY_92rqe_fAhWHmVUKHTYIBpoo-B0yAml2SIekna3om4ierQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.51700" y="33.80300" w="44.65100" h="13.69000" t="3:09.154"/>
+      <rectRegion x="54.51700" y="33.80300" w="44.65100" h="13.69000" t="3:17.647"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_1364791891&amp;ei=mZM9XJjPOIez1gK2kJjQCQ&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=rTwg3oWnUgc" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4077306043" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1364791891">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1364791891" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4171078277" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1121004371">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1121004371" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:f8510c10-2002-424a-ba20-26efb1a582bc" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=f8510c10-2002-424a-ba20-26efb1a582bc&amp;a-type=62&amp;a-v=rTwg3oWnUgc&amp;ei=mZM9XJjPOIez1gK2kJjQCQ&amp;l-class=1&amp;link-id=vWmDHO_0P5Q&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;607.021 Aufrufe&quot;],&quot;start_ms&quot;:187800,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCNj_3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjY_92rqe_fAhWHmVUKHTYIBpoo-B0yBWNhcmRzSIekna3om4ierQE&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCNj_3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;1:44&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;f8510c10-2002-424a-ba20-26efb1a582bc&quot;,&quot;src_vid&quot;:&quot;rTwg3oWnUgc&quot;,&quot;ei&quot;:&quot;mZM9XJjPOIez1gK2kJjQCQ&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCNj_3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1450095719507,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:187800,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/vWmDHO_0P5Q\/mqdefault.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=vWmDHO_0P5Q&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;British Tanks Are Better Than All Other Tanks, And Here&#39;s Why&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: British Tanks Are Better Than All Other Tanks, And Here&#39;s Why&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=vWmDHO_0P5Q"/>
+  </action>
+</annotation>
+
+<annotation id="video:8b2fc32e-f2c7-4df4-acb9-d9d265445887" style="playlist" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=8b2fc32e-f2c7-4df4-acb9-d9d265445887&amp;a-type=63&amp;a-v=rTwg3oWnUgc&amp;ei=mZM9XJjPOIez1gK2kJjQCQ&amp;l-class=2&amp;link-id=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;192\u00a0Videos&quot;],&quot;start_ms&quot;:187800,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCNj_3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjY_92rqe_fAhWHmVUKHTYIBpoo-B0yBWNhcmRzSIekna3om4ierQE&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCNj_3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;8b2fc32e-f2c7-4df4-acb9-d9d265445887&quot;,&quot;src_vid&quot;:&quot;rTwg3oWnUgc&quot;,&quot;ei&quot;:&quot;mZM9XJjPOIez1gK2kJjQCQ&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCNj_3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;playlist_video_count&quot;:&quot;192&quot;,&quot;timestamp&quot;:1450095727600,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:187800,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/-eVd2Ugk9BU\/mqdefault.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=-eVd2Ugk9BU\u0026list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Things You Might Not Know&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Things You Might Not Know&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=-eVd2Ugk9BU&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjY/92rqe/fAhWHmVUKHTYIBpoo+B0yBWNhcmRzSIekna3om4ierQE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjY/92rqe/fAhWHmVUKHTYIBpoo+B0yBWNhcmRzSIekna3om4ierQE=&quot;, 
+  &quot;eventId&quot;: &quot;mZM9XJjPOIez1gK2kJjQCQ&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCNj/3aup798CFYeZVQodNggGmij4HTIFY2FyZHNIh6SdreibiJ6tAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

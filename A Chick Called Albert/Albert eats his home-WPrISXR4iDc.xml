@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIob6E9azv3wIVyFngCh26QAfUKPgdMgJpdki3kOKjl4my_Vg">
+<annotation id="annotation_1915994099" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to follow Albert</TEXT>
+  <segment spaceRelative="annotation_3485818499">
+    <movingRegion type="rect">
+      <rectRegion x="4.45300" y="18.60600" w="26.10900" h="8.80300" t="never"/>
+      <rectRegion x="4.45300" y="18.60600" w="26.10900" h="8.80300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3485818499" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3485818499" type="highlight" log_data="xble=1&amp;l-class=5&amp;a-v=WPrISXR4iDc&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBjh-uGy5RcclATnFpQBobw%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_3485818499&amp;ei=WJc9XKGyOsizgQe6gZ2gDQ" itct="CAEQs-UBGP___________wEiEwihvoT1rO_fAhXIWeAKHbpAB9Qo-B0yAml2SLeQ4qOXibL9WA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.19500" y="38.57700" w="35.77700" h="50.32400" t="1:06.082"/>
+      <rectRegion x="57.19500" y="38.57700" w="35.77700" h="50.32400" t="1:12.051"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13319742" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCBjh-uGy5RcclATnFpQBobw?annotation_id=annotation_3485818499&amp;ei=WJc9XKGyOsizgQe6gZ2gDQ&amp;feature=iv&amp;src_vid=WPrISXR4iDc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

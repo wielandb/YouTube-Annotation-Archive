@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3OHYtdvu3wIV1w_gCh0TcQ3iKPgdMgJpdkid_tmYsJ6ljd4B">
+<annotation id="annotation_298158" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Gewinnt FinalFantasy XIII-2 für die PS3! Jetzt auf www.GamingClerks.de -&gt; Losbude </TEXT>
+  <segment spaceRelative="annotation_969211">
+    <movingRegion type="rect">
+      <rectRegion x="-6.87500" y="33.61100" w="97.65600" h="6.38900" t="never"/>
+      <rectRegion x="-6.87500" y="33.61100" w="97.65600" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_969211" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_358438" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Jetzt Abonnieren!</TEXT>
+  <segment spaceRelative="annotation_954664">
+    <movingRegion type="rect">
+      <rectRegion x="17.18800" y="71.66700" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="17.18800" y="71.66700" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_954664" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_954664" type="highlight" log_data="ei=5EE9XNzfM9efgAeT4rWQDg&amp;a-v=3hqU8wMWfx0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks&amp;a-id=annotation_954664&amp;a-type=3&amp;xble=1&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjc4di12-7fAhXXD-AKHRNxDeIo-B0yAml2SJ3-2ZiwnqWN3gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.81300" y="13.05600" w="56.56300" h="73.05600" t="0:18:28.8"/>
+      <rectRegion x="22.81300" y="13.05600" w="56.56300" h="73.05600" t="0:18:43.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_954664&amp;ei=5EE9XNzfM9efgAeT4rWQDg&amp;feature=iv&amp;src_vid=3hqU8wMWfx0" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_969211" type="highlight" log_data="ei=5EE9XNzfM9efgAeT4rWQDg&amp;a-v=3hqU8wMWfx0&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks&amp;a-id=annotation_969211&amp;a-type=3&amp;xble=1&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwjc4di12-7fAhXXD-AKHRNxDeIo-B0yAml2SJ3-2ZiwnqWN3gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.43800" y="60.00000" w="23.59400" h="30.00000" t="0:00:16.7"/>
+      <rectRegion x="8.43800" y="60.00000" w="23.59400" h="30.00000" t="0:00:30.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_969211&amp;ei=5EE9XNzfM9efgAeT4rWQDg&amp;feature=iv&amp;src_vid=3hqU8wMWfx0" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

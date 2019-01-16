@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_eCKjKPv3wIVUuZVCh10Rw0rKPgdMgJpdkjQ-e7V1MnVoJAB">
+<annotation id="annotation_1922487117" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4004313717">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4004313717" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3152983135" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Betrunken Kochen!</TEXT>
+  <segment spaceRelative="annotation_3444045445">
+    <movingRegion type="rect">
+      <rectRegion x="-0.56800" y="14.39400" w="34.65900" h="24.43200" t="never"/>
+      <rectRegion x="-0.56800" y="14.39400" w="34.65900" h="24.43200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3444045445" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_329241641" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Perfekt Blasen lernen!</TEXT>
+  <segment spaceRelative="annotation_733244065">
+    <movingRegion type="rect">
+      <rectRegion x="2.55700" y="12.87900" w="28.69300" h="11.61600" t="never"/>
+      <rectRegion x="2.55700" y="12.87900" w="28.69300" h="11.61600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_733244065" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3444045445" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DndmXyyMCVKs%26list%3DUUq880QL0THPePYuGKV7PxZw&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_3444045445&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;a-v=kEFWTUq7vNA" itct="CAEQs-UBGP___________wEiEwj94IqMo-_fAhVS5lUKHXRHDSso-B0yAml2SND57tXUydWgkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.61900" y="61.36400" w="32.67000" h="35.35400" t="2:41.892"/>
+      <rectRegion x="41.61900" y="61.36400" w="32.67000" h="35.35400" t="3:08.670"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3444045445&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;feature=iv&amp;list=UUq880QL0THPePYuGKV7PxZw&amp;src_vid=kEFWTUq7vNA&amp;v=ndmXyyMCVKs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4004313717" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FRobBubble%3Fsub_confirmation%3D1&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_4004313717&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;a-v=kEFWTUq7vNA" itct="CAIQs-UBGP___________wEiEwj94IqMo-_fAhVS5lUKHXRHDSso-B0yAml2SND57tXUydWgkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.86400" y="26.76800" w="23.29500" h="16.16200" t="2:41.892"/>
+      <rectRegion x="73.86400" y="26.76800" w="23.29500" h="16.16200" t="3:08.269"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/RobBubble?annotation_id=annotation_4004313717&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;feature=iv&amp;src_vid=kEFWTUq7vNA&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_733244065" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPGbmx8pxnYI%26list%3DUUq880QL0THPePYuGKV7PxZw&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_733244065&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;a-v=kEFWTUq7vNA" itct="CAMQs-UBGP___________wEiEwj94IqMo-_fAhVS5lUKHXRHDSso-B0yAml2SND57tXUydWgkAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.84100" y="61.61600" w="33.38100" h="34.84900" t="2:41.892"/>
+      <rectRegion x="2.84100" y="61.61600" w="33.38100" h="34.84900" t="3:08.670"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_733244065&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;feature=iv&amp;list=UUq880QL0THPePYuGKV7PxZw&amp;src_vid=kEFWTUq7vNA&amp;v=PGbmx8pxnYI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:52f53c34-0-2e7e-9955-20cf301cc1b6" style="branding" type="branding"
+            log_data="xble=0&amp;a-ch=UCq880QL0THPePYuGKV7PxZw&amp;a-type=10&amp;l-class=3&amp;a-id=52f53c34-0-2e7e-9955-20cf301cc1b6&amp;ei=DI09XP2qOdLM1wL0jrXYAg&amp;a-v=kEFWTUq7vNA&amp;link-id=UCq880QL0THPePYuGKV7PxZw">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/q880QL0THPePYuGKV7PxZw\/featured_channel.jpg?v=52f66097&quot;,&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;52f53c34-0-2e7e-9955-20cf301cc1b6&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCP3gioyj798CFVLmVQoddEcNKyj4HTICaXZI0Pnu1dTJ1aCQAQ&quot;,&quot;src_vid&quot;:&quot;kEFWTUq7vNA&quot;,&quot;ei&quot;:&quot;DI09XP2qOdLM1wL0jrXYAg&quot;},&quot;channel_name&quot;:&quot;RobBubble&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;201782&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:202000,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCq880QL0THPePYuGKV7PxZw&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;201.783&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;201.782&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FRobBubble%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqa2xOblBFOWZMZHRqZV9xMUtvQm1PZUdFRjNWZ3xBQ3Jtc0tsR0JldjF5UGVCSFpwNzVPSi1qUDhtZ0lfcXNQRzJ5cWF5dnlQdHJEOXVPZTNkcWZSY1RxS1hoTktMTE5YRDJVNnZTQU15LW9NWkRuNnNoall4TF9mSjN4RlVVTl9KTkFWVkFVbU1mSXdFY2oyd0RtcXkyWnFuVG4xTFpYc0pGcmllMXJENTJORGlKQ0J4V29tWjBLX3k0cFh6OUtrelJPSGlSUVp1WVpGSzVjM25VcTh1MzY1QU42cDVVN2t1RXN6czY4cVBFWXZ6bGNPSUQ2T1R0cWhOZmFDTnRvS1BJTWJBV2VPM0MzZkpUQUdwR0pv\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;},&quot;image_width&quot;:40,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/RobBubble"/>
+  </action>
+</annotation></annotations></document>

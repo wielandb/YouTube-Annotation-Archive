@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIpKu2javv3wIVTbN7Ch3avQSRKPgdMgJpdkjnho7Az76BsKkB">
+<annotation id="annotation_1648499199" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_24693435">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_24693435" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_24693435" type="highlight" log_data="link=http%3A%2F%2Fweb.archive.org%2Fweb%2F20060527220150%2Fhttp%3A%2F%2Fwww.eathufu.com%2Fhome.asp&amp;xble=1&amp;ei=c5U9XOSlDs3m7gPa-5KICQ&amp;a-v=qWAF9PgDg2c&amp;a-type=3&amp;a-id=annotation_24693435&amp;l-class=12" itct="CAEQs-UBGP___________wEiEwikq7aNq-_fAhVNs3sKHdq9BJEo-B0yAml2SOeGjsDPvoGwqQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.50400" y="23.34400" w="61.92500" h="48.44600" t="10:08.593"/>
+      <rectRegion x="19.50400" y="23.34400" w="61.92500" h="48.44600" t="10:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://web.archive.org/web/20060527220150/http://www.eathufu.com/home.asp" link_class="12"/>
+  </action>
+
+</annotation>
+</annotations></document>

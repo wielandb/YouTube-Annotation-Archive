@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5vzb7qzv3wIVjZNVCh07nA0xKPgdMgJpdki-v4WI_fPp-SA">
+<annotation id="annotation_1258448161" type="text" style="anchored" log_data="ei=S5c9XKarK42n1gK7uLaIAw&amp;a-type=8&amp;a-id=annotation_1258448161&amp;l-class=5&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBjh-uGy5RcclATnFpQBobw%3Fsub_confirmation%3D1&amp;xble=1&amp;a-v=IPOnn9EBX74" itct="CAEQs-UBGP___________wEiEwjm_NvurO_fAhWNk1UKHTucDTEo-B0yAml2SL6_hYj98-n5IA">
+  <TEXT>subscribe to find out what happened next</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="0.15800" y="1.40800" w="41.99700" h="8.60600" sx="31.2199993134" sy="12.013999939" t="0:34.357"/>
+      <anchoredRegion x="0.15800" y="1.40800" w="41.99700" h="8.60600" sx="31.2199993134" sy="12.013999939" t="0:48.692"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCBjh-uGy5RcclATnFpQBobw?annotation_id=annotation_1258448161&amp;ei=S5c9XKarK42n1gK7uLaIAw&amp;feature=iv&amp;src_vid=IPOnn9EBX74&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1648413091" type="text" style="popup" log_data="ei=S5c9XKarK42n1gK7uLaIAw&amp;a-type=1&amp;a-id=annotation_1648413091&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPOnn9EBX74%26list%3DPLeGWKJBsQXJTAIdrceG83tRlcW6A3pi67&amp;xble=1&amp;a-v=IPOnn9EBX74" itct="CAIQs-UBGP___________wEiEwjm_NvurO_fAhWNk1UKHTucDTEo-B0yAml2SL6_hYj98-n5IA">
+  <TEXT>Albert&#39;s vlog Playlist
+see all Albert&#39;s videos</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.95400" y="14.36600" w="28.57400" h="12.83100" t="0:43.942"/>
+      <rectRegion x="58.95400" y="14.36600" w="28.57400" h="12.83100" t="0:48.692"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="3.911591666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1648413091&amp;ei=S5c9XKarK42n1gK7uLaIAw&amp;feature=iv&amp;list=PLeGWKJBsQXJTAIdrceG83tRlcW6A3pi67&amp;src_vid=IPOnn9EBX74&amp;v=IPOnn9EBX74" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1854457273" type="highlight" log_data="ei=S5c9XKarK42n1gK7uLaIAw&amp;a-type=3&amp;a-id=annotation_1854457273&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBjh-uGy5RcclATnFpQBobw&amp;xble=1&amp;a-v=IPOnn9EBX74" itct="CAMQs-UBGP___________wEiEwjm_NvurO_fAhWNk1UKHTucDTEo-B0yAml2SL6_hYj98-n5IA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.27100" y="43.09900" w="28.48700" h="44.39400" t="0:43.527"/>
+      <rectRegion x="59.27100" y="43.09900" w="28.48700" h="44.39400" t="0:48.692"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCBjh-uGy5RcclATnFpQBobw?annotation_id=annotation_1854457273&amp;ei=S5c9XKarK42n1gK7uLaIAw&amp;feature=iv&amp;src_vid=IPOnn9EBX74" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3007394243" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>follow Albert</TEXT>
+  <segment spaceRelative="annotation_1854457273">
+    <movingRegion type="rect">
+      <rectRegion x="1.26800" y="18.87300" w="25.79200" h="11.91500" t="never"/>
+      <rectRegion x="1.26800" y="18.87300" w="25.79200" h="11.91500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1854457273" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

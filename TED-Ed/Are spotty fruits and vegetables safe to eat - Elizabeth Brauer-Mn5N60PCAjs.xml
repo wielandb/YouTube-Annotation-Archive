@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0qCB3-nu3wIVVLLeCh26bA1GKPgdMgJpdki7hIietL2TvzI">
+<annotation id="annotation_1793770335" type="highlight" log_data="l-class=6&amp;xble=1&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=annotation_1793770335&amp;a-v=Mn5N60PCAjs&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjSoIHf6e7fAhVUst4KHbpsDUYo-B0yAml2SLuEiJ60vZO_Mg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.88900" y="70.14100" w="23.73200" h="21.58100" t="3:58.000"/>
+      <rectRegion x="69.88900" y="70.14100" w="23.73200" h="21.58100" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1818390691" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1793770335">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="21.88700" w="23.89100" h="7.97200" t="never"/>
+      <rectRegion x="0.00000" y="21.88700" w="23.89100" h="7.97200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1793770335" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1908997141" type="highlight" log_data="l-class=6&amp;xble=1&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=annotation_1908997141&amp;a-v=Mn5N60PCAjs&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fare-spotty-fruits-and-vegetables-safe-to-eat-elizabeth-brauer&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjSoIHf6e7fAhVUst4KHbpsDUYo-B0yAml2SLuEiJ60vZO_Mg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.58000" y="52.11300" w="71.11700" h="16.22900" t="3:58.000"/>
+      <rectRegion x="14.58000" y="52.11300" w="71.11700" h="16.22900" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/are-spotty-fruits-and-vegetables-safe-to-eat-elizabeth-brauer" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_207880063" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3248816321">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3248816321" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2111871093" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3335048385">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3335048385" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_230078591" type="text" style="popup" log_data="l-class=6&amp;xble=1&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=annotation_230078591&amp;a-v=Mn5N60PCAjs&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fare-spotty-fruits-and-vegetables-safe-to-eat-elizabeth-brauer&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwjSoIHf6e7fAhVUst4KHbpsDUYo-B0yAml2SLuEiJ60vZO_Mg">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.01100" y="4.50700" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="3.01100" y="4.50700" w="30.00000" h="8.88900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/are-spotty-fruits-and-vegetables-safe-to-eat-elizabeth-brauer" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2827267817" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1908997141">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1908997141" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2970709629" type="text" style="popup" log_data="l-class=12&amp;xble=1&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=annotation_2970709629&amp;a-v=Mn5N60PCAjs&amp;link=http%3A%2F%2Fwww.youtube.acom%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwjSoIHf6e7fAhVUst4KHbpsDUYo-B0yAml2SLuEiJ60vZO_Mg">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.65500" y="11.26800" w="17.63200" h="26.90900" t="3:58.000"/>
+      <rectRegion x="77.65500" y="11.26800" w="17.63200" h="26.90900" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.youtube.acom/user/TEDEducation?sub_confirmation=1" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3248816321" type="highlight" log_data="l-class=6&amp;xble=1&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=annotation_3248816321&amp;a-v=Mn5N60PCAjs&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwjSoIHf6e7fAhVUst4KHbpsDUYo-B0yAml2SLuEiJ60vZO_Mg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.34100" y="70.42300" w="33.71600" h="21.01700" t="3:58.000"/>
+      <rectRegion x="35.34100" y="70.42300" w="33.71600" h="21.01700" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3335048385" type="highlight" log_data="l-class=6&amp;xble=1&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=annotation_3335048385&amp;a-v=Mn5N60PCAjs&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;a-type=3" itct="CAYQs-UBGP___________wEiEwjSoIHf6e7fAhVUst4KHbpsDUYo-B0yAml2SLuEiJ60vZO_Mg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.54700" y="70.42300" w="28.64500" h="21.01700" t="3:58.000"/>
+      <rectRegion x="5.54700" y="70.42300" w="28.64500" h="21.01700" t="4:08.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;xble=0&amp;ei=6VA9XJKIJNTk-ga62bWwBA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=Mn5N60PCAjs&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10">
+  <data>{&quot;image_type&quot;:0,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCNKggd_p7t8CFVSy3godumwNRij4HTICaXZIu4SInrS9k78y&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;6VA9XJKIJNTk-ga62bWwBA&quot;,&quot;src_vid&quot;:&quot;Mn5N60PCAjs&quot;},&quot;end_ms&quot;:249000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbVVlUzdua09mMnpxTmUxcVQ1bjFyMWVnLXRfd3xBQ3Jtc0tuRWxIeF9sbXR6dmZ5MlB0YTBiRUQ4SWQxanJIYk5aWnZUNDE3X19ZZ1YtUUVFV2FEUXkyZXptYVZXREJELUxLeF9FOHVNck1vZjktMERCN015SThGLVlQMGdMVVN1RzFVcms1ZEo3Q0J2aDRPdWZjVGNjOW1ucURROXRGZldtSFRYbnpnWi1wNDBmaXVTSjlNdEtDa1BxWGo1anYxTTgtRHZzb19DR1g4QU5COC0zZG9fV3lOTTdOOWI0cHZWaFREYkpxRWgtRjJSYnhvSGNRQ0U3OHhhQ2FwWEtpMlJNbGFTTktwbWhtTF9aQ1lVVnow%26action_handle_signin%3Dtrue%26feature%3Div\u0026service=youtube\u0026passive=true\u0026uilel=3&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false},&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

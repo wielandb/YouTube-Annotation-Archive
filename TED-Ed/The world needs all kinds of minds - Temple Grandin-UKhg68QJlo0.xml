@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3qjX2O3u3wIVyBPgCh35WgJJKPgdMgJpdkiNraagvJ2Y1FA">
+<annotation id="annotation_231861" type="text" style="popup" log_data="ei=DlU9XN7pA8ingAf5tYnIBA&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-world-needs-all-kinds-of-minds-temple-grandin&amp;a-v=UKhg68QJlo0&amp;a-type=1&amp;a-id=annotation_231861&amp;l-class=12&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjeqNfY7e7fAhXIE-AKHflaAkko-B0yAml2SI2tpqC8nZjUUA">
+  <TEXT>Create a custom lesson using this video on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.15600" y="73.05600" w="59.06200" h="8.88900" t="0:00:10.0"/>
+      <rectRegion x="20.15600" y="73.05600" w="59.06200" h="8.88900" t="0:00:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-world-needs-all-kinds-of-minds-temple-grandin" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_568782" type="highlight" log_data="ei=DlU9XN7pA8ingAf5tYnIBA&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-world-needs-all-kinds-of-minds-temple-grandin&amp;a-v=UKhg68QJlo0&amp;a-type=3&amp;a-id=annotation_568782&amp;l-class=12&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjeqNfY7e7fAhXIE-AKHflaAkko-B0yAml2SI2tpqC8nZjUUA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.43800" y="47.22200" w="43.75000" h="19.16700" t="0:00:10.0"/>
+      <rectRegion x="28.43800" y="47.22200" w="43.75000" h="19.16700" t="0:00:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-world-needs-all-kinds-of-minds-temple-grandin" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_66839" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_568782">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="31.87500" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="31.87500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_568782" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="ei=DlU9XN7pA8ingAf5tYnIBA&amp;a-v=UKhg68QJlo0&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;xble=0">
+  <data>{&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Dde%26app%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbW16WkR0NU1RTV92SXNXR1VCRGppNXU4UDBmQXxBQ3Jtc0tsS3pjaU43eW02UnBTYkZQZVkzZDdpaGs2ZDRZTjZSLWFCQThwbVMtTnF1aXNUc3k3WkZIN1Q5QmxiX0NmbVlYdlNZYXhQUWRORjhXX2IyMTBCWG91ei16djJkMXB4N1ViLUxyTlppeExtX3ZRZUhxc3dvWWxmM3YwcHZqV1IxSGwyd3pSTkV1VkNacWhOZXlaMUFVUWhJUU5vM1ZrR0t1QWhWTFJ5MTRJRkVXbDR1MDMxaE94alRRMkRkbEc4NnZsV0FyTWtFQ3J4ZzlYUlZ3RUhxNmpwMlpULU81cG95SDFiTk1PbHhfemU5VzhnRmtJ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;end_ms&quot;:1184000,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;DlU9XN7pA8ingAf5tYnIBA&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;UKhg68QJlo0&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCN6o19jt7t8CFcgT4Aod-VoCSSj4HTICaXZIja2moLydmNRQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

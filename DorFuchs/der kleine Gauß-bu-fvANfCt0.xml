@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqqWPtZjv3wIVz6J7Ch1g-Qk_KPgdMgJpdkjdlfyawPfn924">
+<annotation id="annotation_1476535195" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>hier klickt doch eh keiner drauf, oder?
+zumindest wäre es schade, weil man ja sonst den Rest des Videos verpasst...
+Ich packe den Link lieber mal noch in die Videobeschreibung...</TEXT>
+  <segment spaceRelative="annotation_2078945345">
+    <movingRegion type="rect">
+      <rectRegion x="-1.58500" y="38.31000" w="40.53100" h="33.44700" t="never"/>
+      <rectRegion x="-1.58500" y="38.31000" w="40.53100" h="33.44700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2078945345" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2078945345" type="highlight" log_data="a-v=bu-fvANfCt0&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvUgjDh-8zAs&amp;a-type=3&amp;l-class=1&amp;ei=2oE9XKrQDM_F7gPg8qf4Aw&amp;a-id=annotation_2078945345" itct="CAEQs-UBGP___________wEiEwiqpY-1mO_fAhXPonsKHWD5CT8o-B0yAml2SN2V_JrA9-f3bg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.47900" y="20.84500" w="35.30100" h="37.91500" t="1:24.187"/>
+      <rectRegion x="58.47900" y="20.84500" w="35.30100" h="37.91500" t="1:27.187"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2078945345&amp;ei=2oE9XKrQDM_F7gPg8qf4Aw&amp;feature=iv&amp;src_vid=bu-fvANfCt0&amp;v=vUgjDh-8zAs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:a5e98766-6e48-2caf-8be7-e0cd537a0" style="branding" type="branding"
+            log_data="a-v=bu-fvANfCt0&amp;a-ch=UC97dp7op_ZjSCNp3DRLGymQ&amp;link-id=UC97dp7op_ZjSCNp3DRLGymQ&amp;xble=0&amp;a-type=10&amp;l-class=3&amp;ei=2oE9XKrQDM_F7gPg8qf4Aw&amp;a-id=a5e98766-6e48-2caf-8be7-e0cd537a0">
+  <data>{&quot;num_subscribers&quot;:&quot;158252&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UC97dp7op_ZjSCNp3DRLGymQ&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;158.252&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FDorFuchs%26feature%3Div%26continue_action%3DQUFFLUhqa2RhblVTQlpCb0JqbmdWYWN3ZHBVc21rdjg5UXxBQ3Jtc0tudV8yNzhLcnVuZHV5Y2pSbjRLelZ5cjBOcVYxUkRiMWhaS2Z3V1hRWk9rRlBQaW5kamo5clItZF9kUnZVMzlmUERWMnV5SzlhY0FGbUl6Wjctd29SVktrZ1UxLWZZemxnMUZGeGRmNW1sZTBWVHZieDZ3bDNOOUlnOEFMb0k0YVFZaEU3RkRtY2VXaWVpUEF4VWg3STV6OHB0NUNjNU1QMFp1Mk41LUwtdy1nSW5NQ0lBZlNCVnRVSnY1V2NNWUI1NFU4WTR5T0lCQ2tUM1FFd0drS1hxZ1N3RzJWeGVwU01qMTR5Rkw5LWFnZTRKcU9v%26action_handle_signin%3Dtrue%26hl%3Dde\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;158.253&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;end_ms&quot;:206000,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mDDSgDob0mc37Cwm_zZ6VWbA5QeVBVOmri1nw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;DorFuchs&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;a5e98766-6e48-2caf-8be7-e0cd537a0&quot;,&quot;src_vid&quot;:&quot;bu-fvANfCt0&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCKqlj7WY798CFc-iewodYPkJPyj4HTICaXZI3ZX8msD35_du&quot;,&quot;ei&quot;:&quot;2oE9XKrQDM_F7gPg8qf4Aw&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/DorFuchs"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwdv57qnv3wIVS2vgCh1rOwh6KPgdMgJpdkjVl9SIuobrw_wB">
+<annotation id="annotation_1162566729" type="text" style="popup" log_data="xble=1&amp;ei=JpQ9XMGwNsvWgQfr9qDQBw&amp;a-v=_IesM6EVC9U&amp;a-id=annotation_1162566729&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjB2_nuqe_fAhVLa-AKHWs7CHoo-B0yAml2SNWX1Ii6huvD_AE">
+  <TEXT>Advance warning: this week&#39;s final joke is incredibly British. Anyone outside the UK: good luck.
+Enjoy the show!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="84.22500" w="100.00000" h="15.36800" t="0:05.990"/>
+      <rectRegion x="0.00000" y="84.22500" w="100.00000" h="15.36800" t="0:16.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_1270041747" type="text" style="popup" log_data="xble=1&amp;ei=JpQ9XMGwNsvWgQfr9qDQBw&amp;a-v=_IesM6EVC9U&amp;a-id=annotation_1270041747&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjB2_nuqe_fAhVLa-AKHWs7CHoo-B0yAml2SNWX1Ii6huvD_AE">
+  <TEXT>Thanks for watching! And as ever, if you liked it, leave a comment and let us know.
+Next week: the season finale!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="84.78900" w="100.00000" h="15.21100" t="19:20.950"/>
+      <rectRegion x="0.00000" y="84.78900" w="100.00000" h="15.21100" t="19:40.578"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2288652739" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4256387785">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4256387785" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4256387785" type="highlight" log_data="xble=1&amp;ei=JpQ9XMGwNsvWgQfr9qDQBw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-id=annotation_4256387785&amp;a-v=_IesM6EVC9U&amp;a-type=3&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwjB2_nuqe_fAhVLa-AKHWs7CHoo-B0yAml2SNWX1Ii6huvD_AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.52000" y="16.33800" w="74.76200" h="11.44000" t="19:20.950"/>
+      <rectRegion x="12.52000" y="16.33800" w="74.76200" h="11.44000" t="19:40.578"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_4256387785&amp;ei=JpQ9XMGwNsvWgQfr9qDQBw&amp;feature=iv&amp;src_vid=_IesM6EVC9U&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

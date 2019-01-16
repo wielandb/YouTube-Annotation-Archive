@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzLSg9aTv3wIVVUzgCh27WQCmKPgdMgJpdkimrc-Zt5K3gb8B">
+<annotation id="annotation_138887" type="text" style="popup" log_data="a-v=vwLck3Mz1qY&amp;a-type=1&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DSpaceFrogsEnt&amp;xble=1&amp;ei=9Y49XIzmONWYgQe7s4GwCg&amp;a-id=annotation_138887" itct="CAEQs-UBGP___________wEiEwjMtKD1pO_fAhVVTOAKHbtZAKYo-B0yAml2SKatz5m3kreBvwE">
+  <TEXT>ABONNIEREN !!!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.71900" y="45.83300" w="29.21900" h="8.61100" t="0:01:08.0"/>
+      <rectRegion x="36.71900" y="45.83300" w="29.21900" h="8.61100" t="0:01:09.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="5.41605" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_138887&amp;ei=9Y49XIzmONWYgQe7s4GwCg&amp;feature=iv&amp;src_vid=vwLck3Mz1qY&amp;user=SpaceFrogsEnt" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_819955" type="highlight" log_data="a-v=vwLck3Mz1qY&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvM4eHFNgGuE&amp;xble=1&amp;ei=9Y49XIzmONWYgQe7s4GwCg&amp;a-id=annotation_819955" itct="CAIQs-UBGP___________wEiEwjMtKD1pO_fAhVVTOAKHbtZAKYo-B0yAml2SKatz5m3kreBvwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.31300" y="27.22200" w="15.15600" h="25.27800" t="0:01:00.2"/>
+      <rectRegion x="45.31300" y="27.22200" w="15.15600" h="25.27800" t="0:01:06.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_819955&amp;ei=9Y49XIzmONWYgQe7s4GwCg&amp;feature=iv&amp;src_vid=vwLck3Mz1qY&amp;v=vM4eHFNgGuE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_926384" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Geheim</TEXT>
+  <segment spaceRelative="annotation_819955">
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="11.38900" w="10.78100" h="5.27800" t="never"/>
+      <rectRegion x="2.81300" y="11.38900" w="10.78100" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_819955" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_949518" type="text" style="popup" log_data="a-id=annotation_949518&amp;a-type=1&amp;xble=1&amp;a-v=vwLck3Mz1qY&amp;ei=9Y49XIzmONWYgQe7s4GwCg" itct="CAMQs-UBGP___________wEiEwjMtKD1pO_fAhVVTOAKHbtZAKYo-B0yAml2SKatz5m3kreBvwE">
+  <TEXT>Diese Funktion wurde leider von Youtube abgeschafft. In Zukunft wird es also keine &quot;versteckten&quot; Outtakes bei uns geben. Sorry...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.12500" y="83.05600" w="51.87500" h="16.94400" t="0:00:57.3"/>
+      <rectRegion x="48.12500" y="83.05600" w="51.87500" h="16.94400" t="0:01:06.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="4.513375" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

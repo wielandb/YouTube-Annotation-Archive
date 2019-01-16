@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIv5LRjKnv3wIVxrRVCh0qjw6GKPgdMgJpdkiy_LyioMjw4ZoB">
+<annotation id="annotation_1738461219" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4161692049">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4161692049" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4034882349" type="text" style="popup" log_data="xble=1&amp;a-id=annotation_4034882349&amp;l-class=5&amp;a-v=msPCQgRPPjI&amp;ei=WJM9XL-GK8bp1gKqnrqwCA&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwi_ktGMqe_fAhXGtFUKHSqPDoYo-B0yAml2SLL8vKKgyPDhmgE">
+  <TEXT>Subscribe for more like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.53900" y="85.07000" w="37.29000" h="10.01400" t="3:24.786"/>
+      <rectRegion x="60.53900" y="85.07000" w="37.29000" h="10.01400" t="3:35.564"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_4034882349&amp;ei=WJM9XL-GK8bp1gKqnrqwCA&amp;feature=iv&amp;src_vid=msPCQgRPPjI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4161692049" type="highlight" log_data="xble=1&amp;a-id=annotation_4161692049&amp;l-class=6&amp;a-v=msPCQgRPPjI&amp;ei=WJM9XL-GK8bp1gKqnrqwCA&amp;a-type=3&amp;link=http%3A%2F%2Fwww.tomscott.com%2F" itct="CAIQs-UBGP___________wEiEwi_ktGMqe_fAhXGtFUKHSqPDoYo-B0yAml2SLL8vKKgyPDhmgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.44400" y="4.22500" w="60.34100" h="21.57700" t="3:24.786"/>
+      <rectRegion x="20.44400" y="4.22500" w="60.34100" h="21.57700" t="3:35.564"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_764395657" type="text" style="popup" log_data="xble=1&amp;a-id=annotation_764395657&amp;l-class=1&amp;a-v=msPCQgRPPjI&amp;ei=WJM9XL-GK8bp1gKqnrqwCA&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBgAdeuxkUyY%26list%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem%26index%3D36" itct="CAMQs-UBGP___________wEiEwi_ktGMqe_fAhXGtFUKHSqPDoYo-B0yAml2SLL8vKKgyPDhmgE">
+  <TEXT>You may also enjoy:
+How YouTube Video Stabilisation Works</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.69700" y="61.97200" w="37.24200" h="19.59200" t="3:24.786"/>
+      <rectRegion x="60.69700" y="61.97200" w="37.24200" h="19.59200" t="3:35.573"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_764395657&amp;ei=WJM9XL-GK8bp1gKqnrqwCA&amp;feature=iv&amp;index=36&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=msPCQgRPPjI&amp;v=BgAdeuxkUyY" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

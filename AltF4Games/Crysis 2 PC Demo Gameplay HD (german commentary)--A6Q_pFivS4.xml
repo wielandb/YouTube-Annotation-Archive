@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIq-qRho_v3wIVTbZVCh1J3gmzKPgdMgJpdkiu-oqL6Z-kh_gB">
+<annotation id="annotation_347573" type="text" style="popup" log_data="ei=B3g9XOvKLs3s1gLJvKeYCw&amp;a-id=annotation_347573&amp;xble=1&amp;a-type=1&amp;a-v=-A6Q_pFivS4" itct="CAEQs-UBGP___________wEiEwir6pGGj-_fAhVNtlUKHUneCbMo-B0yAml2SK76iovpn6SH-AE">
+  <TEXT>Ich vergleiche das Spiel hier deutlich mit CoD. Falls ihr dachtet, dass ich Crysis damit schlecht machen wollte, liegt ihr falsch. Ich persönlich finde Crysis 2 deutlich besser als die CoD-Reihe.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.28100" y="69.72200" w="54.68800" h="20.55600" t="0:00:06.8"/>
+      <rectRegion x="23.28100" y="69.72200" w="54.68800" h="20.55600" t="0:00:32.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_650430" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do2fuayze86c&amp;ei=B3g9XOvKLs3s1gLJvKeYCw&amp;a-id=annotation_650430&amp;a-type=1&amp;l-class=1&amp;a-v=-A6Q_pFivS4" itct="CAIQs-UBGP___________wEiEwir6pGGj-_fAhVNtlUKHUneCbMo-B0yAml2SK76iovpn6SH-AE">
+  <TEXT>Für zwei BESSERE Runden im dual commentary, hier klicken!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.55600" w="36.09400" h="11.66700" t="0:00:04.6"/>
+      <rectRegion x="0.00000" y="0.55600" w="36.09400" h="11.66700" t="0:00:25.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_650430&amp;ei=B3g9XOvKLs3s1gLJvKeYCw&amp;feature=iv&amp;src_vid=-A6Q_pFivS4&amp;v=o2fuayze86c" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_770493" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Klicken!</TEXT>
+  <segment spaceRelative="annotation_952000">
+    <movingRegion type="rect">
+      <rectRegion x="6.09400" y="25.27800" w="20.00000" h="5.55600" t="never"/>
+      <rectRegion x="6.09400" y="25.27800" w="20.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_952000" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_952000" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do2fuayze86c&amp;ei=B3g9XOvKLs3s1gLJvKeYCw&amp;a-id=annotation_952000&amp;a-type=3&amp;l-class=1&amp;a-v=-A6Q_pFivS4" itct="CAMQs-UBGP___________wEiEwir6pGGj-_fAhVNtlUKHUneCbMo-B0yAml2SK76iovpn6SH-AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.75000" y="40.55600" w="32.03100" h="19.16700" t="0:07:30.6"/>
+      <rectRegion x="33.75000" y="40.55600" w="32.03100" h="19.16700" t="0:07:44.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_952000&amp;ei=B3g9XOvKLs3s1gLJvKeYCw&amp;feature=iv&amp;src_vid=-A6Q_pFivS4&amp;v=o2fuayze86c" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

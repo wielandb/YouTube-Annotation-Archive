@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5fzF2Onu3wIVT0vgCh0G-AIzKPgdMgJpdkiixaHfm--Woq4B">
+<annotation id="annotation_14074" type="text" style="popup" log_data="l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-color-is-tuesday-exploring-synesthesia-richard-e-cytowic&amp;xble=1&amp;a-id=annotation_14074&amp;a-v=rkRbebvoYqI&amp;a-type=1&amp;ei=3FA9XOWeAs-WgQeG8IuYAw" itct="CAEQs-UBGP___________wEiEwjl_MXY6e7fAhVPS-AKHQb4AjMo-B0yAml2SKLFod-b75airgE">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.55600" w="36.25000" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="10.55600" w="36.25000" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-color-is-tuesday-exploring-synesthesia-richard-e-cytowic" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_150435" type="highlight" log_data="l-class=6&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;a-id=annotation_150435&amp;a-v=rkRbebvoYqI&amp;a-type=3&amp;ei=3FA9XOWeAs-WgQeG8IuYAw" itct="CAIQs-UBGP___________wEiEwjl_MXY6e7fAhVPS-AKHQb4AjMo-B0yAml2SKLFod-b75airgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.31300" y="71.38900" w="22.65600" h="18.05600" t="3:46.200"/>
+      <rectRegion x="70.31300" y="71.38900" w="22.65600" h="18.05600" t="3:56.194"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_162442" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_893960">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_893960" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_265430" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_886092">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_886092" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_325103" type="highlight" log_data="l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;xble=1&amp;a-id=annotation_325103&amp;a-v=rkRbebvoYqI&amp;a-type=3&amp;ei=3FA9XOWeAs-WgQeG8IuYAw" itct="CAMQs-UBGP___________wEiEwjl_MXY6e7fAhVPS-AKHQb4AjMo-B0yAml2SKLFod-b75airgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.71900" y="71.38900" w="26.40600" h="17.77800" t="0:03:46.2"/>
+      <rectRegion x="6.71900" y="71.38900" w="26.40600" h="17.77800" t="0:03:56.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_518318" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_150435">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_150435" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_886092" type="highlight" log_data="l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;xble=1&amp;a-id=annotation_886092&amp;a-v=rkRbebvoYqI&amp;a-type=3&amp;ei=3FA9XOWeAs-WgQeG8IuYAw" itct="CAQQs-UBGP___________wEiEwjl_MXY6e7fAhVPS-AKHQb4AjMo-B0yAml2SKLFod-b75airgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.40600" y="71.94400" w="31.71900" h="17.77800" t="0:03:46.2"/>
+      <rectRegion x="36.40600" y="71.94400" w="31.71900" h="17.77800" t="0:03:56.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_887374" type="text" style="popup" log_data="l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;xble=1&amp;a-id=annotation_887374&amp;a-v=rkRbebvoYqI&amp;a-type=1&amp;ei=3FA9XOWeAs-WgQeG8IuYAw" itct="CAUQs-UBGP___________wEiEwjl_MXY6e7fAhVPS-AKHQb4AjMo-B0yAml2SKLFod-b75airgE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.75000" y="12.50000" w="14.68800" h="32.50000" t="0:03:46.2"/>
+      <rectRegion x="78.75000" y="12.50000" w="14.68800" h="32.50000" t="0:03:52.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_887374&amp;ei=3FA9XOWeAs-WgQeG8IuYAw&amp;feature=iv&amp;src_vid=rkRbebvoYqI" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_893960" type="highlight" log_data="l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-color-is-tuesday-exploring-synesthesia-richard-e-cytowic&amp;xble=1&amp;a-id=annotation_893960&amp;a-v=rkRbebvoYqI&amp;a-type=3&amp;ei=3FA9XOWeAs-WgQeG8IuYAw" itct="CAYQs-UBGP___________wEiEwjl_MXY6e7fAhVPS-AKHQb4AjMo-B0yAml2SKLFod-b75airgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="53.33300" w="69.21900" h="12.77800" t="0:03:46.2"/>
+      <rectRegion x="15.00000" y="53.33300" w="69.21900" h="12.77800" t="0:03:56.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-color-is-tuesday-exploring-synesthesia-richard-e-cytowic" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_901837" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_325103">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_325103" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=rkRbebvoYqI&amp;a-type=10&amp;ei=3FA9XOWeAs-WgQeG8IuYAw">
+  <data>{&quot;image_type&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_height&quot;:40,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqa3A4X2pld3YwdUtjMmRTajlRYWp5TldWTDNiZ3xBQ3Jtc0tscklWSFYzWUF5UWpLa2dKUjJZdFpPX01oWEpuaXFtNXU2cjZRVWFYLXNxQ1pIX3FDRjBNOUlDc2pReUZtbHctdFdYM1lyb2dMcEtCZmcxRk1wdGprcS00b1Vyd2dmOEh2UmVMOVBodS14aV9YcThOU2FtZXJVSU9RX2NGVTI3VGNvUnJ4MjVNYVNfdHgydjhQbGt5WFB5akphRlFlLXRqanhvWHVVUVhBTE9NVFR5WlpkYU5QOFB1dXFaekJTYkJTVUplREhxZ2l4Ml9iamJDUTBvNGZZTEJpYTgzZWh4SDgtOXpaYldDdkJwNE5hV08w%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop%26hl%3Dde\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;classic&quot;:true},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;rkRbebvoYqI&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCOX8xdjp7t8CFU9L4AodBvgCMyj4HTICaXZIosWh35vvlqKuAQ&quot;,&quot;ei&quot;:&quot;3FA9XOWeAs-WgQeG8IuYAw&quot;},&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:237000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

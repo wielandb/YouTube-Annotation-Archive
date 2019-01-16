@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkd-c_5Xv3wIV8hvgCh0azA0NKPgdMgJpdkjCl6uwpOr6oWI">
+<annotation id="annotation_1011417071" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Musical Floppy Drives</TEXT>
+  <segment spaceRelative="annotation_2001352569">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="34.25500" w="42.61400" h="9.79800" t="never"/>
+      <rectRegion x="0.00000" y="34.25500" w="42.61400" h="9.79800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2001352569" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1731728649" type="text" style="popup" log_data="a-v=YkPrUkYKy8I&amp;a-id=annotation_1731728649&amp;a-type=1&amp;xble=1&amp;ei=UH89XJH3EvK3gAeamLdo" itct="CAEQs-UBGP___________wEiEwiR35z_le_fAhXyG-AKHRrMDQ0o-B0yAml2SMKXq7Ck6vqhYg">
+  <TEXT>Correction: 2 to the power 8 
+(2^8) Not 8 factorial.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.08000" y="75.75800" w="31.70500" h="12.92900" t="3:01.940"/>
+      <rectRegion x="61.08000" y="75.75800" w="31.70500" h="12.92900" t="3:13.522"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="0" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2001352569" type="highlight" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC3dU5u4xXaY&amp;a-type=3&amp;a-v=YkPrUkYKy8I&amp;a-id=annotation_2001352569&amp;ei=UH89XJH3EvK3gAeamLdo&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiR35z_le_fAhXyG-AKHRrMDQ0o-B0yAml2SMKXq7Ck6vqhYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.12500" y="7.82800" w="42.33000" h="43.43400" t="5:09.548"/>
+      <rectRegion x="53.12500" y="7.82800" w="42.33000" h="43.43400" t="5:22.960"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2001352569&amp;ei=UH89XJH3EvK3gAeamLdo&amp;feature=iv&amp;src_vid=YkPrUkYKy8I&amp;v=C3dU5u4xXaY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2389508345" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Hash Algorithms - Coming soon!</TEXT>
+  <segment spaceRelative="annotation_562339417">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="34.00300" w="42.61400" h="10.30300" t="never"/>
+      <rectRegion x="0.00000" y="34.00300" w="42.61400" h="10.30300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_562339417" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_562339417" type="highlight" log_data="a-v=YkPrUkYKy8I&amp;a-id=annotation_562339417&amp;a-type=3&amp;xble=1&amp;ei=UH89XJH3EvK3gAeamLdo" itct="CAMQs-UBGP___________wEiEwiR35z_le_fAhXyG-AKHRrMDQ0o-B0yAml2SMKXq7Ck6vqhYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.11900" y="8.08100" w="42.61400" h="43.93900" t="5:09.549"/>
+      <rectRegion x="4.11900" y="8.08100" w="42.61400" h="43.93900" t="5:22.960"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;ei=UH89XJH3EvK3gAeamLdo&amp;link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;a-v=YkPrUkYKy8I&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;l-class=3&amp;xble=0">
+  <data>{&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:5000,&quot;is_mobile&quot;:false,&quot;image_height&quot;:23,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJHfnP-V798CFfIb4AodGswNDSj4HTICaXZIwpersKTq-qFi&quot;,&quot;src_vid&quot;:&quot;YkPrUkYKy8I&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;UH89XJH3EvK3gAeamLdo&quot;},&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbDFKY2YxSFZGQ3lSRTYyNWlfVnFLUUc5UEtJQXxBQ3Jtc0tueldQak5tLThLUWpxak9XRUFpMUJyb2x4MWxXempyOTNMVDdCNVFTWXhOejJJOVJ2b2Z1LUFGQlBLa0l4c3lXWnU3Q2l3UnBLQmJqSEtHQTJaN1QtWjVkQTE5OHZwMkNqdEdWYTd2UExfZnN3amtuajlrRGg3bnU0dFpCV0NNbkhKVXVUMDB4Vm9NUGN2QjNjSU1JSFBTNll0dndzWFpWQzNvb2Z4bXFPM1dkTG4yRnJGbDZHejk0aFZhd0JqaklGM1dabTFUUWFBQW9PbGtpWnk4QVZ2S2hLTzVWdHJTLWU0RjAyRVNLUTA0cmFLTURj%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26hl%3Dde\u0026passive=true\u0026hl=de\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false},&quot;image_width&quot;:51,&quot;end_ms&quot;:324000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

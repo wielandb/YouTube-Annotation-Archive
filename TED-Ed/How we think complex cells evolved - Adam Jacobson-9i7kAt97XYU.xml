@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIg9iF4enu3wIVTiTgCh1PAQq5KPgdMgJpdkiFu-37rYC5l_YB">
+<annotation id="annotation_1476838713" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2254420159">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="17.95800" w="31.81500" h="10.22500" t="never"/>
+      <rectRegion x="0.00000" y="17.95800" w="31.81500" h="10.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2254420159" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1681471143" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3358610637">
+    <movingRegion type="rect">
+      <rectRegion x="-0.09500" y="13.19700" w="69.53200" h="3.94400" t="never"/>
+      <rectRegion x="-0.09500" y="13.19700" w="69.53200" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3358610637" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2254420159" type="highlight" log_data="l-class=6&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;xble=1&amp;a-type=3&amp;a-id=annotation_2254420159&amp;a-v=9i7kAt97XYU" itct="CAEQs-UBGP___________wEiEwiD2IXh6e7fAhVOJOAKHU8BCrko-B0yAml2SIW77futgLmX9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="71.81700" w="31.81500" h="17.93300" t="5:31.900"/>
+      <rectRegion x="36.29200" y="71.81700" w="31.81500" h="17.93300" t="5:41.889"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2483957807" type="text" style="popup" log_data="l-class=5&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;a-type=1&amp;a-id=annotation_2483957807&amp;a-v=9i7kAt97XYU" itct="CAIQs-UBGP___________wEiEwiD2IXh6e7fAhVOJOAKHU8BCrko-B0yAml2SIW77futgLmX9gE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.76400" y="12.39400" w="18.74100" h="32.25400" t="5:31.900"/>
+      <rectRegion x="78.76400" y="12.39400" w="18.74100" h="32.25400" t="5:41.889"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_2483957807&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;feature=iv&amp;src_vid=9i7kAt97XYU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2726961333" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2948688855">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="17.67600" w="27.06000" h="10.22500" t="never"/>
+      <rectRegion x="0.00000" y="17.67600" w="27.06000" h="10.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2948688855" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2741786505" type="text" style="popup" log_data="l-class=6&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-we-think-complex-cells-evolved-adam-jacobson&amp;xble=1&amp;a-type=1&amp;a-id=annotation_2741786505&amp;a-v=9i7kAt97XYU" itct="CAMQs-UBGP___________wEiEwiD2IXh6e7fAhVOJOAKHU8BCrko-B0yAml2SIW77futgLmX9gE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.42600" y="7.88700" w="36.17400" h="8.31000" t="0:00.000"/>
+      <rectRegion x="1.42600" y="7.88700" w="36.17400" h="8.31000" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-we-think-complex-cells-evolved-adam-jacobson" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2948688855" type="highlight" log_data="l-class=6&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;xble=1&amp;a-type=3&amp;a-id=annotation_2948688855&amp;a-v=9i7kAt97XYU" itct="CAQQs-UBGP___________wEiEwiD2IXh6e7fAhVOJOAKHU8BCrko-B0yAml2SIW77futgLmX9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="72.09900" w="26.90200" h="17.93300" t="5:31.900"/>
+      <rectRegion x="6.65600" y="72.09900" w="26.90200" h="17.93300" t="5:41.889"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3317842991" type="highlight" log_data="l-class=6&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;a-type=3&amp;a-id=annotation_3317842991&amp;a-v=9i7kAt97XYU" itct="CAUQs-UBGP___________wEiEwiD2IXh6e7fAhVOJOAKHU8BCrko-B0yAml2SIW77futgLmX9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.36500" y="71.53500" w="22.78100" h="18.21500" t="5:31.900"/>
+      <rectRegion x="70.36500" y="71.53500" w="22.78100" h="18.21500" t="5:41.889"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3358610637" type="highlight" log_data="l-class=6&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fhow-we-think-complex-cells-evolved-adam-jacobson&amp;xble=1&amp;a-type=3&amp;a-id=annotation_3358610637&amp;a-v=9i7kAt97XYU" itct="CAYQs-UBGP___________wEiEwiD2IXh6e7fAhVOJOAKHU8BCrko-B0yAml2SIW77futgLmX9gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.30900" y="53.28200" w="69.37400" h="13.42300" t="5:31.900"/>
+      <rectRegion x="15.30900" y="53.28200" w="69.37400" h="13.42300" t="5:41.890"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/how-we-think-complex-cells-evolved-adam-jacobson" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4027926927" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3317842991">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.23900" w="22.94000" h="10.22500" t="never"/>
+      <rectRegion x="0.00000" y="18.23900" w="22.94000" h="10.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3317842991" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=7VA9XMOtNM7IgAfPgqjICw&amp;xble=0&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=9i7kAt97XYU&amp;link-id=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;image_type&quot;:0,&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbUM2YmZURVBVdGdGS0RtN3A5b1VpMFJBQ2ZnUXxBQ3Jtc0ttNjlXSmRDYjdUM1pqS0wxSHloWEUtR1JSR0pjd3ZkOG96bGdJeTlJbWlpa2dQM3dqemNHbTJhY0t0WUV2UzVGV3NaalFmNlF4WWxJWGt2UE5leW9oNGRQUTV2bXlXdkNxRTZ1aHk0QzdoVGxGWmJlMm5Wa1pCdVZnTXgtaXNpYXZIemxzWDJuOFJIeXZhdzNRbi1WeWJrdzBBVzR5OENfOVY3bmNaenBUMEFzUEw3X2tadkZXZDhSUkM1Zm9uYWdLeHFxNWpRcEJjVDRTMkFhUEVlY2lpMklEaUJKVlF2Y0RFQUFzMEMxdjRlQko5bUZj%26feature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026uilel=3\u0026service=youtube&quot;},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;9i7kAt97XYU&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCIPYheHp7t8CFU4k4AodTwEKuSj4HTICaXZIhbvt-62AuZf2AQ&quot;,&quot;ei&quot;:&quot;7VA9XMOtNM7IgAfPgqjICw&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_width&quot;:40,&quot;start_ms&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;end_ms&quot;:342000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

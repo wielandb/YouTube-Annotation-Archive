@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7Le_p6nv3wIVEzDgCh1jIgK6KPgdMgJpdki3s9TmstjW0eoB">
+<annotation id="annotation_1260144045" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcnf9gG-GpCY&amp;a-type=3&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;a-id=annotation_1260144045&amp;l-class=1&amp;xble=1&amp;a-v=6qNawyzVGbc" itct="CAEQs-UBGP___________wEiEwjst7-nqe_fAhUTMOAKHWMiAroo-B0yAml2SLez1Oay2NbR6gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.32800" y="19.71800" w="30.38800" h="30.31000" t="11:53.216"/>
+      <rectRegion x="3.32800" y="19.71800" w="30.38800" h="30.31000" t="12:25.823"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1260144045&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;feature=iv&amp;src_vid=6qNawyzVGbc&amp;v=cnf9gG-GpCY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2027322237" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2otrhYbE0b8&amp;a-type=3&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;a-id=annotation_2027322237&amp;l-class=1&amp;xble=1&amp;a-v=6qNawyzVGbc" itct="CAIQs-UBGP___________wEiEwjst7-nqe_fAhUTMOAKHWMiAroo-B0yAml2SLez1Oay2NbR6gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.49900" y="19.71800" w="30.07100" h="30.87300" t="11:53.542"/>
+      <rectRegion x="35.49900" y="19.71800" w="30.07100" h="30.87300" t="12:25.823"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2027322237&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;feature=iv&amp;src_vid=6qNawyzVGbc&amp;v=2otrhYbE0b8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2175513953" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2027322237">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2027322237" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2236617793" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-type=3&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;a-id=annotation_2236617793&amp;l-class=5&amp;xble=1&amp;a-v=6qNawyzVGbc" itct="CAMQs-UBGP___________wEiEwjst7-nqe_fAhUTMOAKHWMiAroo-B0yAml2SLez1Oay2NbR6gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.19500" y="20.00000" w="30.07100" h="30.31000" t="11:54.179"/>
+      <rectRegion x="67.19500" y="20.00000" w="30.07100" h="30.31000" t="12:25.823"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_2236617793&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;feature=iv&amp;src_vid=6qNawyzVGbc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2481921061" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to be notified when it&#39;s released!</TEXT>
+  <segment spaceRelative="annotation_2236617793">
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="48.73200" w="26.26800" h="11.63400" t="never"/>
+      <rectRegion x="2.06000" y="48.73200" w="26.26800" h="11.63400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2236617793" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3947127163" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1260144045">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1260144045" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:49722d29-004f-48b8-b66c-5a8fad840718" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=49722d29-004f-48b8-b66c-5a8fad840718&amp;a-type=62&amp;a-v=6qNawyzVGbc&amp;ei=kZM9XKyrApPggAfjxIjQCw&amp;l-class=1&amp;link-id=cnf9gG-GpCY&amp;xble=0">
+  <data>{&quot;start_ms&quot;:709349,&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCOy3v6ep798CFRMw4AodYyICuij4HTIFY2FyZHNIt7PU5rLY1tHqAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCOy3v6ep798CFRMw4AodYyICuij4HTIFY2FyZHNIt7PU5rLY1tHqAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjst7-nqe_fAhUTMOAKHWMiAroo-B0yBWNhcmRzSLez1Oay2NbR6gE&quot;},&quot;video_duration&quot;:&quot;0:53&quot;,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;title&quot;:&quot;Old Chucklewigs and Wogan Impressions: Citation Needed Bonus Material 3x02&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=cnf9gG-GpCY&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;49722d29-004f-48b8-b66c-5a8fad840718&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;kZM9XKyrApPggAfjxIjQCw&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCOy3v6ep798CFRMw4AodYyICuij4HTIFY2FyZHNIt7PU5rLY1tHqAQ&quot;,&quot;src_vid&quot;:&quot;6qNawyzVGbc&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/cnf9gG-GpCY\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;27.565 Aufrufe&quot;],&quot;end_ms&quot;:709349,&quot;teaser_text&quot;:&quot;Empfohlen: Old Chucklewigs and Wogan Impressions: Citation Needed Bonus Material 3x02&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=cnf9gG-GpCY"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;kZM9XKyrApPggAfjxIjQCw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCOy3v6ep798CFRMw4AodYyICuij4HTIFY2FyZHNIt7PU5rLY1tHqAQ==&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjst7+nqe/fAhUTMOAKHWMiAroo+B0yBWNhcmRzSLez1Oay2NbR6gE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjst7+nqe/fAhUTMOAKHWMiAroo+B0yBWNhcmRzSLez1Oay2NbR6gE=&quot;
+}</data>
+</annotation>
+</annotations></document>

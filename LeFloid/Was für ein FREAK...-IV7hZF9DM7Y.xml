@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyeCh6_7u3wIVk2vgCh2urgF2KPgdMgJpdki254z6xay4ryE">
+<annotation id="annotation_303329" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Mein Kanal</TEXT>
+  <segment spaceRelative="annotation_568709">
+    <movingRegion type="rect">
+      <rectRegion x="19.53100" y="49.44400" w="15.46900" h="5.55600" t="never"/>
+      <rectRegion x="19.53100" y="49.44400" w="15.46900" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_568709" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_568709" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;xble=1&amp;a-type=3&amp;a-id=annotation_568709&amp;ei=CGc9XMm8GpPXgQeu3YawBw&amp;a-v=IV7hZF9DM7Y&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwjJ4KHr_u7fAhWTa-AKHa6uAXYo-B0yAml2SLbnjPrFrLivIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="21.56300" y="19.44400" w="56.87500" h="60.83300" t="0:04:08.4"/>
+      <rectRegion x="21.56300" y="19.44400" w="56.87500" h="60.83300" t="0:04:24.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_568709&amp;ei=CGc9XMm8GpPXgQeu3YawBw&amp;feature=iv&amp;src_vid=IV7hZF9DM7Y&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_75858" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8uK9mhFBB2M&amp;xble=1&amp;a-type=1&amp;a-id=annotation_75858&amp;ei=CGc9XMm8GpPXgQeu3YawBw&amp;a-v=IV7hZF9DM7Y&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjJ4KHr_u7fAhWTa-AKHa6uAXYo-B0yAml2SLbnjPrFrLivIQ">
+  <TEXT>Einen Tag lang eine Frau sein?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="81.25000" y="30.27800" w="16.87500" h="38.61100" t="0:04:08.4"/>
+      <rectRegion x="81.25000" y="30.27800" w="16.87500" h="38.61100" t="0:04:24.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_75858&amp;ei=CGc9XMm8GpPXgQeu3YawBw&amp;feature=iv&amp;src_vid=IV7hZF9DM7Y&amp;v=8uK9mhFBB2M" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_815856" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEVLr3rIb16o&amp;xble=1&amp;a-type=1&amp;a-id=annotation_815856&amp;ei=CGc9XMm8GpPXgQeu3YawBw&amp;a-v=IV7hZF9DM7Y&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjJ4KHr_u7fAhWTa-AKHa6uAXYo-B0yAml2SLbnjPrFrLivIQ">
+  <TEXT>Gewinn eine
+HD Kamera!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.18800" y="30.83300" w="16.56300" h="38.05600" t="0:04:08.4"/>
+      <rectRegion x="2.18800" y="30.83300" w="16.56300" h="38.05600" t="0:04:24.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_815856&amp;ei=CGc9XMm8GpPXgQeu3YawBw&amp;feature=iv&amp;src_vid=IV7hZF9DM7Y&amp;v=EVLr3rIb16o" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

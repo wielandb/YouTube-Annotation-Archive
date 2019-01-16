@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvJaLhovv3wIVXIF8Ch3p_whOKPgdMgJpdki0u7O-td2AroQB">
+<annotation id="annotation_367043" type="highlight" log_data="xble=1&amp;a-id=annotation_367043&amp;l-class=3&amp;a-v=hFwC61fM3bQ&amp;ei=1XM9XPzXN9yC8gPp_6PwBA&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FCodenamePepperoni" itct="CAEQs-UBGP___________wEiEwi8louGi-_fAhVcgXwKHen_CE4o-B0yAml2SLS7s7613YCuhAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.65600" y="33.05600" w="34.53100" h="34.44400" t="00:03:42.6"/>
+      <rectRegion x="32.65600" y="33.05600" w="34.53100" h="34.44400" t="00:03:52.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/CodenamePepperoni?annotation_id=annotation_367043&amp;ei=1XM9XPzXN9yC8gPp_6PwBA&amp;feature=iv&amp;src_vid=hFwC61fM3bQ" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_618570" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Oh ja!</TEXT>
+  <segment spaceRelative="annotation_777586">
+    <movingRegion type="rect">
+      <rectRegion x="0.93800" y="15.83300" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.93800" y="15.83300" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_777586" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_777586" type="highlight" log_data="xble=1&amp;a-id=annotation_777586&amp;l-class=5&amp;a-v=hFwC61fM3bQ&amp;ei=1XM9XPzXN9yC8gPp_6PwBA&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtomzalat" itct="CAIQs-UBGP___________wEiEwi8louGi-_fAhVcgXwKHen_CE4o-B0yAml2SLS7s7613YCuhAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.46900" y="5.00000" w="27.34400" h="13.33300" t="00:03:42.6"/>
+      <rectRegion x="70.46900" y="5.00000" w="27.34400" h="13.33300" t="00:03:52.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=tomzalat&amp;annotation_id=annotation_777586&amp;ei=1XM9XPzXN9yC8gPp_6PwBA&amp;feature=iv&amp;src_vid=hFwC61fM3bQ" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_991434" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Nun Klick!^^</TEXT>
+  <segment spaceRelative="annotation_367043">
+    <movingRegion type="rect">
+      <rectRegion x="4.68800" y="38.33300" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="4.68800" y="38.33300" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_367043" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:cd06f572-2b50-2445-8691-bcaec511e134" style="branding" type="branding"
+            log_data="xble=0&amp;a-id=cd06f572-2b50-2445-8691-bcaec511e134&amp;l-class=3&amp;link-id=UCSTSJT-X8obSxoJ7ySioGXQ&amp;a-v=hFwC61fM3bQ&amp;ei=1XM9XPzXN9yC8gPp_6PwBA&amp;a-type=10&amp;a-ch=UCSTSJT-X8obSxoJ7ySioGXQ">
+  <data>{&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;28073&quot;,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;LetsGameDev&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STSJT-X8obSxoJ7ySioGXQ\/featured_channel.jpg?v=509e7bda&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTSJT-X8obSxoJ7ySioGXQ&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=de\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26hl%3Dde%26continue_action%3DQUFFLUhqa1dHdlJmaHRhU1J5Y05ISklRczNXakdWV2pnZ3xBQ3Jtc0ttTjNsa21DcjlGVDRSQnN0TUJkaUZZQWEzWFFtTUhoWHk0QTg0S2k2S3puTXJwZVYyZkFOcEhPdXlCVEJ4RDlxdm1oZUs3LXk5M2ttSUNrcVVReGFuckdWMnhkZ3R4Zk9sa0VnMWhlemdlMlNwNVdudGVyMmljNGdBNVNZWkQ2bXZIVzlNcHBKbDIxcy1nZndlRDJsUndGeXplaHNKM0dZb1NyUDh3c2E3RGNkVldXeV9SM0trWWdPZHd2M0hlSWs3clltbEZYSmFtamFVblpsSlZnQVBrVkVvT0Zua3l2NWJjTTlVQWhqOFpURnVJa1V3%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTomzalat%26app%3Ddesktop&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;28.073&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;28.074&quot;,&quot;classic&quot;:true},&quot;start_ms&quot;:18000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;1XM9XPzXN9yC8gPp_6PwBA&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCLyWi4aL798CFVyBfAod6f8ITij4HTICaXZItLuzvrXdgK6EAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;cd06f572-2b50-2445-8691-bcaec511e134&quot;,&quot;src_vid&quot;:&quot;hFwC61fM3bQ&quot;},&quot;end_ms&quot;:233000,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Tomzalat"/>
+  </action>
+</annotation></annotations></document>

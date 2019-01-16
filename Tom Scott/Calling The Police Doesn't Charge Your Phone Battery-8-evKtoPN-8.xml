@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjqG2pqnv3wIVnGHgCh3DNQCfKPgdMgJpdkjv77zQreXr8_MB">
+<annotation id="annotation_1566872841" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_965803117">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_965803117" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1744079145" type="highlight" log_data="a-type=3&amp;a-id=annotation_1744079145&amp;xble=1&amp;l-class=5&amp;a-v=8-evKtoPN-8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;ei=jpM9XI6iMJzDgQfD64D4CQ" itct="CAEQs-UBGP___________wEiEwiOobamqe_fAhWcYeAKHcM1AJ8o-B0yAml2SO_vvNCt5evz8wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.99200" y="47.88700" w="44.33400" h="19.60600" t="2:37.345"/>
+      <rectRegion x="54.99200" y="47.88700" w="44.33400" h="19.60600" t="2:45.626"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1744079145&amp;ei=jpM9XI6iMJzDgQfD64D4CQ&amp;feature=iv&amp;src_vid=8-evKtoPN-8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_198171073" type="highlight" log_data="a-type=3&amp;a-id=annotation_198171073&amp;xble=1&amp;l-class=6&amp;a-v=8-evKtoPN-8&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;ei=jpM9XI6iMJzDgQfD64D4CQ" itct="CAIQs-UBGP___________wEiEwiOobamqe_fAhWcYeAKHcM1AJ8o-B0yAml2SO_vvNCt5evz8wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.23000" y="81.97200" w="62.87600" h="13.69300" t="2:37.345"/>
+      <rectRegion x="5.23000" y="81.97200" w="62.87600" h="13.69300" t="2:45.626"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_360396567" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1744079145">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1744079145" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_393867019" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_198171073">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_198171073" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_965803117" type="highlight" log_data="a-type=3&amp;a-id=annotation_965803117&amp;xble=1&amp;l-class=2&amp;a-v=8-evKtoPN-8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;ei=jpM9XI6iMJzDgQfD64D4CQ" itct="CAMQs-UBGP___________wEiEwiOobamqe_fAhWcYeAKHcM1AJ8o-B0yAml2SO_vvNCt5evz8wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.99200" y="33.52100" w="44.17600" h="14.81700" t="2:37.345"/>
+      <rectRegion x="54.99200" y="33.52100" w="44.17600" h="14.81700" t="2:45.626"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_965803117&amp;ei=jpM9XI6iMJzDgQfD64D4CQ&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=8-evKtoPN-8" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:ac88876d-a8d8-460a-ade2-d8ad1fbe4032" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=ac88876d-a8d8-460a-ade2-d8ad1fbe4032&amp;a-type=62&amp;a-v=8-evKtoPN-8&amp;ei=jpM9XI6iMJzDgQfD64D4CQ&amp;l-class=1&amp;link-id=0Sz55gmNUaI&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:156443,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiOobamqe_fAhWcYeAKHcM1AJ8o-B0yBWNhcmRzSO_vvNCt5evz8wE&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCI6htqap798CFZxh4AodwzUAnyj4HTIFY2FyZHNI7--80K3l6_PzAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCI6htqap798CFZxh4AodwzUAnyj4HTIFY2FyZHNI7--80K3l6_PzAQ&quot;},&quot;timestamp&quot;:1453073364161,&quot;teaser_text&quot;:&quot;Empfohlen: The World&#39;s Largest Indoor Waterpark&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0Sz55gmNUaI&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;video_duration&quot;:&quot;2:09&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;747.000 Aufrufe&quot;],&quot;start_ms&quot;:156443,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0Sz55gmNUaI\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;The World&#39;s Largest Indoor Waterpark&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;jpM9XI6iMJzDgQfD64D4CQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;ac88876d-a8d8-460a-ade2-d8ad1fbe4032&quot;,&quot;src_vid&quot;:&quot;8-evKtoPN-8&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCI6htqap798CFZxh4AodwzUAnyj4HTIFY2FyZHNI7--80K3l6_PzAQ&quot;},&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0Sz55gmNUaI"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCI6htqap798CFZxh4AodwzUAnyj4HTIFY2FyZHNI7++80K3l6/PzAQ==&quot;, 
+  &quot;eventId&quot;: &quot;jpM9XI6iMJzDgQfD64D4CQ&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiOobamqe/fAhWcYeAKHcM1AJ8o+B0yBWNhcmRzSO/vvNCt5evz8wE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiOobamqe/fAhWcYeAKHcM1AJ8o+B0yBWNhcmRzSO/vvNCt5evz8wE=&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqP3CrOru3wIVkrN7Ch106w4UKPgdMgJpdkis7OCqzJyVqnk">
+<annotation id="annotation_1426320623" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_915123881">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="15.77500" w="70.00800" h="3.94400" t="never"/>
+      <rectRegion x="0.00000" y="15.77500" w="70.00800" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_915123881" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1798858849" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;xble=1&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=6&amp;a-id=annotation_1798858849&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwio_cKs6u7fAhWSs3sKHXTrDhQo-B0yAml2SKzs4KrMnJWqeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.97500" y="71.26800" w="32.44800" h="19.32700" t="4:15.900"/>
+      <rectRegion x="35.97500" y="71.26800" w="32.44800" h="19.32700" t="4:25.937"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1804425161" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4031848657">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.07000" w="27.69400" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.07000" w="27.69400" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4031848657" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1836872247" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1798858849">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.35200" w="32.44800" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.35200" w="32.44800" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1798858849" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_196005899" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=5&amp;a-id=annotation_196005899&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwio_cKs6u7fAhWSs3sKHXTrDhQo-B0yAml2SKzs4KrMnJWqeQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.39800" y="12.11300" w="18.26600" h="22.12000" t="4:15.900"/>
+      <rectRegion x="79.39800" y="12.11300" w="18.26600" h="22.12000" t="4:25.937"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_196005899&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;feature=iv&amp;src_vid=eVRU5MVYNiw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2070757493" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-tragedies-are-alluring-david-e-rivas&amp;xble=1&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=6&amp;a-id=annotation_2070757493&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwio_cKs6u7fAhWSs3sKHXTrDhQo-B0yAml2SKzs4KrMnJWqeQ">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.85300" y="7.88700" w="35.69800" h="10.57100" t="0:00.000"/>
+      <rectRegion x="2.85300" y="7.88700" w="35.69800" h="10.57100" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-tragedies-are-alluring-david-e-rivas" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_292182541" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=6&amp;a-id=annotation_292182541&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwio_cKs6u7fAhWSs3sKHXTrDhQo-B0yAml2SKzs4KrMnJWqeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.20600" y="70.98600" w="23.25700" h="19.60900" t="4:15.900"/>
+      <rectRegion x="70.20600" y="70.98600" w="23.25700" h="19.60900" t="4:25.937"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3238361339" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_292182541">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.63400" w="23.41500" h="9.38000" t="never"/>
+      <rectRegion x="0.00000" y="19.63400" w="23.41500" h="9.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_292182541" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4031848657" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;xble=1&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=6&amp;a-id=annotation_4031848657&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwio_cKs6u7fAhWSs3sKHXTrDhQo-B0yAml2SKzs4KrMnJWqeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="71.54900" w="27.69400" h="18.76400" t="4:15.900"/>
+      <rectRegion x="6.33900" y="71.54900" w="27.69400" h="18.76400" t="4:25.937"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_915123881" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-tragedies-are-alluring-david-e-rivas&amp;xble=1&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=6&amp;a-id=annotation_915123881&amp;a-type=3" itct="CAYQs-UBGP___________wEiEwio_cKs6u7fAhWSs3sKHXTrDhQo-B0yAml2SKzs4KrMnJWqeQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.05500" y="52.95800" w="70.16600" h="14.82000" t="4:15.900"/>
+      <rectRegion x="15.05500" y="52.95800" w="70.16600" h="14.82000" t="4:25.937"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-tragedies-are-alluring-david-e-rivas" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=eVRU5MVYNiw&amp;ei=jFE9XKiHCZLn7gP01rugAQ&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10">
+  <data>{&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;eVRU5MVYNiw&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCKj9wqzq7t8CFZKzewoddOsOFCj4HTICaXZIrOzgqsyclap5&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;jFE9XKiHCZLn7gP01rugAQ&quot;},&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbDNFamJkS3BueFM1RkMyMUhKV3VSYkVkTzduQXxBQ3Jtc0tuU2M3X1NyclFieTZ3NnZIY3RNWG1YM2hKdzhoeXJSazVXR3JHTzZSYWd0czBNMjRWRUtWWXFld2RhTnBfSlpqMVJrdnlZaHBrVGF2SlpuY091S2lWeVRnRWdIa2lDaDhMQVNuUkdwQy1qS3FqTGptbTJCTDVRUjVMaDI3bUJENElzOUtfWExmVksxNzNGT2MyT2ljU0M3ZzJSTFR6cWxXRXBzelZVa2pPTWIyeGZ6cWF3QUxvQ29DWF92a3Z0ZjN4YThVZ3F4WmtzeUNScUloTnkwQTdMTDNyajlqWUxxOVZxaW1uS0pUMnhNX3cxM09F%26hl%3Dde%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation\u0026service=youtube\u0026uilel=3\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;end_ms&quot;:266000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

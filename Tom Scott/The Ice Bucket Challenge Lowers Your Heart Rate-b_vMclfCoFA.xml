@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyJrf4qnv3wIV17d7Ch1THwIgKPgdMgJpdkjQwIq-pY7z_W8">
+<annotation id="annotation_1767410199" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1833418997">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1833418997" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1833418997" type="highlight" log_data="l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=b_vMclfCoFA&amp;a-id=annotation_1833418997&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjImt_iqe_fAhXXt3sKHVMfAiAo-B0yAml2SNDAir6ljvP9bw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.30900" y="54.36600" w="40.84800" h="19.04200" t="1:50.798"/>
+      <rectRegion x="55.30900" y="54.36600" w="40.84800" h="19.04200" t="2:15.859"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_1833418997&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg&amp;feature=iv&amp;src_vid=b_vMclfCoFA&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3245095007" type="highlight" log_data="l-class=6&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;a-type=3&amp;a-v=b_vMclfCoFA&amp;a-id=annotation_3245095007&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjImt_iqe_fAhXXt3sKHVMfAiAo-B0yAml2SNDAir6ljvP9bw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.27900" y="79.15500" w="91.40300" h="15.66500" t="1:50.798"/>
+      <rectRegion x="4.27900" y="79.15500" w="91.40300" h="15.66500" t="2:15.859"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3344818117" type="text" style="popup" log_data="a-v=b_vMclfCoFA&amp;a-id=annotation_3344818117&amp;a-type=1&amp;xble=1&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg" itct="CAMQs-UBGP___________wEiEwjImt_iqe_fAhXXt3sKHVMfAiAo-B0yAml2SNDAir6ljvP9bw">
+  <TEXT>Subtitles are available if the audio seems muddy: I used a waterproof camera.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="100.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="0.00000" y="0.00000" w="100.00000" h="8.88900" t="0:06.792"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3745334353" type="highlight" log_data="l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;a-type=3&amp;a-v=b_vMclfCoFA&amp;a-id=annotation_3745334353&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjImt_iqe_fAhXXt3sKHVMfAiAo-B0yAml2SNDAir6ljvP9bw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.46800" y="40.00000" w="40.53100" h="14.53500" t="1:50.798"/>
+      <rectRegion x="55.46800" y="40.00000" w="40.53100" h="14.53500" t="2:15.859"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3745334353&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=b_vMclfCoFA" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_510445563" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3745334353">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3745334353" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_659140379" type="text" style="popup" log_data="a-v=b_vMclfCoFA&amp;a-id=annotation_659140379&amp;a-type=1&amp;xble=1&amp;ei=DZQ9XIjgEdfv7gPTvoiAAg" itct="CAUQs-UBGP___________wEiEwjImt_iqe_fAhXXt3sKHVMfAiAo-B0yAml2SNDAir6ljvP9bw">
+  <TEXT>@reynolds on Twitter adds: &quot;We use that reflex in hospital to try and get people out of fast arrythmias.&quot; - http://www.medscape.com/viewarticle/582174_4</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="99.52500" h="11.26800" t="0:58.482"/>
+      <rectRegion x="0.00000" y="0.00000" w="99.52500" h="11.26800" t="1:05.274"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_858143933" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3245095007">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3245095007" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

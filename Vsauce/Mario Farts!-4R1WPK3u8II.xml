@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIspb1q6zv3wIVzaNVCh2pMw3VKPgdMgJpdkiC4bvvysfVjuEB"><annotation author="vsauce" id="annotation_225246" itct="CAEQs-UBGP___________wEiEwiylvWrrO_fAhXNo1UKHakzDdUo-B0yAml2SILhu-_Kx9WO4QE" log_data="a-v=4R1WPK3u8II&amp;xble=1&amp;ei=v5Y9XPK6Jc3H1gKp57SoDQ&amp;a-type=2&amp;a-id=annotation_225246" style="speech" type="text"><TEXT>FAAAART!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="8.61100006104" sx="43.125" sy="53.611000061" t="0:00:47.1" w="14.2189998627" x="10.9379997253" y="80.0" /><anchoredRegion d="0" h="8.61100006104" sx="43.125" sy="53.611000061" t="0:00:49.9" w="14.2189998627" x="10.9379997253" y="80.0" /></movingRegion></segment><appearance bgColor="13369344" fgColor="16777215" highlightFontColor="13369344" /></annotation><annotation author="vsauce" id="annotation_556677" log_data="a-v=4R1WPK3u8II&amp;xble=1&amp;ei=v5Y9XPK6Jc3H1gKp57SoDQ&amp;a-type=0&amp;a-id=annotation_556677" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:00:48.9" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:00:48.9" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:10.0" /></action></annotation>
+<annotation id="annotation_620404" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to Vsauce.   DAILY video game comedy!</TEXT>
+  <segment spaceRelative="annotation_797940">
+    <movingRegion type="rect">
+      <rectRegion x="-26.40600" y="1.11100" w="25.93800" h="9.44400" t="never"/>
+      <rectRegion x="-26.40600" y="1.11100" w="25.93800" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_797940" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_638224" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Dvsauce&amp;a-v=4R1WPK3u8II&amp;ei=v5Y9XPK6Jc3H1gKp57SoDQ&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_638224" itct="CAIQs-UBGP___________wEiEwiylvWrrO_fAhXNo1UKHakzDdUo-B0yAml2SILhu-_Kx9WO4QE">
+  <TEXT>Want more? Click HERE if you&#39;re brave enough...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.06300" y="0.00000" w="30.93800" h="15.27800" t="0:00:38.8"/>
+      <rectRegion x="69.06300" y="0.00000" w="30.93800" h="15.27800" t="0:00:49.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_638224&amp;ei=v5Y9XPK6Jc3H1gKp57SoDQ&amp;feature=iv&amp;src_vid=4R1WPK3u8II&amp;user=vsauce" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_797940" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-v=4R1WPK3u8II&amp;ei=v5Y9XPK6Jc3H1gKp57SoDQ&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_797940" itct="CAMQs-UBGP___________wEiEwiylvWrrO_fAhXNo1UKHakzDdUo-B0yAml2SILhu-_Kx9WO4QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="93.59400" y="0.00000" w="6.40600" h="10.00000" t="0:00:00.7"/>
+      <rectRegion x="93.59400" y="0.00000" w="6.40600" h="10.00000" t="0:00:38.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_797940&amp;ei=v5Y9XPK6Jc3H1gKp57SoDQ&amp;feature=iv&amp;src_vid=4R1WPK3u8II" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

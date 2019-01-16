@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwcDqxunu3wIVlS_gCh2ODgq3KPgdMgJpdkiY6qbBnYfYypcB">
+<annotation id="annotation_2224715703" type="highlight" log_data="a-type=3&amp;a-v=l5VgOdgptRg&amp;a-id=annotation_2224715703&amp;l-class=6&amp;xble=1&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-physics-of-the-hardest-move-in-ballet-arleen-sugano" itct="CAEQs-UBGP___________wEiEwjBwOrG6e7fAhWVL-AKHY4OCrco-B0yAml2SJjqpsGdh9jKlwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.37200" y="53.80300" w="69.52500" h="13.97200" t="4:06.900"/>
+      <rectRegion x="15.37200" y="53.80300" w="69.52500" h="13.97200" t="4:16.858"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2380972569" type="highlight" log_data="a-type=3&amp;a-v=l5VgOdgptRg&amp;a-id=annotation_2380972569&amp;l-class=6&amp;xble=1&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved" itct="CAIQs-UBGP___________wEiEwjBwOrG6e7fAhWVL-AKHY4OCrco-B0yAml2SJjqpsGdh9jKlwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.15700" y="71.54900" w="22.14700" h="17.93000" t="4:06.900"/>
+      <rectRegion x="71.15700" y="71.54900" w="22.14700" h="17.93000" t="4:16.858"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2798093035" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2380972569">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2380972569" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3110345963" type="text" style="popup" log_data="a-type=1&amp;a-v=l5VgOdgptRg&amp;a-id=annotation_3110345963&amp;l-class=6&amp;xble=1&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-physics-of-the-hardest-move-in-ballet-arleen-sugano" itct="CAMQs-UBGP___________wEiEwjBwOrG6e7fAhWVL-AKHY4OCrco-B0yAml2SJjqpsGdh9jKlwE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.47500" y="7.88700" w="38.23300" h="8.32400" t="0:00.000"/>
+      <rectRegion x="0.47500" y="7.88700" w="38.23300" h="8.32400" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3647824513" type="text" style="popup" log_data="a-type=1&amp;a-v=l5VgOdgptRg&amp;a-id=annotation_3647824513&amp;l-class=5&amp;xble=1&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1" itct="CAQQs-UBGP___________wEiEwjBwOrG6e7fAhWVL-AKHY4OCrco-B0yAml2SJjqpsGdh9jKlwE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.28800" y="12.39400" w="16.20500" h="30.56400" t="4:06.900"/>
+      <rectRegion x="78.28800" y="12.39400" w="16.20500" h="30.56400" t="4:16.858"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_3647824513&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;feature=iv&amp;src_vid=l5VgOdgptRg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3659662923" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2224715703">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2224715703" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4173280833" type="highlight" log_data="a-type=3&amp;a-v=l5VgOdgptRg&amp;a-id=annotation_4173280833&amp;l-class=6&amp;xble=1&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator" itct="CAUQs-UBGP___________wEiEwjBwOrG6e7fAhWVL-AKHY4OCrco-B0yAml2SJjqpsGdh9jKlwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.60900" y="72.67600" w="31.17300" h="17.63400" t="4:06.900"/>
+      <rectRegion x="36.60900" y="72.67600" w="31.17300" h="17.63400" t="4:16.858"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_694614927" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_994294737">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.50700" w="26.58500" h="10.78900" t="never"/>
+      <rectRegion x="0.00000" y="18.50700" w="26.58500" h="10.78900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_994294737" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_730141579" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4173280833">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4173280833" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_994294737" type="highlight" log_data="a-type=3&amp;a-v=l5VgOdgptRg&amp;a-id=annotation_994294737&amp;l-class=6&amp;xble=1&amp;ei=tlA9XMGNNpXfgAeOnai4Cw&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator" itct="CAYQs-UBGP___________wEiEwjBwOrG6e7fAhWVL-AKHY4OCrco-B0yAml2SJjqpsGdh9jKlwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="72.11300" w="27.21100" h="17.36600" t="4:06.900"/>
+      <rectRegion x="6.65600" y="72.11300" w="27.21100" h="17.36600" t="4:16.858"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;a-v=l5VgOdgptRg&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;xble=0&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=tlA9XMGNNpXfgAeOnai4Cw">
+  <data>{&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMHA6sbp7t8CFZUv4Aodjg4Ktyj4HTICaXZImOqmwZ2H2MqXAQ&quot;,&quot;src_vid&quot;:&quot;l5VgOdgptRg&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;tlA9XMGNNpXfgAeOnai4Cw&quot;},&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbjJDSkdsQlNUekstWEpzWW5HQWFueTZNX0pIQXxBQ3Jtc0ttU2ZTaFVrVkdvZGlXbWg0VnlnSXZuN0JYeWoyVl9jdUlMTnI5MFBOUmhVU2VqM1BkUUNjUy01akxzN2hFdHBGOE1QdTFTY3NTbENqMEw3YzNoMHNCSUoxSUpmaWUxdmpxWWxvd09hUkVJMGJndzFLX2gzUWJ1QmFRclFhcWdvdlphR3E5OG5FS09MZEZXWjVsZWZ1aFhpUlBsUDhzTEtmZFkxOHgwWjVNXzdBT3htb1h3Ml94TVhfUTVMRHczT0xxTnF4R3h5aGxXOUVYQlF5N0czaGZqN1hJVTFDYzFQZkxwalQ2SDUtU1hKUE5pNWVF%26app%3Ddesktop\u0026uilel=3\u0026passive=true\u0026hl=de\u0026service=youtube&quot;},&quot;image_width&quot;:40,&quot;end_ms&quot;:257000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_type&quot;:0,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

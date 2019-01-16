@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsvyZrI7v3wIVR6pVCh3vPghyKPgdMgJpdkiLiYmeiYzt8ooB">
+<annotation id="annotation_1943011195" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FDeChangeman&amp;a-v=iuW0YJPCRIs&amp;ei=S3c9XPKqCcfU1gLv_aCQBw&amp;a-type=3&amp;a-id=annotation_1943011195&amp;xble=1&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwiy_Jmsju_fAhVHqlUKHe8-CHIo-B0yAml2SIuJiZ6JjO3yigE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.65900" y="43.98600" w="24.52400" h="43.00000" t="1:42.524"/>
+      <rectRegion x="37.65900" y="43.98600" w="24.52400" h="43.00000" t="1:47.920"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/DeChangeman?annotation_id=annotation_1943011195&amp;ei=S3c9XPKqCcfU1gLv_aCQBw&amp;feature=iv&amp;src_vid=iuW0YJPCRIs" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_93443983" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Chängemön</TEXT>
+  <segment spaceRelative="annotation_1943011195">
+    <movingRegion type="rect">
+      <rectRegion x="0.11900" y="45.31000" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.11900" y="45.31000" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1943011195" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

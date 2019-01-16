@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6fj7lsjv3wIVVlLgCh37mQZNKPgdMgJpdkik7Oz74urh18oB">
+<annotation id="annotation_1713664511" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_392088895">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_392088895" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_392088895" type="highlight" log_data="a-v=yq-HVi97NiQ&amp;a-type=3&amp;ei=77M9XKnFNdakgQf7s5roBA&amp;a-id=annotation_392088895&amp;link=http%3A%2F%2Fwww.hellointernet.fm%2Fyt-landing&amp;xble=1&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwjp-PuWyO_fAhVWUuAKHfuZBk0o-B0yAml2SKTs7Pvi6uHXygE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="76.32400" w="12.95600" h="21.59500" t="0:01.704"/>
+      <rectRegion x="0.00000" y="76.32400" w="12.95600" h="21.59500" t="9:55.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.hellointernet.fm/yt-landing" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:535bf9dd-0-276c-94b3-1a1139dd0c" style="branding" type="branding"
+            log_data="a-v=yq-HVi97NiQ&amp;a-type=10&amp;link-id=UCwez9XDNV_wS0WNDZteXjgw&amp;ei=77M9XKnFNdakgQf7s5roBA&amp;a-id=535bf9dd-0-276c-94b3-1a1139dd0c&amp;a-ch=UCwez9XDNV_wS0WNDZteXjgw&amp;xble=0&amp;l-class=3">
+  <data>{&quot;end_ms&quot;:595000,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCwez9XDNV_wS0WNDZteXjgw&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;yq-HVi97NiQ&quot;,&quot;annotation_id&quot;:&quot;535bf9dd-0-276c-94b3-1a1139dd0c&quot;,&quot;ei&quot;:&quot;77M9XKnFNdakgQf7s5roBA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCOn4-5bI798CFVZS4Aod-5kGTSj4HTICaXZIpOzs--Lq4dfKAQ&quot;},&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wez9XDNV_wS0WNDZteXjgw\/featured_channel.jpg?v=536035d1&quot;,&quot;num_subscribers&quot;:&quot;154357&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FHelloInternetPodcast%26app%3Ddesktop%26hl%3Dde%26continue_action%3DQUFFLUhqbUxVUGxsOEQzaXQ1aF9hQWk1ZXQySUFXMHVKZ3xBQ3Jtc0tsR1F3emVUOUpGTGpBU1RzTU1wbTVISVdsZ2pjUW9ZNGZXNVRneGxBcWtRWHF4WVh4c1Njck9BQnZ3UHJ0aFEyLWgyLVRyWk1rUDdGNzF4a3pMMnBKRG9GRmsxcnExZ2haNnNlU21sQXVoMmRKNXloNkFtWjYwNHVJbUlsN0dnYXN5eV9WaXNuaDJmcmRza2VlU2JobGRSM0J3SDVHTFFJVVhRZkhkamJnSXpDeHFUZXpFNTIwSjZUaTEzYjdWTXVpVG9GRHJkaGtDT2g4YXA1MGlQS3N4ekRRQndkb2twSlJpWGVMRFFZR0I2cW8yTWlR%26feature%3Div\u0026passive=true\u0026uilel=3\u0026service=youtube\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;154.357&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;154.358&quot;,&quot;subscribed&quot;:false},&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Hello Internet&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/HelloInternetPodcast"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItZfMp6zv3wIV2k3gCh2h2AbUKPgdMgJpdki1y-qg2sXU8FY">
+<annotation id="annotation_168330" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_168330&amp;a-v=VuFSLaQapbU&amp;ei=tpY9XLXkIdqbgQehsZugDQ&amp;xble=1" itct="CAEQs-UBGP___________wEiEwi1l8ynrO_fAhXaTeAKHaHYBtQo-B0yAml2SLXL6qDaxdTwVg">
+  <TEXT>Facebook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.31300" y="0.00000" w="31.25000" h="6.94400" t="0:01:31.3"/>
+      <rectRegion x="35.31300" y="0.00000" w="31.25000" h="6.94400" t="0:02:08.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_562952" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;ei=tpY9XLXkIdqbgQehsZugDQ&amp;a-type=3&amp;a-v=VuFSLaQapbU&amp;l-class=5&amp;a-id=annotation_562952&amp;xble=1" itct="CAIQs-UBGP___________wEiEwi1l8ynrO_fAhXaTeAKHaHYBtQo-B0yAml2SLXL6qDaxdTwVg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.00000" y="0.00000" w="5.00000" h="9.16700" t="0:00:00.0"/>
+      <rectRegion x="95.00000" y="0.00000" w="5.00000" h="9.16700" t="0:02:08.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_562952&amp;ei=tpY9XLXkIdqbgQehsZugDQ&amp;feature=iv&amp;src_vid=VuFSLaQapbU" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_645227" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBhqhPQt1Lh8&amp;ei=tpY9XLXkIdqbgQehsZugDQ&amp;a-type=1&amp;a-v=VuFSLaQapbU&amp;l-class=1&amp;a-id=annotation_645227&amp;xble=1" itct="CAMQs-UBGP___________wEiEwi1l8ynrO_fAhXaTeAKHaHYBtQo-B0yAml2SLXL6qDaxdTwVg">
+  <TEXT>Hey! This is PART 2 of a countdown that begins on BARELY POLITICAL
+
+CLICK HERE to start from the beginning! And be sure to &quot;Like&quot; it over there :) Thanks!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.62500" y="18.05600" w="41.25000" h="27.77800" t="0:00:00.4"/>
+      <rectRegion x="30.62500" y="18.05600" w="41.25000" h="27.77800" t="0:00:06.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_645227&amp;ei=tpY9XLXkIdqbgQehsZugDQ&amp;feature=iv&amp;src_vid=VuFSLaQapbU&amp;v=BhqhPQt1Lh8" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_766768" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Want daily video game comedy from the people who brought you Barely Political? Subscribe to Vsauce!</TEXT>
+  <segment spaceRelative="annotation_562952">
+    <movingRegion type="rect">
+      <rectRegion x="-51.56200" y="0.00000" w="49.84400" h="9.44400" t="never"/>
+      <rectRegion x="-51.56200" y="0.00000" w="49.84400" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_562952" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

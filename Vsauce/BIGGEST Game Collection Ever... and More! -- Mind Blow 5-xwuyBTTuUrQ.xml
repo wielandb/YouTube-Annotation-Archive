@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIta-W_Kvv3wIVxapVCh1zhgVhKPgdMgJpdki0pbmn08DshccB">
+<annotation id="annotation_227016" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DVSauce&amp;ei=W5Y9XPWVHsXV1gLzjJaIBg&amp;a-type=3&amp;a-v=xwuyBTTuUrQ&amp;a-id=annotation_227016&amp;l-class=5&amp;xble=1" itct="CAEQs-UBGP___________wEiEwi1r5b8q-_fAhXFqlUKHXOGBWEo-B0yAml2SLSluafTwOyFxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="94.68800" y="0.00000" w="5.31300" h="8.61100" t="0:00:00.0"/>
+      <rectRegion x="94.68800" y="0.00000" w="5.31300" h="8.61100" t="0:03:06.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=VSauce&amp;annotation_id=annotation_227016&amp;ei=W5Y9XPWVHsXV1gLzjJaIBg&amp;feature=iv&amp;src_vid=xwuyBTTuUrQ" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_588300" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to VSauce!!!</TEXT>
+  <segment spaceRelative="annotation_227016">
+    <movingRegion type="rect">
+      <rectRegion x="-27.65600" y="1.38900" w="24.37500" h="5.83300" t="never"/>
+      <rectRegion x="-27.65600" y="1.38900" w="24.37500" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_227016" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_892852" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Go to Kevin&#39;s Channel</TEXT>
+  <segment spaceRelative="annotation_964526">
+    <movingRegion type="rect">
+      <rectRegion x="-20.15600" y="29.72200" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="-20.15600" y="29.72200" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_964526" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_964526" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DKevinLieber&amp;ei=W5Y9XPWVHsXV1gLzjJaIBg&amp;a-type=3&amp;a-v=xwuyBTTuUrQ&amp;a-id=annotation_964526&amp;l-class=3&amp;xble=1" itct="CAIQs-UBGP___________wEiEwi1r5b8q-_fAhXFqlUKHXOGBWEo-B0yAml2SLSluafTwOyFxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="21.40600" y="0.00000" w="59.84400" h="65.00000" t="0:02:53.5"/>
+      <rectRegion x="21.40600" y="0.00000" w="59.84400" h="65.00000" t="0:02:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_964526&amp;ei=W5Y9XPWVHsXV1gLzjJaIBg&amp;feature=iv&amp;src_vid=xwuyBTTuUrQ&amp;user=KevinLieber" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItJ-pm_bu3wIVDtVVCh0MvwnXKPgdMgJpdkjNurv2ge6Sm8oB">
+<annotation id="annotation_106935563" type="text" style="popup" log_data="ei=_V09XPSsEo6q1wKM_qa4DQ&amp;a-id=annotation_106935563&amp;a-type=1&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;xble=1&amp;a-v=yjZLcB7O3U0" itct="CAEQs-UBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yAml2SM26u_aB7pKbygE">
+  <TEXT>PC-WELT YouTube-Channel abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="34.74700" h="14.51400" t="3:35.513"/>
+      <rectRegion x="0.00000" y="0.00000" w="34.74700" h="14.51400" t="6:18.504"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_106935563&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;feature=iv&amp;src_vid=yjZLcB7O3U0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1161545415" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_340106167">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_340106167" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1916102473" type="highlight" log_data="ei=_V09XPSsEo6q1wKM_qa4DQ&amp;a-id=annotation_1916102473&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0mSjHmKQtVU%26list%3DPLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy%26index%3D1&amp;xble=1&amp;a-v=yjZLcB7O3U0" itct="CAIQs-UBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yAml2SM26u_aB7pKbygE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.39100" y="8.16900" w="35.46000" h="36.22500" t="2:44.938"/>
+      <rectRegion x="63.39100" y="8.16900" w="35.46000" h="36.22500" t="2:49.181"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1916102473&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;feature=iv&amp;index=1&amp;list=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&amp;src_vid=yjZLcB7O3U0&amp;v=0mSjHmKQtVU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2815836965" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1916102473">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1916102473" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_340106167" type="highlight" log_data="ei=_V09XPSsEo6q1wKM_qa4DQ&amp;a-id=annotation_340106167&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHdGEWfqn4Zw%26list%3DPLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy%26index%3D3&amp;xble=1&amp;a-v=yjZLcB7O3U0" itct="CAMQs-UBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yAml2SM26u_aB7pKbygE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.91600" y="8.73200" w="35.61800" h="35.38000" t="2:04.300"/>
+      <rectRegion x="62.91600" y="8.73200" w="35.61800" h="35.38000" t="2:07.551"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_340106167&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;feature=iv&amp;index=3&amp;list=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&amp;src_vid=yjZLcB7O3U0&amp;v=HdGEWfqn4Zw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3715679047" type="highlight" log_data="ei=_V09XPSsEo6q1wKM_qa4DQ&amp;a-id=annotation_3715679047&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2C6qHx8SmqI%26list%3DPLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy%26index%3D8&amp;xble=1&amp;a-v=yjZLcB7O3U0" itct="CAQQs-UBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yAml2SM26u_aB7pKbygE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.23300" y="10.14100" w="35.30100" h="35.38000" t="2:15.163"/>
+      <rectRegion x="63.23300" y="10.14100" w="35.30100" h="35.38000" t="2:21.228"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3715679047&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;feature=iv&amp;index=8&amp;list=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&amp;src_vid=yjZLcB7O3U0&amp;v=2C6qHx8SmqI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_50953251" type="text" style="popup" log_data="ei=_V09XPSsEo6q1wKM_qa4DQ&amp;a-id=annotation_50953251&amp;a-type=1&amp;l-class=2&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&amp;xble=1&amp;a-v=yjZLcB7O3U0" itct="CAUQs-UBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yAml2SM26u_aB7pKbygE">
+  <TEXT>Hier findet Ihr alle 3D-Drucker Test-Videos.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="36.01500" h="15.92300" t="10:33.309"/>
+      <rectRegion x="0.00000" y="0.00000" w="36.01500" h="15.92300" t="10:55.498"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_50953251&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;feature=iv&amp;list=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&amp;src_vid=yjZLcB7O3U0" link_class="2"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_944295645" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3715679047">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3715679047" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="ei=_V09XPSsEo6q1wKM_qa4DQ&amp;l-class=3&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;xble=0&amp;a-v=yjZLcB7O3U0&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg">
+  <data>{&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26app%3Ddesktop%26continue_action%3DQUFFLUhqa3k4SnRQTjR1Mjc2S19jaW10SUVBcHJKaHRIQXxBQ3Jtc0tuTjBYdlNJenlCck1uSEl1b01mOFc3OHV5S1BCY2dNYnZaUXdPRTRXaUpUaHdBWHhtb1YwZTl5UldBbWUyZk10a3o0UUlnclpQdHE4d2JQU1ZaRWtoQ29yQ3V2MnpHRHZUNlZON2k0bkd5UUdObEU2cUN2U3gzd3pNc1gwYlNNUXRuWElzQzE2TmNxbjZoRktDaWFQOXd5SWx4SWl1dlpjMVJaMDdkdXJXeGZnQ05aWmo2MHFNRnNaejFSa0NoMDdVYUxMM05wVUdrV1ZHVnRjUHUzWjYxLVRpSE9vT01OdW5JZjBwSUdNSk8zdjJ4MUQ4%26hl%3Dde\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;is_mobile&quot;:false,&quot;image_width&quot;:55,&quot;end_ms&quot;:656000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;image_height&quot;:12,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;src_vid&quot;:&quot;yjZLcB7O3U0&quot;,&quot;ei&quot;:&quot;_V09XPSsEo6q1wKM_qa4DQ&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTICaXZIzbq79oHukpvKAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:21be2d19-e928-4311-b217-f03636108757" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=21be2d19-e928-4311-b217-f03636108757&amp;a-type=62&amp;a-v=yjZLcB7O3U0&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;l-class=1&amp;link-id=S5MZwIG8ERo&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yBWNhcmRzSM26u_aB7pKbygE&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;95.281 Aufrufe&quot;],&quot;end_ms&quot;:97189,&quot;title&quot;:&quot;3D-Drucker f\u00fcr Fortgeschrittene: Conrad Renkforce RF1000 im PC-WELT-Test | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=S5MZwIG8ERo&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 3D-Drucker f\u00fcr Fortgeschrittene: Conrad Renkforce RF1000 im PC-WELT-Test | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/S5MZwIG8ERo\/mqdefault.jpg&quot;,&quot;start_ms&quot;:97189,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;21be2d19-e928-4311-b217-f03636108757&quot;,&quot;src_vid&quot;:&quot;yjZLcB7O3U0&quot;,&quot;ei&quot;:&quot;_V09XPSsEo6q1wKM_qa4DQ&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;video_duration&quot;:&quot;6:12&quot;,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=S5MZwIG8ERo"/>
+  </action>
+</annotation>
+
+<annotation id="video:803facad-90c9-4a7a-82cd-cb0a47b594e7" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=803facad-90c9-4a7a-82cd-cb0a47b594e7&amp;a-type=62&amp;a-v=yjZLcB7O3U0&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;l-class=1&amp;link-id=HdGEWfqn4Zw&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yBWNhcmRzSM26u_aB7pKbygE&quot;,&quot;card&quot;:&quot;CA8Q1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;59.149 Aufrufe&quot;],&quot;end_ms&quot;:121845,&quot;title&quot;:&quot;3D-Drucker f\u00fcr 600 Euro: XYZprinting Da Vinci 1.0 im PC-WELT-Test | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=HdGEWfqn4Zw&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 3D-Drucker f\u00fcr 600 Euro: XYZprinting Da Vinci 1.0 im PC-WELT-Test | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/HdGEWfqn4Zw\/mqdefault.jpg&quot;,&quot;start_ms&quot;:121845,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;803facad-90c9-4a7a-82cd-cb0a47b594e7&quot;,&quot;src_vid&quot;:&quot;yjZLcB7O3U0&quot;,&quot;ei&quot;:&quot;_V09XPSsEo6q1wKM_qa4DQ&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;video_duration&quot;:&quot;10:03&quot;,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=HdGEWfqn4Zw"/>
+  </action>
+</annotation>
+
+<annotation id="video:39ffb356-8c94-4c90-b1e3-4345c5ca972e" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=39ffb356-8c94-4c90-b1e3-4345c5ca972e&amp;a-type=62&amp;a-v=yjZLcB7O3U0&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;l-class=1&amp;link-id=2C6qHx8SmqI&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yBWNhcmRzSM26u_aB7pKbygE&quot;,&quot;card&quot;:&quot;CBMQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;,&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;257.225 Aufrufe&quot;],&quot;end_ms&quot;:129553,&quot;title&quot;:&quot;3D-Drucker f\u00fcr 800 Euro: Pearl Freesculpt EX1 im PC-WELT-Test&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=2C6qHx8SmqI&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: 3D-Drucker f\u00fcr 800 Euro: Pearl Freesculpt EX1 im PC-WELT-Test&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/2C6qHx8SmqI\/mqdefault.jpg&quot;,&quot;start_ms&quot;:129553,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;39ffb356-8c94-4c90-b1e3-4345c5ca972e&quot;,&quot;src_vid&quot;:&quot;yjZLcB7O3U0&quot;,&quot;ei&quot;:&quot;_V09XPSsEo6q1wKM_qa4DQ&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;video_duration&quot;:&quot;8:59&quot;,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=2C6qHx8SmqI"/>
+  </action>
+</annotation>
+
+<annotation id="video:737d08ad-581b-4720-9d8c-0558fb13be26" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=737d08ad-581b-4720-9d8c-0558fb13be26&amp;a-type=62&amp;a-v=yjZLcB7O3U0&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;l-class=1&amp;link-id=0mSjHmKQtVU&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBkQsJcBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yBWNhcmRzSM26u_aB7pKbygE&quot;,&quot;card&quot;:&quot;CBcQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;,&quot;teaser&quot;:&quot;CBgQ0DYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;50.767 Aufrufe&quot;],&quot;end_ms&quot;:156306,&quot;title&quot;:&quot;Makerbot Replicator vs. Replicator Mini - 3D-Drucker im Vergleichs- Test | deutsch \/ german&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0mSjHmKQtVU&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Makerbot Replicator vs. Replicator Mini - 3D-Drucker im Vergleichs- Test | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0mSjHmKQtVU\/mqdefault.jpg&quot;,&quot;start_ms&quot;:156306,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;737d08ad-581b-4720-9d8c-0558fb13be26&quot;,&quot;src_vid&quot;:&quot;yjZLcB7O3U0&quot;,&quot;ei&quot;:&quot;_V09XPSsEo6q1wKM_qa4DQ&quot;,&quot;itct&quot;:&quot;CBcQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;video_duration&quot;:&quot;15:41&quot;,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0mSjHmKQtVU"/>
+  </action>
+</annotation>
+
+<annotation id="video:2ee6fd62-79f1-4280-82f1-29cea20af0f4" style="playlist" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=2ee6fd62-79f1-4280-82f1-29cea20af0f4&amp;a-type=63&amp;a-v=yjZLcB7O3U0&amp;ei=_V09XPSsEo6q1wKM_qa4DQ&amp;l-class=2&amp;link-id=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;3D-Drucker im PC-WELT-Test&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;11\u00a0Videos&quot;],&quot;end_ms&quot;:639429,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=NYulaw0uQRU\u0026list=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CB0QsJcBGP___________wEiEwi0n6mb9u7fAhUO1VUKHQy_Cdco-B0yBWNhcmRzSM26u_aB7pKbygE&quot;,&quot;card&quot;:&quot;CBsQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;,&quot;teaser&quot;:&quot;CBwQ0DYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;teaser_text&quot;:&quot;Empfohlen: 3D-Drucker im PC-WELT-Test&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/NYulaw0uQRU\/mqdefault.jpg&quot;,&quot;start_ms&quot;:639429,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;playlist_video_count&quot;:&quot;11&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;2ee6fd62-79f1-4280-82f1-29cea20af0f4&quot;,&quot;src_vid&quot;:&quot;yjZLcB7O3U0&quot;,&quot;ei&quot;:&quot;_V09XPSsEo6q1wKM_qa4DQ&quot;,&quot;itct&quot;:&quot;CBsQ1TYY____________ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ&quot;},&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=NYulaw0uQRU&amp;list=PLVC_WMwVwvSgaVzp0WZcMX_jUUWSVflqy"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwi0n6mb9u7fAhUO1VUKHQy/Cdco+B0yBWNhcmRzSM26u/aB7pKbygE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwi0n6mb9u7fAhUO1VUKHQy/Cdco+B0yBWNhcmRzSM26u/aB7pKbygE=&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCLSfqZv27t8CFQ7VVQodDL8J1yj4HTIFY2FyZHNIzbq79oHukpvKAQ==&quot;, 
+  &quot;eventId&quot;: &quot;_V09XPSsEo6q1wKM_qa4DQ&quot;
+}</data>
+</annotation>
+</annotations></document>

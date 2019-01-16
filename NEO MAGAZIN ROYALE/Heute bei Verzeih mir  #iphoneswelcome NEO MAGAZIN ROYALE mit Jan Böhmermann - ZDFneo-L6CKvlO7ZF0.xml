@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIp_fkzKDv3wIVD9RVCh1q-wGwKPgdMgJpdkjdyO2d5dei0C8">
+<annotation id="annotation_2030608139" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3060372315">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3060372315" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3060372315" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVtsNfyO5Gk8&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;a-v=L6CKvlO7ZF0&amp;a-id=annotation_3060372315&amp;l-class=1&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwin9-TMoO_fAhUP1FUKHWr7AbAo-B0yAml2SN3I7Z3l16LQLw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.45600" y="69.01400" w="25.00000" h="27.77800" t="2:52.085"/>
+      <rectRegion x="52.45600" y="69.01400" w="25.00000" h="27.77800" t="3:01.202"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3060372315&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;feature=iv&amp;src_vid=L6CKvlO7ZF0&amp;v=VtsNfyO5Gk8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3728210635" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_619101081">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_619101081" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4100683315" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4221362215">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4221362215" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4221362215" type="highlight" log_data="link=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fkanaluebersicht%2F2018414&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;a-v=L6CKvlO7ZF0&amp;a-id=annotation_4221362215&amp;l-class=6&amp;xble=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwin9-TMoO_fAhUP1FUKHWr7AbAo-B0yAml2SN3I7Z3l16LQLw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.66200" y="69.85900" w="25.00000" h="27.77800" t="2:52.085"/>
+      <rectRegion x="22.66200" y="69.85900" w="25.00000" h="27.77800" t="3:01.202"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://zdf.de/ZDFmediathek/kanaluebersicht/2018414" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_619101081" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNNEMxGKV1LsKZRt4vaIbvw&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;a-v=L6CKvlO7ZF0&amp;a-id=annotation_619101081&amp;l-class=3&amp;xble=1&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwin9-TMoO_fAhUP1FUKHWr7AbAo-B0yAml2SN3I7Z3l16LQLw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="84.15200" y="5.63400" w="13.74800" h="26.08800" t="2:52.085"/>
+      <rectRegion x="84.15200" y="5.63400" w="13.74800" h="26.08800" t="3:01.202"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCNNEMxGKV1LsKZRt4vaIbvw?annotation_id=annotation_619101081&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;feature=iv&amp;src_vid=L6CKvlO7ZF0" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:54c95822-0000-2051-ab96-001a113d4b18" style="branding" type="branding"
+            log_data="a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;link-id=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-v=L6CKvlO7ZF0&amp;a-id=54c95822-0000-2051-ab96-001a113d4b18&amp;l-class=3&amp;xble=0&amp;a-type=10">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;618.953&quot;,&quot;unsubscribeCount&quot;:&quot;618.954&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCNNEMxGKV1LsKZRt4vaIbvw%26continue_action%3DQUFFLUhqbTZWWUhhaVpsMmxicHRkNGN5aWNkSTdoX0p1QXxBQ3Jtc0tuWmdCOFR3N3Axdl9xajVYTDFZdUlHVW52dERBVWtORTY5MU53TzlpNTVwZXJmS3dRb2U1WkQ5RFIzRHhlbldaTmo0T0lhWE9CRHNVNWZzeWoxclEtQTFCWk1tYVZCTUd3LXlYY3lZaXVZTWJmaEc1QzhaOHRxWmswTXRpYWJKdTFQaW5RY2QzY2ZQN1JkblNPaG83a19sM0dSWm5tUml3REdWanBVakRtTmhpN1UxQUhqT1hTVG0xa1NjeE1TcE5NXzJIbkJNRmZiQm9ENG40V19MYjRVR0NSYzNhak9iQ3NJa1VVV2dIbGtZbDlHb3Vj%26hl%3Dde%26feature%3Div%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026service=youtube&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;classic&quot;:true},&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;NEO MAGAZIN ROYALE&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;54c95822-0000-2051-ab96-001a113d4b18&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;b4o9XOeDFI-o1wLq9oeACw&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTICaXZI3cjtneXXotAv&quot;,&quot;src_vid&quot;:&quot;L6CKvlO7ZF0&quot;},&quot;channel_id&quot;:&quot;UCNNEMxGKV1LsKZRt4vaIbvw&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/NNEMxGKV1LsKZRt4vaIbvw\/featured_channel.jpg?v=54ce5d14&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;618953&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:183000,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCNNEMxGKV1LsKZRt4vaIbvw"/>
+  </action>
+</annotation>
+<annotation id="video:04440c81-e553-4695-9508-ee72eaf7c297" style="simple" type="card" log_data="a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-id=04440c81-e553-4695-9508-ee72eaf7c297&amp;a-type=68&amp;a-v=L6CKvlO7ZF0&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;l-class=6&amp;link=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fkanaluebersicht%2F2018414&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;Komplette Folgen ansehen&quot;,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:60831,&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1441878171923,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwin9-TMoO_fAhUP1FUKHWr7AbAo-B0yBWNhcmRzSN3I7Z3l16LQLw&quot;},&quot;meta_info&quot;:[],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/L6CKvlO7ZF0\/04440c81-e553-4695-9508-ee72eaf7c297_mq.jpg?v=55f1509a&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fkanaluebersicht%2F2018414\u0026redir_token=4fhQ6xzWPCGPIM20dh6xHgQDOBt8MTU0NzYyMzQwN0AxNTQ3NTM3MDA3\u0026event=infocard&quot;,&quot;display_domain&quot;:&quot;zdf.de&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;show_link_icon&quot;:true,&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Sendungen in voller L\u00e4nge - ZDF Mediathek&quot;,&quot;teaser_text&quot;:&quot;Komplette Folgen ansehen&quot;,&quot;end_ms&quot;:60831,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;04440c81-e553-4695-9508-ee72eaf7c297&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;b4o9XOeDFI-o1wLq9oeACw&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;,&quot;src_vid&quot;:&quot;L6CKvlO7ZF0&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fzdf.de%2FZDFmediathek%2Fkanaluebersicht%2F2018414&amp;redir_token=4fhQ6xzWPCGPIM20dh6xHgQDOBt8MTU0NzYyMzQwN0AxNTQ3NTM3MDA3&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="video:54ea8ef5-a15e-4994-9e4d-dec0b99ab62e" style="playlist" type="card" log_data="a-ch=UCNNEMxGKV1LsKZRt4vaIbvw&amp;a-id=54ea8ef5-a15e-4994-9e4d-dec0b99ab62e&amp;a-type=63&amp;a-v=L6CKvlO7ZF0&amp;ei=b4o9XOeDFI-o1wLq9oeACw&amp;l-class=2&amp;link-id=PLHeo4sayeLKq7sosQnYMTfcLMrhbL6Hor&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;54ea8ef5-a15e-4994-9e4d-dec0b99ab62e&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;b4o9XOeDFI-o1wLq9oeACw&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;,&quot;src_vid&quot;:&quot;L6CKvlO7ZF0&quot;},&quot;playlist_video_count&quot;:&quot;70&quot;,&quot;timestamp&quot;:1441878235621,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCKf35Myg798CFQ_UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwin9-TMoO_fAhUP1FUKHWr7AbAo-B0yBWNhcmRzSN3I7Z3l16LQLw&quot;},&quot;meta_info&quot;:[&quot;von NEO MAGAZIN ROYALE&quot;,&quot;70\u00a0Videos&quot;],&quot;card_type&quot;:&quot;playlist&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=fAYjSLtz6wQ\u0026list=PLHeo4sayeLKq7sosQnYMTfcLMrhbL6Hor&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Clips Royale&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;Clips Royale&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/fAYjSLtz6wQ\/mqdefault.jpg&quot;,&quot;end_ms&quot;:120224,&quot;start_ms&quot;:120224}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=fAYjSLtz6wQ&amp;list=PLHeo4sayeLKq7sosQnYMTfcLMrhbL6Hor"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;b4o9XOeDFI-o1wLq9oeACw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCKf35Myg798CFQ/UVQodavsBsCj4HTIFY2FyZHNI3cjtneXXotAv&quot;, 
+  &quot;headerText&quot;: &quot;Von NEO MAGAZIN ROYALE&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwin9+TMoO/fAhUP1FUKHWr7AbAo+B0yBWNhcmRzSN3I7Z3l16LQLw==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwin9+TMoO/fAhUP1FUKHWr7AbAo+B0yBWNhcmRzSN3I7Z3l16LQLw==&quot;
+}</data>
+</annotation>
+</annotations></document>

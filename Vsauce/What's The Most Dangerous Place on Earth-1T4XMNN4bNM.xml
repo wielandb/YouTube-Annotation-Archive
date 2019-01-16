@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIksWNnqvv3wIVCuNVCh1BfwgoKPgdMgJpdkjT2eGbjeaFn9UB">
+<annotation id="annotation_145105" type="highlight" log_data="a-v=1T4XMNN4bNM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FVsauce3&amp;a-type=3&amp;xble=1&amp;l-class=3&amp;ei=lpU9XJKiDYrG1wLB_qHAAg&amp;a-id=annotation_145105" itct="CAEQs-UBGP___________wEiEwiSxY2eq-_fAhUK41UKHUF_CCgo-B0yAml2SNPZ4ZuN5oWf1QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.62500" y="35.83300" w="46.87500" h="62.77800" t="0:09:11.2"/>
+      <rectRegion x="50.62500" y="35.83300" w="46.87500" h="62.77800" t="0:09:25.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="12609747" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Vsauce3?annotation_id=annotation_145105&amp;ei=lpU9XJKiDYrG1wLB_qHAAg&amp;feature=iv&amp;src_vid=1T4XMNN4bNM" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_312134" type="text" style="popup" log_data="xble=1&amp;a-v=1T4XMNN4bNM&amp;a-type=1&amp;a-id=annotation_312134&amp;ei=lpU9XJKiDYrG1wLB_qHAAg" itct="CAIQs-UBGP___________wEiEwiSxY2eq-_fAhUK41UKHUF_CCgo-B0yAml2SNPZ4ZuN5oWf1QE">
+  <TEXT>                        ^
+                        ^
+This factors in the number of years the show ran as well as other factors like where the victim was from.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.15600" y="62.50000" w="32.03100" h="30.00000" t="0:07:37.9"/>
+      <rectRegion x="65.15600" y="62.50000" w="32.03100" h="30.00000" t="0:07:42.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_438805" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_145105">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="49.06300" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="49.06300" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_145105" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_737894" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_791980">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="49.06300" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="49.06300" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_791980" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_791980" type="highlight" log_data="a-v=1T4XMNN4bNM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FVsauce2&amp;a-type=3&amp;xble=1&amp;l-class=3&amp;ei=lpU9XJKiDYrG1wLB_qHAAg&amp;a-id=annotation_791980" itct="CAMQs-UBGP___________wEiEwiSxY2eq-_fAhUK41UKHUF_CCgo-B0yAml2SNPZ4ZuN5oWf1QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.09400" y="35.83300" w="48.22700" h="62.22200" t="0:09:11.2"/>
+      <rectRegion x="1.09400" y="35.83300" w="48.22700" h="62.22200" t="0:09:25.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="11529425" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Vsauce2?annotation_id=annotation_791980&amp;ei=lpU9XJKiDYrG1wLB_qHAAg&amp;feature=iv&amp;src_vid=1T4XMNN4bNM" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1onxwvXu3wIV1w_gCh1MBgajKPgdMgJpdkjQqrLxpLqQ_VY">
+<annotation id="annotation_1864061797" type="text" style="popup" log_data="ei=Q109XJbcMtefgAfMjJiYCg&amp;a-v=VvpB0k4slVA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1&amp;a-id=annotation_1864061797&amp;a-type=1&amp;xble=1&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjWifHC9e7fAhXXD-AKHUwGBqMo-B0yAml2SNCqsvGkupD9Vg">
+  <TEXT>PC-WELT YouTube-Channel abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="27.14000" h="12.82400" t="0:23.829"/>
+      <rectRegion x="0.00000" y="0.00000" w="27.14000" h="12.82400" t="1:26.040"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_1864061797&amp;ei=Q109XJbcMtefgAfMjJiYCg&amp;feature=iv&amp;src_vid=VvpB0k4slVA&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1960170235" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_375999883">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_375999883" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2653661067" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4239582029">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4239582029" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_375999883" type="highlight" log_data="ei=Q109XJbcMtefgAfMjJiYCg&amp;a-v=VvpB0k4slVA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVAGfk4Diuj4%26list%3DPLVC_WMwVwvSjngKiZBOhF94nYBq8FlRnl&amp;a-id=annotation_375999883&amp;a-type=3&amp;xble=1&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjWifHC9e7fAhXXD-AKHUwGBqMo-B0yAml2SNCqsvGkupD9Vg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="3.38000" w="28.32800" h="28.33800" t="3:31.660"/>
+      <rectRegion x="2.06000" y="3.38000" w="28.32800" h="28.33800" t="3:40.834"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_375999883&amp;ei=Q109XJbcMtefgAfMjJiYCg&amp;feature=iv&amp;list=PLVC_WMwVwvSjngKiZBOhF94nYBq8FlRnl&amp;src_vid=VvpB0k4slVA&amp;v=VAGfk4Diuj4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4239582029" type="highlight" log_data="ei=Q109XJbcMtefgAfMjJiYCg&amp;a-v=VvpB0k4slVA&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fnerd&amp;a-id=annotation_4239582029&amp;a-type=3&amp;xble=1&amp;l-class=6" itct="CAMQs-UBGP___________wEiEwjWifHC9e7fAhXXD-AKHUwGBqMo-B0yAml2SNCqsvGkupD9Vg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="74.46500" w="100.00000" h="25.53500" t="2:25.120"/>
+      <rectRegion x="0.00000" y="74.46500" w="100.00000" h="25.53500" t="2:30.400"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/nerd" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="ei=Q109XJbcMtefgAfMjJiYCg&amp;xble=0&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;a-type=10&amp;a-v=VvpB0k4slVA&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;l-class=3">
+  <data>{&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;end_ms&quot;:226000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCNaJ8cL17t8CFdcP4AodTAYGoyj4HTICaXZI0Kqy8aS6kP1W&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;ei&quot;:&quot;Q109XJbcMtefgAfMjJiYCg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;VvpB0k4slVA&quot;},&quot;image_height&quot;:12,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqa1NSTGREUFNsZWtqbDhkaUtkMVdvb1A3VkJXd3xBQ3Jtc0ttaDB4TmpGUzg0WHlRTHZkdkxTQkVwWktodDRPQjdMVTYyNE15dEEyY0ljVWVzVGZ1cUVOOEg3a0FzR1VUazdZWmF3anhlTG1kZXEwdm1RdGhUYnN6ZTJUS2daRFNGM0dqQWJLWC1MbzRBenQ0cWJzeWZSNkhmckFkSU9zUUNWUUhYaWY1OUxFd2huaWdZN1g3ZjhkN0FMQkJQT2R2UU1zNzJnYXFDRXdBMXdNcnZpZUJiZW9Lc19hMFhsQThqaEF6MjFmSVgwMG1tR1NqNk92UUdDa1QtczZSOFR5UTFPcDZVS28weXlIZ0FodEJjOTBj%26action_handle_signin%3Dtrue%26hl%3Dde%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT\u0026hl=de\u0026passive=true&quot;,&quot;enabled&quot;:false},&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;image_width&quot;:55,&quot;channel_name&quot;:&quot;PC-WELT&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation></annotations></document>

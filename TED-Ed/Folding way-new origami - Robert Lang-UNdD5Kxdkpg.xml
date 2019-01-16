@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3-f69-3u3wIVCBngCh0iJAklKPgdMgJpdkiYpfbiyvzQ61A">
+<annotation id="annotation_209232" type="text" style="popup" log_data="l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Frobert-lang-folds-way-new-origami&amp;xble=1&amp;a-id=annotation_209232&amp;a-v=UNdD5Kxdkpg&amp;a-type=1&amp;ei=T1U9XJ-EKIiygAeiyKSoAg" itct="CAEQs-UBGP___________wEiEwjf5_r37e7fAhUIGeAKHSIkCSUo-B0yAml2SJil9uLK_NDrUA">
+  <TEXT>Create a custom lesson using this video on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="18.75000" y="73.33300" w="60.93800" h="8.88900" t="0:00:10.0"/>
+      <rectRegion x="18.75000" y="73.33300" w="60.93800" h="8.88900" t="0:00:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/robert-lang-folds-way-new-origami" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_209262" type="highlight" log_data="l-class=12&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Frobert-lang-folds-way-new-origami&amp;xble=1&amp;a-id=annotation_209262&amp;a-v=UNdD5Kxdkpg&amp;a-type=3&amp;ei=T1U9XJ-EKIiygAeiyKSoAg" itct="CAIQs-UBGP___________wEiEwjf5_r37e7fAhUIGeAKHSIkCSUo-B0yAml2SJil9uLK_NDrUA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.03100" y="46.66700" w="44.84400" h="20.55600" t="0:00:10.0"/>
+      <rectRegion x="27.03100" y="46.66700" w="44.84400" h="20.55600" t="0:00:14.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/robert-lang-folds-way-new-origami" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_386572" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_209262">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_209262" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-v=UNdD5Kxdkpg&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=T1U9XJ-EKIiygAeiyKSoAg">
+  <data>{&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;start_ms&quot;:0,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbTRzcTliXzdBTzBxeTI2RGFjWWFxQVhrVnIxZ3xBQ3Jtc0tuNU1yZFpiekx4cUZPblZvNlZmbHVkaE1GRnJ5ZXFLNkdnQmtabVBnd0hISjRrLTdKTEdLeG85eUdIeWJGRE9seEEzU25GN1dYdWxoY0xrMjF6UzVaRUF3SzlyVXJrZXpOZkdFbDZid2NJeEM2Q0NEZVZrbDlpTUd3QS1fN2huS3ZRZnUtcUZoMWhxMk9ybFFjTlJxOVdkZEcwZTRZTUpYZnpMMTAybi1hS3NBZ1F5NFZabHBRU1BTMWFCSE44anVNT3p2QWtHLXhzdnFZeUZ2WDlhVjZkYW9JT0NfdHpBUDY4WGdKcFEtMnRuZFVZUE53%26feature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;UNdD5Kxdkpg&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;T1U9XJ-EKIiygAeiyKSoAg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCN_n-vft7t8CFQgZ4AodIiQJJSj4HTICaXZImKX24sr80OtQ&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:957000,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

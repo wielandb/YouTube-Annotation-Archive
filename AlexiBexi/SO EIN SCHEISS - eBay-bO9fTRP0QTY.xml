@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInaTMuK3v3wIVj2HgCh1KHQ3pKPgdMgJpdki2gtGf0enX92w">
+<annotation id="annotation_1466667985" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL4C73130BBE18B374&amp;a-v=bO9fTRP0QTY&amp;a-id=annotation_1466667985&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;xble=1&amp;l-class=2" itct="CAEQs-UBGP___________wEiEwidpMy4re_fAhWPYeAKHUodDeko-B0yAml2SLaC0Z_R6df3bA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.64800" y="2.25400" w="38.35200" h="53.97200" t="1:26.241"/>
+      <rectRegion x="61.64800" y="2.25400" w="38.35200" h="53.97200" t="1:40.472"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_1466667985&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;feature=iv&amp;list=PL4C73130BBE18B374&amp;src_vid=bO9fTRP0QTY" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_180205423" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Falextv.spreadshirt.de%2F&amp;a-v=bO9fTRP0QTY&amp;a-id=annotation_180205423&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;xble=1&amp;l-class=7" itct="CAIQs-UBGP___________wEiEwidpMy4re_fAhWPYeAKHUodDeko-B0yAml2SLaC0Z_R6df3bA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="49.67600" w="33.24100" h="50.32400" t="1:26.241"/>
+      <rectRegion x="0.00000" y="49.67600" w="33.24100" h="50.32400" t="1:40.472"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://alextv.spreadshirt.de/" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1973185099" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_672644085">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_672644085" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3325191421" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_180205423">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_180205423" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3363477797" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL4C73130BBE18B374&amp;a-v=bO9fTRP0QTY&amp;a-id=annotation_3363477797&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;xble=1&amp;l-class=2" itct="CAMQs-UBGP___________wEiEwidpMy4re_fAhWPYeAKHUodDeko-B0yAml2SLaC0Z_R6df3bA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.53600" y="0.84500" w="56.21600" h="53.36600" t="1:26.241"/>
+      <rectRegion x="2.53600" y="0.84500" w="56.21600" h="53.36600" t="1:40.472"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3363477797&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;feature=iv&amp;list=PL4C73130BBE18B374&amp;src_vid=bO9fTRP0QTY" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_349649253" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1466667985">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1466667985" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3707570025" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3363477797">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3363477797" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_672644085" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL4C73130BBE18B374&amp;a-v=bO9fTRP0QTY&amp;a-id=annotation_672644085&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;xble=1&amp;l-class=2" itct="CAQQs-UBGP___________wEiEwidpMy4re_fAhWPYeAKHUodDeko-B0yAml2SLaC0Z_R6df3bA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.91300" y="44.61100" w="59.08700" h="50.77300" t="1:26.033"/>
+      <rectRegion x="40.91300" y="44.61100" w="59.08700" h="50.77300" t="1:40.472"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_672644085&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;feature=iv&amp;list=PL4C73130BBE18B374&amp;src_vid=bO9fTRP0QTY" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:53d76bbb-0000-2ecf-88c3-001a1140dcae" style="branding" type="branding"
+            log_data="a-type=10&amp;link-id=UCzH549YlZhdhIqhtvz7XHmQ&amp;a-ch=UCzH549YlZhdhIqhtvz7XHmQ&amp;a-v=bO9fTRP0QTY&amp;a-id=53d76bbb-0000-2ecf-88c3-001a1140dcae&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;xble=0&amp;l-class=3">
+  <data>{&quot;num_subscribers&quot;:&quot;1338198&quot;,&quot;channel_name&quot;:&quot;AlexiBexi&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbEYxMEN1c3N6OGtOQmtxRkhTbXJUV0lPVjV5d3xBQ3Jtc0trRlFjYmNOY0Y1RGRzUERhWUVfdVpsd0tWdTNMVUFjN2FMcUN2dWZXOW9hTjlpc0t1SmFoRWJ3YWZjRjNlYUVNdEEzM0FoNENLOTJWS3hpYndyVzVOY1padjRSSzNHd2JqZW5QRkx1T2I0eUV6WWRRZ1kxc1h1d1RhNFVlTkNqMGxKVzdYTFpJTGR1a2hxLVlkY2ZIbU4tYXF1eXR5ZzFLR3Y4SzBmS2wzVEg0TXByaFhaUi1WRWhjLXk4NTR2ZkpkZjhYY0VXTG1LN1BSanpQQUo1SmdCLUNHaW9icWQ1b2tGOXlfLThLMk9STlV5ZDlV%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlexiBexi%26hl%3Dde%26app%3Ddesktop%26feature%3Div\u0026hl=de&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false},&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/zH549YlZhdhIqhtvz7XHmQ\/featured_channel.jpg?v=53de02fb&quot;,&quot;start_ms&quot;:0,&quot;end_ms&quot;:101000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCzH549YlZhdhIqhtvz7XHmQ&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;5pc9XJ2ZJ4_DgQfKurTIDg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;53d76bbb-0000-2ecf-88c3-001a1140dcae&quot;,&quot;src_vid&quot;:&quot;bO9fTRP0QTY&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTICaXZItoLRn9Hp1_ds&quot;},&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlexiBexi"/>
+  </action>
+</annotation>
+<annotation id="video:021439fc-a846-45c1-93b2-41ed22f79aee" style="playlist" type="card" log_data="a-ch=UCzH549YlZhdhIqhtvz7XHmQ&amp;a-id=021439fc-a846-45c1-93b2-41ed22f79aee&amp;a-type=63&amp;a-v=bO9fTRP0QTY&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;l-class=2&amp;link-id=PL4C73130BBE18B374&amp;xble=0">
+  <data>{&quot;playlist_video_count&quot;:&quot;43&quot;,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: So ein Scheiss!&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwidpMy4re_fAhWPYeAKHUodDeko-B0yBWNhcmRzSLaC0Z_R6df3bA&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1_ds&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1_ds&quot;},&quot;timestamp&quot;:1459964745526,&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;title&quot;:&quot;So ein Scheiss!&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;5pc9XJ2ZJ4_DgQfKurTIDg&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;021439fc-a846-45c1-93b2-41ed22f79aee&quot;,&quot;src_vid&quot;:&quot;bO9fTRP0QTY&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1_ds&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ySXIYA-RtFg\/mqdefault.jpg&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[&quot;von AlexiBexi&quot;,&quot;43\u00a0Videos&quot;],&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ySXIYA-RtFg\u0026list=PL4C73130BBE18B374&quot;,&quot;start_ms&quot;:85777,&quot;end_ms&quot;:85777}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ySXIYA-RtFg&amp;list=PL4C73130BBE18B374"/>
+  </action>
+</annotation>
+
+<annotation id="video:3b758050-0f68-4c71-9a97-49a34fbcdbd5" style="simple" type="card" log_data="a-ch=UCzH549YlZhdhIqhtvz7XHmQ&amp;a-id=3b758050-0f68-4c71-9a97-49a34fbcdbd5&amp;a-type=66&amp;a-v=bO9fTRP0QTY&amp;ei=5pc9XJ2ZJ4_DgQfKurTIDg&amp;l-class=7&amp;link=http%3A%2F%2Falextv.spreadshirt.de%2F&amp;xble=0">
+  <data>{&quot;timestamp&quot;:1459964865531,&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;start_ms&quot;:91658,&quot;teaser_text&quot;:&quot;Das \&quot;So ein Scheiss\&quot; Shirt!&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwidpMy4re_fAhWPYeAKHUodDeko-B0yBWNhcmRzSLaC0Z_R6df3bA&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1_ds&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1_ds&quot;},&quot;display_domain&quot;:&quot;alextv.spreadshirt.de&quot;,&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;title&quot;:&quot;MERCH SHOP!&quot;,&quot;end_ms&quot;:91658,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/v7ySg85jPb4Ghubzp9BCJ6OwvQvd4HHKB6--jbUlke3yxiXLHcrjX4DqXNpm3wZhsHhSAscGAbYLTzy4W-GCNFwF_j2Lb9WqP-pJBUifKfOcxzf-Z2cX4I-sZSX0Bd6dB3QVJdusPPOo9JgR7_3BSjXSZstQfQzfKW0I35tlXVka0dMuC66dP8n-IdLrJ8vkhq3r6bbGKv3KDfUtNtP_S2o=s300-c&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[],&quot;custom_message&quot;:&quot;Jetzt kaufen!&quot;,&quot;sponsored&quot;:false,&quot;session_data&quot;:{&quot;ei&quot;:&quot;5pc9XJ2ZJ4_DgQfKurTIDg&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;3b758050-0f68-4c71-9a97-49a34fbcdbd5&quot;,&quot;src_vid&quot;:&quot;bO9fTRP0QTY&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1_ds&quot;},&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Falextv.spreadshirt.de%2F\u0026event=infocard\u0026redir_token=4ygHwz5PyDjr0VIwJUiYiG_DXMN8MTU0NzYyNjg1NEAxNTQ3NTQwNDU0&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Falextv.spreadshirt.de%2F&amp;event=infocard&amp;redir_token=4ygHwz5PyDjr0VIwJUiYiG_DXMN8MTU0NzYyNjg1NEAxNTQ3NTQwNDU0"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von AlexiBexi&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCJ2kzLit798CFY9h4AodSh0N6Sj4HTIFY2FyZHNItoLRn9Hp1/ds&quot;, 
+  &quot;eventId&quot;: &quot;5pc9XJ2ZJ4_DgQfKurTIDg&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwidpMy4re/fAhWPYeAKHUodDeko+B0yBWNhcmRzSLaC0Z/R6df3bA==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwidpMy4re/fAhWPYeAKHUodDeko+B0yBWNhcmRzSLaC0Z/R6df3bA==&quot;
+}</data>
+</annotation>
+</annotations></document>

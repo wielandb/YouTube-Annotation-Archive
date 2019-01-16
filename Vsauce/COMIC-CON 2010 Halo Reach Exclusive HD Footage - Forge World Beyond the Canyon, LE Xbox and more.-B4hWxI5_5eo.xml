@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5aH4pKzv3wIVDIPeCh0JlwU6KPgdMgJpdkjqy__zyNiVxAc"><annotation author="vsauce" id="annotation_163114" itct="CAEQs-UBGP___________wEiEwjlofikrO_fAhUMg94KHQmXBToo-B0yAml2SOrL__PI2JXEBw" log_data="a-id=annotation_163114&amp;ei=sJY9XOWJPIyG-gaJrpbQAw&amp;xble=1&amp;a-v=B4hWxI5_5eo&amp;a-type=2" style="speech" type="text"><TEXT>Whoops, haha. It's actually $400
+>.&lt;   LOL</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="12.7779998779" sx="47.96900177" sy="55.8330001831" t="0:02:25.5" w="35.15599823" x="63.28099823" y="2.77800011635" /><anchoredRegion d="0" h="12.7779998779" sx="47.96900177" sy="55.8330001831" t="0:02:29.1" w="35.15599823" x="63.28099823" y="2.77800011635" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation>
+<annotation id="annotation_23626" type="text" style="popup" log_data="a-id=annotation_23626&amp;ei=sJY9XOWJPIyG-gaJrpbQAw&amp;xble=1&amp;a-v=B4hWxI5_5eo&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjlofikrO_fAhUMg94KHQmXBToo-B0yAml2SOrL__PI2JXEBw">
+  <TEXT>     Thumbs up for Comic-Con!!
+              Subscribe to 
+&lt;---Vsauce and Wackygamer ---&gt;
+               For MORE!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.43800" y="0.00000" w="33.75000" h="19.44400" t="0:00:11.0"/>
+      <rectRegion x="33.43800" y="0.00000" w="33.75000" h="19.44400" t="0:00:16.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_252595" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click HERE to subscribe to Wackygamer&#39;s full channel!</TEXT>
+  <segment spaceRelative="annotation_290000">
+    <movingRegion type="rect">
+      <rectRegion x="-9.53100" y="11.11100" w="25.15600" h="14.44400" t="never"/>
+      <rectRegion x="-9.53100" y="11.11100" w="25.15600" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_290000" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_290000" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dwackygamercomedy&amp;a-type=3&amp;a-id=annotation_290000&amp;xble=1&amp;l-class=5&amp;a-v=B4hWxI5_5eo&amp;ei=sJY9XOWJPIyG-gaJrpbQAw" itct="CAMQs-UBGP___________wEiEwjlofikrO_fAhUMg94KHQmXBToo-B0yAml2SOrL__PI2JXEBw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.43800" y="7.22200" w="4.53100" h="7.77800" t="0:00:00.0"/>
+      <rectRegion x="78.43800" y="7.22200" w="4.53100" h="7.77800" t="0:02:48.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=wackygamercomedy&amp;annotation_id=annotation_290000&amp;ei=sJY9XOWJPIyG-gaJrpbQAw&amp;feature=iv&amp;src_vid=B4hWxI5_5eo" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_336372" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;a-type=3&amp;a-id=annotation_336372&amp;xble=1&amp;l-class=5&amp;a-v=B4hWxI5_5eo&amp;ei=sJY9XOWJPIyG-gaJrpbQAw" itct="CAQQs-UBGP___________wEiEwjlofikrO_fAhUMg94KHQmXBToo-B0yAml2SOrL__PI2JXEBw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.71900" y="7.77800" w="4.84400" h="7.22200" t="0:00:00.0"/>
+      <rectRegion x="11.71900" y="7.77800" w="4.84400" h="7.22200" t="0:02:48.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_336372&amp;ei=sJY9XOWJPIyG-gaJrpbQAw&amp;feature=iv&amp;src_vid=B4hWxI5_5eo" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_708415" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcAGGPFFGNaM&amp;a-type=1&amp;a-id=annotation_708415&amp;xble=1&amp;l-class=1&amp;a-v=B4hWxI5_5eo&amp;ei=sJY9XOWJPIyG-gaJrpbQAw" itct="CAUQs-UBGP___________wEiEwjlofikrO_fAhUMg94KHQmXBToo-B0yAml2SOrL__PI2JXEBw">
+  <TEXT>For Unedited conference
+Click Here!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.90600" y="0.00000" w="28.90600" h="11.66700" t="0:00:31.1"/>
+      <rectRegion x="33.90600" y="0.00000" w="28.90600" h="11.66700" t="0:00:39.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_708415&amp;ei=sJY9XOWJPIyG-gaJrpbQAw&amp;feature=iv&amp;src_vid=B4hWxI5_5eo&amp;v=cAGGPFFGNaM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_720877" type="text" style="popup" log_data="a-id=annotation_720877&amp;ei=sJY9XOWJPIyG-gaJrpbQAw&amp;xble=1&amp;a-v=B4hWxI5_5eo&amp;a-type=1" itct="CAYQs-UBGP___________wEiEwjlofikrO_fAhUMg94KHQmXBToo-B0yAml2SOrL__PI2JXEBw">
+  <TEXT>What you most looking forward to about Halo Reach? What about from Comic-Con? COMMENT IT!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.00000" y="19.44400" w="30.00000" h="19.44400" t="0:02:40.8"/>
+      <rectRegion x="70.00000" y="19.44400" w="30.00000" h="19.44400" t="0:02:48.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_978833" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to Subscribe to Vsauce</TEXT>
+  <segment spaceRelative="annotation_336372">
+    <movingRegion type="rect">
+      <rectRegion x="-8.12500" y="8.61100" w="21.56300" h="10.83300" t="never"/>
+      <rectRegion x="-8.12500" y="8.61100" w="21.56300" h="10.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_336372" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

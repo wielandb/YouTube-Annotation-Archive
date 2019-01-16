@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4v7qkO3u3wIVk5tVCh2uSAQzKPgdMgJpdkiy7eCF2ur9qT0">
+<annotation id="annotation_2124628881" type="highlight" log_data="xble=1&amp;a-id=annotation_2124628881&amp;l-class=6&amp;a-v=PVP3VaC4NrI&amp;ei=d1Q9XKLnF5O31gKukZGYAw&amp;a-type=3&amp;link=http%3A%2F%2Fed.ted.com%2Fvideos%3Fv%3DPVP3VaC4NrI" itct="CAEQs-UBGP___________wEiEwji_uqQ7e7fAhWTm1UKHa5IBDMo-B0yAml2SLLt4IXa6v2pPQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.73400" y="47.04200" w="44.17600" h="21.85900" t="0:10.000"/>
+      <rectRegion x="27.73400" y="47.04200" w="44.17600" h="21.85900" t="0:14.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/videos?v=PVP3VaC4NrI" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3129669685" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2124628881">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2124628881" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=PVP3VaC4NrI&amp;ei=d1Q9XKLnF5O31gKukZGYAw&amp;a-type=10&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=de\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26hl%3Dde%26continue_action%3DQUFFLUhqa3NwazE5SmRIN1U0U1ZNZ3pTTXYteFZsSmlwd3xBQ3Jtc0trY0FpTmRzcFBFMjcwcHlPZWU4VTlMcWRhOE5PU25HYkVjVHRSWXZSVTM4WGhyOUhubWJFWEx6ZVpPelhOY1dFTnJXTzJWLVREUFdVdTRfUHZLZlhMSnFXQTM4TldISUQtSElZZV90Tmp3TkV1RGtoRTJid1JwMERoVmY2SEVLLURQNmxjLW5LaXRwcTJNaGhRb2dmU0U0ZVVYYVNPYk9RaFd4dEtXeXhwQ3oyVmJoOUlLb2RvY1FtVGRGbl9NXzJqTEVvejc5U1ptR3JiTlBzX0psM1hOdTlLX2F6MjZzNDMyVDdWLWJnSk1CNmdDVno0%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26app%3Ddesktop&quot;},&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;end_ms&quot;:745000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;d1Q9XKLnF5O31gKukZGYAw&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCOL-6pDt7t8CFZObVQodrkgEMyj4HTICaXZIsu3ghdrq_ak9&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;PVP3VaC4NrI&quot;},&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

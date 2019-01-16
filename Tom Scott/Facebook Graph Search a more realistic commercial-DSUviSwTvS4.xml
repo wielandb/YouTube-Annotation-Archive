@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_NWFmarv3wIVmpFVCh0HUwe_KPgdMgJpdkiu-s7gkvHLkg0">
+<annotation id="annotation_153861" type="text" style="popup" log_data="a-type=1&amp;a-v=DSUviSwTvS4&amp;l-class=1&amp;a-id=annotation_153861&amp;xble=1&amp;ei=f5Q9XLyaCpqj1gKHpp34Cw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZf6C-pZ3heY" itct="CAEQs-UBGP___________wEiEwj81YWZqu_fAhWakVUKHQdTB78o-B0yAml2SK76zuCS8cuSDQ">
+  <TEXT>You may also like &quot;When Facebook Resurrected The Dead&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="26.87500" h="17.77800" t="0:00:38.2"/>
+      <rectRegion x="5.62500" y="5.55600" w="26.87500" h="17.77800" t="0:00:46.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_153861&amp;ei=f5Q9XLyaCpqj1gKHpp34Cw&amp;feature=iv&amp;src_vid=DSUviSwTvS4&amp;v=Zf6C-pZ3heY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_212977" type="highlight" log_data="a-type=3&amp;a-v=DSUviSwTvS4&amp;l-class=6&amp;a-id=annotation_212977&amp;xble=1&amp;ei=f5Q9XLyaCpqj1gKHpp34Cw&amp;link=http%3A%2F%2Fwww.tomscott.com%2F" itct="CAIQs-UBGP___________wEiEwj81YWZqu_fAhWakVUKHQdTB78o-B0yAml2SK76zuCS8cuSDQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.06300" y="72.22200" w="29.21900" h="12.50000" t="0:00:38.2"/>
+      <rectRegion x="24.06300" y="72.22200" w="29.21900" h="12.50000" t="0:00:46.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_294962" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_212977">
+    <movingRegion type="rect">
+      <rectRegion x="5.00000" y="9.44400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="5.00000" y="9.44400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_212977" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_660935" log_data="a-type=0&amp;a-id=annotation_660935&amp;xble=1&amp;ei=f5Q9XLyaCpqj1gKHpp34Cw&amp;a-v=DSUviSwTvS4" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:00:44.4" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:00:44.4" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:01:00.0" /></action></annotation>
+<annotation id="annotation_718364" type="text" style="popup" log_data="a-type=1&amp;a-v=DSUviSwTvS4&amp;l-class=5&amp;a-id=annotation_718364&amp;xble=1&amp;ei=f5Q9XLyaCpqj1gKHpp34Cw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Denyay" itct="CAMQs-UBGP___________wEiEwj81YWZqu_fAhWakVUKHQdTB78o-B0yAml2SK76zuCS8cuSDQ">
+  <TEXT>Subscribe for more like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="26.94400" w="33.43800" h="9.16700" t="0:00:38.2"/>
+      <rectRegion x="5.62500" y="26.94400" w="33.43800" h="9.16700" t="0:00:46.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=enyay&amp;annotation_id=annotation_718364&amp;ei=f5Q9XLyaCpqj1gKHpp34Cw&amp;feature=iv&amp;src_vid=DSUviSwTvS4" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_vnB8f7u3wIVRrRVCh047QUHKPgdMgJpdkjriZ2mq8Xr2nM">
+<annotation id="annotation_143722" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid&amp;xble=1&amp;ei=FWc9XL6bIcbo1gK42pc4&amp;a-v=c7WuKrTHROs&amp;l-class=3&amp;a-type=3&amp;a-id=annotation_143722" itct="CAEQs-UBGP___________wEiEwj--cHx_u7fAhVGtFUKHTjtBQco-B0yAml2SOuJnaarxevacw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.56300" y="23.88900" w="47.34400" h="61.11100" t="0:02:13.8"/>
+      <rectRegion x="51.56300" y="23.88900" w="47.34400" h="61.11100" t="0:02:27.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_143722&amp;ei=FWc9XL6bIcbo1gK42pc4&amp;feature=iv&amp;src_vid=c7WuKrTHROs&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_196698" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU4bTW7RTgF4&amp;xble=1&amp;ei=FWc9XL6bIcbo1gK42pc4&amp;a-v=c7WuKrTHROs&amp;l-class=1&amp;a-type=1&amp;a-id=annotation_196698" itct="CAIQs-UBGP___________wEiEwj--cHx_u7fAhVGtFUKHTjtBQco-B0yAml2SOuJnaarxevacw">
+  <TEXT>Schlampige Arbeit oder was?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.71900" y="59.44400" w="26.09400" h="16.38900" t="0:02:13.8"/>
+      <rectRegion x="16.71900" y="59.44400" w="26.09400" h="16.38900" t="0:02:27.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_196698&amp;ei=FWc9XL6bIcbo1gK42pc4&amp;feature=iv&amp;src_vid=c7WuKrTHROs&amp;v=U4bTW7RTgF4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_312833" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dkhiy-2ve2Ho&amp;xble=1&amp;ei=FWc9XL6bIcbo1gK42pc4&amp;a-v=c7WuKrTHROs&amp;l-class=1&amp;a-type=1&amp;a-id=annotation_312833" itct="CAMQs-UBGP___________wEiEwj--cHx_u7fAhVGtFUKHTjtBQco-B0yAml2SOuJnaarxevacw">
+  <TEXT>45 Filme auf die Schippe genommen!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.18800" y="32.50000" w="25.62500" h="16.38900" t="0:02:13.8"/>
+      <rectRegion x="17.18800" y="32.50000" w="25.62500" h="16.38900" t="0:02:27.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_312833&amp;ei=FWc9XL6bIcbo1gK42pc4&amp;feature=iv&amp;src_vid=c7WuKrTHROs&amp;v=khiy-2ve2Ho" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_532009" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ab zu mir!</TEXT>
+  <segment spaceRelative="annotation_143722">
+    <movingRegion type="rect">
+      <rectRegion x="14.37500" y="3.61100" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="14.37500" y="3.61100" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_143722" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

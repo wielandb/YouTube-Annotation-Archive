@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIks26hu3u3wIVAeVVCh1crQgeKPgdMgJpdki0l8b8naSpwiE">
+<annotation id="annotation_179295" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_672343">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_672343" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_321714" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_882676">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.44400" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_882676" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4040" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=1&amp;l-class=5&amp;a-id=annotation_4040" itct="CAEQs-UBGP___________wEiEwiSzbqG7e7fAhUB5VUKHVytCB4o-B0yAml2SLSXxvydpKnCIQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.21900" y="12.22200" w="14.06300" h="30.83300" t="0:04:42.5"/>
+      <rectRegion x="79.21900" y="12.22200" w="14.06300" h="30.83300" t="0:04:52.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_4040&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;feature=iv&amp;src_vid=IYSlId-Ri7Q" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_484832" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmaking-sense-of-how-life-fits-together-bobbi-seleski&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=3&amp;l-class=12&amp;a-id=annotation_484832" itct="CAIQs-UBGP___________wEiEwiSzbqG7e7fAhUB5VUKHVytCB4o-B0yAml2SLSXxvydpKnCIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.68800" y="53.61100" w="70.00000" h="13.88900" t="0:04:42.5"/>
+      <rectRegion x="14.68800" y="53.61100" w="70.00000" h="13.88900" t="0:04:52.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/making-sense-of-how-life-fits-together-bobbi-seleski" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_519837" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=3&amp;l-class=12&amp;a-id=annotation_519837" itct="CAMQs-UBGP___________wEiEwiSzbqG7e7fAhUB5VUKHVytCB4o-B0yAml2SLSXxvydpKnCIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.25000" y="71.38900" w="31.56300" h="18.05600" t="0:04:42.5"/>
+      <rectRegion x="36.25000" y="71.38900" w="31.56300" h="18.05600" t="0:04:52.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_570833" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_519837">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_519837" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_672343" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=3&amp;l-class=6&amp;a-id=annotation_672343" itct="CAQQs-UBGP___________wEiEwiSzbqG7e7fAhUB5VUKHVytCB4o-B0yAml2SLSXxvydpKnCIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.31300" y="71.38900" w="22.65600" h="18.88900" t="4:42.500"/>
+      <rectRegion x="70.31300" y="71.38900" w="22.65600" h="18.88900" t="4:52.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_808764" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmaking-sense-of-how-life-fits-together-bobbi-seleski&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=1&amp;l-class=12&amp;a-id=annotation_808764" itct="CAUQs-UBGP___________wEiEwiSzbqG7e7fAhUB5VUKHVytCB4o-B0yAml2SLSXxvydpKnCIQ">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.16700" w="35.93800" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.16700" w="35.93800" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/making-sense-of-how-life-fits-together-bobbi-seleski" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_882676" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=3&amp;l-class=12&amp;a-id=annotation_882676" itct="CAYQs-UBGP___________wEiEwiSzbqG7e7fAhUB5VUKHVytCB4o-B0yAml2SLSXxvydpKnCIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.56300" y="71.11100" w="26.87500" h="18.88900" t="0:04:42.5"/>
+      <rectRegion x="6.56300" y="71.11100" w="26.87500" h="18.88900" t="0:04:52.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_908408" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_484832">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_484832" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;xble=0&amp;ei=YVQ9XNKYJoHK1wLc2qLwAQ&amp;a-v=IYSlId-Ri7Q&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;image_height&quot;:40,&quot;image_type&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbWZrbUxzamQwektTT2ZqRHJ5cUt2V0VDTDQxQXxBQ3Jtc0tuLVJPcDc4RzI0X3N2S002WFlrSGdMQS1XdGs1VlFHOXRMTkl4NlZwa0xxbk9UdEJ4OGRMV0tUdDFITEExV0VlWE1zMmFEQTZvd3RiSGhfQ2lrYzVnb1ppUWZsQ1FuZjY1RGQyUEZzTHlGT3A0SVJLNldIVDd0eGQxejRqanBzZjZaSktrNkdnWnU5Umk4TVN2S0RIUEFSTXFhREhuekV4N0p1RFJBYnI3TExFX0tqWVNuYm10ZFByWmFHZ0wybDhJUi16MGhkLVhqOEQtMml3UXhabXRLMUZua0lxX2VNT1VyUm1NS2lYV3U3SjZzU0ZZ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJLNuobt7t8CFQHlVQodXK0IHij4HTICaXZItJfG_J2kqcIh&quot;,&quot;src_vid&quot;:&quot;IYSlId-Ri7Q&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;YVQ9XNKYJoHK1wLc2qLwAQ&quot;},&quot;end_ms&quot;:293000,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

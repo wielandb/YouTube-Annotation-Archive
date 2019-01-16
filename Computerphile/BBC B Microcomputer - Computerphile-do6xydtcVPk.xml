@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIk4KK1ZPv3wIVQ65VCh2YlgOaKPgdMgJpdkj5qfHanbmsx3Y">
+<annotation id="annotation_105954" type="highlight" log_data="xble=1&amp;a-type=3&amp;a-v=do6xydtcVPk&amp;ei=33w9XNOWA8Pc1gKYrY7QCQ&amp;a-id=annotation_105954" itct="CAEQs-UBGP___________wEiEwiTgorVk-_fAhVDrlUKHZiWA5oo-B0yAml2SPmp8dqduazHdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.40600" y="3.61100" w="45.42200" h="58.50000" t="0:07:04.8"/>
+      <rectRegion x="51.40600" y="3.61100" w="45.42200" h="58.50000" t="0:07:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.25"/>
+  
+</annotation>
+
+<annotation id="annotation_206591" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_48938">
+    <movingRegion type="rect">
+      <rectRegion x="-7.18700" y="5.27800" w="25.00000" h="5.83300" t="never"/>
+      <rectRegion x="-7.18700" y="5.27800" w="25.00000" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_48938" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_48938" type="highlight" log_data="a-type=3&amp;ei=33w9XNOWA8Pc1gKYrY7QCQ&amp;a-id=annotation_48938&amp;l-class=5&amp;a-v=do6xydtcVPk&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dcomputerphile" itct="CAIQs-UBGP___________wEiEwiTgorVk-_fAhVDrlUKHZiWA5oo-B0yAml2SPmp8dqduazHdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.18800" y="79.72200" w="56.36700" h="12.47200" t="0:07:04.8"/>
+      <rectRegion x="22.18800" y="79.72200" w="56.36700" h="12.47200" t="0:07:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=computerphile&amp;annotation_id=annotation_48938&amp;ei=33w9XNOWA8Pc1gKYrY7QCQ&amp;feature=iv&amp;src_vid=do6xydtcVPk" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_79664" type="highlight" log_data="xble=1&amp;a-type=3&amp;a-v=do6xydtcVPk&amp;ei=33w9XNOWA8Pc1gKYrY7QCQ&amp;a-id=annotation_79664" itct="CAMQs-UBGP___________wEiEwiTgorVk-_fAhVDrlUKHZiWA5oo-B0yAml2SPmp8dqduazHdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.50000" y="3.88900" w="45.76600" h="57.55600" t="0:07:04.8"/>
+      <rectRegion x="2.50000" y="3.88900" w="45.76600" h="57.55600" t="0:07:22.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_850339" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>COMING SOON</TEXT>
+  <segment spaceRelative="annotation_105954">
+    <movingRegion type="rect">
+      <rectRegion x="11.09400" y="17.50000" w="25.00000" h="19.72200" t="never"/>
+      <rectRegion x="11.09400" y="17.50000" w="25.00000" h="19.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.42496666666667" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_105954" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_988657" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>COMING SOON</TEXT>
+  <segment spaceRelative="annotation_79664">
+    <movingRegion type="rect">
+      <rectRegion x="9.21900" y="12.50000" w="25.00000" h="19.72200" t="never"/>
+      <rectRegion x="9.21900" y="12.50000" w="25.00000" h="19.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.42496666666667" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_79664" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56a7cd8a-0000-2aea-9483-94eb2c05d02e" style="branding" type="branding"
+            log_data="link-id=UC9-y-6csu5WGm29I7JiwpnA&amp;a-type=10&amp;ei=33w9XNOWA8Pc1gKYrY7QCQ&amp;a-id=56a7cd8a-0000-2aea-9483-94eb2c05d02e&amp;a-ch=UC9-y-6csu5WGm29I7JiwpnA&amp;l-class=3&amp;xble=0&amp;a-v=do6xydtcVPk">
+  <data>{&quot;is_mobile&quot;:false,&quot;image_width&quot;:51,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UC9-y-6csu5WGm29I7JiwpnA&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbGZqVnlNRkxRSGFTRWlqaTQwVVEtNXQweC0xQXxBQ3Jtc0tsRnhERkZWR2YwQm5SamczZXQzRWF0amRxOWJmcG8zWGRma3ZBTk0ySVNNbmx2dFNhU0JrQktxNjFVZ2o2M1lNMXRuQ1FIU01QNmdweV9OSHdpYllwbzFvTWVvcjNGM01yLWFyQ1dHRVA0MDc4OGxVV3dRbzhvM0dZcnJQQndnNkZfNEJtQW91M3NjV1pPYUJlN3h1dUVIelBlV3B6b3NhQkxHYXhIVG9XSGk5QkpiVGNmWFFJUG51SklIYjNiVmVfX3JNcWRKcDFTSV9aVDRfeUVFX0VEWlhRdTR6eEVCT3BTd0U5bFpPLV9XRnE4ZDBV%26action_handle_signin%3Dtrue%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FComputerphile%26feature%3Div\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;1,2\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;start_ms&quot;:5000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:23,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:442000,&quot;channel_name&quot;:&quot;Computerphile&quot;,&quot;num_subscribers&quot;:&quot;1272336&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9-y-6csu5WGm29I7JiwpnA\/featured_channel.jpg?v=56aa1811&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJOCitWT798CFUOuVQodmJYDmij4HTICaXZI-anx2p25rMd2&quot;,&quot;src_vid&quot;:&quot;do6xydtcVPk&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;56a7cd8a-0000-2aea-9483-94eb2c05d02e&quot;,&quot;ei&quot;:&quot;33w9XNOWA8Pc1gKYrY7QCQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Computerphile"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIheTxhu7u3wIVAgjgCh2SfAxdKPgdMgJpdkj04YGZ7YPZ7HQ">
+<annotation id="annotation_114423" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_440022">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.27800" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="25.27800" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_440022" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_208035" log_data="xble=1&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;a-v=dNlkHtMgcPQ&amp;a-type=0&amp;a-id=annotation_208035" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:05:00.9" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:05:00.9" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:05.0" /></action></annotation>
+<annotation id="annotation_356070" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_785618">
+    <movingRegion type="rect">
+      <rectRegion x="-27.81200" y="25.27800" w="59.37500" h="4.44400" t="never"/>
+      <rectRegion x="-27.81200" y="25.27800" w="59.37500" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_785618" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_440022" type="highlight" log_data="a-type=3&amp;l-class=12&amp;a-v=dNlkHtMgcPQ&amp;xble=1&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;a-id=annotation_440022&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator" itct="CAEQs-UBGP___________wEiEwiF5PGG7u7fAhUCCOAKHZJ8DF0o-B0yAml2SPThgZntg9nsdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.31300" y="71.11100" w="27.81300" h="19.16700" t="0:04:54.5"/>
+      <rectRegion x="5.31300" y="71.11100" w="27.81300" h="19.16700" t="0:05:04.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_511583" type="text" style="popup" log_data="a-type=1&amp;l-class=12&amp;a-v=dNlkHtMgcPQ&amp;xble=1&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;a-id=annotation_511583&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fbeware-of-nominalizations-aka-zombie-nouns-helen-sword" itct="CAIQs-UBGP___________wEiEwiF5PGG7u7fAhUCCOAKHZJ8DF0o-B0yAml2SPThgZntg9nsdA">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.72200" w="35.15600" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.72200" w="35.15600" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/beware-of-nominalizations-aka-zombie-nouns-helen-sword" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_785618" type="highlight" log_data="a-type=3&amp;l-class=5&amp;a-v=dNlkHtMgcPQ&amp;xble=1&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;a-id=annotation_785618&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation" itct="CAMQs-UBGP___________wEiEwiF5PGG7u7fAhUCCOAKHZJ8DF0o-B0yAml2SPThgZntg9nsdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.43800" y="70.27800" w="26.09400" h="20.55600" t="0:04:54.5"/>
+      <rectRegion x="68.43800" y="70.27800" w="26.09400" h="20.55600" t="0:05:04.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_785618&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;feature=iv&amp;src_vid=dNlkHtMgcPQ" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_789324" type="highlight" log_data="a-type=3&amp;l-class=12&amp;a-v=dNlkHtMgcPQ&amp;xble=1&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;a-id=annotation_789324&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator" itct="CAQQs-UBGP___________wEiEwiF5PGG7u7fAhUCCOAKHZJ8DF0o-B0yAml2SPThgZntg9nsdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.31300" y="71.38900" w="30.93800" h="18.61100" t="0:04:54.5"/>
+      <rectRegion x="35.31300" y="71.38900" w="30.93800" h="18.61100" t="0:05:04.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_866233" type="highlight" log_data="a-type=3&amp;l-class=12&amp;a-v=dNlkHtMgcPQ&amp;xble=1&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;a-id=annotation_866233&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fbeware-of-nominalizations-aka-zombie-nouns-helen-sword" itct="CAUQs-UBGP___________wEiEwiF5PGG7u7fAhUCCOAKHZJ8DF0o-B0yAml2SPThgZntg9nsdA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.15600" y="52.77800" w="70.00000" h="15.27800" t="0:04:54.5"/>
+      <rectRegion x="15.15600" y="52.77800" w="70.00000" h="15.27800" t="0:05:04.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/beware-of-nominalizations-aka-zombie-nouns-helen-sword" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_932216" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_866233">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_866233" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_96001" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_789324">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_789324" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;l-class=3&amp;a-v=dNlkHtMgcPQ&amp;xble=0&amp;ei=blU9XIX1OoKQgAeS-bHoBQ&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqa1RDSG5jN2pTX3FSWktJU1lNX29jbXJETE15Z3xBQ3Jtc0ttUW5DS0pfX3Z1blFpeWVPd0tsdzQ1N09HejhlZDh0TjB0ZjVYLW1Bdm96TFJudDVUQlFNbXhUdk5GQ016Ylk1amtTR1Rvc0drQlR4R0VVNjF0RjBRaWpGNDYtYXVLOU0xS0tHUmE3djBNSFpMLXJMdm82WDZpUHpyMGVtMURtcGxVU29TZWNHWEUwd0dWQXVMeVMtZmV1QnhCQmlfek4tM3docEtWQU9lbUVoZGQxWmJzdTRsbGVudlNJMV9aLWZrQnhEMHhVX2Q5NlM4LTFtLXBBMU5xZkR0X3lZVUZuTGpRbG8yNF94dmpDNVFTRWpF%26action_handle_signin%3Dtrue%26app%3Ddesktop&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:305000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCIXk8Ybu7t8CFQII4AodknwMXSj4HTICaXZI9OGBme2D2ex0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;blU9XIX1OoKQgAeS-bHoBQ&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;dNlkHtMgcPQ&quot;},&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

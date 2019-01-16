@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItsujqanv3wIVRLd7Ch3B8QOFKPgdMgJpdkiP66u97JKronY">
+<annotation id="annotation_2026122727" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3153601053">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3153601053" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2816121367" type="text" style="popup" log_data="a-id=annotation_2816121367&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;ei=lJM9XLaxL8Tu7gPB44-oCA&amp;a-v=dkSslseq9Y8&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwi2y6Opqe_fAhVEt3sKHcHxA4Uo-B0yAml2SI_rq73skquidg">
+  <TEXT>Subscribe for more like this!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="78.31000" w="38.87500" h="10.57700" t="6:37.435"/>
+      <rectRegion x="6.65600" y="78.31000" w="38.87500" h="10.57700" t="6:58.353"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_2816121367&amp;ei=lJM9XLaxL8Tu7gPB44-oCA&amp;feature=iv&amp;src_vid=dkSslseq9Y8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3153601053" type="highlight" log_data="a-id=annotation_3153601053&amp;link=http%3A%2F%2Ftomscott.com%2Fcontact&amp;xble=1&amp;l-class=6&amp;ei=lJM9XLaxL8Tu7gPB44-oCA&amp;a-v=dkSslseq9Y8&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwi2y6Opqe_fAhVEt3sKHcHxA4Uo-B0yAml2SI_rq73skquidg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.86400" y="6.76100" w="42.27400" h="58.19700" t="6:37.435"/>
+      <rectRegion x="5.86400" y="6.76100" w="42.27400" h="58.19700" t="6:58.353"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://tomscott.com/contact" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:66d4f3eb-c30e-4662-9eee-8c9c9989a190" style="playlist" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=66d4f3eb-c30e-4662-9eee-8c9c9989a190&amp;a-type=63&amp;a-v=dkSslseq9Y8&amp;ei=lJM9XLaxL8Tu7gPB44-oCA&amp;l-class=2&amp;link-id=PL96C35uN7xGLoAooGokQA75b-K0dabejH&amp;xble=0">
+  <data>{&quot;playlist_video_count&quot;:&quot;19&quot;,&quot;start_ms&quot;:389818,&quot;title&quot;:&quot;Bugs, Exploits and Computer Minutiae&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/OCLaeBAkFAY\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwi2y6Opqe_fAhVEt3sKHcHxA4Uo-B0yBWNhcmRzSI_rq73skquidg&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj-urveySq6J2&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj-urveySq6J2&quot;},&quot;end_ms&quot;:389818,&quot;session_data&quot;:{&quot;ei&quot;:&quot;lJM9XLaxL8Tu7gPB44-oCA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;66d4f3eb-c30e-4662-9eee-8c9c9989a190&quot;,&quot;src_vid&quot;:&quot;dkSslseq9Y8&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj-urveySq6J2&quot;},&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1451145429939,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Bugs, Exploits and Computer Minutiae&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;19\u00a0Videos&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=OCLaeBAkFAY\u0026list=PL96C35uN7xGLoAooGokQA75b-K0dabejH&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=OCLaeBAkFAY&amp;list=PL96C35uN7xGLoAooGokQA75b-K0dabejH"/>
+  </action>
+</annotation>
+
+<annotation id="video:1926ceef-f662-4d27-a3f1-c1b5d790badf" style="simple" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=1926ceef-f662-4d27-a3f1-c1b5d790badf&amp;a-type=68&amp;a-v=dkSslseq9Y8&amp;ei=lJM9XLaxL8Tu7gPB44-oCA&amp;l-class=6&amp;link=http%3A%2F%2Fwww.tomscott.com%2Fcontact%2F&amp;xble=0">
+  <data>{&quot;display_domain&quot;:&quot;tomscott.com&quot;,&quot;start_ms&quot;:402885,&quot;title&quot;:&quot;Contact Tom&quot;,&quot;custom_message&quot;:&quot;Go to Tom&#39;s contact page&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/V9zPT2xWWvM-fXz-rspYYKMxfkhoLlTd2b42VRlmP3b8wMkFOh93EIYxhyOoYJ0RqO9-O48&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwi2y6Opqe_fAhVEt3sKHcHxA4Uo-B0yBWNhcmRzSI_rq73skquidg&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj-urveySq6J2&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj-urveySq6J2&quot;},&quot;end_ms&quot;:402885,&quot;session_data&quot;:{&quot;ei&quot;:&quot;lJM9XLaxL8Tu7gPB44-oCA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;1926ceef-f662-4d27-a3f1-c1b5d790badf&quot;,&quot;src_vid&quot;:&quot;dkSslseq9Y8&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj-urveySq6J2&quot;},&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1451145408969,&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;teaser_text&quot;:&quot;Get in touch!&quot;,&quot;sponsored&quot;:false,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;meta_info&quot;:[],&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fwww.tomscott.com%2Fcontact%2F\u0026event=infocard\u0026redir_token=W8GKuod-z-iipHOsDYaAm1j8JMB8MTU0NzYyNTc0OEAxNTQ3NTM5MzQ4&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fwww.tomscott.com%2Fcontact%2F&amp;event=infocard&amp;redir_token=W8GKuod-z-iipHOsDYaAm1j8JMB8MTU0NzYyNTc0OEAxNTQ3NTM5MzQ4"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCLbLo6mp798CFUS3ewodwfEDhSj4HTIFY2FyZHNIj+urveySq6J2&quot;, 
+  &quot;eventId&quot;: &quot;lJM9XLaxL8Tu7gPB44-oCA&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwi2y6Opqe/fAhVEt3sKHcHxA4Uo+B0yBWNhcmRzSI/rq73skquidg==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwi2y6Opqe/fAhVEt3sKHcHxA4Uo+B0yBWNhcmRzSI/rq73skquidg==&quot;
+}</data>
+</annotation>
+</annotations></document>

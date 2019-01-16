@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6OHd04_v3wIVhKFVCh3NdgexKPgdMgJpdkj37M6Pz4Cml70B">
+<annotation id="annotation_2478973617" type="highlight" log_data="ei=qng9XOjkHYTD1gLN7Z2ICw&amp;link=http%3A%2F%2Fwww.bleeptrack.de%2Fschlaue-bande%2F&amp;xble=1&amp;a-id=annotation_2478973617&amp;a-type=3&amp;l-class=6&amp;a-v=vS6YBPHztnc" itct="CAEQs-UBGP___________wEiEwjo4d3Tj-_fAhWEoVUKHc12B7Eo-B0yAml2SPfszo_PgKaXvQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.79900" y="54.36600" w="31.18100" h="41.85900" t="3:42.522"/>
+      <rectRegion x="16.79900" y="54.36600" w="31.18100" h="41.85900" t="3:54.234"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.bleeptrack.de/schlaue-bande/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4050176681" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Schlaue Bande</TEXT>
+  <segment spaceRelative="annotation_2478973617">
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="-5.63400" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="2.37700" y="-5.63400" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2478973617" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_434191017" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Harry Hops</TEXT>
+  <segment spaceRelative="annotation_435607373">
+    <movingRegion type="rect">
+      <rectRegion x="5.86400" y="49.57700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="5.86400" y="49.57700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_435607373" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_435607373" type="highlight" log_data="ei=qng9XOjkHYTD1gLN7Z2ICw&amp;link=http%3A%2F%2Fwww.bleeptrack.de%2Fharry-hops-schatzsuche%2F&amp;xble=1&amp;a-id=annotation_435607373&amp;a-type=3&amp;l-class=6&amp;a-v=vS6YBPHztnc" itct="CAIQs-UBGP___________wEiEwjo4d3Tj-_fAhWEoVUKHc12B7Eo-B0yAml2SPfszo_PgKaXvQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.33600" y="9.57700" w="35.61800" h="48.05600" t="3:42.522"/>
+      <rectRegion x="48.33600" y="9.57700" w="35.61800" h="48.05600" t="3:54.234"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.bleeptrack.de/harry-hops-schatzsuche/" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

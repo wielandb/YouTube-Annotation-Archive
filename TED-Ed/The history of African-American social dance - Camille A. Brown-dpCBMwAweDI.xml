@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9aTM0-nu3wIVEpN8Ch2B2AOBKPgdMgJpdkiy8MGBsKagyHY">
+<annotation id="annotation_1583983795" type="highlight" log_data="a-v=dpCBMwAweDI&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_1583983795&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23recommend-an-animator&amp;ei=0VA9XLX4J5Km8gOBsY-ICA" itct="CAEQs-UBGP___________wEiEwj1pMzT6e7fAhUSk3wKHYHYA4Eo-B0yAml2SLLwwYGwpqDIdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.65800" y="70.42300" w="32.92400" h="20.16900" t="4:42.200"/>
+      <rectRegion x="35.65800" y="70.42300" w="32.92400" h="20.16900" t="4:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#recommend-an-animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1806636873" type="highlight" log_data="a-v=dpCBMwAweDI&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_1806636873&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=0VA9XLX4J5Km8gOBsY-ICA" itct="CAIQs-UBGP___________wEiEwj1pMzT6e7fAhUSk3wKHYHYA4Eo-B0yAml2SLLwwYGwpqDIdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.88900" y="70.42300" w="23.73200" h="20.73600" t="4:42.200"/>
+      <rectRegion x="69.88900" y="70.42300" w="23.73200" h="20.73600" t="4:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_230371011" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1806636873">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.19700" w="23.89100" h="29.38000" t="never"/>
+      <rectRegion x="0.00000" y="0.19700" w="23.89100" h="29.38000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1806636873" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2736804665" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_293039973">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_293039973" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2743683185" type="text" style="popup" log_data="a-v=dpCBMwAweDI&amp;l-class=6&amp;a-type=1&amp;a-id=annotation_2743683185&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-history-of-african-american-social-dance-camille-a-brown&amp;ei=0VA9XLX4J5Km8gOBsY-ICA" itct="CAMQs-UBGP___________wEiEwj1pMzT6e7fAhUSk3wKHYHYA4Eo-B0yAml2SLLwwYGwpqDIdg">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.64500" y="3.94400" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="3.64500" y="3.94400" w="30.00000" h="8.88900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-history-of-african-american-social-dance-camille-a-brown" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2805902779" type="text" style="popup" log_data="a-v=dpCBMwAweDI&amp;l-class=5&amp;a-type=1&amp;a-id=annotation_2805902779&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;ei=0VA9XLX4J5Km8gOBsY-ICA" itct="CAQQs-UBGP___________wEiEwj1pMzT6e7fAhUSk3wKHYHYA4Eo-B0yAml2SLLwwYGwpqDIdg">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="77.49600" y="10.98600" w="17.31400" h="26.62000" t="4:42.200"/>
+      <rectRegion x="77.49600" y="10.98600" w="17.31400" h="26.62000" t="4:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_2805902779&amp;ei=0VA9XLX4J5Km8gOBsY-ICA&amp;feature=iv&amp;src_vid=dpCBMwAweDI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_293039973" type="highlight" log_data="a-v=dpCBMwAweDI&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_293039973&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23nominate-an-educator&amp;ei=0VA9XLX4J5Km8gOBsY-ICA" itct="CAUQs-UBGP___________wEiEwj1pMzT6e7fAhUSk3wKHYHYA4Eo-B0yAml2SLLwwYGwpqDIdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="70.70400" w="28.17000" h="20.45400" t="4:42.200"/>
+      <rectRegion x="6.18100" y="70.70400" w="28.17000" h="20.45400" t="4:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#nominate-an-educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3033291939" type="highlight" log_data="a-v=dpCBMwAweDI&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_3033291939&amp;xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fthe-history-of-african-american-social-dance-camille-a-brown&amp;ei=0VA9XLX4J5Km8gOBsY-ICA" itct="CAYQs-UBGP___________wEiEwj1pMzT6e7fAhUSk3wKHYHYA4Eo-B0yAml2SLLwwYGwpqDIdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.26300" y="52.67600" w="71.11700" h="16.22900" t="4:42.200"/>
+      <rectRegion x="14.26300" y="52.67600" w="71.11700" h="16.22900" t="4:52.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/the-history-of-african-american-social-dance-camille-a-brown" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_874337219" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3033291939">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3033291939" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_891946727" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1583983795">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1583983795" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-v=dpCBMwAweDI&amp;xble=0&amp;l-class=3&amp;a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=0VA9XLX4J5Km8gOBsY-ICA">
+  <data>{&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;end_ms&quot;:293000,&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;dpCBMwAweDI&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCPWkzNPp7t8CFRKTfAodgdgDgSj4HTICaXZIsvDBgbCmoMh2&quot;,&quot;ei&quot;:&quot;0VA9XLX4J5Km8gOBsY-ICA&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;image_type&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbnBHY3VPWVU3RHdmVUViUnpuenJEYUZZeTFud3xBQ3Jtc0trLUwzZ2FOUGtVdWh0d1FYRDN1QndWSkhuOHV3bEJHb2t3WVAzbUZZNE93LUYzeTNkZDNvem9DaEdxU0hGRnVXTEhDYmRYTmJWdUgxclE2M1RHbXlTZ2MxX200UU5ZZzdrWE1aVnZIZUhVMHhPbHNEUnFwbE1Gd1hGaC1uQnhNa3JnNlJGT05naE00bTdlVjk1RlN6ZlgzSFplQ0FHaTZYUlRYcU5PQW14aURTazRvbW9zYkl1b1h1amZMTFVQcjZZZlRWa3lRMTBvcmFQZHU5ZUZZS3c3ZDRqajVlcWxpZFpNejluM01ranljejdFUDJN\u0026hl=de\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIu86ujtnu3wIVRoBVCh2_qgEBKPgdMgJpdkjloJCoxJDQpUs">
+<annotation id="annotation_159344" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_526322">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_526322" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_526322" type="highlight" log_data="l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dgamingclerks&amp;xble=1&amp;a-id=annotation_526322&amp;a-type=3&amp;a-v=S0tAhEUEEGU&amp;ei=eT89XPutHsaA1gK_1YYI" itct="CAEQs-UBGP___________wEiEwi7zq6O2e7fAhVGgFUKHb-qAQEo-B0yAml2SOWgkKjEkNClSw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="3.88900" w="32.03100" h="19.72200" t="0:08:02.6"/>
+      <rectRegion x="0.15600" y="3.88900" w="32.03100" h="19.72200" t="0:08:45.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=gamingclerks&amp;annotation_id=annotation_526322&amp;ei=eT89XPutHsaA1gK_1YYI&amp;feature=iv&amp;src_vid=S0tAhEUEEGU" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation author="" id="annotation_859669" itct="CAIQs-UBGP___________wEiEwi7zq6O2e7fAhVGgFUKHb-qAQEo-B0yAml2SOWgkKjEkNClSw" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXsClBJbivK8%26index%3D4%26list%3DPLNlv0WYGRAB053lZotOfOyvewfBIIGRtc&amp;xble=1&amp;a-id=annotation_859669&amp;a-type=9&amp;a-v=S0tAhEUEEGU&amp;ei=eT89XPutHsaA1gK_1YYI" style="label" type="text"><TEXT>Mehr Reviews von uns...!</TEXT><segment><movingRegion type="rect"><rectRegion d="0" h="42.5" t="0:08:02.6" w="37.65599823" x="60.15599823" y="0.0" /><rectRegion d="0" h="42.5" t="0:08:45.1" w="37.65599823" x="60.15599823" y="0.0" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="1" target="current" trusted="true" value="https://www.youtube.com/watch?annotation_id=annotation_859669&amp;ei=eT89XPutHsaA1gK_1YYI&amp;feature=iv&amp;index=4&amp;list=PLNlv0WYGRAB053lZotOfOyvewfBIIGRtc&amp;src_vid=S0tAhEUEEGU&amp;v=XsClBJbivK8" /></action><appearance effects="textdropshadow" textSize="3.9116"><padding bottom="2.34696006775" left="1.32016503811" right="1.76022005081" top="2.34696006775" /></appearance></annotation></annotations></document>

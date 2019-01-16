@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIooapzqnv3wIVW5pVCh1jCgjMKPgdMgJpdkjyxeCuiIDjg3o">
+<annotation id="annotation_1525944799" type="text" style="popup" log_data="a-v=egeMAIXYIvI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrJGifTou5FE&amp;l-class=1&amp;a-id=annotation_1525944799&amp;ei=4pM9XKKNHNu01gLjlKDgDA&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiihqnOqe_fAhVbmlUKHWMKCMwo-B0yAml2SPLF4K6IgOODeg">
+  <TEXT>You may also like:
+Ten Illegal Things To Do In London</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.83800" y="40.84500" w="55.51500" h="13.39400" t="3:19.100"/>
+      <rectRegion x="41.83800" y="40.84500" w="55.51500" h="13.39400" t="3:29.442"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1525944799&amp;ei=4pM9XKKNHNu01gLjlKDgDA&amp;feature=iv&amp;src_vid=egeMAIXYIvI&amp;v=rJGifTou5FE" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1832156291" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_261292089">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_261292089" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_261292089" type="highlight" log_data="a-v=egeMAIXYIvI&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;l-class=6&amp;a-id=annotation_261292089&amp;ei=4pM9XKKNHNu01gLjlKDgDA&amp;a-type=3&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiihqnOqe_fAhVbmlUKHWMKCMwo-B0yAml2SPLF4K6IgOODeg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.09500" y="15.21100" w="56.69600" h="21.31000" t="3:20.000"/>
+      <rectRegion x="40.09500" y="15.21100" w="56.69600" h="21.31000" t="3:29.442"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3939399997" type="text" style="popup" log_data="a-v=egeMAIXYIvI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;l-class=5&amp;a-id=annotation_3939399997&amp;ei=4pM9XKKNHNu01gLjlKDgDA&amp;a-type=1&amp;xble=1" itct="CAMQs-UBGP___________wEiEwiihqnOqe_fAhVbmlUKHWMKCMwo-B0yAml2SPLF4K6IgOODeg">
+  <TEXT>Subscribe for more like this</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.91100" y="59.15500" w="20.96700" h="13.67600" t="3:20.024"/>
+      <rectRegion x="75.91100" y="59.15500" w="20.96700" h="13.67600" t="3:29.443"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_3939399997&amp;ei=4pM9XKKNHNu01gLjlKDgDA&amp;feature=iv&amp;src_vid=egeMAIXYIvI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

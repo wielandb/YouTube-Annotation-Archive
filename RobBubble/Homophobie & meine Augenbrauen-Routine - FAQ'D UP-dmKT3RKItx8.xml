@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqIT-86Lv3wIVD4R8Ch0_9Q9qKPgdMgJpdkif7qKU0fuksXY">
+<annotation id="annotation_1190993755" type="highlight" log_data="ei=2ow9XKivGI-I8gO_6r_QBg&amp;a-v=dmKT3RKItx8&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGxkiqtKGHN4%26list%3DUUq880QL0THPePYuGKV7PxZw&amp;a-type=3&amp;a-id=annotation_1190993755&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiohP7zou_fAhUPhHwKHT_1D2oo-B0yAml2SJ_uopTR-6Sxdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.59600" y="62.12900" w="35.10600" h="32.52600" t="6:02.378"/>
+      <rectRegion x="1.59600" y="62.12900" w="35.10600" h="32.52600" t="6:22.850"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1190993755&amp;ei=2ow9XKivGI-I8gO_6r_QBg&amp;feature=iv&amp;list=UUq880QL0THPePYuGKV7PxZw&amp;src_vid=dmKT3RKItx8&amp;v=GxkiqtKGHN4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1487610117" type="highlight" log_data="ei=2ow9XKivGI-I8gO_6r_QBg&amp;a-v=dmKT3RKItx8&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDixrIUB_YkQ%26list%3DUUq880QL0THPePYuGKV7PxZw%26index%3D3&amp;a-type=3&amp;a-id=annotation_1487610117&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiohP7zou_fAhUPhHwKHT_1D2oo-B0yAml2SJ_uopTR-6Sxdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.07100" y="61.51400" w="32.97900" h="35.98000" t="6:02.378"/>
+      <rectRegion x="40.07100" y="61.51400" w="32.97900" h="35.98000" t="6:22.850"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1487610117&amp;ei=2ow9XKivGI-I8gO_6r_QBg&amp;feature=iv&amp;index=3&amp;list=UUq880QL0THPePYuGKV7PxZw&amp;src_vid=dmKT3RKItx8&amp;v=DixrIUB_YkQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2199615371" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1487610117">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1487610117" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2668704599" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_686604683">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_686604683" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3683759331" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1190993755">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1190993755" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3685656191" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_535345275">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_535345275" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_535345275" type="highlight" log_data="ei=2ow9XKivGI-I8gO_6r_QBg&amp;a-v=dmKT3RKItx8&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Frobbubble%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_535345275&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwiohP7zou_fAhUPhHwKHT_1D2oo-B0yAml2SJ_uopTR-6Sxdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.00000" y="27.44500" w="25.00000" h="27.77800" t="6:02.378"/>
+      <rectRegion x="75.00000" y="27.44500" w="25.00000" h="27.77800" t="6:21.520"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/robbubble?annotation_id=annotation_535345275&amp;ei=2ow9XKivGI-I8gO_6r_QBg&amp;feature=iv&amp;src_vid=dmKT3RKItx8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_686604683" type="highlight" log_data="ei=2ow9XKivGI-I8gO_6r_QBg&amp;a-v=dmKT3RKItx8&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2F301plusberlin%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_686604683&amp;l-class=5" itct="CAQQs-UBGP___________wEiEwiohP7zou_fAhUPhHwKHT_1D2oo-B0yAml2SJ_uopTR-6Sxdg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.07800" y="70.01600" w="20.92200" h="28.10900" t="6:02.378"/>
+      <rectRegion x="79.07800" y="70.01600" w="20.92200" h="28.10900" t="6:22.850"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/301plusberlin?annotation_id=annotation_686604683&amp;ei=2ow9XKivGI-I8gO_6r_QBg&amp;feature=iv&amp;src_vid=dmKT3RKItx8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:52f53c34-0-2e7e-9955-20cf301cc1b6" style="branding" type="branding"
+            log_data="link-id=UCq880QL0THPePYuGKV7PxZw&amp;a-v=dmKT3RKItx8&amp;xble=0&amp;ei=2ow9XKivGI-I8gO_6r_QBg&amp;a-type=10&amp;a-id=52f53c34-0-2e7e-9955-20cf301cc1b6&amp;l-class=3&amp;a-ch=UCq880QL0THPePYuGKV7PxZw">
+  <data>{&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCq880QL0THPePYuGKV7PxZw&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;201.782&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26hl%3Dde%26continue_action%3DQUFFLUhqbXljZE5OZGYzV0ltZFppUzVDand2VzRZUlk1QXxBQ3Jtc0trY3lZdlNrT3ZENHlmOTJBRGhQUnZoX3JkbnhxZHhrM282b2hfaVhKak82bGRBcmdVczUyb19MX3BYaEpKWEhNYVRtRWY3clBFMTZEQ3dhN2pXVG1mMm1FYThENDFEbFlLWFRtQ1VyZmFGeUR6YU00WWZVMnR1Tk9JaFFiSjlJZ2lzR3BZczdRd2RtR0RUTFMyR05QYTBKczRqNloxSWlHcmdNR2NIcndmSnloUXB5Y2VlcjFsWFBwc2p2b0UxM2NrckVGLXp3cGgyMmo0X0dlbUJPZDM1UExvOXdhMThqZDdZWDFGLWR1V3pFclI3cUZV%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FRobBubble\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;201.783&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;},&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;end_ms&quot;:383000,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;RobBubble&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/q880QL0THPePYuGKV7PxZw\/featured_channel.jpg?v=52f66097&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCKiE_vOi798CFQ-EfAodP_UPaij4HTICaXZIn-6ilNH7pLF2&quot;,&quot;src_vid&quot;:&quot;dmKT3RKItx8&quot;,&quot;annotation_id&quot;:&quot;52f53c34-0-2e7e-9955-20cf301cc1b6&quot;,&quot;ei&quot;:&quot;2ow9XKivGI-I8gO_6r_QBg&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;201782&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/RobBubble"/>
+  </action>
+</annotation>
+<annotation id="video:29c061ac-0654-4d62-a50f-fad402588e5c" style="playlist" type="card" log_data="a-ch=UCq880QL0THPePYuGKV7PxZw&amp;a-id=29c061ac-0654-4d62-a50f-fad402588e5c&amp;a-type=63&amp;a-v=dmKT3RKItx8&amp;ei=2ow9XKivGI-I8gO_6r_QBg&amp;l-class=2&amp;link-id=PL51nICG5RX5rRF-3OJIs3kModrlAXko5F&amp;xble=0">
+  <data>{&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;custom_message&quot;:&quot;&quot;,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:356325,&quot;card_type&quot;:&quot;playlist&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;playlist_video_count&quot;:&quot;10&quot;,&quot;meta_info&quot;:[&quot;von RobBubble&quot;,&quot;10\u00a0Videos&quot;],&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCKiE_vOi798CFQ-EfAodP_UPaij4HTIFY2FyZHNIn-6ilNH7pLF2&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCKiE_vOi798CFQ-EfAodP_UPaij4HTIFY2FyZHNIn-6ilNH7pLF2&quot;,&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwiohP7zou_fAhUPhHwKHT_1D2oo-B0yBWNhcmRzSJ_uopTR-6Sxdg&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/MX_18gyecr4\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: FAQ&#39;d up - Kommentare sinnlos kommentiert&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=MX_18gyecr4\u0026list=PL51nICG5RX5rRF-3OJIs3kModrlAXko5F&quot;,&quot;end_ms&quot;:356325,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCKiE_vOi798CFQ-EfAodP_UPaij4HTIFY2FyZHNIn-6ilNH7pLF2&quot;,&quot;src_vid&quot;:&quot;dmKT3RKItx8&quot;,&quot;annotation_id&quot;:&quot;29c061ac-0654-4d62-a50f-fad402588e5c&quot;,&quot;ei&quot;:&quot;2ow9XKivGI-I8gO_6r_QBg&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;title&quot;:&quot;FAQ&#39;d up - Kommentare sinnlos kommentiert&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=MX_18gyecr4&amp;list=PL51nICG5RX5rRF-3OJIs3kModrlAXko5F"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwiohP7zou/fAhUPhHwKHT/1D2oo+B0yBWNhcmRzSJ/uopTR+6Sxdg==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCKiE/vOi798CFQ+EfAodP/UPaij4HTIFY2FyZHNIn+6ilNH7pLF2&quot;, 
+  &quot;headerText&quot;: &quot;Von RobBubble&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwiohP7zou/fAhUPhHwKHT/1D2oo+B0yBWNhcmRzSJ/uopTR+6Sxdg==&quot;, 
+  &quot;eventId&quot;: &quot;2ow9XKivGI-I8gO_6r_QBg&quot;
+}</data>
+</annotation>
+</annotations></document>

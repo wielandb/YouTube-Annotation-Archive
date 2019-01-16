@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItaik7qzv3wIV3XLgCh1RFgsrKPgdMgJpdkir-Pzl1dOfz58B">
+<annotation id="annotation_441166803" type="text" style="popup" log_data="ei=Spc9XLXbMN3lgQfRrKzYAg&amp;a-v=n55-nVy_PCs&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPOnn9EBX74%26list%3DPLeGWKJBsQXJTAIdrceG83tRlcW6A3pi67&amp;a-type=1&amp;a-id=annotation_441166803&amp;xble=1&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwi1qKTurO_fAhXdcuAKHVEWCyso-B0yAml2SKv4_OXV05_PnwE">
+  <TEXT>Click to see the birth of Albert,
+He came from a supermarket egg</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.39600" y="5.63400" w="46.44200" h="15.91500" t="4:57.473"/>
+      <rectRegion x="50.39600" y="5.63400" w="46.44200" h="15.91500" t="5:10.612"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_441166803&amp;ei=Spc9XLXbMN3lgQfRrKzYAg&amp;feature=iv&amp;list=PLeGWKJBsQXJTAIdrceG83tRlcW6A3pi67&amp;src_vid=n55-nVy_PCs&amp;v=IPOnn9EBX74" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_818051283" type="highlight" log_data="ei=Spc9XLXbMN3lgQfRrKzYAg&amp;a-v=n55-nVy_PCs&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBjh-uGy5RcclATnFpQBobw%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_818051283&amp;xble=1&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwi1qKTurO_fAhXdcuAKHVEWCyso-B0yAml2SKv4_OXV05_PnwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.03700" y="56.58300" w="20.58400" h="33.16400" t="4:58.361"/>
+      <rectRegion x="73.03700" y="56.58300" w="20.58400" h="33.16400" t="5:10.613"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13319742" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCBjh-uGy5RcclATnFpQBobw?annotation_id=annotation_818051283&amp;ei=Spc9XLXbMN3lgQfRrKzYAg&amp;feature=iv&amp;src_vid=n55-nVy_PCs&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_954784879" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe</TEXT>
+  <segment spaceRelative="annotation_818051283">
+    <movingRegion type="rect">
+      <rectRegion x="-2.37700" y="12.11300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-2.37700" y="12.11300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_818051283" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

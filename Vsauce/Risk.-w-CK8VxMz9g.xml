@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-eiUi6vv3wIV0ADgCh1Mew17KPgdMgJpdkjYn7Pild6i8MMB">
+<annotation id="annotation_139287355" type="highlight" log_data="a-v=w-CK8VxMz9g&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVLmBJ4_5eG4&amp;l-class=1&amp;xble=1&amp;ei=bpU9XPn5HdCBgAfM9rXYBw&amp;a-id=annotation_139287355&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwj56JSLq-_fAhXQAOAKHUx7DXso-B0yAml2SNifs-KV3qLwwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.08900" y="9.57700" w="49.23400" h="60.93400" t="5:11.065"/>
+      <rectRegion x="24.08900" y="9.57700" w="49.23400" h="60.93400" t="5:17.359"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_139287355&amp;ei=bpU9XPn5HdCBgAfM9rXYBw&amp;feature=iv&amp;src_vid=w-CK8VxMz9g&amp;v=VLmBJ4_5eG4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2084545229" type="highlight" log_data="a-v=w-CK8VxMz9g&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fvsauce%3Fsub_confirmation%3D1&amp;l-class=5&amp;xble=1&amp;ei=bpU9XPn5HdCBgAfM9rXYBw&amp;a-id=annotation_2084545229&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwj56JSLq-_fAhXQAOAKHUx7DXso-B0yAml2SNifs-KV3qLwwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.39000" y="50.98600" w="31.02200" h="19.04200" t="7:52.277"/>
+      <rectRegion x="34.39000" y="50.98600" w="31.02200" h="19.04200" t="8:05.050"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14573741" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/vsauce?annotation_id=annotation_2084545229&amp;ei=bpU9XPn5HdCBgAfM9rXYBw&amp;feature=iv&amp;src_vid=w-CK8VxMz9g&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2505755111" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2084545229">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2084545229" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3697389897" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_139287355">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_139287355" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3880498581" type="text" style="popup" log_data="a-type=1&amp;a-v=w-CK8VxMz9g&amp;xble=1&amp;ei=bpU9XPn5HdCBgAfM9rXYBw&amp;a-id=annotation_3880498581" itct="CAMQs-UBGP___________wEiEwj56JSLq-_fAhXQAOAKHUx7DXso-B0yAml2SNifs-KV3qLwwwE">
+  <TEXT>Correction: 1971</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.40100" y="89.56300" w="28.09000" h="8.36800" t="7:12.147"/>
+      <rectRegion x="37.40100" y="89.56300" w="28.09000" h="8.36800" t="7:14.351"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

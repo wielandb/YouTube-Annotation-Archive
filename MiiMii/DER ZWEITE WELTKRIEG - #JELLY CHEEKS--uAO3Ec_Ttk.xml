@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIj67y7Jzv3wIVi-dVCh1gtw9WKPgdMgJpdkjZnf25xNuD8PoB">
+<annotation id="annotation_1157617853" type="highlight" log_data="a-id=annotation_1157617853&amp;a-type=3&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;link=http%3A%2F%2Fwww.jelly-cheeks.de&amp;xble=1&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwiPrvLsnO_fAhWL51UKHWC3D1Yo-B0yAml2SNmd_bnE24Pw-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="91.64800" w="20.40400" h="8.35200" t="0:00.000"/>
+      <rectRegion x="0.00000" y="91.64800" w="20.40400" h="8.35200" t="1:52.959"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.jelly-cheeks.de" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1167929493" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1157617853">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1157617853" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1206704783" type="highlight" log_data="a-id=annotation_1206704783&amp;a-type=3&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;link=http%3A%2F%2Fwww.jelly-cheeks.de%2Ffacebook&amp;xble=1&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwiPrvLsnO_fAhWL51UKHWC3D1Yo-B0yAml2SNmd_bnE24Pw-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="85.46000" y="91.08500" w="14.54000" h="8.91500" t="0:00.000"/>
+      <rectRegion x="85.46000" y="91.08500" w="14.54000" h="8.91500" t="1:53.275"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.jelly-cheeks.de/facebook" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1469492289" type="highlight" log_data="a-id=annotation_1469492289&amp;a-type=3&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlpusBpI1TbM%26list%3DUUZzGtvgIcthK2cOGvwGGbbA%26index%3D2&amp;xble=1&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwiPrvLsnO_fAhWL51UKHWC3D1Yo-B0yAml2SNmd_bnE24Pw-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="45.07000" w="21.35500" h="25.24300" t="2:04.187"/>
+      <rectRegion x="0.00000" y="45.07000" w="21.35500" h="25.24300" t="2:47.559"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1469492289&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;feature=iv&amp;index=2&amp;list=UUZzGtvgIcthK2cOGvwGGbbA&amp;src_vid=-uAO3Ec_Ttk&amp;v=lpusBpI1TbM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1516652631" type="text" style="popup" log_data="a-id=annotation_1516652631&amp;a-type=1&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;link=http%3A%2F%2Fwww.jelly-cheeks.de%2Ffacebook&amp;xble=1&amp;l-class=6" itct="CAQQs-UBGP___________wEiEwiPrvLsnO_fAhWL51UKHWC3D1Yo-B0yAml2SNmd_bnE24Pw-gE">
+  <TEXT>FACEBOOK</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="18.85900" y="72.95800" w="24.76200" h="24.09900" t="2:04.187"/>
+      <rectRegion x="18.85900" y="72.95800" w="24.76200" h="24.09900" t="2:47.559"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5218515" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.jelly-cheeks.de/facebook" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1939415371" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1206704783">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1206704783" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_214473159" type="highlight" log_data="a-id=annotation_214473159&amp;a-type=3&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DijDnzt01FHg%26list%3DUUZzGtvgIcthK2cOGvwGGbbA&amp;xble=1&amp;l-class=1" itct="CAUQs-UBGP___________wEiEwiPrvLsnO_fAhWL51UKHWC3D1Yo-B0yAml2SNmd_bnE24Pw-gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="25.00000" h="27.77800" t="2:04.187"/>
+      <rectRegion x="0.00000" y="0.00000" w="25.00000" h="27.77800" t="2:47.559"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_214473159&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;feature=iv&amp;list=UUZzGtvgIcthK2cOGvwGGbbA&amp;src_vid=-uAO3Ec_Ttk&amp;v=ijDnzt01FHg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_239749679" type="text" style="popup" log_data="a-id=annotation_239749679&amp;a-type=1&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;link=http%3A%2F%2Fwww.jelly-cheeks.de%2F&amp;xble=1&amp;l-class=6" itct="CAYQs-UBGP___________wEiEwiPrvLsnO_fAhWL51UKHWC3D1Yo-B0yAml2SNmd_bnE24Pw-gE">
+  <TEXT>Shirts und Pullis</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.74600" y="73.80300" w="25.24600" h="21.00000" t="2:04.187"/>
+      <rectRegion x="59.74600" y="73.80300" w="25.24600" h="21.00000" t="2:47.559"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16564776" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.jelly-cheeks.de/" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2820427719" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1469492289">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1469492289" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3078190039" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_214473159">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_214473159" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:543ddf37-0000-2874-a5bc-001a11c17db2" style="branding" type="branding"
+            log_data="a-id=543ddf37-0000-2874-a5bc-001a11c17db2&amp;link-id=UCZzGtvgIcthK2cOGvwGGbbA&amp;a-type=10&amp;a-v=-uAO3Ec_Ttk&amp;ei=gIY9XI_uN4vP1wLg7r6wBQ&amp;a-ch=UCZzGtvgIcthK2cOGvwGGbbA&amp;xble=0&amp;l-class=3">
+  <data>{&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;685934&quot;,&quot;channel_id&quot;:&quot;UCZzGtvgIcthK2cOGvwGGbbA&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/ZzGtvgIcthK2cOGvwGGbbA\/featured_channel.jpg?v=5440870a&quot;,&quot;start_ms&quot;:0,&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;ei&quot;:&quot;gIY9XI_uN4vP1wLg7r6wBQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCI-u8uyc798CFYvnVQodYLcPVij4HTICaXZI2Z39ucTbg_D6AQ&quot;,&quot;src_vid&quot;:&quot;-uAO3Ec_Ttk&quot;,&quot;annotation_id&quot;:&quot;543ddf37-0000-2874-a5bc-001a11c17db2&quot;},&quot;end_ms&quot;:187000,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fmiimeedeutsch%26continue_action%3DQUFFLUhqbkpPaTJZaFIxeUtqTXYxZU5fLUJGY0RXLU4xUXxBQ3Jtc0trQ1dXTHdaTDA4dlRTUGhsNnNvUXBEdF9TSksxZGMzaXRvNTc4YUxWOVZwWWlWZjJrVWdtb21BdXRiZ0NJbC13M2RzXzl4dDBJVHlmLWJqcElRaWlvU3RVOUFCeXY0YmJvdEx0LTB5bWMzMndjMzNLbGpBUWl0eHJpQ1dtZUFma1pfUFFZSGtocWItZlVFNEZMc1FVekdzUTE2TXNuMEt4R1luSmotYkZtOVFCWHc5bUpwRldadTQ1Q0RuWjE2Vld6QVhQLTJwUFNCcENCVUNONGVwYnZpQUhVWVJrTmZyaEdlaFR3cVo1VVpCbjA1eGU0%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop\u0026hl=de&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;685.935&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;685.934&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;MiiMii&quot;,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/miimeedeutsch"/>
+  </action>
+</annotation></annotations></document>

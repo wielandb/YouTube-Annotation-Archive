@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvurxkanv3wIVxJDeCh1zJQNrKPgdMgJpdkjo8sq0xJnv2dUB">
+<annotation id="annotation_1430525423" type="highlight" log_data="a-v=1bO8zEaSuWg&amp;a-type=3&amp;a-id=annotation_1430525423&amp;xble=1&amp;link=http%3A%2F%2Ftomscott.com%2F&amp;l-class=6&amp;ei=Y5M9XP6sLMSh-gbzyozYBg" itct="CAEQs-UBGP___________wEiEwi-6vGRqe_fAhXEkN4KHXMlA2so-B0yAml2SOjyyrTEme_Z1QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.12700" y="84.15500" w="62.28200" h="11.44000" t="3:03.369"/>
+      <rectRegion x="5.12700" y="84.15500" w="62.28200" h="11.44000" t="3:12.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3030499567" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1430525423">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1430525423" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3086983525" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_894095255">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_894095255" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3806611959" type="highlight" log_data="a-v=1bO8zEaSuWg&amp;a-type=3&amp;a-id=annotation_3806611959&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;l-class=2&amp;ei=Y5M9XP6sLMSh-gbzyozYBg" itct="CAIQs-UBGP___________wEiEwi-6vGRqe_fAhXEkN4KHXMlA2so-B0yAml2SOjyyrTEme_Z1QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.57800" y="36.70400" w="40.49100" h="11.75000" t="3:03.369"/>
+      <rectRegion x="55.57800" y="36.70400" w="40.49100" h="11.75000" t="3:12.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3806611959&amp;ei=Y5M9XP6sLMSh-gbzyozYBg&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=1bO8zEaSuWg" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_740930293" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3806611959">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3806611959" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_894095255" type="highlight" log_data="a-v=1bO8zEaSuWg&amp;a-type=3&amp;a-id=annotation_894095255&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;l-class=5&amp;ei=Y5M9XP6sLMSh-gbzyozYBg" itct="CAMQs-UBGP___________wEiEwi-6vGRqe_fAhXEkN4KHXMlA2so-B0yAml2SOjyyrTEme_Z1QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.50700" y="48.25400" w="40.32500" h="20.40800" t="3:03.369"/>
+      <rectRegion x="55.50700" y="48.25400" w="40.32500" h="20.40800" t="3:12.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_894095255&amp;ei=Y5M9XP6sLMSh-gbzyozYBg&amp;feature=iv&amp;src_vid=1bO8zEaSuWg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:88c622fa-e8ce-403c-a882-41b2331bab3a" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=88c622fa-e8ce-403c-a882-41b2331bab3a&amp;a-type=62&amp;a-v=1bO8zEaSuWg&amp;ei=Y5M9XP6sLMSh-gbzyozYBg&amp;l-class=1&amp;link-id=IQ3kQPWlU-o&amp;xble=0">
+  <data>{&quot;end_ms&quot;:183066,&quot;video_duration&quot;:&quot;3:23&quot;,&quot;start_ms&quot;:183066,&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=IQ3kQPWlU-o&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_text&quot;:&quot;Empfohlen: How To Make Snow&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/IQ3kQPWlU-o\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[]},&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;385.455 Aufrufe&quot;],&quot;title&quot;:&quot;How To Make Snow&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCL7q8ZGp798CFcSQ3godcyUDayj4HTIFY2FyZHNI6PLKtMSZ79nVAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCL7q8ZGp798CFcSQ3godcyUDayj4HTIFY2FyZHNI6PLKtMSZ79nVAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwi-6vGRqe_fAhXEkN4KHXMlA2so-B0yBWNhcmRzSOjyyrTEme_Z1QE&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;88c622fa-e8ce-403c-a882-41b2331bab3a&quot;,&quot;src_vid&quot;:&quot;1bO8zEaSuWg&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCL7q8ZGp798CFcSQ3godcyUDayj4HTIFY2FyZHNI6PLKtMSZ79nVAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Y5M9XP6sLMSh-gbzyozYBg&quot;},&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1460629570355}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=IQ3kQPWlU-o"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwi+6vGRqe/fAhXEkN4KHXMlA2so+B0yBWNhcmRzSOjyyrTEme/Z1QE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCL7q8ZGp798CFcSQ3godcyUDayj4HTIFY2FyZHNI6PLKtMSZ79nVAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwi+6vGRqe/fAhXEkN4KHXMlA2so+B0yBWNhcmRzSOjyyrTEme/Z1QE=&quot;, 
+  &quot;eventId&quot;: &quot;Y5M9XP6sLMSh-gbzyozYBg&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;
+}</data>
+</annotation>
+</annotations></document>

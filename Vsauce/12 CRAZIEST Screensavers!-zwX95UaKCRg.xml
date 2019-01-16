@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgbeR5Kvv3wIVGJd7Ch2nmwakKPgdMgJpdkiYkqi01Lz_gs8B">
+<annotation id="annotation_464302" type="text" style="popup" log_data="a-id=annotation_464302&amp;ei=KZY9XMH-BJiu7gOnt5qgCg&amp;a-v=zwX95UaKCRg&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiBt5Hkq-_fAhUYl3sKHaebBqQo-B0yAml2SJiSqLTUvP-CzwE">
+  <TEXT>Most are PC AND Mac -- check in the description!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.40600" y="2.50000" w="24.84400" h="11.38900" t="0:00:20.1"/>
+      <rectRegion x="6.40600" y="2.50000" w="24.84400" h="11.38900" t="0:00:24.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="16777215" fgColor="0" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_725199" type="text" style="popup" log_data="a-id=annotation_725199&amp;ei=KZY9XMH-BJiu7gOnt5qgCg&amp;a-v=zwX95UaKCRg&amp;a-type=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiBt5Hkq-_fAhUYl3sKHaebBqQo-B0yAml2SJiSqLTUvP-CzwE">
+  <TEXT>Visit Dice.com/contest and click &quot;GET STARTED&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="65.62500" y="81.11100" w="31.25000" h="12.22200" t="0:02:46.4"/>
+      <rectRegion x="65.62500" y="81.11100" w="31.25000" h="12.22200" t="0:03:01.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="5610811" fgColor="0" textSize="4.513375" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_760455" type="highlight" log_data="xble=1&amp;l-class=5&amp;a-id=annotation_760455&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;ei=KZY9XMH-BJiu7gOnt5qgCg&amp;a-v=zwX95UaKCRg" itct="CAMQs-UBGP___________wEiEwiBt5Hkq-_fAhUYl3sKHaebBqQo-B0yAml2SJiSqLTUvP-CzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.46900" y="1.66700" w="3.12500" h="11.11100" t="0:00:00.0"/>
+      <rectRegion x="95.46900" y="1.66700" w="3.12500" h="11.11100" t="0:03:09.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_760455&amp;ei=KZY9XMH-BJiu7gOnt5qgCg&amp;feature=iv&amp;src_vid=zwX95UaKCRg" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_784040" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to us!</TEXT>
+  <segment spaceRelative="annotation_760455">
+    <movingRegion type="rect">
+      <rectRegion x="-18.59400" y="0.55600" w="17.81300" h="9.72200" t="never"/>
+      <rectRegion x="-18.59400" y="0.55600" w="17.81300" h="9.72200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_760455" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIld2_y_Tu3wIVV6ZVCh1XuQ4NKPgdMgJpdkjsuqfAhbjfk8kB">
+<annotation id="annotation_2273276613" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_277431627">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_277431627" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_277431627" type="highlight" log_data="a-type=3&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fprodukte%2FAMD-Radeon-RX-480-im-Test-10003619.html&amp;a-v=ySd9wFgJ3Ww&amp;xble=1&amp;l-class=6&amp;a-id=annotation_277431627&amp;ei=SVw9XNWUHNfM1gLX8rpo" itct="CAEQs-UBGP___________wEiEwiV3b_L9O7fAhVXplUKHVe5Dg0o-B0yAml2SOy6p8CFuN-TyQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="79.43700" w="100.00000" h="15.66500" t="7:34.900"/>
+      <rectRegion x="0.00000" y="79.43700" w="100.00000" h="15.66500" t="7:41.015"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/produkte/AMD-Radeon-RX-480-im-Test-10003619.html" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2898115083" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fpreisvergleich%3FsearchText%3Drx%2B480&amp;a-v=ySd9wFgJ3Ww&amp;xble=1&amp;l-class=6&amp;a-id=annotation_2898115083&amp;ei=SVw9XNWUHNfM1gLX8rpo" itct="CAIQs-UBGP___________wEiEwiV3b_L9O7fAhVXplUKHVe5Dg0o-B0yAml2SOy6p8CFuN-TyQE">
+  <TEXT>Hier geht&#39;s zum Preisvergleich der RX 480</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.89400" y="84.22500" w="43.15400" h="15.92300" t="1:08.371"/>
+      <rectRegion x="56.89400" y="84.22500" w="43.15400" h="15.92300" t="1:18.976"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/preisvergleich?searchText=rx+480" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="a-type=10&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=ySd9wFgJ3Ww&amp;xble=0&amp;l-class=3&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;ei=SVw9XNWUHNfM1gLX8rpo">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;image_type&quot;:1,&quot;image_width&quot;:55,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;image_height&quot;:12,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dde%26continue_action%3DQUFFLUhqblJqUVIwSlJXRkJCYnVMTzI4V1lqa0RMTmJUZ3xBQ3Jtc0ttajNSZFNyMW1NODIyRWNwSjRISG01RDZBWm0tc2hhalAtanB3TVZMUW5zSlp5ZUZCc09feXRBNUcyemU4N1JEZm5UNlY0RzJCNnEzOHRPRXpUOFRVSERHTHp6NjFMQXJ1WXNuYi0tejRFc1FTNEZzZWdJaG5yQXhaVG5rcUJHZ3JfdHZwcFhLQmNRWU1LVjJLa2RjdXlqYkpSeEF5WFBCYlNmcm9ST1JEclJwNWZTMlhoM29VRHRtVTdXbWVyclZ4eWRUNm14Ulo3M2Z6bEFHVzVtMmtNRGVrN1BRekdPWFVOUHlVMWEyYkhWejNIMEVR%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26app%3Ddesktop\u0026passive=true&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;subscribeCount&quot;:&quot;553.475&quot;},&quot;end_ms&quot;:517000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTICaXZI7LqnwIW435PJAQ&quot;,&quot;ei&quot;:&quot;SVw9XNWUHNfM1gLX8rpo&quot;,&quot;src_vid&quot;:&quot;ySd9wFgJ3Ww&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;},&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:7cc19e80-2b03-4220-bb8f-6a677acbe649" style="simple" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=7cc19e80-2b03-4220-bb8f-6a677acbe649&amp;a-type=68&amp;a-v=ySd9wFgJ3Ww&amp;ei=SVw9XNWUHNfM1gLX8rpo&amp;l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fpreisvergleich%3FsearchText%3Drx%2B480&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;url&quot;:&quot;\/redirect?redir_token=AVddlZfPj_Z85ZaV3MDtW22E9jh8MTU0NzYxMTU5M0AxNTQ3NTI1MTkz\u0026event=infocard\u0026q=http%3A%2F%2Fwww.pcwelt.de%2Fpreisvergleich%3FsearchText%3Drx%2B480&quot;,&quot;sponsored&quot;:false,&quot;timestamp&quot;:1467910889630,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiV3b_L9O7fAhVXplUKHVe5Dg0o-B0yBWNhcmRzSOy6p8CFuN-TyQE&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ&quot;},&quot;display_domain&quot;:&quot;pcwelt.de&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;AMD RX 480 im Preisvergleich&quot;,&quot;end_ms&quot;:68253,&quot;custom_message&quot;:&quot;AMD RX 480 im Preisvergleich&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ&quot;,&quot;ei&quot;:&quot;SVw9XNWUHNfM1gLX8rpo&quot;,&quot;src_vid&quot;:&quot;ySd9wFgJ3Ww&quot;,&quot;annotation_id&quot;:&quot;7cc19e80-2b03-4220-bb8f-6a677acbe649&quot;},&quot;teaser_text&quot;:&quot;AMD RX 480 im Preisvergleich&quot;,&quot;start_ms&quot;:68253,&quot;meta_info&quot;:[],&quot;teaser_duration_ms&quot;:7000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/0vJmNa38HEMteEnuBw8APD9lGqMQaTABnkdsjhQTCenPvRYj8CMw8ZpzO7IaoMCwOSXhRkfORWKLGwvNPWXAZi5lLGhnZItJfZEPPZujED9SEplZUK5bn7zXl99oZflDfbaM4--eAiujguwgwySoHCPY5D2GRJLkv6-33PSnqfmAwKC1ggg7lh0E7fvjtXa7n0e6grBhYnXArTZfWaO-3m8atTHAx7gHLE9yVH7lusctYvLDBPE&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=AVddlZfPj_Z85ZaV3MDtW22E9jh8MTU0NzYxMTU5M0AxNTQ3NTI1MTkz&amp;event=infocard&amp;q=http%3A%2F%2Fwww.pcwelt.de%2Fpreisvergleich%3FsearchText%3Drx%2B480"/>
+  </action>
+</annotation>
+
+<annotation id="video:21e7dc83-a445-4f7e-9e65-4e09e615829c" style="simple" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=21e7dc83-a445-4f7e-9e65-4e09e615829c&amp;a-type=68&amp;a-v=ySd9wFgJ3Ww&amp;ei=SVw9XNWUHNfM1gLX8rpo&amp;l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fprodukte%2FAMD-Radeon-RX-480-im-Test-10003619.html&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;url&quot;:&quot;\/redirect?redir_token=AVddlZfPj_Z85ZaV3MDtW22E9jh8MTU0NzYxMTU5M0AxNTQ3NTI1MTkz\u0026event=infocard\u0026q=http%3A%2F%2Fwww.pcwelt.de%2Fprodukte%2FAMD-Radeon-RX-480-im-Test-10003619.html&quot;,&quot;sponsored&quot;:false,&quot;timestamp&quot;:1467910978103,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwiV3b_L9O7fAhVXplUKHVe5Dg0o-B0yBWNhcmRzSOy6p8CFuN-TyQE&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ&quot;},&quot;display_domain&quot;:&quot;pcwelt.de&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;AMD Radeon RX 480 im Test&quot;,&quot;end_ms&quot;:454488,&quot;custom_message&quot;:&quot;AMD Radeon RX 480 im Test&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ&quot;,&quot;ei&quot;:&quot;SVw9XNWUHNfM1gLX8rpo&quot;,&quot;src_vid&quot;:&quot;ySd9wFgJ3Ww&quot;,&quot;annotation_id&quot;:&quot;21e7dc83-a445-4f7e-9e65-4e09e615829c&quot;},&quot;teaser_text&quot;:&quot;AMD Radeon RX 480 im Test&quot;,&quot;start_ms&quot;:454488,&quot;meta_info&quot;:[],&quot;teaser_duration_ms&quot;:7000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/i9CWKSbb2TVovuynW3ea90pF90u-0LxdRh-vvIznxAvbd_OsRlB_AGPxip1VKwEi1dmKF5CRjm-z_g&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=AVddlZfPj_Z85ZaV3MDtW22E9jh8MTU0NzYxMTU5M0AxNTQ3NTI1MTkz&amp;event=infocard&amp;q=http%3A%2F%2Fwww.pcwelt.de%2Fprodukte%2FAMD-Radeon-RX-480-im-Test-10003619.html"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiV3b/L9O7fAhVXplUKHVe5Dg0o+B0yBWNhcmRzSOy6p8CFuN+TyQE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiV3b/L9O7fAhVXplUKHVe5Dg0o+B0yBWNhcmRzSOy6p8CFuN+TyQE=&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCJXdv8v07t8CFVemVQodV7kODSj4HTIFY2FyZHNI7LqnwIW435PJAQ==&quot;, 
+  &quot;eventId&quot;: &quot;SVw9XNWUHNfM1gLX8rpo&quot;
+}</data>
+</annotation>
+</annotations></document>

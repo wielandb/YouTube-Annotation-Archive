@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0a3kyqzv3wIVCLVVCh0EEw6IKPgdMgJpdkiEmLivzMnoxe4B">
+<annotation id="annotation_1886392277" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3720306503">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.42300" w="31.81500" h="19.23900" t="never"/>
+      <rectRegion x="0.00000" y="0.42300" w="31.81500" h="19.23900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3720306503" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2173271671" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3857798425">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.14100" w="39.42200" h="39.80300" t="never"/>
+      <rectRegion x="0.00000" y="0.14100" w="39.42200" h="39.80300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3857798425" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2230676739" type="text" style="popup" log_data="a-id=annotation_2230676739&amp;a-type=1&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;xble=1&amp;a-v=7ouiTMXuDAQ" itct="CAEQs-UBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yAml2SISYuK_MyejF7gE">
+  <TEXT>$27,500 per kg</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.64700" y="52.67600" w="17.15500" h="8.04200" t="1:03.108"/>
+      <rectRegion x="32.64700" y="52.67600" w="17.15500" h="8.04200" t="1:08.702"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2280817197" type="text" style="popup" log_data="a-id=annotation_2280817197&amp;a-type=1&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;xble=1&amp;a-v=7ouiTMXuDAQ" itct="CAIQs-UBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yAml2SISYuK_MyejF7gE">
+  <TEXT>Did my conversion backwards!
+It&#39;d be $27,500 per kg</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.30700" y="51.83100" w="30.15800" h="12.83100" t="0:55.513"/>
+      <rectRegion x="26.30700" y="51.83100" w="30.15800" h="12.83100" t="1:01.709"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3720306503" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fwendoverproductions%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;a-v=7ouiTMXuDAQ&amp;a-type=3&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;a-id=annotation_3720306503" itct="CAMQs-UBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yAml2SISYuK_MyejF7gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.00300" y="5.35200" w="31.81500" h="19.88700" t="8:14.623"/>
+      <rectRegion x="58.00300" y="5.35200" w="31.81500" h="19.88700" t="9:06.133"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/wendoverproductions?annotation_id=annotation_3720306503&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;feature=iv&amp;src_vid=7ouiTMXuDAQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3857798425" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-aQ2E0mlRQI&amp;xble=1&amp;l-class=1&amp;a-v=7ouiTMXuDAQ&amp;a-type=3&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;a-id=annotation_3857798425" itct="CAQQs-UBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yAml2SISYuK_MyejF7gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.62900" y="9.29600" w="39.42200" h="39.60600" t="8:14.623"/>
+      <rectRegion x="13.62900" y="9.29600" w="39.42200" h="39.60600" t="9:06.133"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3857798425&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;feature=iv&amp;src_vid=7ouiTMXuDAQ&amp;v=-aQ2E0mlRQI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3899544947" type="text" style="popup" log_data="a-id=annotation_3899544947&amp;a-type=1&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;xble=1&amp;a-v=7ouiTMXuDAQ" itct="CAUQs-UBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yAml2SISYuK_MyejF7gE">
+  <TEXT>Yep wrong again. 
+$700,000 per kg</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.33100" y="51.83100" w="19.85700" h="11.98600" t="2:21.728"/>
+      <rectRegion x="61.33100" y="51.83100" w="19.85700" h="11.98600" t="2:24.912"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation><annotation author="" id="annotation_3951181367" itct="CAYQs-UBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yAml2SISYuK_MyejF7gE" log_data="a-id=annotation_3951181367&amp;a-type=9&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;xble=1&amp;a-v=7ouiTMXuDAQ" style="label" type="text"><TEXT>Link in the description</TEXT><segment><movingRegion type="rect"><rectRegion d="0" h="20.8729991913" t="8:14.623" w="31.4979991913" x="58.1619987488" y="31.8309993744" /><rectRegion d="0" h="20.8729991913" t="9:06.133" w="31.4979991913" x="58.1619987488" y="31.8309993744" /></movingRegion></segment><appearance effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="channel:8e2b45f0-2d4f-4b91-bab0-43b44577b85b" style="branding" type="branding"
+            log_data="a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;xble=0&amp;l-class=3&amp;a-v=7ouiTMXuDAQ&amp;a-type=10&amp;link-id=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;a-id=8e2b45f0-2d4f-4b91-bab0-43b44577b85b">
+  <data>{&quot;num_subscribers&quot;:&quot;1787115&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;1,7\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;1,7\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbUpiT0lsN05NUzl4Q3pwMjFmbXRVUlAyTXYtQXxBQ3Jtc0ttR3dsdUtfcFRiX1lUTTduZFBkSU9PRzBINlZidkpCaHBMdnZQaThKME9CcFplSkxNeFBNWWw5cGF5VE4zd3VSQ0oyMHg5Sk84T3pYVHplQVlNbF9RdS1XWDEwemMtbTNqejlCSUcyNjJVcVZzYjdHWlRRWFpiRGJiTWV4Y0N2QVMxcFFpRDJQMnNJRDFQcjl5allaTllPclhfSG14NEdYZVpKZXZIbk80bUJxZUR6Z3hiX1R4MFI3VGthTkxpb2o5dlpTMEowMDJEUUIySkM5U0UxVTEzS3NpODlPVTFmMkpORmlSRDdBN0hiRGJIdUUw%26feature%3Div%26action_handle_signin%3Dtrue%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FWendoverproductions%26hl%3Dde\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Wendover Productions&quot;,&quot;start_ms&quot;:5000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;end_ms&quot;:547000,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UC9RM-iSvTu1uPJb8X5yp3EQ&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;7ouiTMXuDAQ&quot;,&quot;annotation_id&quot;:&quot;8e2b45f0-2d4f-4b91-bab0-43b44577b85b&quot;,&quot;ei&quot;:&quot;AJc9XNGtFYjq1gKEprjACA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTICaXZIhJi4r8zJ6MXuAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9RM-iSvTu1uPJb8X5yp3EQ\/featured_channel.jpg?v=5a83ab92&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Wendoverproductions"/>
+  </action>
+</annotation>
+<annotation id="video:f450c2d1-d4c6-448b-943e-a9740ee450a7" style="video" type="card" log_data="a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;a-id=f450c2d1-d4c6-448b-943e-a9740ee450a7&amp;a-type=62&amp;a-v=7ouiTMXuDAQ&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;l-class=1&amp;link-id=h6AWAoc_Lr0&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;von Wendover Productions&quot;,&quot;1.179.811 Aufrufe&quot;],&quot;start_ms&quot;:219196,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yBWNhcmRzSISYuK_MyejF7gE&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=h6AWAoc_Lr0&quot;,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;6:15&quot;,&quot;title&quot;:&quot;Space Law-What Laws are There in Space?&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Space Law-What Laws are There in Space?&quot;,&quot;end_ms&quot;:219196,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/h6AWAoc_Lr0\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;7ouiTMXuDAQ&quot;,&quot;annotation_id&quot;:&quot;f450c2d1-d4c6-448b-943e-a9740ee450a7&quot;,&quot;ei&quot;:&quot;AJc9XNGtFYjq1gKEprjACA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;},&quot;timestamp&quot;:1474926354180,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=h6AWAoc_Lr0"/>
+  </action>
+</annotation>
+
+<annotation id="video:360fb7db-6dda-4401-a7c0-d88653dfcf24" style="video" type="card" log_data="a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;a-id=360fb7db-6dda-4401-a7c0-d88653dfcf24&amp;a-type=62&amp;a-v=7ouiTMXuDAQ&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;l-class=1&amp;link-id=6Oe8T3AvydU&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;von Wendover Productions&quot;,&quot;3.226.305 Aufrufe&quot;],&quot;start_ms&quot;:361631,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yBWNhcmRzSISYuK_MyejF7gE&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=6Oe8T3AvydU&quot;,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;10:32&quot;,&quot;title&quot;:&quot;Why Flying is So Expensive&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Why Flying is So Expensive&quot;,&quot;end_ms&quot;:361631,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/6Oe8T3AvydU\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;7ouiTMXuDAQ&quot;,&quot;annotation_id&quot;:&quot;360fb7db-6dda-4401-a7c0-d88653dfcf24&quot;,&quot;ei&quot;:&quot;AJc9XNGtFYjq1gKEprjACA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;},&quot;timestamp&quot;:1474926436693,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=6Oe8T3AvydU"/>
+  </action>
+</annotation>
+
+<annotation id="video:be6bf1f3-46fa-41f6-a816-a0a0d67439e5" style="video" type="card" log_data="a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;a-id=be6bf1f3-46fa-41f6-a816-a0a0d67439e5&amp;a-type=62&amp;a-v=7ouiTMXuDAQ&amp;ei=AJc9XNGtFYjq1gKEprjACA&amp;l-class=1&amp;link-id=F53TA37Mqck&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;von Wendover Productions&quot;,&quot;675.141 Aufrufe&quot;],&quot;start_ms&quot;:449783,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBYQsJcBGP___________wEiEwjRreTKrO_fAhUItVUKHQQTDogo-B0yBWNhcmRzSISYuK_MyejF7gE&quot;,&quot;teaser&quot;:&quot;CBUQ0DYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;,&quot;card&quot;:&quot;CBQQ1TYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=F53TA37Mqck&quot;,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;5:57&quot;,&quot;title&quot;:&quot;TWL #5: Timekeeping on Mars&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: TWL #5: Timekeeping on Mars&quot;,&quot;end_ms&quot;:449783,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/F53TA37Mqck\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;7ouiTMXuDAQ&quot;,&quot;annotation_id&quot;:&quot;be6bf1f3-46fa-41f6-a816-a0a0d67439e5&quot;,&quot;ei&quot;:&quot;AJc9XNGtFYjq1gKEprjACA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CBQQ1TYY____________ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ&quot;},&quot;timestamp&quot;:1474926380728,&quot;card_type&quot;:&quot;video&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=F53TA37Mqck"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Wendover Productions&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAkQsZcBGP///////////wEiEwjRreTKrO/fAhUItVUKHQQTDogo+B0yBWNhcmRzSISYuK/MyejF7gE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAoQsJcBGP///////////wEiEwjRreTKrO/fAhUItVUKHQQTDogo+B0yBWNhcmRzSISYuK/MyejF7gE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAgQwjcY////////////ASITCNGt5Mqs798CFQi1VQodBBMOiCj4HTIFY2FyZHNIhJi4r8zJ6MXuAQ==&quot;, 
+  &quot;eventId&quot;: &quot;AJc9XNGtFYjq1gKEprjACA&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3vPz9eru3wIVF6N7Ch3JLAt4KPgdMgJpdki9zpjrn7Hg5Qw">
+<annotation id="annotation_1100481269" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;a-id=annotation_1100481269&amp;l-class=6&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwje8_P16u7fAhUXo3sKHcksC3go-B0yAml2SL3OmOufseDlDA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.81500" y="72.66200" w="26.74300" h="16.80600" t="4:16.000"/>
+      <rectRegion x="6.81500" y="72.66200" w="26.74300" h="16.80600" t="4:26.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1214482587" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;a-id=annotation_1214482587&amp;l-class=6&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwje8_P16u7fAhUXo3sKHcksC3go-B0yAml2SL3OmOufseDlDA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="71.81700" w="31.65600" h="17.93300" t="4:16.000"/>
+      <rectRegion x="36.29200" y="71.81700" w="31.65600" h="17.93300" t="4:26.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1340421021" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-makes-tattoos-permanent-claudia-aguirre&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;a-id=annotation_1340421021&amp;l-class=6&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwje8_P16u7fAhUXo3sKHcksC3go-B0yAml2SL3OmOufseDlDA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.21400" y="53.80300" w="69.05700" h="13.13000" t="4:16.000"/>
+      <rectRegion x="15.21400" y="53.80300" w="69.05700" h="13.13000" t="4:26.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-makes-tattoos-permanent-claudia-aguirre" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2137061333" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1340421021">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1340421021" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2337875879" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1100481269">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1100481269" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2551079341" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhat-makes-tattoos-permanent-claudia-aguirre&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;a-id=annotation_2551079341&amp;l-class=6&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwje8_P16u7fAhUXo3sKHcksC3go-B0yAml2SL3OmOufseDlDA">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.29600" w="37.59900" h="9.16900" t="0:00.001"/>
+      <rectRegion x="0.00000" y="9.29600" w="37.59900" h="9.16900" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/what-makes-tattoos-permanent-claudia-aguirre" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_305316611" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;a-id=annotation_305316611&amp;l-class=6&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwje8_P16u7fAhUXo3sKHcksC3go-B0yAml2SL3OmOufseDlDA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="72.67600" w="22.46400" h="17.91900" t="4:16.000"/>
+      <rectRegion x="70.52300" y="72.67600" w="22.46400" h="17.91900" t="4:26.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3427460865" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1214482587">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1214482587" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_670104491" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;a-id=annotation_670104491&amp;l-class=5&amp;a-type=1" itct="CAYQs-UBGP___________wEiEwje8_P16u7fAhUXo3sKHcksC3go-B0yAml2SL3OmOufseDlDA">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.55600" y="11.54900" w="16.83800" h="31.70400" t="4:16.000"/>
+      <rectRegion x="79.55600" y="11.54900" w="16.83800" h="31.70400" t="4:26.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_670104491&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;feature=iv&amp;src_vid=DMuBif1mJz0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_999029989" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_305316611">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_305316611" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;ei=JlI9XN7IApfG7gPJ2azABw&amp;a-v=DMuBif1mJz0&amp;xble=0&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;a-type=10&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;l-class=3">
+  <data>{&quot;image_height&quot;:40,&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCN7z8_Xq7t8CFRejewodySwLeCj4HTICaXZIvc6Y65-x4OUM&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;ei&quot;:&quot;JlI9XN7IApfG7gPJ2azABw&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;DMuBif1mJz0&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbWJDQkdRZ0pCNkxsNF9lc043UWZHaDFLN3RqQXxBQ3Jtc0ttUFVpbS1fcW5nVldGM09OVkhNR2NoNS1sOGJhbDV5Wl84cGdxSUhINFpjT3lMVzRQd25JZ19pdkNwS01uUTRTMmNIY2VHdm91OHJRZ2k5VmtveDBscFV2TFdrNlRVdHN0U1pCOW9hZmFYdHNOUFZSQ0VYQWtGenpQbnFNRTBpa2NJdXM5NlpMYUF5TFBRTlNnWTE0NWxkTXBwRnk3WU1UYXZvTUZ4d3M4N19IVlJpVEN2LXhQYTB2ZzA5R1gtaGx6eFdQOEdjLTdSbkVUR2JPVUNYRUdDWk5uMWRtSDdsbGo5U2lLMmxDNEYxM2lNN0dZ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde\u0026hl=de\u0026passive=true&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;end_ms&quot;:266000,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

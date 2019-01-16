@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjJGFyvTu3wIVRQ7gCh0dKg5dKPgdMgJpdkjrgML_y-bxw14">
+<annotation id="annotation_4075873425" type="highlight" log_data="ei=Rlw9XIzWGMWcgAed1LjoBQ&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fop3&amp;xble=1&amp;l-class=6&amp;a-type=3&amp;a-id=annotation_4075873425&amp;a-v=XofHNL_wgGs" itct="CAEQs-UBGP___________wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o-B0yAml2SOuAwv_L5vHDXg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="83.47900" w="100.00000" h="16.52100" t="12:41.056"/>
+      <rectRegion x="0.00000" y="83.47900" w="100.00000" h="16.52100" t="12:53.055"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/op3" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_770202005" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4075873425">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4075873425" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="ei=Rlw9XIzWGMWcgAed1LjoBQ&amp;xble=0&amp;a-type=10&amp;l-class=3&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=XofHNL_wgGs">
+  <data>{&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;XofHNL_wgGs&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTICaXZI64DC_8vm8cNe&quot;,&quot;ei&quot;:&quot;Rlw9XIzWGMWcgAed1LjoBQ&quot;},&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026passive=true\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbWV1RHdMTDk4cW1oM0RPZUNWclp2c01mT1hXZ3xBQ3Jtc0tuS3BZdFkzcGJUR09hYmtaNk04bnVPZHV1dzR0aUVxU294S05vdndXTHZubWZGVWt5U2xWOUxId09TSHpJdnkyeVRsaURhZDFwRVB6TERCSVNYS0t1QXVpM1lidVNTc0MyYkpzY192MzZMRWJ6MHM1NkhuVnpQVnlUY3dSWGxLR1dEMm1aa1cyQklVNGZlOVF0WVNvRVZBQ1ExT25hRU1QeDR2Y1ZwbkdQbVc5UzZNdW5qTFlsYnlxbUlpaGh6Qm9fREdLUHVydjhCbjVOajlVZWFBd0hEdm9hZWxqOEFrSjZoQlh1MFJjd3prMTlBX0hR%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;},&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_height&quot;:12,&quot;end_ms&quot;:821000,&quot;image_width&quot;:55,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:d15647c4-ce92-47a7-b870-2d3d86a716ee" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=d15647c4-ce92-47a7-b870-2d3d86a716ee&amp;a-type=62&amp;a-v=XofHNL_wgGs&amp;ei=Rlw9XIzWGMWcgAed1LjoBQ&amp;l-class=1&amp;link-id=7iYFF6F_5OA&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/7iYFF6F_5OA\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: GTX 1080 vs. Titan X - Vergleichs-Test mit Doom | deutsch \/ german&quot;,&quot;title&quot;:&quot;GTX 1080 vs. Titan X - Vergleichs-Test mit Doom | deutsch \/ german&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;337.221 Aufrufe&quot;],&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7iYFF6F_5OA&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;11:16&quot;,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:68474,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAcQ1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o-B0yBWNhcmRzSOuAwv_L5vHDXg&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;},&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:68474,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1469797293504,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;d15647c4-ce92-47a7-b870-2d3d86a716ee&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;XofHNL_wgGs&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;ei&quot;:&quot;Rlw9XIzWGMWcgAed1LjoBQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=7iYFF6F_5OA"/>
+  </action>
+</annotation>
+
+<annotation id="video:cd36ebf2-37d0-42fc-a832-586f2e37ed86" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=cd36ebf2-37d0-42fc-a832-586f2e37ed86&amp;a-type=62&amp;a-v=XofHNL_wgGs&amp;ei=Rlw9XIzWGMWcgAed1LjoBQ&amp;l-class=1&amp;link-id=ySd9wFgJ3Ww&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ySd9wFgJ3Ww\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: AMD RX 480 - Vorstellung und Test-Fazit des Preis-\/Leistungs-Krachers | deutsch \/ german&quot;,&quot;title&quot;:&quot;AMD RX 480 - Vorstellung und Test-Fazit des Preis-\/Leistungs-Krachers | deutsch \/ german&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;66.070 Aufrufe&quot;],&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ySd9wFgJ3Ww&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;8:37&quot;,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:204575,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAsQ1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o-B0yBWNhcmRzSOuAwv_L5vHDXg&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;},&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:204575,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1469797329843,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;cd36ebf2-37d0-42fc-a832-586f2e37ed86&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;XofHNL_wgGs&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;ei&quot;:&quot;Rlw9XIzWGMWcgAed1LjoBQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ySd9wFgJ3Ww"/>
+  </action>
+</annotation>
+
+<annotation id="video:7776e400-692a-46bd-aa64-14b7d1dee729" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=7776e400-692a-46bd-aa64-14b7d1dee729&amp;a-type=62&amp;a-v=XofHNL_wgGs&amp;ei=Rlw9XIzWGMWcgAed1LjoBQ&amp;l-class=1&amp;link-id=Lgzd0vaXt8o&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Lgzd0vaXt8o\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: GTX 1060 vs. RX 480 vs. GTX 980 - Vergleichs-Test | Benchmarks | deutsch \/ german&quot;,&quot;title&quot;:&quot;GTX 1060 vs. RX 480 vs. GTX 980 - Vergleichs-Test | Benchmarks | deutsch \/ german&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;326.289 Aufrufe&quot;],&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Lgzd0vaXt8o&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;15:15&quot;,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:245741,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA8Q1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o-B0yBWNhcmRzSOuAwv_L5vHDXg&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;},&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:245741,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1469797345382,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;7776e400-692a-46bd-aa64-14b7d1dee729&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;XofHNL_wgGs&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;ei&quot;:&quot;Rlw9XIzWGMWcgAed1LjoBQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Lgzd0vaXt8o"/>
+  </action>
+</annotation>
+
+<annotation id="video:d89fab53-eb11-48a9-b1eb-6a0b34057530" style="simple" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=d89fab53-eb11-48a9-b1eb-6a0b34057530&amp;a-type=68&amp;a-v=XofHNL_wgGs&amp;ei=Rlw9XIzWGMWcgAed1LjoBQ&amp;l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fop3&amp;xble=0">
+  <data>{&quot;show_link_icon&quot;:true,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/5rCqyiiNzIaZHl7tq85N8Wtu0lgY9_CxHKO778tvhmAzofnT8tAy5ZxEi40zLmllDFA624kD5OqDlA&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBMQ1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o-B0yBWNhcmRzSOuAwv_L5vHDXg&quot;,&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;},&quot;card_type&quot;:&quot;simple&quot;,&quot;display_domain&quot;:&quot;pcwelt.de&quot;,&quot;custom_message&quot;:&quot;Jetzt ein OnePlus 3 gewinnen&quot;,&quot;meta_info&quot;:[],&quot;url&quot;:&quot;\/redirect?redir_token=tRi3AjqrNYZbDf5Q2Ij_TILDU3J8MTU0NzYxMTU5MEAxNTQ3NTI1MTkw\u0026q=http%3A%2F%2Fwww.pcwelt.de%2Fop3\u0026event=infocard&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;sponsored&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:767413,&quot;title&quot;:&quot;Gewinnen Sie ein OnePlus 3 mit Tech-up Weekly&quot;,&quot;teaser_text&quot;:&quot;Mitmachen \u0026 Gewinnen&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:767413,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1469797404488,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;d89fab53-eb11-48a9-b1eb-6a0b34057530&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;XofHNL_wgGs&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC_8vm8cNe&quot;,&quot;ei&quot;:&quot;Rlw9XIzWGMWcgAed1LjoBQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=tRi3AjqrNYZbDf5Q2Ij_TILDU3J8MTU0NzYxMTU5MEAxNTQ3NTI1MTkw&amp;q=http%3A%2F%2Fwww.pcwelt.de%2Fop3&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;Rlw9XIzWGMWcgAed1LjoBQ&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o+B0yBWNhcmRzSOuAwv/L5vHDXg==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwiMkYXK9O7fAhVFDuAKHR0qDl0o+B0yBWNhcmRzSOuAwv/L5vHDXg==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCIyRhcr07t8CFUUO4AodHSoOXSj4HTIFY2FyZHNI64DC/8vm8cNe&quot;
+}</data>
+</annotation>
+</annotations></document>

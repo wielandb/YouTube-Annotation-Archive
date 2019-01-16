@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjeezsYLv3wIVizfgCh1ppgTKKPgdMgJpdkjH1tah0MPKzi0">
+<annotation id="annotation_2815898939" type="highlight" log_data="xble=1&amp;l-class=6&amp;link=http%3A%2F%2Fwww.extra-credits.net%2FEDU&amp;a-v=LZ0qHQQ1q0c&amp;a-type=3&amp;a-id=annotation_2815898939&amp;ei=wGo9XI2HM4vvgAfpzJLQDA" itct="CAEQs-UBGP___________wEiEwiN57Oxgu_fAhWLN-AKHWmmBMoo-B0yAml2SMfW1qHQw8rOLQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.44700" y="67.32400" w="16.59300" h="28.62000" t="0:23.700"/>
+      <rectRegion x="78.44700" y="67.32400" w="16.59300" h="28.62000" t="1:10.588"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.extra-credits.net/EDU" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_365141285" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Want to help? Email:
+tobias@extra-credits.net</TEXT>
+  <segment spaceRelative="annotation_2815898939">
+    <movingRegion type="rect">
+      <rectRegion x="-5.70500" y="-11.83100" w="26.26800" h="11.35200" t="never"/>
+      <rectRegion x="-5.70500" y="-11.83100" w="26.26800" h="11.35200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2815898939" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:56c30f10-0000-2858-b912-94eb2c080390" style="branding" type="branding"
+            log_data="a-ch=UCCODtTcd5M1JavPCOr_Uydg&amp;link-id=UCCODtTcd5M1JavPCOr_Uydg&amp;xble=0&amp;l-class=3&amp;a-v=LZ0qHQQ1q0c&amp;a-type=10&amp;a-id=56c30f10-0000-2858-b912-94eb2c080390&amp;ei=wGo9XI2HM4vvgAfpzJLQDA">
+  <data>{&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/CODtTcd5M1JavPCOr_Uydg\/featured_channel.jpg?v=56cfc21d&quot;,&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;1898233&quot;,&quot;end_ms&quot;:71000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;wGo9XI2HM4vvgAfpzJLQDA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;56c30f10-0000-2858-b912-94eb2c080390&quot;,&quot;src_vid&quot;:&quot;LZ0qHQQ1q0c&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCI3ns7GC798CFYs34AodaaYEyij4HTICaXZIx9bWodDDys4t&quot;},&quot;channel_name&quot;:&quot;Extra Credits&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbGFEeUcxblZRbzNYMGJOSVVoZjlPSENseG54UXxBQ3Jtc0tuSWQ1Z0gtT2dzRnhEQXFKVTl1ZDc4QzBMZ2NmWEFTZWEzcFdkeEFrNmhzcDktNmpTMFVmckQxME4ya1RiWnd5dy1KQ29TYmRiaGpQeDNIb2R5YWZyTHpBQVpIMnlHYl82Mk9wTzRkTzAtdE9tSklXWXlXVTgwR3BxRGZ5LTR3STNBZTUzajhKU0MyRkllS1lCbzREbDV6MjFZWl9nYzlJRzNGdnBhZVcwRHhpWjlCLWlLMVpXMUN4UGpsT0JVNDlPbG82c3AxWXl4elZyTjlndG1kOUJiclJaeUp2RWpQUmF1RXZhYS1GazAzX0hDV2tj%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FExtraCreditz%26app%3Ddesktop%26hl%3Dde%26feature%3Div\u0026uilel=3&quot;,&quot;unsubscribeCount&quot;:&quot;1,8\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribeCount&quot;:&quot;1,8\u00a0Mio.&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_id&quot;:&quot;UCCODtTcd5M1JavPCOr_Uydg&quot;,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/ExtraCreditz"/>
+  </action>
+</annotation>
+<annotation id="video:5badfce3-22b8-4dca-a46f-bca6f4d96d0a" style="playlist" type="card" log_data="a-ch=UCCODtTcd5M1JavPCOr_Uydg&amp;a-id=5badfce3-22b8-4dca-a46f-bca6f4d96d0a&amp;a-type=63&amp;a-v=LZ0qHQQ1q0c&amp;ei=wGo9XI2HM4vvgAfpzJLQDA&amp;l-class=2&amp;link-id=PLhyKYa0YJ_5BIUqSDPmfBuKjTN2QBv9wI&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/wmKj_wnhN9g\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Extra Credits: Games in Education&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: Extra Credits: Games in Education&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwiN57Oxgu_fAhWLN-AKHWmmBMoo-B0yBWNhcmRzSMfW1qHQw8rOLQ&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCI3ns7GC798CFYs34AodaaYEyij4HTIFY2FyZHNIx9bWodDDys4t&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCI3ns7GC798CFYs34AodaaYEyij4HTIFY2FyZHNIx9bWodDDys4t&quot;},&quot;end_ms&quot;:499,&quot;session_data&quot;:{&quot;ei&quot;:&quot;wGo9XI2HM4vvgAfpzJLQDA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;5badfce3-22b8-4dca-a46f-bca6f4d96d0a&quot;,&quot;src_vid&quot;:&quot;LZ0qHQQ1q0c&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCI3ns7GC798CFYs34AodaaYEyij4HTIFY2FyZHNIx9bWodDDys4t&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wmKj_wnhN9g\u0026list=PLhyKYa0YJ_5BIUqSDPmfBuKjTN2QBv9wI&quot;,&quot;meta_info&quot;:[&quot;von Extra Credits&quot;,&quot;13\u00a0Videos&quot;],&quot;playlist_video_count&quot;:&quot;13&quot;,&quot;start_ms&quot;:499}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=wmKj_wnhN9g&amp;list=PLhyKYa0YJ_5BIUqSDPmfBuKjTN2QBv9wI"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Extra Credits&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCI3ns7GC798CFYs34AodaaYEyij4HTIFY2FyZHNIx9bWodDDys4t&quot;, 
+  &quot;eventId&quot;: &quot;wGo9XI2HM4vvgAfpzJLQDA&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwiN57Oxgu/fAhWLN+AKHWmmBMoo+B0yBWNhcmRzSMfW1qHQw8rOLQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwiN57Oxgu/fAhWLN+AKHWmmBMoo+B0yBWNhcmRzSMfW1qHQw8rOLQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

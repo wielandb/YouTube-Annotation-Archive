@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIx9eSlKnv3wIVgo5VCh2C8QNIKPgdMgJpdkjqp5Wtj4j5hiE">
+<annotation id="annotation_1431063309" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3955141493">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3955141493" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2631263389" type="highlight" log_data="a-type=3&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpYSqa2GPtqY&amp;a-id=annotation_2631263389&amp;xble=1&amp;a-v=IQ3kQPWlU-o&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjH15KUqe_fAhWCjlUKHYLxA0go-B0yAml2SOqnla2PiPmGIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.75400" y="4.50700" w="28.17000" h="40.45100" t="2:59.357"/>
+      <rectRegion x="4.75400" y="4.50700" w="28.17000" h="40.45100" t="3:14.317"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2631263389&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;feature=iv&amp;src_vid=IQ3kQPWlU-o&amp;v=pYSqa2GPtqY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3068622905" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2631263389">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2631263389" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3380277369" type="highlight" log_data="a-type=3&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL-292yfpAFGYdTEWvXECZX8UwPgO7X3Zz&amp;a-id=annotation_3380277369&amp;xble=1&amp;a-v=IQ3kQPWlU-o&amp;l-class=2" itct="CAIQs-UBGP___________wEiEwjH15KUqe_fAhWCjlUKHYLxA0go-B0yAml2SOqnla2PiPmGIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.71900" y="4.22500" w="28.80300" h="41.57700" t="2:59.357"/>
+      <rectRegion x="66.71900" y="4.22500" w="28.80300" h="41.57700" t="3:14.317"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_3380277369&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;feature=iv&amp;list=PL-292yfpAFGYdTEWvXECZX8UwPgO7X3Zz&amp;src_vid=IQ3kQPWlU-o" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3955141493" type="highlight" log_data="a-type=3&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Folympic%3Fsub_confirmation%3D1&amp;a-id=annotation_3955141493&amp;xble=1&amp;a-v=IQ3kQPWlU-o&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwjH15KUqe_fAhWCjlUKHYLxA0go-B0yAml2SOqnla2PiPmGIQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.35700" y="69.01400" w="48.93000" h="19.32700" t="2:59.357"/>
+      <rectRegion x="25.35700" y="69.01400" w="48.93000" h="19.32700" t="3:14.317"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/olympic?annotation_id=annotation_3955141493&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;feature=iv&amp;src_vid=IQ3kQPWlU-o&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4265734689" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3380277369">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3380277369" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:e9014c60-fef5-442d-94b1-8e5229ce3651" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=e9014c60-fef5-442d-94b1-8e5229ce3651&amp;a-type=62&amp;a-v=IQ3kQPWlU-o&amp;ei=aJM9XMeDHIKd1gKC44_ABA&amp;l-class=1&amp;link-id=pYSqa2GPtqY&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:178419,&quot;video_duration&quot;:&quot;3:10&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjH15KUqe_fAhWCjlUKHYLxA0go-B0yBWNhcmRzSOqnla2PiPmGIQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCMfXkpSp798CFYKOVQodgvEDSCj4HTIFY2FyZHNI6qeVrY-I-YYh&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCMfXkpSp798CFYKOVQodgvEDSCj4HTIFY2FyZHNI6qeVrY-I-YYh&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;teaser_text&quot;:&quot;Empfohlen: Gj\u00f8vik Hall - The world&#39;s largest underground cavern | Science of YOG with Tom Scott&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=pYSqa2GPtqY&quot;,&quot;title&quot;:&quot;Gj\u00f8vik Hall - The world&#39;s largest underground cavern | Science of YOG with Tom Scott&quot;,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:178419,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;von Olympic&quot;,&quot;15.867 Aufrufe&quot;],&quot;timestamp&quot;:1454278354046,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;IQ3kQPWlU-o&quot;,&quot;annotation_id&quot;:&quot;e9014c60-fef5-442d-94b1-8e5229ce3651&quot;,&quot;ei&quot;:&quot;aJM9XMeDHIKd1gKC44_ABA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCMfXkpSp798CFYKOVQodgvEDSCj4HTIFY2FyZHNI6qeVrY-I-YYh&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/pYSqa2GPtqY\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=pYSqa2GPtqY"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjH15KUqe/fAhWCjlUKHYLxA0go+B0yBWNhcmRzSOqnla2PiPmGIQ==&quot;, 
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjH15KUqe/fAhWCjlUKHYLxA0go+B0yBWNhcmRzSOqnla2PiPmGIQ==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCMfXkpSp798CFYKOVQodgvEDSCj4HTIFY2FyZHNI6qeVrY+I+YYh&quot;, 
+  &quot;eventId&quot;: &quot;aJM9XMeDHIKd1gKC44_ABA&quot;
+}</data>
+</annotation>
+</annotations></document>

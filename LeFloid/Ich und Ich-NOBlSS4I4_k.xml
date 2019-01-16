@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8fSkgP_u3wIVm-tVCh0P8wkfKPgdMgJpdkj5x6PwkqmZ8DQ">
+<annotation id="annotation_409714" type="highlight" log_data="ei=NGc9XPGKIJvX1wKP5qf4AQ&amp;xble=1&amp;a-id=annotation_409714&amp;l-class=3&amp;a-v=NOBlSS4I4_k&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3DLeFloid" itct="CAEQs-UBGP___________wEiEwjx9KSA_-7fAhWb61UKHQ_zCR8o-B0yAml2SPnHo_CSqZnwNA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.65600" y="20.00000" w="44.53100" h="47.22200" t="0:02:50.3"/>
+      <rectRegion x="27.65600" y="20.00000" w="44.53100" h="47.22200" t="0:02:56.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/profile?annotation_id=annotation_409714&amp;ei=NGc9XPGKIJvX1wKP5qf4AQ&amp;feature=iv&amp;src_vid=NOBlSS4I4_k&amp;user=LeFloid" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_659382" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Ab zu mir nach Hause! ^___^</TEXT>
+  <segment spaceRelative="annotation_409714">
+    <movingRegion type="rect">
+      <rectRegion x="11.40600" y="3.33300" w="22.34400" h="9.44400" t="never"/>
+      <rectRegion x="11.40600" y="3.33300" w="22.34400" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_409714" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_974681" type="text" style="popup" log_data="a-v=NOBlSS4I4_k&amp;ei=NGc9XPGKIJvX1wKP5qf4AQ&amp;xble=1&amp;a-id=annotation_974681&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwjx9KSA_-7fAhWb61UKHQ_zCR8o-B0yAml2SPnHo_CSqZnwNA">
+  <TEXT>HD ist einfach geiler!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.34400" y="91.66700" w="22.03100" h="6.94400" t="0:00:00.8"/>
+      <rectRegion x="67.34400" y="91.66700" w="22.03100" h="6.94400" t="0:00:04.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

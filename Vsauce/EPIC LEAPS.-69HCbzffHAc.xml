@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkJzHsqvv3wIVWbHeCh19zAg2KPgdMgJpdkiHuPy-883w6OsB">
+<annotation id="annotation_198935" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_901112">
+    <movingRegion type="rect">
+      <rectRegion x="0.62500" y="70.55600" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.62500" y="70.55600" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_901112" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_417644" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_42245">
+    <movingRegion type="rect">
+      <rectRegion x="-6.71900" y="54.16700" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="-6.71900" y="54.16700" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_42245" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_42245" type="highlight" log_data="link=http%3A%2F%2Fbit.ly%2FzexD9l&amp;xble=1&amp;l-class=12&amp;a-v=69HCbzffHAc&amp;a-type=3&amp;ei=wZU9XNC3Btni-gb9mKOwAw&amp;a-id=annotation_42245" itct="CAEQs-UBGP___________wEiEwiQnMeyq-_fAhVZsd4KHX3MCDYo-B0yAml2SIe4_L7zzfDo6wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.68800" y="35.00000" w="20.31300" h="30.83300" t="0:07:27.6"/>
+      <rectRegion x="69.68800" y="35.00000" w="20.31300" h="30.83300" t="0:08:05.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://bit.ly/zexD9l" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_826959" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_925084">
+    <movingRegion type="rect">
+      <rectRegion x="-40.00000" y="7.50000" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="-40.00000" y="7.50000" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_925084" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_901112" type="highlight" log_data="link=http%3A%2F%2Fbit.ly%2FweKeS4&amp;xble=1&amp;l-class=12&amp;a-v=69HCbzffHAc&amp;a-type=3&amp;ei=wZU9XNC3Btni-gb9mKOwAw&amp;a-id=annotation_901112" itct="CAIQs-UBGP___________wEiEwiQnMeyq-_fAhVZsd4KHX3MCDYo-B0yAml2SIe4_L7zzfDo6wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.31300" y="0.27800" w="19.37500" h="31.94400" t="0:07:27.6"/>
+      <rectRegion x="70.31300" y="0.27800" w="19.37500" h="31.94400" t="0:08:05.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://bit.ly/weKeS4" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_925084" type="highlight" log_data="link=http%3A%2F%2Fbit.ly%2FxACoRb&amp;xble=1&amp;l-class=12&amp;a-v=69HCbzffHAc&amp;a-type=3&amp;ei=wZU9XNC3Btni-gb9mKOwAw&amp;a-id=annotation_925084" itct="CAMQs-UBGP___________wEiEwiQnMeyq-_fAhVZsd4KHX3MCDYo-B0yAml2SIe4_L7zzfDo6wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.62500" y="66.94400" w="18.75000" h="31.66700" t="0:07:27.6"/>
+      <rectRegion x="70.62500" y="66.94400" w="18.75000" h="31.66700" t="0:08:06.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://bit.ly/xACoRb" link_class="12"/>
+  </action>
+
+</annotation>
+</annotations></document>

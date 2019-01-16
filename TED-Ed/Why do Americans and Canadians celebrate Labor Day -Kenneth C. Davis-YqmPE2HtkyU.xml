@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIy8-Vuuvu3wIVyTDgCh3IkQ_lKPgdMgJpdkilpraPtuLj1GI">
+<annotation id="annotation_1779978851" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-do-americans-and-canadians-celebrate-labor-day-kenneth-c-davis&amp;a-type=3&amp;a-v=YqmPE2HtkyU&amp;a-id=annotation_1779978851&amp;l-class=6&amp;xble=1&amp;ei=tVI9XIuhDMnhgAfIo76oDg" itct="CAEQs-UBGP___________wEiEwjLz5W66-7fAhXJMOAKHciRD-Uo-B0yAml2SKWmto-24uPUYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.89700" y="54.93000" w="70.00800" h="14.82000" t="4:03.000"/>
+      <rectRegion x="14.89700" y="54.93000" w="70.00800" h="14.82000" t="4:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-do-americans-and-canadians-celebrate-labor-day-kenneth-c-davis" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1983891227" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-type=3&amp;a-v=YqmPE2HtkyU&amp;a-id=annotation_1983891227&amp;l-class=6&amp;xble=1&amp;ei=tVI9XIuhDMnhgAfIo76oDg" itct="CAIQs-UBGP___________wEiEwjLz5W66-7fAhXJMOAKHciRD-Uo-B0yAml2SKWmto-24uPUYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.49800" y="73.52100" w="27.21900" h="18.48200" t="4:03.000"/>
+      <rectRegion x="6.49800" y="73.52100" w="27.21900" h="18.48200" t="4:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2194303579" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-type=1&amp;a-v=YqmPE2HtkyU&amp;a-id=annotation_2194303579&amp;l-class=5&amp;xble=1&amp;ei=tVI9XIuhDMnhgAfIo76oDg" itct="CAMQs-UBGP___________wEiEwjLz5W66-7fAhXJMOAKHciRD-Uo-B0yAml2SKWmto-24uPUYg">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.55600" y="12.67600" w="16.84600" h="29.45100" t="4:03.000"/>
+      <rectRegion x="79.55600" y="12.67600" w="16.84600" h="29.45100" t="4:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_2194303579&amp;ei=tVI9XIuhDMnhgAfIo76oDg&amp;feature=iv&amp;src_vid=YqmPE2HtkyU" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3668557999" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1779978851">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1779978851" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3903036665" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3&amp;a-v=YqmPE2HtkyU&amp;a-id=annotation_3903036665&amp;l-class=6&amp;xble=1&amp;ei=tVI9XIuhDMnhgAfIo76oDg" itct="CAQQs-UBGP___________wEiEwjLz5W66-7fAhXJMOAKHciRD-Uo-B0yAml2SKWmto-24uPUYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.20600" y="72.95800" w="22.94000" h="19.60900" t="4:03.000"/>
+      <rectRegion x="70.20600" y="72.95800" w="22.94000" h="19.60900" t="4:12.586"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4143841671" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3903036665">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3903036665" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_681247479" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-type=3&amp;a-v=YqmPE2HtkyU&amp;a-id=annotation_681247479&amp;l-class=6&amp;xble=1&amp;ei=tVI9XIuhDMnhgAfIo76oDg" itct="CAUQs-UBGP___________wEiEwjLz5W66-7fAhXJMOAKHciRD-Uo-B0yAml2SKWmto-24uPUYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="72.67600" w="31.81500" h="19.04600" t="4:03.000"/>
+      <rectRegion x="36.29200" y="72.67600" w="31.81500" h="19.04600" t="4:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_709055463" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1983891227">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1983891227" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_881899235" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-do-americans-and-canadians-celebrate-labor-day-kenneth-c-davis&amp;a-type=1&amp;a-v=YqmPE2HtkyU&amp;a-id=annotation_881899235&amp;l-class=6&amp;xble=1&amp;ei=tVI9XIuhDMnhgAfIo76oDg" itct="CAYQs-UBGP___________wEiEwjLz5W66-7fAhXJMOAKHciRD-Uo-B0yAml2SKWmto-24uPUYg">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="10.70400" w="38.86800" h="8.31700" t="0:00.000"/>
+      <rectRegion x="0.00000" y="10.70400" w="38.86800" h="8.31700" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-do-americans-and-canadians-celebrate-labor-day-kenneth-c-davis" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_914753423" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_681247479">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_681247479" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=YqmPE2HtkyU&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;xble=0&amp;ei=tVI9XIuhDMnhgAfIo76oDg&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;end_ms&quot;:253000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbU5LMzdQSU5heElrY0NFY1UtYndsVm1VakIyQXxBQ3Jtc0tuTVBXcEdBMGlqbFFoX29BdU0xeTRvMHJqZ1lFZEp1bm54NGJneVdINEp1NmgtdENuUlpwc0hyY3ppNzBDN1BNTVI4MkJsbUZQSmltT1J2Yk95Snk0N1FaM1Q4VFZyOFd4VTZDNEcxbDl5RzN6YUlyd09qZ29OVkRnNlhhc3hwaWFNMEN5QjZBTUYxY1JZTG5DS0t1MVpENEZlRld2Ty1HaFEtNmtHX29MQjd3TE00eGJRbUpROTdFVkxpZFZuaGxJUVZWZkZLOGhwZi14bGZXX1RPbXBYUkFnOHpHOHlPU3VRTnYyZGp3MENuOHNnZFBj%26feature%3Div\u0026passive=true\u0026hl=de\u0026service=youtube\u0026uilel=3&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMvPlbrr7t8CFckw4AodyJEP5Sj4HTICaXZIpaa2j7bi49Ri&quot;,&quot;src_vid&quot;:&quot;YqmPE2HtkyU&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;tVI9XIuhDMnhgAfIo76oDg&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

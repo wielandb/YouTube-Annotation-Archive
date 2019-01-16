@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0p_psvru3wIVwYJ8Ch2FRgklKPgdMgJpdkjJsPvs_6SFv3Q">
+<annotation id="annotation_1610146457" type="highlight" log_data="a-id=annotation_1610146457&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;xble=1&amp;l-class=1&amp;a-v=dH4VJ_2e2Ek&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du5tFN8R7F9Q&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjSn-my-u7fAhXBgnwKHYVGCSUo-B0yAml2SMmw--z_pIW_dA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.34200" y="1.12700" w="35.30100" h="35.09900" t="3:35.727"/>
+      <rectRegion x="64.34200" y="1.12700" w="35.30100" h="35.09900" t="3:52.060"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1610146457&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;feature=iv&amp;src_vid=dH4VJ_2e2Ek&amp;v=u5tFN8R7F9Q" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1610537065" type="highlight" log_data="a-id=annotation_1610537065&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;xble=1&amp;l-class=1&amp;a-v=dH4VJ_2e2Ek&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS_vj72sENe0&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjSn-my-u7fAhXBgnwKHYVGCSUo-B0yAml2SMmw--z_pIW_dA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.84500" w="30.38800" h="36.22500" t="3:35.727"/>
+      <rectRegion x="0.00000" y="0.84500" w="30.38800" h="36.22500" t="3:52.060"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1610537065&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;feature=iv&amp;src_vid=dH4VJ_2e2Ek&amp;v=S_vj72sENe0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2556819121" type="highlight" log_data="a-id=annotation_2556819121&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;xble=1&amp;l-class=5&amp;a-v=dH4VJ_2e2Ek&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsdArEi1oNivTWMDqFNoM9g%3Fsub_confirmation%3D1&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjSn-my-u7fAhXBgnwKHYVGCSUo-B0yAml2SMmw--z_pIW_dA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.58600" y="81.78900" w="31.18100" h="18.21100" t="0:14.908"/>
+      <rectRegion x="30.58600" y="81.78900" w="31.18100" h="18.21100" t="0:20.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCsdArEi1oNivTWMDqFNoM9g?annotation_id=annotation_2556819121&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;feature=iv&amp;src_vid=dH4VJ_2e2Ek&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2938333687" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1610537065">
+    <movingRegion type="rect">
+      <rectRegion x="-1.74300" y="11.54900" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-1.74300" y="11.54900" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1610537065" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2984994011" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1610146457">
+    <movingRegion type="rect">
+      <rectRegion x="2.69400" y="8.73200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="2.69400" y="8.73200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1610146457" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3095605" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2556819121">
+    <movingRegion type="rect">
+      <rectRegion x="-0.09900" y="15.43800" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-0.09900" y="15.43800" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2556819121" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:932214fc-33ee-427e-907d-bb4da02fa3d7" style="video" type="card" log_data="a-ch=UCsdArEi1oNivTWMDqFNoM9g&amp;a-id=932214fc-33ee-427e-907d-bb4da02fa3d7&amp;a-type=62&amp;a-v=dH4VJ_2e2Ek&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;l-class=1&amp;link-id=aZQOqhmBCJU&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:1,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=aZQOqhmBCJU&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/aZQOqhmBCJU\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Leon Mach\u00e8re braucht Geld - Heider Hated YouTube&quot;,&quot;end_ms&quot;:1,&quot;is_live_now&quot;:false,&quot;video_duration&quot;:&quot;5:07&quot;,&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjSn-my-u7fAhXBgnwKHYVGCSUo-B0yBWNhcmRzSMmw--z_pIW_dA&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1476291727972,&quot;teaser_text&quot;:&quot;Empfohlen: Leon Mach\u00e8re braucht Geld - Heider Hated YouTube&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;dH4VJ_2e2Ek&quot;,&quot;ei&quot;:&quot;YGI9XNLvE8GF8gOFjaWoAg&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;,&quot;annotation_id&quot;:&quot;932214fc-33ee-427e-907d-bb4da02fa3d7&quot;},&quot;meta_info&quot;:[&quot;von Der Heider&quot;,&quot;811.015 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=aZQOqhmBCJU"/>
+  </action>
+</annotation>
+
+<annotation id="video:cddee34d-388d-44d5-8d3b-d09d0dff0c33" style="video" type="card" log_data="a-ch=UCsdArEi1oNivTWMDqFNoM9g&amp;a-id=cddee34d-388d-44d5-8d3b-d09d0dff0c33&amp;a-type=62&amp;a-v=dH4VJ_2e2Ek&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;l-class=1&amp;link-id=aOWmiQQ9NG4&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:1,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=aOWmiQQ9NG4&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/aOWmiQQ9NG4\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Krasser Beef mit der Gang! - Heider Hated Feedback&quot;,&quot;end_ms&quot;:1,&quot;is_live_now&quot;:false,&quot;video_duration&quot;:&quot;5:16&quot;,&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjSn-my-u7fAhXBgnwKHYVGCSUo-B0yBWNhcmRzSMmw--z_pIW_dA&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1476291731889,&quot;teaser_text&quot;:&quot;Empfohlen: Krasser Beef mit der Gang! - Heider Hated Feedback&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;dH4VJ_2e2Ek&quot;,&quot;ei&quot;:&quot;YGI9XNLvE8GF8gOFjaWoAg&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;,&quot;annotation_id&quot;:&quot;cddee34d-388d-44d5-8d3b-d09d0dff0c33&quot;},&quot;meta_info&quot;:[&quot;von Der Heider&quot;,&quot;477.606 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=aOWmiQQ9NG4"/>
+  </action>
+</annotation>
+
+<annotation id="video:39d5c2e8-a316-416c-bd41-739677dc397e" style="video" type="card" log_data="a-ch=UCsdArEi1oNivTWMDqFNoM9g&amp;a-id=39d5c2e8-a316-416c-bd41-739677dc397e&amp;a-type=62&amp;a-v=dH4VJ_2e2Ek&amp;ei=YGI9XNLvE8GF8gOFjaWoAg&amp;l-class=1&amp;link-id=ujAcZdEWZOU&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:1,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ujAcZdEWZOU&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ujAcZdEWZOU\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Miguel Pablo und HeracAY Beef - Bis einer weint - Heider Hated YouTube&quot;,&quot;end_ms&quot;:1,&quot;is_live_now&quot;:false,&quot;video_duration&quot;:&quot;7:51&quot;,&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwjSn-my-u7fAhXBgnwKHYVGCSUo-B0yBWNhcmRzSMmw--z_pIW_dA&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1476291735854,&quot;teaser_text&quot;:&quot;Empfohlen: Miguel Pablo und HeracAY Beef - Bis einer weint - Heider Hated YouTube&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;dH4VJ_2e2Ek&quot;,&quot;ei&quot;:&quot;YGI9XNLvE8GF8gOFjaWoAg&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P-khb90&quot;,&quot;annotation_id&quot;:&quot;39d5c2e8-a316-416c-bd41-739677dc397e&quot;},&quot;meta_info&quot;:[&quot;von Der Heider&quot;,&quot;1.069.300 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ujAcZdEWZOU"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCNKf6bL67t8CFcGCfAodhUYJJSj4HTIFY2FyZHNIybD77P+khb90&quot;, 
+  &quot;eventId&quot;: &quot;YGI9XNLvE8GF8gOFjaWoAg&quot;, 
+  &quot;headerText&quot;: &quot;Von Der Heider&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjSn+my+u7fAhXBgnwKHYVGCSUo+B0yBWNhcmRzSMmw++z/pIW/dA==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjSn+my+u7fAhXBgnwKHYVGCSUo+B0yBWNhcmRzSMmw++z/pIW/dA==&quot;
+}</data>
+</annotation>
+</annotations></document>

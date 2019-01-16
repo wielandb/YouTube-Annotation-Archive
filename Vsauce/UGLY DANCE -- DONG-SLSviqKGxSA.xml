@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI75aJwqvv3wIVh-dVCh13eACMKPgdMgJpdkigipuUqvGr2kg">
+<annotation id="annotation_569787" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_987803">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_987803" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_987803" type="highlight" log_data="l-class=3&amp;a-v=SLSviqKGxSA&amp;a-type=3&amp;a-id=annotation_987803&amp;ei=4ZU9XK-iJ4fP1wL38IHgCA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fprofile%3Fuser%3Drinrygamegame&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjvlonCq-_fAhWH51UKHXd4AIwo-B0yAml2SKCKm5Sq8avaSA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="43.90600" y="16.66700" w="28.59400" h="35.00000" t="0:03:43.3"/>
+      <rectRegion x="43.90600" y="16.66700" w="28.59400" h="35.00000" t="0:03:50.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/profile?annotation_id=annotation_987803&amp;ei=4ZU9XK-iJ4fP1wL38IHgCA&amp;feature=iv&amp;src_vid=SLSviqKGxSA&amp;user=rinrygamegame" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

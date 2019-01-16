@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1N7ns-vu3wIVSaJVCh1KPA-QKPgdMgJpdkjvpvakj9j2oTs">
+<annotation id="annotation_1219626063" type="highlight" log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Flight-waves-visible-and-invisible-lucianne-walkowicz&amp;a-v=O0PawPSdk28&amp;a-id=annotation_1219626063&amp;l-class=6&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjU3uez6-7fAhVJolUKHUo8D5Ao-B0yAml2SO-m9qSP2PahOw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.73900" y="54.36600" w="70.00800" h="14.25700" t="5:48.000"/>
+      <rectRegion x="14.73900" y="54.36600" w="70.00800" h="14.25700" t="5:58.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/light-waves-visible-and-invisible-lucianne-walkowicz" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1499401415" type="highlight" log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-v=O0PawPSdk28&amp;a-id=annotation_1499401415&amp;l-class=6&amp;xble=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjU3uez6-7fAhVJolUKHUo8D5Ao-B0yAml2SO-m9qSP2PahOw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="72.95800" w="31.97300" h="19.04600" t="5:48.000"/>
+      <rectRegion x="36.13300" y="72.95800" w="31.97300" h="19.04600" t="5:58.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1526592753" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1219626063">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1219626063" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2346000899" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1499401415">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1499401415" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2558706355" type="text" style="popup" log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Flight-waves-visible-and-invisible-lucianne-walkowicz&amp;a-v=O0PawPSdk28&amp;a-id=annotation_2558706355&amp;l-class=6&amp;xble=1&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwjU3uez6-7fAhVJolUKHUo8D5Ao-B0yAml2SO-m9qSP2PahOw">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="12.39400" w="38.70900" h="7.47200" t="0:00.000"/>
+      <rectRegion x="0.00000" y="12.39400" w="38.70900" h="7.47200" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/light-waves-visible-and-invisible-lucianne-walkowicz" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3086080443" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_59668409">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_59668409" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_336019419" type="text" style="popup" log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-v=O0PawPSdk28&amp;a-id=annotation_336019419&amp;l-class=5&amp;xble=1&amp;a-type=1" itct="CAQQs-UBGP___________wEiEwjU3uez6-7fAhVJolUKHUo8D5Ao-B0yAml2SO-m9qSP2PahOw">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="12.39400" w="17.15500" h="32.54900" t="5:48.000"/>
+      <rectRegion x="79.08100" y="12.39400" w="17.15500" h="32.54900" t="5:58.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_336019419&amp;ei=p1I9XJTvNMnE1gLK-LyACQ&amp;feature=iv&amp;src_vid=O0PawPSdk28" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_59668409" type="highlight" log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-v=O0PawPSdk28&amp;a-id=annotation_59668409&amp;l-class=6&amp;xble=1&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwjU3uez6-7fAhVJolUKHUo8D5Ao-B0yAml2SO-m9qSP2PahOw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="72.39400" w="27.53600" h="19.60600" t="5:48.000"/>
+      <rectRegion x="6.33900" y="72.39400" w="27.53600" h="19.60600" t="5:58.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_810310897" type="highlight" log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-v=O0PawPSdk28&amp;a-id=annotation_810310897&amp;l-class=6&amp;xble=1&amp;a-type=3" itct="CAYQs-UBGP___________wEiEwjU3uez6-7fAhVJolUKHUo8D5Ao-B0yAml2SO-m9qSP2PahOw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="73.23900" w="22.78100" h="18.76400" t="5:48.000"/>
+      <rectRegion x="70.52300" y="73.23900" w="22.78100" h="18.76400" t="5:57.482"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_885648295" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_810310897">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_810310897" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="ei=p1I9XJTvNMnE1gLK-LyACQ&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-v=O0PawPSdk28&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;xble=0&amp;a-type=10">
+  <data>{&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbEcwclMwMWIxZEdwOGJGa2UxUjhTR0Uxcm05Z3xBQ3Jtc0trWG5GN0xKUnlmUGVxdXFXM2drb0VZdFpwazl5aEVfVDZ2X0UxOG5JNjJwTXNkWWNKWlVRMFJEYzU3V0tqd19JOFIzdmdGaVQ1OGZBQUREb2g5dXEzdnVvVFZ1ZjZCdkZUZjdHcjh2c2Q2ODhBNnBON1B6VjFDSlVsWmZZRzUwZGFGbTduX3A5d1dNR1hGZERkUWhGNFRCc3RuRzhxdlBaR0szZWFUUjU4TGxYaUJQeC1yd2NBRUVVcmFrNlEwdlZoZkhiN2NjcHEtcDFTc1puclRjWmFzLXlNaFpRb3NfbUlwbmFmVGx3SzNVVEFPUF9j%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;ei&quot;:&quot;p1I9XJTvNMnE1gLK-LyACQ&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;O0PawPSdk28&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCNTe57Pr7t8CFUmiVQodSjwPkCj4HTICaXZI76b2pI_Y9qE7&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:358000,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

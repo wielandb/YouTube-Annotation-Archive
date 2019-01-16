@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhdG8p-vu3wIVCrt7Ch0JsgFmKPgdMgJpdkjN1sr7hdyR7eAB">
+<annotation id="annotation_1822376669" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3278807883">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3278807883" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2140891255" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-is-yawning-contagious-claudia-aguirre&amp;xble=1&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;a-id=annotation_2140891255&amp;l-class=6&amp;a-v=4NpG4F9yq00&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwiF0byn6-7fAhUKu3sKHQmyAWYo-B0yAml2SM3WyvuF3JHt4AE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="12.11300" w="36.80800" h="7.19000" t="0:00.000"/>
+      <rectRegion x="0.00000" y="12.11300" w="36.80800" h="7.19000" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-is-yawning-contagious-claudia-aguirre" link_class="6"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2365264289" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3076025317">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3076025317" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2566197393" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3611426475">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3611426475" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2860492969" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;xble=1&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;a-id=annotation_2860492969&amp;l-class=6&amp;a-v=4NpG4F9yq00&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiF0byn6-7fAhUKu3sKHQmyAWYo-B0yAml2SM3WyvuF3JHt4AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.45000" y="73.80300" w="31.65600" h="17.35500" t="4:18.900"/>
+      <rectRegion x="36.45000" y="73.80300" w="31.65600" h="17.35500" t="4:28.893"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3076025317" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;xble=1&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;a-id=annotation_3076025317&amp;l-class=6&amp;a-v=4NpG4F9yq00&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiF0byn6-7fAhUKu3sKHQmyAWYo-B0yAml2SM3WyvuF3JHt4AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.04800" y="72.67600" w="22.94000" h="19.60900" t="4:18.900"/>
+      <rectRegion x="70.04800" y="72.67600" w="22.94000" h="19.60900" t="4:28.893"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3278807883" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fwhy-is-yawning-contagious-claudia-aguirre&amp;xble=1&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;a-id=annotation_3278807883&amp;l-class=6&amp;a-v=4NpG4F9yq00&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwiF0byn6-7fAhUKu3sKHQmyAWYo-B0yAml2SM3WyvuF3JHt4AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.37200" y="54.64800" w="69.37400" h="13.69300" t="4:18.900"/>
+      <rectRegion x="15.37200" y="54.64800" w="69.37400" h="13.69300" t="4:28.894"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/why-is-yawning-contagious-claudia-aguirre" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3584930793" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2860492969">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2860492969" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3611426475" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;xble=1&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;a-id=annotation_3611426475&amp;l-class=6&amp;a-v=4NpG4F9yq00&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwiF0byn6-7fAhUKu3sKHQmyAWYo-B0yAml2SM3WyvuF3JHt4AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.81500" y="73.52100" w="26.58500" h="17.91900" t="4:18.900"/>
+      <rectRegion x="6.81500" y="73.52100" w="26.58500" h="17.91900" t="4:28.893"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3857962213" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTEDEducation%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;a-id=annotation_3857962213&amp;l-class=5&amp;a-v=4NpG4F9yq00&amp;a-type=1" itct="CAYQs-UBGP___________wEiEwiF0byn6-7fAhUKu3sKHQmyAWYo-B0yAml2SM3WyvuF3JHt4AE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.23900" y="12.67600" w="16.05400" h="30.85900" t="4:18.900"/>
+      <rectRegion x="79.23900" y="12.67600" w="16.05400" h="30.85900" t="4:28.893"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TEDEducation?annotation_id=annotation_3857962213&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;feature=iv&amp;src_vid=4NpG4F9yq00&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="xble=0&amp;ei=jVI9XMXWPIr27gOJ5IawBg&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;l-class=3&amp;a-v=4NpG4F9yq00&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCIXRvKfr7t8CFQq7ewodCbIBZij4HTICaXZIzdbK-4Xcke3gAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;jVI9XMXWPIr27gOJ5IawBg&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;4NpG4F9yq00&quot;},&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dde%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqa0MzTnJqNDU0c3hLcGRIVDRzZWJzTXVHVDJGd3xBQ3Jtc0tsaTJjQ0NDX2pYNlJucldkZ2NFVUxZcGhVcVZackdOSkUzMTYtb3dQRWh4REhMQXJvYjlEcldKbVJPSkY3Tk9lVko2OG0tSV9wZVpPelRPazRoV2NNb1NjYjdtRHd4bWtFOUhpWXdvVU1MOVA0NUtzWTNXUUpxVnI4ZWRNWTdZWENhU0JBTzExcUYwdzRtZGhwY0QtTDFDT2VxdlJ5TDZILWY4Wnd6aEtZTU54WG9NMElkTHNyN3ctWjFPLWNaR1RSRENZR1E3NXJRSUhYZU9Ka2JBT1l4MzVjTkM0QlJvZjFfZzBtWTVmV0V5a3BFNWNN&quot;,&quot;enabled&quot;:false},&quot;image_width&quot;:40,&quot;end_ms&quot;:269000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_c3siqnv3wIVD1rgCh0m_AetKPgdMgJpdkihwJ7xl7iX4wk">
+<annotation id="annotation_1766453101" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_592820683">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_592820683" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2257881479" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2933117141">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2933117141" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2933117141" type="highlight" log_data="link=https%3A%2F%2Fwww.tomscott.com%2F&amp;xble=1&amp;a-v=CcZdwX4noCE&amp;l-class=6&amp;ei=VJM9XP3TOo-0gQem-J_oCg&amp;a-type=3&amp;a-id=annotation_2933117141" itct="CAEQs-UBGP___________wEiEwj9zeyKqe_fAhUPWuAKHSb8B60o-B0yAml2SKHAnvGXuJfjCQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="88.54900" w="29.89700" h="11.45100" t="3:24.200"/>
+      <rectRegion x="0.00000" y="88.54900" w="29.89700" h="11.45100" t="3:37.060"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3627032993" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgocwRvLhDf8%26list%3DPL96C35uN7xGLoAooGokQA75b-K0dabejH%26index%3D3&amp;xble=1&amp;a-v=CcZdwX4noCE&amp;l-class=1&amp;ei=VJM9XP3TOo-0gQem-J_oCg&amp;a-type=1&amp;a-id=annotation_3627032993" itct="CAIQs-UBGP___________wEiEwj9zeyKqe_fAhUPWuAKHSb8B60o-B0yAml2SKHAnvGXuJfjCQ">
+  <TEXT>You may also enjoy: Will YouTube Ever Run Out of Video IDs?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.94800" y="59.28200" w="42.52800" h="12.67800" t="3:24.200"/>
+      <rectRegion x="2.94800" y="59.28200" w="42.52800" h="12.67800" t="3:37.060"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3627032993&amp;ei=VJM9XP3TOo-0gQem-J_oCg&amp;feature=iv&amp;index=3&amp;list=PL96C35uN7xGLoAooGokQA75b-K0dabejH&amp;src_vid=CcZdwX4noCE&amp;v=gocwRvLhDf8" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_592820683" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;xble=1&amp;a-v=CcZdwX4noCE&amp;l-class=5&amp;ei=VJM9XP3TOo-0gQem-J_oCg&amp;a-type=3&amp;a-id=annotation_592820683" itct="CAMQs-UBGP___________wEiEwj9zeyKqe_fAhUPWuAKHSb8B60o-B0yAml2SKHAnvGXuJfjCQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.71800" y="77.73200" w="52.94000" h="11.17200" t="3:24.211"/>
+      <rectRegion x="22.71800" y="77.73200" w="52.94000" h="11.17200" t="3:37.060"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_592820683&amp;ei=VJM9XP3TOo-0gQem-J_oCg&amp;feature=iv&amp;src_vid=CcZdwX4noCE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:a9dca18b-864c-485f-b0d4-8c749c73ed5a" style="video" type="card" log_data="a-ch=UCBa659QWEk1AI4Tg--mrJ2A&amp;a-id=a9dca18b-864c-485f-b0d4-8c749c73ed5a&amp;a-type=62&amp;a-v=CcZdwX4noCE&amp;ei=VJM9XP3TOo-0gQem-J_oCg&amp;l-class=1&amp;link-id=sP2qqMegNKA&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/sP2qqMegNKA\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: The First Ever Wireless Hack: Marconi vs Maskelyne&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;4:34&quot;,&quot;start_ms&quot;:203592,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[&quot;von Tom Scott&quot;,&quot;415.207 Aufrufe&quot;],&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;a9dca18b-864c-485f-b0d4-8c749c73ed5a&quot;,&quot;src_vid&quot;:&quot;CcZdwX4noCE&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCP3N7Iqp798CFQ9a4AodJvwHrSj4HTIFY2FyZHNIocCe8Ze4l-MJ&quot;,&quot;ei&quot;:&quot;VJM9XP3TOo-0gQem-J_oCg&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;The First Ever Wireless Hack: Marconi vs Maskelyne&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCP3N7Iqp798CFQ9a4AodJvwHrSj4HTIFY2FyZHNIocCe8Ze4l-MJ&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCP3N7Iqp798CFQ9a4AodJvwHrSj4HTIFY2FyZHNIocCe8Ze4l-MJ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwj9zeyKqe_fAhUPWuAKHSb8B60o-B0yBWNhcmRzSKHAnvGXuJfjCQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=sP2qqMegNKA&quot;,&quot;timestamp&quot;:1465224852403,&quot;end_ms&quot;:203592}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=sP2qqMegNKA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von Tom Scott&quot;, 
+  &quot;eventId&quot;: &quot;VJM9XP3TOo-0gQem-J_oCg&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwj9zeyKqe/fAhUPWuAKHSb8B60o+B0yBWNhcmRzSKHAnvGXuJfjCQ==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCP3N7Iqp798CFQ9a4AodJvwHrSj4HTIFY2FyZHNIocCe8Ze4l+MJ&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwj9zeyKqe/fAhUPWuAKHSb8B60o+B0yBWNhcmRzSKHAnvGXuJfjCQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIh-K96Knv3wIVD4R8Ch0nFA8cKPgdMgJpdkj1iO3cs4zVjboB">
+<annotation id="annotation_1365493989" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_1365493989&amp;xble=1&amp;ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;a-v=uhtUYzubRHU" itct="CAEQs-UBGP___________wEiEwiH4r3oqe_fAhUPhHwKHScUDxwo-B0yAml2SPWI7dyzjNWNugE">
+  <TEXT>You can listen to Longplayer right now at longplayer.org!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="89.97200" w="100.00000" h="10.02800" t="0:50.400"/>
+      <rectRegion x="0.00000" y="89.97200" w="100.00000" h="10.02800" t="0:56.382"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_1697784791" type="highlight" log_data="ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;a-v=uhtUYzubRHU&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;a-type=3&amp;a-id=annotation_1697784791&amp;l-class=2" itct="CAIQs-UBGP___________wEiEwiH4r3oqe_fAhUPhHwKHScUDxwo-B0yAml2SPWI7dyzjNWNugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.30900" y="40.28200" w="42.90800" h="15.38000" t="1:54.249"/>
+      <rectRegion x="55.30900" y="40.28200" w="42.90800" h="15.38000" t="1:59.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_1697784791&amp;ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;feature=iv&amp;list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem&amp;src_vid=uhtUYzubRHU" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2011968095" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1697784791">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1697784791" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2567581685" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3362885663">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3362885663" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3141789787" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_3141789787&amp;xble=1&amp;ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;a-v=uhtUYzubRHU" itct="CAMQs-UBGP___________wEiEwiH4r3oqe_fAhUPhHwKHScUDxwo-B0yAml2SPWI7dyzjNWNugE">
+  <TEXT>Thanks to Martin Deutsch for reminding me about Longplayer!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="83.55900" h="11.13400" t="1:53.670"/>
+      <rectRegion x="5.62500" y="5.55600" w="83.55900" h="11.13400" t="1:59.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3161491803" type="highlight" log_data="ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;a-v=uhtUYzubRHU&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fenyay%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_3161491803&amp;l-class=5" itct="CAQQs-UBGP___________wEiEwiH4r3oqe_fAhUPhHwKHScUDxwo-B0yAml2SPWI7dyzjNWNugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.30900" y="54.93000" w="43.54200" h="17.91500" t="1:54.249"/>
+      <rectRegion x="55.30900" y="54.93000" w="43.54200" h="17.91500" t="1:59.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/enyay?annotation_id=annotation_3161491803&amp;ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;feature=iv&amp;src_vid=uhtUYzubRHU&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3362885663" type="highlight" log_data="ei=GZQ9XMfxE4-I8gOnqLzgAQ&amp;a-v=uhtUYzubRHU&amp;xble=1&amp;link=http%3A%2F%2Fwww.tomscott.com%2F&amp;a-type=3&amp;a-id=annotation_3362885663&amp;l-class=6" itct="CAUQs-UBGP___________wEiEwiH4r3oqe_fAhUPhHwKHScUDxwo-B0yAml2SPWI7dyzjNWNugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.75400" y="80.28200" w="93.62100" h="13.97500" t="1:54.249"/>
+      <rectRegion x="4.75400" y="80.28200" w="93.62100" h="13.97500" t="1:59.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.tomscott.com/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4263057905" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3161491803">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3161491803" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_qKR9uvu3wIVFBngCh3Q2QjJKPgdMgJpdkjVyerHq8nop7MB">
+<annotation id="annotation_1355056857" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3922687525">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3922687525" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1764888187" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;a-type=1&amp;xble=1&amp;l-class=5&amp;a-id=annotation_1764888187&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU" itct="CAEQs-UBGP___________wEiEwj-opH26-7fAhUUGeAKHdDZCMko-B0yAml2SNXJ6seryeinswE">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="11.83100" w="17.00500" h="30.57700" t="1:27.000"/>
+      <rectRegion x="79.08100" y="11.83100" w="17.00500" h="30.57700" t="1:37.014"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_1764888187&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;feature=iv&amp;src_vid=s0-iSrj6pNU" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1805265971" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;a-type=3&amp;xble=1&amp;l-class=6&amp;a-id=annotation_1805265971&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU" itct="CAIQs-UBGP___________wEiEwj-opH26-7fAhUUGeAKHdDZCMko-B0yAml2SNXJ6seryeinswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.52300" y="72.11300" w="22.78100" h="19.04600" t="1:27.000"/>
+      <rectRegion x="70.52300" y="72.11300" w="22.78100" h="19.04600" t="1:37.014"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1834998221" type="text" style="popup" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmysteries-of-vernacular-sarcophagus-jessica-oreck-and-rachael-teel&amp;a-type=1&amp;xble=1&amp;l-class=12&amp;a-id=annotation_1834998221&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU" itct="CAMQs-UBGP___________wEiEwj-opH26-7fAhUUGeAKHdDZCMko-B0yAml2SNXJ6seryeinswE">
+  <TEXT>View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.26800" w="35.69700" h="8.32400" t="0:00.000"/>
+      <rectRegion x="0.00000" y="11.26800" w="35.69700" h="8.32400" t="0:20.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/mysteries-of-vernacular-sarcophagus-jessica-oreck-and-rachael-teel" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3690175943" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Fnominate_an_educator&amp;a-type=3&amp;xble=1&amp;l-class=12&amp;a-id=annotation_3690175943&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU" itct="CAQQs-UBGP___________wEiEwj-opH26-7fAhUUGeAKHdDZCMko-B0yAml2SNXJ6seryeinswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.33900" y="71.81700" w="27.21900" h="17.93300" t="1:27.000"/>
+      <rectRegion x="6.33900" y="71.81700" w="27.21900" h="17.93300" t="1:37.014"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3798516105" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3861300335">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3861300335" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3861300335" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Flessons%2Fmysteries-of-vernacular-sarcophagus-jessica-oreck-and-rachael-teel&amp;a-type=3&amp;xble=1&amp;l-class=12&amp;a-id=annotation_3861300335&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU" itct="CAUQs-UBGP___________wEiEwj-opH26-7fAhUUGeAKHdDZCMko-B0yAml2SNXJ6seryeinswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.37200" y="52.67600" w="69.53200" h="14.82000" t="1:27.000"/>
+      <rectRegion x="15.37200" y="52.67600" w="69.53200" h="14.82000" t="1:37.014"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/mysteries-of-vernacular-sarcophagus-jessica-oreck-and-rachael-teel" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3922687525" type="highlight" log_data="link=http%3A%2F%2Fed.ted.com%2Frecommend_an_animator&amp;a-type=3&amp;xble=1&amp;l-class=12&amp;a-id=annotation_3922687525&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU" itct="CAYQs-UBGP___________wEiEwj-opH26-7fAhUUGeAKHdDZCMko-B0yAml2SNXJ6seryeinswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.97500" y="70.98600" w="32.13200" h="20.45400" t="1:27.000"/>
+      <rectRegion x="35.97500" y="70.98600" w="32.13200" h="20.45400" t="1:37.014"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_734521955" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1805265971">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1805265971" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_936196075" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3690175943">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3690175943" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-ch=UCsooa4yRKGN_zEE8iknghZA&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;a-type=10&amp;xble=0&amp;l-class=3&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;ei=MlM9XP7BOpSygAfQs6PIDA&amp;a-v=s0-iSrj6pNU">
+  <data>{&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;image_type&quot;:0,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26continue_action%3DQUFFLUhqbDBVVFpvcXBBR0M0My1pYXJKQU90UWZGMm1Sd3xBQ3Jtc0tuNFcxSFhlWFo2RWl6cE1wZ2llSDFGelpWZTA3VVpiVXpjRkZvSGk4MVdXR01CZEZkWVc0QTJSQWotTUtBM0JxYUczTXJ4NTNkdmNoS2lLM0VVTFg0eTFnS1Nka0hQVDA0VFU0Y3NONzR4WF9MM1A1ZHFScUJkQkFPdGszTGFCVzBFN01jbVJhNmdEOVpSeGo3a2xfYzF1WjY4V25kWTRhT3oycjI1cld0NkZFRHV6NjJoVDRLZldPNEdSRjhJMm9YT2I3SkV2d0prN1VrWngyTmFrQWJ3WnRWZ0JVZkNDUG9PNTAwQjU5SjdzVFlHdDRn%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026hl=de&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;classic&quot;:true},&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCP6ikfbr7t8CFRQZ4Aod0NkIySj4HTICaXZI1cnqx6vJ6KezAQ&quot;,&quot;src_vid&quot;:&quot;s0-iSrj6pNU&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;MlM9XP7BOpSygAfQs6PIDA&quot;},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;end_ms&quot;:98000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

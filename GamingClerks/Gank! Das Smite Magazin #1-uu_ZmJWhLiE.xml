@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsrqButru3wIVDgTgCh0g4A5bKPgdMgJpdkih3IStibP297oB">
+<annotation id="annotation_362598" type="highlight" log_data="a-v=uu_ZmJWhLiE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FKiwaPlay&amp;l-class=3&amp;a-id=annotation_362598&amp;ei=4UA9XPLFHI6IgAegwLvYBQ&amp;a-type=3&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiyuoG62u7fAhUOBOAKHSDgDlso-B0yAml2SKHchK2Js_b3ugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.93800" y="79.44400" w="22.05500" h="7.73600" t="0:04:10.7"/>
+      <rectRegion x="10.93800" y="79.44400" w="22.05500" h="7.73600" t="0:04:17.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/KiwaPlay?annotation_id=annotation_362598&amp;ei=4UA9XPLFHI6IgAegwLvYBQ&amp;feature=iv&amp;src_vid=uu_ZmJWhLiE" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_383761" type="text" style="popup" log_data="a-v=uu_ZmJWhLiE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du3A6h7GRKDM&amp;l-class=1&amp;a-id=annotation_383761&amp;ei=4UA9XPLFHI6IgAegwLvYBQ&amp;a-type=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiyuoG62u7fAhUOBOAKHSDgDlso-B0yAml2SKHchK2Js_b3ugE">
+  <TEXT>Gank #2: Guan Yu Guide</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="86.40600" y="82.22200" w="13.59400" h="17.77800" t="0:00:00.9"/>
+      <rectRegion x="86.40600" y="82.22200" w="13.59400" h="17.77800" t="0:00:14.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_383761&amp;ei=4UA9XPLFHI6IgAegwLvYBQ&amp;feature=iv&amp;src_vid=uu_ZmJWhLiE&amp;v=u3A6h7GRKDM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_478955" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_362598">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="16.11100" w="49.06300" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="16.11100" w="49.06300" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_362598" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_491389" type="highlight" log_data="a-v=uu_ZmJWhLiE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FGeemeeOfficial&amp;l-class=3&amp;a-id=annotation_491389&amp;ei=4UA9XPLFHI6IgAegwLvYBQ&amp;a-type=3&amp;xble=1" itct="CAMQs-UBGP___________wEiEwiyuoG62u7fAhUOBOAKHSDgDlso-B0yAml2SKHchK2Js_b3ugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.87500" y="72.22200" w="20.18000" h="7.41700" t="0:04:10.7"/>
+      <rectRegion x="11.87500" y="72.22200" w="20.18000" h="7.41700" t="0:04:17.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="4210330" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/GeemeeOfficial?annotation_id=annotation_491389&amp;ei=4UA9XPLFHI6IgAegwLvYBQ&amp;feature=iv&amp;src_vid=uu_ZmJWhLiE" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_765295" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_491389">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.33300" w="69.68800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.33300" w="69.68800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_491389" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

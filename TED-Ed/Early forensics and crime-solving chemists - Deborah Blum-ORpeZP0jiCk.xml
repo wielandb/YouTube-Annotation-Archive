@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIysuHrO3u3wIVnGHgCh2HxQ5nKPgdMgJpdkipkI7pz8yXjTk">
+<annotation id="annotation_118510" type="highlight" log_data="a-type=3&amp;a-id=annotation_118510&amp;xble=1&amp;l-class=6&amp;a-v=ORpeZP0jiCk&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg" itct="CAEQs-UBGP___________wEiEwjKy4es7e7fAhWcYeAKHYfFDmco-B0yAml2SKmQjunPzJeNOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.62500" y="71.38900" w="22.65600" h="18.61100" t="7:45.600"/>
+      <rectRegion x="70.62500" y="71.38900" w="22.65600" h="18.61100" t="7:50.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_168404" type="highlight" log_data="a-type=3&amp;a-id=annotation_168404&amp;xble=1&amp;l-class=12&amp;a-v=ORpeZP0jiCk&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Fnominate_an_educator&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg" itct="CAIQs-UBGP___________wEiEwjKy4es7e7fAhWcYeAKHYfFDmco-B0yAml2SKmQjunPzJeNOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.71900" y="71.94400" w="26.71900" h="18.05600" t="0:07:45.6"/>
+      <rectRegion x="6.71900" y="71.94400" w="26.71900" h="18.05600" t="0:07:50.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/nominate_an_educator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_411028" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_411028&amp;xble=1&amp;l-class=5&amp;a-v=ORpeZP0jiCk&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DTEDEducation&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg" itct="CAMQs-UBGP___________wEiEwjKy4es7e7fAhWcYeAKHYfFDmco-B0yAml2SKmQjunPzJeNOQ">
+  <TEXT>Subscribe to TED-Ed</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.90600" y="12.50000" w="13.90600" h="30.83300" t="0:07:45.6"/>
+      <rectRegion x="78.90600" y="12.50000" w="13.90600" h="30.83300" t="0:07:50.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=TEDEducation&amp;annotation_id=annotation_411028&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg&amp;feature=iv&amp;src_vid=ORpeZP0jiCk" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_506277" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_168404">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="23.61100" w="28.43800" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_168404" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_519160" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_519160&amp;xble=1&amp;l-class=12&amp;a-v=ORpeZP0jiCk&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fearly-forensics-and-crime-solving-chemists-deborah-blum&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg" itct="CAQQs-UBGP___________wEiEwjKy4es7e7fAhWcYeAKHYfFDmco-B0yAml2SKmQjunPzJeNOQ">
+  <TEXT> View full lesson on ed.ted.com</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="9.44400" w="35.78100" h="8.88900" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="9.44400" w="35.78100" h="8.88900" t="0:00:20.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6710886" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/early-forensics-and-crime-solving-chemists-deborah-blum" link_class="12"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_612516" type="highlight" log_data="a-type=3&amp;a-id=annotation_612516&amp;xble=1&amp;l-class=12&amp;a-v=ORpeZP0jiCk&amp;link=http%3A%2F%2Fed.ted.com%2Flessons%2Fearly-forensics-and-crime-solving-chemists-deborah-blum&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg" itct="CAUQs-UBGP___________wEiEwjKy4es7e7fAhWcYeAKHYfFDmco-B0yAml2SKmQjunPzJeNOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.15600" y="53.33300" w="69.37500" h="14.16700" t="0:07:45.6"/>
+      <rectRegion x="15.15600" y="53.33300" w="69.37500" h="14.16700" t="0:07:50.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/lessons/early-forensics-and-crime-solving-chemists-deborah-blum" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_835485" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_612516">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_612516" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_897695" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_963511">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="24.16700" w="31.87500" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="24.16700" w="31.87500" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_963511" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_956928" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_118510">
+    <movingRegion type="rect">
+      <rectRegion x="-2.50000" y="24.16700" w="31.87500" h="4.44400" t="never"/>
+      <rectRegion x="-2.50000" y="24.16700" w="31.87500" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_118510" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_963511" type="highlight" log_data="a-type=3&amp;a-id=annotation_963511&amp;xble=1&amp;l-class=12&amp;a-v=ORpeZP0jiCk&amp;link=http%3A%2F%2Fed.ted.com%2Fget_involved%23%2Frecommend_an_animator&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg" itct="CAYQs-UBGP___________wEiEwjKy4es7e7fAhWcYeAKHYfFDmco-B0yAml2SKmQjunPzJeNOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.40600" y="71.38900" w="31.56300" h="18.05600" t="0:07:45.6"/>
+      <rectRegion x="36.40600" y="71.38900" w="31.56300" h="18.05600" t="0:07:50.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://ed.ted.com/get_involved#/recommend_an_animator" link_class="12"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:51231490-0-2b0e-9082-47d7bdc088e" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=51231490-0-2b0e-9082-47d7bdc088e&amp;xble=0&amp;l-class=3&amp;a-v=ORpeZP0jiCk&amp;link-id=UCsooa4yRKGN_zEE8iknghZA&amp;ei=sFQ9XMqzHZzDgQeHi7u4Bg&amp;a-ch=UCsooa4yRKGN_zEE8iknghZA">
+  <data>{&quot;num_subscribers&quot;:&quot;8355161&quot;,&quot;is_mobile&quot;:false,&quot;image_type&quot;:0,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAALx0lu67j6r6P4OoUlMtR4FZO9xbT8PcyTw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;end_ms&quot;:471000,&quot;channel_name&quot;:&quot;TED-Ed&quot;,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;subscribeCount&quot;:&quot;8,3\u00a0Mio.&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqblhFQjRnZ3VGcWpOOHAzYmFqZFBhNWpzb2RHd3xBQ3Jtc0ttd3lZZlNMeXlfVVFxQXdBR1lZZUtuUldNYnVmeTFCOFVLVi1NaXBUWVFRLVpFNjNSV1ZnWW52Y3dPT2VHb3hwWkl4aHZpVGZUTTVOaVRUcXJ4TmxBT0FpMjV4bXlGenNUVExMdzlFSVBtdUhjUWE0bS05U3V5M1ZFNlVUNzVVaktER1M4MENuODVHaS12NExJR21nenJxQ3Q1YjRIRDNwR1NrUjQ2U1ROaXFudm1pWEFoQU5XOUNnUTVEWVZRZThmeHJ4UWQ4aEpDdmlBeWdVWDFtRHZpUG9LV2ltUXFkaW4tLTF1VEdadi05YkhwYklB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTEDEducation%26hl%3Dde\u0026uilel=3&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false},&quot;channel_id&quot;:&quot;UCsooa4yRKGN_zEE8iknghZA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;ei&quot;:&quot;sFQ9XMqzHZzDgQeHi7u4Bg&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51231490-0-2b0e-9082-47d7bdc088e&quot;,&quot;src_vid&quot;:&quot;ORpeZP0jiCk&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCMrLh6zt7t8CFZxh4Aodh8UOZyj4HTICaXZIqZCO6c_Ml405&quot;},&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TEDEducation"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIoJeB0LDv3wIVmTXgCh0ZWQDxKPgdMgJpdkic1aWr44Ssi7gB">
+<annotation id="annotation_1140985115" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGQfFAuwhJBo&amp;a-type=3&amp;l-class=1&amp;xble=1&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;a-id=annotation_1140985115&amp;a-v=uBawJjVpapw" itct="CAEQs-UBGP___________wEiEwigl4HQsO_fAhWZNeAKHRlZAPEo-B0yAml2SJzVpavjhKyLuAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.53100" y="36.62000" w="33.24100" h="34.25400" t="9:17.716"/>
+      <rectRegion x="15.53100" y="36.62000" w="33.24100" h="34.25400" t="9:47.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1140985115&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;feature=iv&amp;src_vid=uBawJjVpapw&amp;v=GQfFAuwhJBo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_119323675" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftaylorhd1080p%3Fsub_confirmation%3D1&amp;a-type=3&amp;l-class=5&amp;xble=1&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;a-id=annotation_119323675&amp;a-v=uBawJjVpapw" itct="CAIQs-UBGP___________wEiEwigl4HQsO_fAhWZNeAKHRlZAPEo-B0yAml2SJzVpavjhKyLuAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.78300" y="0.00000" w="43.54200" h="28.33800" t="9:17.716"/>
+      <rectRegion x="26.78300" y="0.00000" w="43.54200" h="28.33800" t="9:47.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/taylorhd1080p?annotation_id=annotation_119323675&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;feature=iv&amp;src_vid=uBawJjVpapw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1221315493" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_119323675">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_119323675" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1352617997" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1140985115">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1140985115" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1642409925" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3330014683">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3330014683" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3330014683" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9l9UtPNuo-U&amp;a-type=3&amp;l-class=1&amp;xble=1&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;a-id=annotation_3330014683&amp;a-v=uBawJjVpapw" itct="CAMQs-UBGP___________wEiEwigl4HQsO_fAhWZNeAKHRlZAPEo-B0yAml2SJzVpavjhKyLuAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.34700" y="36.33800" w="33.55000" h="34.25400" t="9:17.716"/>
+      <rectRegion x="51.34700" y="36.33800" w="33.55000" h="34.25400" t="9:47.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3330014683&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;feature=iv&amp;src_vid=uBawJjVpapw&amp;v=9l9UtPNuo-U" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:fc7f8b62-fbe4-404e-875b-e0d88d0f613f" style="branding" type="branding"
+            log_data="a-ch=UCg44vJ8AHcK7GcG6KqGBKag&amp;a-type=10&amp;link-id=UCg44vJ8AHcK7GcG6KqGBKag&amp;l-class=3&amp;xble=0&amp;ei=PZs9XOCEA5nrgAeZsoGIDw&amp;a-id=fc7f8b62-fbe4-404e-875b-e0d88d0f613f&amp;a-v=uBawJjVpapw">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:46,&quot;channel_name&quot;:&quot;AndrewJRT&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26continue_action%3DQUFFLUhqbDhENTd6OU9nV2lJak1GTXotWGpTYnd2Vk9YQXxBQ3Jtc0tuQk1NUUdaMmRuTnYzLS16TkYyaUgxVVFVaUc0N0FwVmRvQjM3X1BaQndxYTNNODBUcG1BQllJcF9XRWdUQlZvb1hKVi1TN2NPNndYRWdHY1YzcExGWG1NdWlBektwZ0oyOTB4THZKRmpzZnJSc28zTHlwa3dDcWxFUE9qOGJQa3NBQXBsektHdFVXazNpeGpydTNidGM5RUZ0ckhoTEpYOWk0OHF4cVk4eFdLNU4zUVNUY180b0RDek1jVi1kMGxIUV9FYThyRTduQmR4emRkUXMxOHd5c0ZZb29VUXBITHFqRUctT3NWemNxX3QyZ3ow%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTaylorHD1080P%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026hl=de\u0026passive=true&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;670.163&quot;,&quot;subscribeCount&quot;:&quot;670.162&quot;,&quot;classic&quot;:true},&quot;image_height&quot;:33,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;670162&quot;,&quot;channel_id&quot;:&quot;UCg44vJ8AHcK7GcG6KqGBKag&quot;,&quot;start_ms&quot;:5000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:588000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCKCXgdCw798CFZk14AodGVkA8Sj4HTICaXZInNWlq-OErIu4AQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;PZs9XOCEA5nrgAeZsoGIDw&quot;,&quot;annotation_id&quot;:&quot;fc7f8b62-fbe4-404e-875b-e0d88d0f613f&quot;,&quot;src_vid&quot;:&quot;uBawJjVpapw&quot;},&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/g44vJ8AHcK7GcG6KqGBKag\/featured_channel.jpg?v=5b2fbdb5&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TaylorHD1080P"/>
+  </action>
+</annotation></annotations></document>

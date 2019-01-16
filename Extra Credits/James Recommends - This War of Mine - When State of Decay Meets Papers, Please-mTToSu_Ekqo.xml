@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIlK2MqYHv3wIVnetVCh3BuggkKPgdMgJpdkiqpZL-rom6mpkB">
+<annotation id="annotation_1131538807" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bonus Fact #4: Each character has a distinct personality which shapes the way they respond to your choices. One may feel guilty for a selfish action, while another will justify their decision as necessary.</TEXT>
+  <segment spaceRelative="annotation_772862195">
+    <movingRegion type="rect">
+      <rectRegion x="-0.47500" y="25.63400" w="50.83200" h="29.64800" t="never"/>
+      <rectRegion x="-0.47500" y="25.63400" w="50.83200" h="29.64800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_772862195" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1404826387" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_744508575">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_744508575" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1598128351" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bonus Fact #2: The game&#39;s mechanics very much echo its message. It provides no tutorial, leaving the player just as helpless and lost as the civilians unsure how to survive a war-torn city.</TEXT>
+  <segment spaceRelative="annotation_358931185">
+    <movingRegion type="rect">
+      <rectRegion x="-0.63400" y="28.85900" w="50.04000" h="21.22500" t="never"/>
+      <rectRegion x="-0.63400" y="28.85900" w="50.04000" h="21.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_358931185" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1607443071" type="text" style="anchored" log_data="a-type=8&amp;a-id=annotation_1607443071&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmTToSu_Ekqo%23t%3D39s&amp;a-v=mTToSu_Ekqo&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiUrYypge_fAhWd61UKHcG6CCQo-B0yAml2SKqlkv6uibqamQE">
+  <TEXT>Click here to &quot;hat&quot; on over to the recommendation!</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="63.86700" y="19.15500" w="31.69600" h="13.95800" sx="61.8670005798" sy="23.0990009308" t="0:08.900"/>
+      <anchoredRegion x="63.86700" y="19.15500" w="31.69600" h="13.95800" sx="61.8670005798" sy="23.0990009308" t="0:22.834"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5670865" fgColor="16777215" textSize="3.911599999999999" effects="bevel dropshadow textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1607443071&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;feature=iv&amp;src_vid=mTToSu_Ekqo&amp;v=mTToSu_Ekqo#t=39s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1607590995" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_280059819">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_280059819" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_189968379" type="highlight" log_data="a-type=3&amp;a-v=mTToSu_Ekqo&amp;xble=1&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;a-id=annotation_189968379" itct="CAIQs-UBGP___________wEiEwiUrYypge_fAhWd61UKHcG6CCQo-B0yAml2SKqlkv6uibqamQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.59600" y="5.07000" w="49.08900" h="50.87300" t="4:40.400"/>
+      <rectRegion x="4.59600" y="5.07000" w="49.08900" h="50.87300" t="5:10.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_2343141339" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bonus Fact #3: The people in the game are real people: they are the developers and their friends.</TEXT>
+  <segment spaceRelative="annotation_2381980653">
+    <movingRegion type="rect">
+      <rectRegion x="-0.47500" y="37.46500" w="50.99000" h="13.88700" t="never"/>
+      <rectRegion x="-0.47500" y="37.46500" w="50.99000" h="13.88700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2381980653" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2381980653" type="highlight" log_data="a-type=3&amp;a-v=mTToSu_Ekqo&amp;xble=1&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;a-id=annotation_2381980653" itct="CAMQs-UBGP___________wEiEwiUrYypge_fAhWd61UKHcG6CCQo-B0yAml2SKqlkv6uibqamQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="5.63400" w="49.56400" h="50.02800" t="3:01.800"/>
+      <rectRegion x="4.12000" y="5.63400" w="49.56400" h="50.02800" t="3:17.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_2452054121" type="highlight" log_data="a-type=3&amp;a-id=annotation_2452054121&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fextracreditz%3Fsub_confirmation%3D1&amp;a-v=mTToSu_Ekqo&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;xble=1" itct="CAQQs-UBGP___________wEiEwiUrYypge_fAhWd61UKHcG6CCQo-B0yAml2SKqlkv6uibqamQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.92100" y="63.09900" w="34.03300" h="24.39800" t="5:49.300"/>
+      <rectRegion x="49.92100" y="63.09900" w="34.03300" h="24.39800" t="6:05.100"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/extracreditz?annotation_id=annotation_2452054121&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;feature=iv&amp;src_vid=mTToSu_Ekqo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2775983195" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bonus Fact #1: The game was inspired by an interview with an anonymous Bosnian civilian who lived through the Bosnian War. It&#39;s called &quot;One Year in Hell&quot; and it&#39;s linked below.</TEXT>
+  <segment spaceRelative="annotation_678098283">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="48.77200" h="22.05300" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="48.77200" h="22.05300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_678098283" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_280059819" type="highlight" log_data="a-type=3&amp;a-id=annotation_280059819&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDM6FaItcZTw%26list%3DPLhyKYa0YJ_5DNVpOci8qhGuI4mFYcIm4V%26index%3D18&amp;a-v=mTToSu_Ekqo&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.41000" y="11.26800" w="27.85300" h="28.90100" t="5:49.300"/>
+      <rectRegion x="11.41000" y="11.26800" w="27.85300" h="28.90100" t="6:05.100"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_280059819&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;feature=iv&amp;index=18&amp;list=PLhyKYa0YJ_5DNVpOci8qhGuI4mFYcIm4V&amp;src_vid=mTToSu_Ekqo&amp;v=DM6FaItcZTw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3068100617" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2452054121">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2452054121" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3192259597" type="highlight" log_data="a-type=3&amp;a-id=annotation_3192259597&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS-wSL4WqUws%26list%3DPLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu%26index%3D5&amp;a-v=mTToSu_Ekqo&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.56900" y="51.83100" w="28.17000" h="27.77500" t="5:49.300"/>
+      <rectRegion x="11.56900" y="51.83100" w="28.17000" h="27.77500" t="6:05.100"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3192259597&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;feature=iv&amp;index=5&amp;list=PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu&amp;src_vid=mTToSu_Ekqo&amp;v=S-wSL4WqUws" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3266263345" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3192259597">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.28200" w="26.74300" h="5.44000" t="never"/>
+      <rectRegion x="0.00000" y="30.28200" w="26.74300" h="5.44000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3192259597" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_358931185" type="highlight" log_data="a-type=3&amp;a-v=mTToSu_Ekqo&amp;xble=1&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;a-id=annotation_358931185" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.43700" y="5.63400" w="49.08900" h="50.31000" t="2:39.900"/>
+      <rectRegion x="4.43700" y="5.63400" w="49.08900" h="50.31000" t="2:56.637"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_3631218505" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bonus Fact #5: Although inspired by a Bosnian and created by Polish developers, the game does not take place in any particular country or any particular war. It&#39;s intended to address the universal suffering of civilians during war.</TEXT>
+  <segment spaceRelative="annotation_189968379">
+    <movingRegion type="rect">
+      <rectRegion x="-0.47500" y="25.91500" w="49.56400" h="24.59200" t="never"/>
+      <rectRegion x="-0.47500" y="25.91500" w="49.56400" h="24.59200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_189968379" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4151393803" type="highlight" log_data="a-type=3&amp;a-v=mTToSu_Ekqo&amp;xble=1&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;a-id=annotation_4151393803" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.43700" y="5.63400" w="49.24700" h="49.74600" t="5:20.500"/>
+      <rectRegion x="4.43700" y="5.63400" w="49.24700" h="49.74600" t="5:47.100"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_678098283" type="highlight" log_data="a-type=3&amp;a-v=mTToSu_Ekqo&amp;xble=1&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;a-id=annotation_678098283" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.96200" y="5.35200" w="49.40600" h="50.31000" t="1:29.400"/>
+      <rectRegion x="3.96200" y="5.35200" w="49.40600" h="50.31000" t="2:00.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="annotation_693131789" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Bonus Fact #6: The developers have partnered with the humanitarian group War Child International, which aids children in war zones, to raise charity donations through the game.</TEXT>
+  <segment spaceRelative="annotation_4151393803">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="49.24700" h="20.64400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="49.24700" h="20.64400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_4151393803" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_744508575" type="highlight" log_data="a-type=3&amp;a-id=annotation_744508575&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fextracreditz%3Fsub_confirmation%3D1&amp;a-v=mTToSu_Ekqo&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.96800" y="29.29600" w="65.01400" h="46.14400" t="6:05.200"/>
+      <rectRegion x="19.96800" y="29.29600" w="65.01400" h="46.14400" t="6:10.520"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/extracreditz?annotation_id=annotation_744508575&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;feature=iv&amp;src_vid=mTToSu_Ekqo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_772862195" type="highlight" log_data="a-type=3&amp;a-v=mTToSu_Ekqo&amp;xble=1&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;a-id=annotation_772862195" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.43700" y="5.63400" w="49.08900" h="50.02800" t="3:29.000"/>
+      <rectRegion x="4.43700" y="5.63400" w="49.08900" h="50.02800" t="3:43.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+</annotation>
+
+<annotation id="channel:56c30f10-0000-2858-b912-94eb2c080390" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=56c30f10-0000-2858-b912-94eb2c080390&amp;l-class=3&amp;a-ch=UCCODtTcd5M1JavPCOr_Uydg&amp;link-id=UCCODtTcd5M1JavPCOr_Uydg&amp;a-v=mTToSu_Ekqo&amp;ei=omk9XJTUO53X1wLB9aKgAg&amp;xble=0">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/CODtTcd5M1JavPCOr_Uydg\/featured_channel.jpg?v=56cfc21d&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=de\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FExtraCreditz%26app%3Ddesktop%26hl%3Dde%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqa0toc2tKelJDLV9sNzVpMU15OW1QeEd2Wnhzd3xBQ3Jtc0ttYmE2SDRmcm9CS2RmN19aWkZHcGhoZGhXdUlDeGdDeWdWd290bVhEY0lwalN0UmdNNk0tWTJpTEVtX2EwRTg2QWpWR1p5NllMTlNNNjV5WWRRT2tlRm8zaC02amJvczBpeGZNcHVTQl9ST1pXalBySGFjRlZOSXFxYWp1d0dXV3NlLUJHNlI1UzdWd0tJMVhFb3NGQ2JWVHNWZFJTSkNUQW12ZEtjTXdGRVBwaHZ2Wm54cENoWExSUU5TRkpLWkl1b3UxSkZQV1Y1SFBod0E2anZRaVUyU0Ric1ZiU1NVSjg4cWlIZkswY05BeEF4N1lF\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;1,8\u00a0Mio.&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1,8\u00a0Mio.&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;56c30f10-0000-2858-b912-94eb2c080390&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;omk9XJTUO53X1wLB9aKgAg&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCJStjKmB798CFZ3rVQodwboIJCj4HTICaXZIqqWS_q6JupqZAQ&quot;,&quot;src_vid&quot;:&quot;mTToSu_Ekqo&quot;},&quot;channel_name&quot;:&quot;Extra Credits&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;1898233&quot;,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCCODtTcd5M1JavPCOr_Uydg&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:371000,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/ExtraCreditz"/>
+  </action>
+</annotation></annotations></document>

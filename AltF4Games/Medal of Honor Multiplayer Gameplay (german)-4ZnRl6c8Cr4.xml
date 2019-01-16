@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_pjvkY_v3wIVkhzgCh1E-wyqKPgdMgJpdki-lfC5-rL0zOEB">
+<annotation id="annotation_15272" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Der größte Fail 2010</TEXT>
+  <segment spaceRelative="annotation_797582">
+    <movingRegion type="rect">
+      <rectRegion x="-30.31200" y="9.16700" w="19.53100" h="5.55600" t="never"/>
+      <rectRegion x="-30.31200" y="9.16700" w="19.53100" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_797582" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_650506" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Altes Gameplay auf anderen Maps</TEXT>
+  <segment spaceRelative="annotation_961914">
+    <movingRegion type="rect">
+      <rectRegion x="34.21900" y="8.88900" w="23.12500" h="10.00000" t="never"/>
+      <rectRegion x="34.21900" y="8.88900" w="23.12500" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_961914" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_797582" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeKmLlv-UUEw&amp;a-type=3&amp;a-v=4ZnRl6c8Cr4&amp;a-id=annotation_797582&amp;l-class=1&amp;ei=IHg9XP6IFpK5gAfE9rPQCg&amp;xble=1" itct="CAEQs-UBGP___________wEiEwj-mO-Rj-_fAhWSHOAKHUT7DKoo-B0yAml2SL6V8Ln6svTM4QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.15600" y="72.77800" w="22.34400" h="22.50000" t="0:06:57.7"/>
+      <rectRegion x="70.15600" y="72.77800" w="22.34400" h="22.50000" t="0:07:30.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_797582&amp;ei=IHg9XP6IFpK5gAfE9rPQCg&amp;feature=iv&amp;src_vid=4ZnRl6c8Cr4&amp;v=eKmLlv-UUEw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_874444" type="text" style="popup" log_data="a-id=annotation_874444&amp;a-type=1&amp;a-v=4ZnRl6c8Cr4&amp;xble=1&amp;ei=IHg9XP6IFpK5gAfE9rPQCg" itct="CAIQs-UBGP___________wEiEwj-mO-Rj-_fAhWSHOAKHUT7DKoo-B0yAml2SL6V8Ln6svTM4QE">
+  <TEXT>Gute Arbeit DICE! Man kann nur 12 Freunde annehmen, dannach werden keine mehr angezeigt. Bitte addet mich NICHT</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.43800" y="6.66700" w="32.03100" h="21.11100" t="0:00:16.4"/>
+      <rectRegion x="33.43800" y="6.66700" w="32.03100" h="21.11100" t="0:00:23.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_961914" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_n2xkB_XgqM&amp;a-type=3&amp;a-v=4ZnRl6c8Cr4&amp;a-id=annotation_961914&amp;l-class=1&amp;ei=IHg9XP6IFpK5gAfE9rPQCg&amp;xble=1" itct="CAMQs-UBGP___________wEiEwj-mO-Rj-_fAhWSHOAKHUT7DKoo-B0yAml2SL6V8Ln6svTM4QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.21900" y="72.77800" w="22.65600" h="22.22200" t="0:06:57.7"/>
+      <rectRegion x="4.21900" y="72.77800" w="22.65600" h="22.22200" t="0:07:30.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_961914&amp;ei=IHg9XP6IFpK5gAfE9rPQCg&amp;feature=iv&amp;src_vid=4ZnRl6c8Cr4&amp;v=_n2xkB_XgqM" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

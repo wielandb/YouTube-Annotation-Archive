@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhfjZzZrv3wIVyVrgCh3WWwWVKPgdMgJpdkiEwczqx7jGqUU">
+<annotation id="annotation_1253346725" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4027908147">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4027908147" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2030518019" type="highlight" log_data="xble=1&amp;link=https%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;ei=JoQ9XIXNJsm1gQfWt5WoCQ&amp;a-v=RVMZxH1TIIQ&amp;l-class=8&amp;a-type=3&amp;a-id=annotation_2030518019" itct="CAEQs-UBGP___________wEiEwiF-NnNmu_fAhXJWuAKHdZbBZUo-B0yAml2SITBzOrHuMapRQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="76.33800" w="27.53600" h="19.89100" t="6:42.633"/>
+      <rectRegion x="36.13300" y="76.33800" w="27.53600" h="19.89100" t="6:56.216"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3149645267" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2030518019">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2030518019" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4027908147" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF&amp;ei=JoQ9XIXNJsm1gQfWt5WoCQ&amp;a-v=RVMZxH1TIIQ&amp;l-class=2&amp;a-type=3&amp;a-id=annotation_4027908147" itct="CAIQs-UBGP___________wEiEwiF-NnNmu_fAhXJWuAKHdZbBZUo-B0yAml2SITBzOrHuMapRQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.27400" y="20.56300" w="67.59700" h="44.38100" t="6:49.663"/>
+      <rectRegion x="17.27400" y="20.56300" w="67.59700" h="44.38100" t="6:56.216"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_4027908147&amp;ei=JoQ9XIXNJsm1gQfWt5WoCQ&amp;feature=iv&amp;list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF&amp;src_vid=RVMZxH1TIIQ" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4092678367" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>LINK IN THE DESCRIPTION</TEXT>
+  <segment spaceRelative="annotation_4178068569">
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="-16.62000" w="39.88400" h="18.85400" t="never"/>
+      <rectRegion x="6.18100" y="-16.62000" w="39.88400" h="18.85400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4178068569" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4178068569" type="highlight" log_data="xble=1&amp;a-v=RVMZxH1TIIQ&amp;a-type=3&amp;a-id=annotation_4178068569&amp;ei=JoQ9XIXNJsm1gQfWt5WoCQ" itct="CAMQs-UBGP___________wEiEwiF-NnNmu_fAhXJWuAKHdZbBZUo-B0yAml2SITBzOrHuMapRQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.04100" y="70.98600" w="45.12700" h="20.17200" t="6:35.406"/>
+      <rectRegion x="54.04100" y="70.98600" w="45.12700" h="20.17200" t="6:42.638"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="video:c0600e4d-dbb0-42ed-b19a-a06869ec019c" style="playlist" type="card" log_data="a-ch=UCsXVk37bltHxD1rDPwtNM8Q&amp;a-id=c0600e4d-dbb0-42ed-b19a-a06869ec019c&amp;a-type=63&amp;a-v=RVMZxH1TIIQ&amp;ei=JoQ9XIXNJsm1gQfWt5WoCQ&amp;l-class=2&amp;link-id=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF&amp;xble=0">
+  <data>{&quot;playlist_video_count&quot;:&quot;14&quot;,&quot;end_ms&quot;:405333,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: The Universe and Space stuff&quot;,&quot;title&quot;:&quot;The Universe and Space stuff&quot;,&quot;start_ms&quot;:405333,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/yWO-cvGETRQ\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von Kurzgesagt \u2013 In a Nutshell&quot;,&quot;14\u00a0Videos&quot;],&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiF-NnNmu_fAhXJWuAKHdZbBZUo-B0yBWNhcmRzSITBzOrHuMapRQ&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCIX42c2a798CFcla4Aod1lsFlSj4HTIFY2FyZHNIhMHM6se4xqlF&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCIX42c2a798CFcla4Aod1lsFlSj4HTIFY2FyZHNIhMHM6se4xqlF&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1485955300456,&quot;card_type&quot;:&quot;playlist&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=yWO-cvGETRQ\u0026list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;RVMZxH1TIIQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;c0600e4d-dbb0-42ed-b19a-a06869ec019c&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCIX42c2a798CFcla4Aod1lsFlSj4HTIFY2FyZHNIhMHM6se4xqlF&quot;,&quot;ei&quot;:&quot;JoQ9XIXNJsm1gQfWt5WoCQ&quot;},&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=yWO-cvGETRQ&amp;list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCIX42c2a798CFcla4Aod1lsFlSj4HTIFY2FyZHNIhMHM6se4xqlF&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiF+NnNmu/fAhXJWuAKHdZbBZUo+B0yBWNhcmRzSITBzOrHuMapRQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiF+NnNmu/fAhXJWuAKHdZbBZUo+B0yBWNhcmRzSITBzOrHuMapRQ==&quot;, 
+  &quot;eventId&quot;: &quot;JoQ9XIXNJsm1gQfWt5WoCQ&quot;, 
+  &quot;headerText&quot;: &quot;Von Kurzgesagt \u2013 In a Nutshell&quot;
+}</data>
+</annotation>
+</annotations></document>

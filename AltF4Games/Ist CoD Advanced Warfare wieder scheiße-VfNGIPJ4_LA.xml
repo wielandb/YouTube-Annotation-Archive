@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgLTjpI7v3wIVRoBVCh2NWw7tKPgdMgJpdkiw-eOTj8TR-VU">
+<annotation id="annotation_20991771" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2540192077">
+    <movingRegion type="rect">
+      <rectRegion x="6.65600" y="-9.57700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="6.65600" y="-9.57700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2540192077" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2540192077" type="highlight" log_data="l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FDeChangeman&amp;xble=1&amp;a-id=annotation_2540192077&amp;a-type=3&amp;a-v=VfNGIPJ4_LA&amp;ei=O3c9XMCqI8aA1gKNt7noDg" itct="CAEQs-UBGP___________wEiEwiAtOOkju_fAhVGgFUKHY1bDu0o-B0yAml2SLD545OPxNH5VQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.38000" y="87.04200" w="38.62900" h="10.31300" t="1:05:43.127"/>
+      <rectRegion x="60.38000" y="87.04200" w="38.62900" h="10.31300" t="1:05:48.655"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/DeChangeman?annotation_id=annotation_2540192077&amp;ei=O3c9XMCqI8aA1gKNt7noDg&amp;feature=iv&amp;src_vid=VfNGIPJ4_LA" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

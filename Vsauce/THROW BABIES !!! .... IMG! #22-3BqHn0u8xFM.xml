@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1pGl8qvv3wIVhnLgCh26gAFiKPgdMgJpdkjTiPPd9POhjdwB"><annotation author="vsauce" id="annotation_155501" itct="CAEQs-UBGP___________wEiEwjWkaXyq-_fAhWGcuAKHbqAAWIo-B0yAml2SNOI893086GN3AE" log_data="a-type=2&amp;l-class=5&amp;a-id=annotation_155501&amp;a-v=3BqHn0u8xFM&amp;ei=RpY9XNbWLoblgQe6gYaQBg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1" style="speech" type="text"><TEXT>Subscribe!!!!!!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="9.16699981689" sx="97.18800354" sy="10.2779998779" t="0:03:04.0" w="23.9060001373" x="76.09400177" y="85.8330001831" /><anchoredRegion d="0" h="9.16699981689" sx="97.18800354" sy="10.2779998779" t="0:03:11.2" w="23.9060001373" x="76.09400177" y="85.8330001831" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="5" trusted="true" type="hyperlink" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_155501&amp;ei=RpY9XNbWLoblgQe6gYaQBg&amp;feature=iv&amp;src_vid=3BqHn0u8xFM" /></action><appearance bgAlpha="0.800000011921" bgColor="16770048" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="1710618" gloss="0" highlightFontColor="15921906" highlightWidth="3" textSize="4.513375" /></annotation>
+<annotation id="annotation_487126" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to subscribe ... IT&#39;S FREE!</TEXT>
+  <segment spaceRelative="annotation_541552">
+    <movingRegion type="rect">
+      <rectRegion x="-18.12500" y="-1.11100" w="17.81300" h="9.44400" t="never"/>
+      <rectRegion x="-18.12500" y="-1.11100" w="17.81300" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_541552" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_541552" type="highlight" log_data="a-type=3&amp;l-class=5&amp;a-id=annotation_541552&amp;a-v=3BqHn0u8xFM&amp;ei=RpY9XNbWLoblgQe6gYaQBg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjWkaXyq-_fAhWGcuAKHbqAAWIo-B0yAml2SNOI893086GN3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="95.46900" y="1.66700" w="3.12500" h="7.22200" t="0:00:00.0"/>
+      <rectRegion x="95.46900" y="1.66700" w="3.12500" h="7.22200" t="0:03:18.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_541552&amp;ei=RpY9XNbWLoblgQe6gYaQBg&amp;feature=iv&amp;src_vid=3BqHn0u8xFM" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

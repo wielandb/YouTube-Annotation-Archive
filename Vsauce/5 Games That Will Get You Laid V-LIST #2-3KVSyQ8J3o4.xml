@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrZmYoqzv3wIVg6tVCh1z8gwhKPgdMgJpdkiOvaf4kNnU0twB"><annotation author="vsauce" id="annotation_167194" itct="CAEQs-UBGP___________wEiEwitmZiirO_fAhWDq1UKHXPyDCEo-B0yAml2SI69p_iQ2dTS3AE" log_data="xble=1&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;a-v=3KVSyQ8J3o4&amp;a-type=2&amp;a-id=annotation_167194" style="speech" type="text"><TEXT>Thumbs up for Halo glitches lol XD</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="12.7779998779" sx="49.6879997253" sy="53.611000061" t="0:00:27.5" w="22.1879997253" x="52.34400177" y="14.4440002441" /><anchoredRegion d="0" h="12.7779998779" sx="49.6879997253" sy="53.611000061" t="0:00:31.3" w="22.1879997253" x="52.34400177" y="14.4440002441" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="13369344" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="13369344" highlightWidth="3" /></annotation>
+<annotation id="annotation_238122" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to Subscribe to Vsauce for MORE!</TEXT>
+  <segment spaceRelative="annotation_470640">
+    <movingRegion type="rect">
+      <rectRegion x="-24.68700" y="0.83300" w="23.75000" h="10.55600" t="never"/>
+      <rectRegion x="-24.68700" y="0.83300" w="23.75000" h="10.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_470640" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_367473" type="text" style="popup" log_data="xble=1&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;l-class=1&amp;a-id=annotation_367473&amp;a-v=3KVSyQ8J3o4&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlhnABKAADIk" itct="CAIQs-UBGP___________wEiEwitmZiirO_fAhWDq1UKHXPyDCEo-B0yAml2SI69p_iQ2dTS3AE">
+  <TEXT>CLICK HERE TO WATCH!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.62500" y="17.22200" w="42.81300" h="42.22200" t="0:03:34.0"/>
+      <rectRegion x="50.62500" y="17.22200" w="42.81300" h="42.22200" t="0:03:39.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="407700" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_367473&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;feature=iv&amp;src_vid=3KVSyQ8J3o4&amp;v=lhnABKAADIk" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_470640" type="highlight" log_data="xble=1&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;l-class=5&amp;a-id=annotation_470640&amp;a-v=3KVSyQ8J3o4&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce" itct="CAMQs-UBGP___________wEiEwitmZiirO_fAhWDq1UKHXPyDCEo-B0yAml2SI69p_iQ2dTS3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="92.96900" y="0.00000" w="7.03100" h="10.55600" t="0:00:00.0"/>
+      <rectRegion x="92.96900" y="0.00000" w="7.03100" h="10.55600" t="0:04:43.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_470640&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;feature=iv&amp;src_vid=3KVSyQ8J3o4" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation author="vsauce" id="annotation_535675" itct="CAQQs-UBGP___________wEiEwitmZiirO_fAhWDq1UKHXPyDCEo-B0yAml2SI69p_iQ2dTS3AE" log_data="xble=1&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;a-v=3KVSyQ8J3o4&amp;a-type=2&amp;a-id=annotation_535675" style="speech" type="text"><TEXT>If that's you, CHECK YOUR YouTube MESSAGES!</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="21.111000061" sx="53.125" sy="38.0559997559" t="0:03:21.1" w="22.1879997253" x="1.56299996376" y="45.8330001831" /><anchoredRegion d="0" h="21.111000061" sx="53.125" sy="38.0559997559" t="0:03:23.7" w="22.1879997253" x="1.56299996376" y="45.8330001831" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="407700" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="40" highlightFontColor="999604" highlightWidth="3" /></annotation><annotation author="vsauce" id="annotation_648349" log_data="xble=1&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;a-v=3KVSyQ8J3o4&amp;a-type=0&amp;a-id=annotation_648349" type="pause"><segment><movingRegion type="rect"><rectRegion d="0" h="0.0" t="0:04:42.0" w="0.0" x="0.0" y="0.0" /><rectRegion d="0" h="0.0" t="0:04:42.0" w="0.0" x="0.0" y="0.0" /></movingRegion></segment><action type="pause"><duration value="0:00:10.0" /></action></annotation>
+<annotation id="annotation_843541" type="text" style="popup" log_data="xble=1&amp;ei=q5Y9XO2XDYPX1gLz5LOIAg&amp;a-v=3KVSyQ8J3o4&amp;a-type=1&amp;a-id=annotation_843541" itct="CAUQs-UBGP___________wEiEwitmZiirO_fAhWDq1UKHXPyDCEo-B0yAml2SI69p_iQ2dTS3AE">
+  <TEXT>Facebook.com/VsauceGaming</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="31.56300" y="7.22200" w="32.81300" h="6.94400" t="0:04:38.4"/>
+      <rectRegion x="31.56300" y="7.22200" w="32.81300" h="6.94400" t="0:04:43.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3052840" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

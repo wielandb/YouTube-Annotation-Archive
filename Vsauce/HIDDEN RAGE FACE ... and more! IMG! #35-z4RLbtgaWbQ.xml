@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIla-L06vv3wIVWIhVCh2DNwQ6KPgdMgJpdki0s-nA7e2Sws8B">
+<annotation id="annotation_184533" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>CLICK TO WATCH!</TEXT>
+  <segment spaceRelative="annotation_227824">
+    <movingRegion type="rect">
+      <rectRegion x="1.71900" y="50.83300" w="22.03100" h="7.50000" t="never"/>
+      <rectRegion x="1.71900" y="50.83300" w="22.03100" h="7.50000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_227824" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_227824" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfOQEOqqvONc&amp;xble=1&amp;ei=BZY9XNWYFNiQ1gKD75DQAw&amp;a-id=annotation_227824&amp;a-v=z4RLbtgaWbQ&amp;a-type=3&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiVr4vTq-_fAhVYiFUKHYM3BDoo-B0yAml2SLSz6cDt7ZLCzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.62500" y="7.50000" w="27.03100" h="58.88900" t="0:02:26.6"/>
+      <rectRegion x="10.62500" y="7.50000" w="27.03100" h="58.88900" t="0:02:43.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_227824&amp;ei=BZY9XNWYFNiQ1gKD75DQAw&amp;feature=iv&amp;src_vid=z4RLbtgaWbQ&amp;v=fOQEOqqvONc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_299427" type="highlight" log_data="a-id=annotation_299427&amp;a-type=3&amp;xble=1&amp;a-v=z4RLbtgaWbQ&amp;ei=BZY9XNWYFNiQ1gKD75DQAw" itct="CAIQs-UBGP___________wEiEwiVr4vTq-_fAhVYiFUKHYM3BDoo-B0yAml2SLSz6cDt7ZLCzwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="93.90600" y="0.00000" w="6.09400" h="6.94400" t="0:00:00.0"/>
+      <rectRegion x="93.90600" y="0.00000" w="6.09400" h="6.94400" t="0:02:49.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_578419" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>!!!</TEXT>
+  <segment spaceRelative="annotation_299427">
+    <movingRegion type="rect">
+      <rectRegion x="-0.31200" y="0.83300" w="6.40600" h="5.55600" t="never"/>
+      <rectRegion x="-0.31200" y="0.83300" w="6.40600" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_299427" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_984897" type="text" style="popup" log_data="a-id=annotation_984897&amp;a-type=1&amp;xble=1&amp;a-v=z4RLbtgaWbQ&amp;ei=BZY9XNWYFNiQ1gKD75DQAw" itct="CAMQs-UBGP___________wEiEwiVr4vTq-_fAhVYiFUKHYM3BDoo-B0yAml2SLSz6cDt7ZLCzwE">
+  <TEXT>Oops! Chaplin and Gandhi pic is in the description :)
+
+To make up for my mistake here&#39;s a Chaplin fact: 3 months after he was buried, Charlie Chaplin&#39;s dead body was dug up and held for ransom by kidnappers.  His body wasn&#39;t found for 11 weeks afterwards!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.75000" y="23.05600" w="37.03100" h="50.00000" t="0:01:14.3"/>
+      <rectRegion x="53.75000" y="23.05600" w="37.03100" h="50.00000" t="0:01:17.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.75" bgColor="0" fgColor="16777215" textSize="4.513375" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImP3n9K7v3wIVjlLgCh02qACpKPgdMgJpdkiFsuiS3-ygyWY">
+<annotation id="annotation_168944" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Songs Auf Deutsch! (KLICK!)</TEXT>
+  <segment spaceRelative="annotation_695463">
+    <movingRegion type="rect">
+      <rectRegion x="29.84400" y="51.94400" w="37.50000" h="5.55600" t="never"/>
+      <rectRegion x="29.84400" y="51.94400" w="37.50000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_695463" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_204785" type="text" style="popup" log_data="a-id=annotation_204785&amp;ei=cZk9XNiAFo6lgQe20ILICg&amp;a-v=ZpKDZfJaGQU&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiY_ef0ru_fAhWOUuAKHTaoAKko-B0yAml2SIWy6JLf7KDJZg">
+  <TEXT>facebook.de/alextvmedia</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.83300" w="23.75000" h="7.77800" t="0:00:01.1"/>
+      <rectRegion x="0.00000" y="90.83300" w="23.75000" h="7.77800" t="0:03:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_238389" type="text" style="popup" log_data="a-id=annotation_238389&amp;ei=cZk9XNiAFo6lgQe20ILICg&amp;a-v=ZpKDZfJaGQU&amp;a-type=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiY_ef0ru_fAhWOUuAKHTaoAKko-B0yAml2SIWy6JLf7KDJZg">
+  <TEXT>twitter.com/alextv</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.65600" y="91.38900" w="17.34400" h="7.77800" t="0:00:01.1"/>
+      <rectRegion x="82.65600" y="91.38900" w="17.34400" h="7.77800" t="0:03:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_695463" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLB6EAFFC0F9098D77&amp;xble=1&amp;a-id=annotation_695463&amp;ei=cZk9XNiAFo6lgQe20ILICg&amp;a-type=3&amp;l-class=2&amp;a-v=ZpKDZfJaGQU" itct="CAMQs-UBGP___________wEiEwiY_ef0ru_fAhWOUuAKHTaoAKko-B0yAml2SIWy6JLf7KDJZg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="25.83300" w="99.68800" h="48.88900" t="0:03:09.4"/>
+      <rectRegion x="0.15600" y="25.83300" w="99.68800" h="48.88900" t="0:03:21.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_695463&amp;ei=cZk9XNiAFo6lgQe20ILICg&amp;feature=iv&amp;list=PLB6EAFFC0F9098D77&amp;src_vid=ZpKDZfJaGQU" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:53d76bbb-0000-2ecf-88c3-001a1140dcae" style="branding" type="branding"
+            log_data="xble=0&amp;a-ch=UCzH549YlZhdhIqhtvz7XHmQ&amp;a-id=53d76bbb-0000-2ecf-88c3-001a1140dcae&amp;ei=cZk9XNiAFo6lgQe20ILICg&amp;a-type=10&amp;l-class=3&amp;a-v=ZpKDZfJaGQU&amp;link-id=UCzH549YlZhdhIqhtvz7XHmQ">
+  <data>{&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;cZk9XNiAFo6lgQe20ILICg&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJj95_Su798CFY5S4AodNqgAqSj4HTICaXZIhbLokt_soMlm&quot;,&quot;src_vid&quot;:&quot;ZpKDZfJaGQU&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;53d76bbb-0000-2ecf-88c3-001a1140dcae&quot;},&quot;channel_name&quot;:&quot;AlexiBexi&quot;,&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;end_ms&quot;:201000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;unsubscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dde%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlexiBexi%26app%3Ddesktop%26continue_action%3DQUFFLUhqazNZZUVWc0NHSDdlWEZ4eHFUTWlnRm11TUNjUXxBQ3Jtc0tscE4ycTR1UHVlSm5FNHcxSEFQS0ItUFFIRDd4b25DTmQ5Q09XSzh4VVc3RnAySTN5NGJOLTRSU3J2VHFlcjk0aEo5NnUtcFF1MUM3dnhrbjFsaUd4a0k1NGt6Qmo4cS10amRtZFpVQVhBZE1Hd0dlcXFEcXczZXREQmtSXzFES0prenYwMlU2ZmppNDJGRnlCcUdOeWg4Z0JoZTF5RDZfbl84UFR3UzRfbmdNMFBHcUJTU0M2RnFXTl9uVnotVjdIakVwUGpFRF81NFotVG95ZWJmY2V5eHZMcE43V2Y4dG9RaDd4VVd1WUtzUkN4ZW1F\u0026hl=de&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1,3\u00a0Mio.&quot;,&quot;subscribed&quot;:false},&quot;channel_id&quot;:&quot;UCzH549YlZhdhIqhtvz7XHmQ&quot;,&quot;num_subscribers&quot;:&quot;1338198&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/zH549YlZhdhIqhtvz7XHmQ\/featured_channel.jpg?v=53de02fb&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlexiBexi"/>
+  </action>
+</annotation></annotations></document>

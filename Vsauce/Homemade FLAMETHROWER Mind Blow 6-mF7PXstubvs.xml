@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_a_q-qvv3wIVWpB8Ch2ftAzZKPgdMgJpdkj73bnb7Ouzr5gB">
+<annotation id="annotation_388954" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to VSauce!!!</TEXT>
+  <segment spaceRelative="annotation_708291">
+    <movingRegion type="rect">
+      <rectRegion x="-29.37500" y="1.38900" w="26.71900" h="5.55600" t="never"/>
+      <rectRegion x="-29.37500" y="1.38900" w="26.71900" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_708291" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_42203" type="highlight" log_data="a-v=mF7PXstubvs&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_42203&amp;ei=WJY9XP2jKdqg8gOf6bLIDQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvexMKH9lY3k" itct="CAEQs-UBGP___________wEiEwj9r-r6q-_fAhVakHwKHZ-0DNko-B0yAml2SPvdudvs67OvmAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.34400" y="0.83300" w="48.28100" h="63.33300" t="0:02:59.5"/>
+      <rectRegion x="27.34400" y="0.83300" w="48.28100" h="63.33300" t="0:03:08.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13369344" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_42203&amp;ei=WJY9XP2jKdqg8gOf6bLIDQ&amp;feature=iv&amp;src_vid=mF7PXstubvs&amp;v=vexMKH9lY3k" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_466280" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Watch the &quot;Gimme The Loot&quot; medieval tribute</TEXT>
+  <segment spaceRelative="annotation_42203">
+    <movingRegion type="rect">
+      <rectRegion x="-23.43700" y="31.38900" w="18.75000" h="13.61100" t="never"/>
+      <rectRegion x="-23.43700" y="31.38900" w="18.75000" h="13.61100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_42203" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_708291" type="highlight" log_data="a-v=mF7PXstubvs&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_708291&amp;ei=WJY9XP2jKdqg8gOf6bLIDQ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DVsauce" itct="CAIQs-UBGP___________wEiEwj9r-r6q-_fAhVakHwKHZ-0DNko-B0yAml2SPvdudvs67OvmAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="94.06300" y="0.00000" w="5.62500" h="9.72200" t="0:00:00.0"/>
+      <rectRegion x="94.06300" y="0.00000" w="5.62500" h="9.72200" t="0:03:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=Vsauce&amp;annotation_id=annotation_708291&amp;ei=WJY9XP2jKdqg8gOf6bLIDQ&amp;feature=iv&amp;src_vid=mF7PXstubvs" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

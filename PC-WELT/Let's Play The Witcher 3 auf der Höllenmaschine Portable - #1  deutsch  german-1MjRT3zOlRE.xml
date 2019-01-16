@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwP7Rt_bu3wIVhkjgCh02ggfyKPgdMgJpdkiRqrrm96m05NQB">
+<annotation id="annotation_1779559679" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4190800255">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4190800255" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2191567105" type="highlight" log_data="a-v=1MjRT3zOlRE&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;l-class=1&amp;a-id=annotation_2191567105&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7UF5JnwUXfk" itct="CAEQs-UBGP___________wEiEwjA_tG39u7fAhWGSOAKHTaCB_Io-B0yAml2SJGquub3qbTk1AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.60900" y="2.25400" w="24.68300" h="24.39400" t="25:38.497"/>
+      <rectRegion x="36.60900" y="2.25400" w="24.68300" h="24.39400" t="25:45.776"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2191567105&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;feature=iv&amp;src_vid=1MjRT3zOlRE&amp;v=7UF5JnwUXfk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4190800255" type="highlight" log_data="a-v=1MjRT3zOlRE&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;l-class=6&amp;a-id=annotation_4190800255&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fnerd" itct="CAIQs-UBGP___________wEiEwjA_tG39u7fAhWGSOAKHTaCB_Io-B0yAml2SJGquub3qbTk1AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="73.33800" w="100.00000" h="26.66200" t="0:24.340"/>
+      <rectRegion x="0.00000" y="73.33800" w="100.00000" h="26.66200" t="0:29.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/nerd" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_570756779" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2191567105">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2191567105" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_74028961" type="text" style="popup" log_data="a-v=1MjRT3zOlRE&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;l-class=5&amp;a-id=annotation_74028961&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpcwelt%3Fsub_confirmation%3D1" itct="CAMQs-UBGP___________wEiEwjA_tG39u7fAhWGSOAKHTaCB_Io-B0yAml2SJGquub3qbTk1AE">
+  <TEXT>PC-WELT YouTube-Channel abonnieren.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="32.37000" h="13.66900" t="5:18.908"/>
+      <rectRegion x="0.00000" y="0.00000" w="32.37000" h="13.66900" t="10:16.477"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/pcwelt?annotation_id=annotation_74028961&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;feature=iv&amp;src_vid=1MjRT3zOlRE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="a-v=1MjRT3zOlRE&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-type=10&amp;xble=0&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0&amp;l-class=3&amp;a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;ei=OF49XMCCKoaRgQe2hJ6QDw">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:55,&quot;end_ms&quot;:1557000,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26continue_action%3DQUFFLUhqbktTdUdXNjlPcFc4NEdTRFktcmR6X3lQNTNGQXxBQ3Jtc0tteWJLaS1nNlI4Y1QzaUdnLWRIUS1kMG0xNW9MODZkN2wtUGJYbEUwTjhpdmg3SXl5UklWNkRQMy1wbl9vdXI2d28xZjQ1ZldneS1JSjJkcWtyWjM0bzhIVVkyUlp6d1pDQUtOU1BWbUJpR0tqYTliNGNVa1RZc0xfcU5RaGY4cHlPd0dTQ01qalJ0dDVsbjl6RWp6OWFKSE95dENwYjJOYTR6N1NTWFBFX01EZm9adlVRbGdUMGdVMXdSRUs1SGNxc2pFVEwwZHAxdTNKanYxZTlnT1Fja3U0YjlDaURwTjYzTDNhMWE4VXhrVlJoQUJZ%26hl%3Dde\u0026passive=true\u0026hl=de&quot;},&quot;image_height&quot;:12,&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;1MjRT3zOlRE&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTICaXZIkaq65veptOTUAQ&quot;,&quot;ei&quot;:&quot;OF49XMCCKoaRgQe2hJ6QDw&quot;},&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;channel_name&quot;:&quot;PC-WELT&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:b1bfc7e5-c1c7-4933-8868-a39f2fd7a136" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=b1bfc7e5-c1c7-4933-8868-a39f2fd7a136&amp;a-type=62&amp;a-v=1MjRT3zOlRE&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;l-class=1&amp;link-id=rMUtmCTv-AU&amp;xble=0">
+  <data>{&quot;end_ms&quot;:32311,&quot;title&quot;:&quot;H\u00f6llenmaschine Portable - Die Komponenten | deutsch \/ german&quot;,&quot;start_ms&quot;:32311,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;1MjRT3zOlRE&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;b1bfc7e5-c1c7-4933-8868-a39f2fd7a136&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;,&quot;ei&quot;:&quot;OF49XMCCKoaRgQe2hJ6QDw&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;7:06&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=rMUtmCTv-AU&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjA_tG39u7fAhWGSOAKHTaCB_Io-B0yBWNhcmRzSJGquub3qbTk1AE&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;},&quot;teaser_text&quot;:&quot;Empfohlen: H\u00f6llenmaschine Portable - Die Komponenten | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/rMUtmCTv-AU\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;124.970 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=rMUtmCTv-AU"/>
+  </action>
+</annotation>
+
+<annotation id="video:4587ec52-b4f5-4bea-961c-21ad559a2bd5" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=4587ec52-b4f5-4bea-961c-21ad559a2bd5&amp;a-type=62&amp;a-v=1MjRT3zOlRE&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;l-class=1&amp;link-id=SmtY2FCxi3k&amp;xble=0">
+  <data>{&quot;end_ms&quot;:344078,&quot;title&quot;:&quot;H\u00f6llenmaschine Portable - Games \u0026 Software mit Witcher 3, Project Cars \u0026 mehr | deutsch \/ german&quot;,&quot;start_ms&quot;:344078,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;1MjRT3zOlRE&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;4587ec52-b4f5-4bea-961c-21ad559a2bd5&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;,&quot;ei&quot;:&quot;OF49XMCCKoaRgQe2hJ6QDw&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;7:38&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=SmtY2FCxi3k&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwjA_tG39u7fAhWGSOAKHTaCB_Io-B0yBWNhcmRzSJGquub3qbTk1AE&quot;,&quot;card&quot;:&quot;CA0Q1TYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;},&quot;teaser_text&quot;:&quot;Empfohlen: H\u00f6llenmaschine Portable - Games \u0026 Software mit Witcher 3, Project Cars \u0026 mehr | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/SmtY2FCxi3k\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;24.130 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=SmtY2FCxi3k"/>
+  </action>
+</annotation>
+
+<annotation id="video:21eeedb6-932a-4ee3-80fe-542f27bf88fa" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=21eeedb6-932a-4ee3-80fe-542f27bf88fa&amp;a-type=62&amp;a-v=1MjRT3zOlRE&amp;ei=OF49XMCCKoaRgQe2hJ6QDw&amp;l-class=1&amp;link-id=7UF5JnwUXfk&amp;xble=0">
+  <data>{&quot;end_ms&quot;:1538648,&quot;title&quot;:&quot;H\u00f6llenmaschine Portable - So nehmt Ihr teil | deutsch \/ german&quot;,&quot;start_ms&quot;:1538648,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;1MjRT3zOlRE&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;21eeedb6-932a-4ee3-80fe-542f27bf88fa&quot;,&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;,&quot;ei&quot;:&quot;OF49XMCCKoaRgQe2hJ6QDw&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;video_duration&quot;:&quot;7:38&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7UF5JnwUXfk&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwjA_tG39u7fAhWGSOAKHTaCB_Io-B0yBWNhcmRzSJGquub3qbTk1AE&quot;,&quot;card&quot;:&quot;CBEQ1TYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;,&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCMD-0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ&quot;},&quot;teaser_text&quot;:&quot;Empfohlen: H\u00f6llenmaschine Portable - So nehmt Ihr teil | deutsch \/ german&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/7UF5JnwUXfk\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;59.021 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=7UF5JnwUXfk"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjA/tG39u7fAhWGSOAKHTaCB/Io+B0yBWNhcmRzSJGquub3qbTk1AE=&quot;, 
+  &quot;eventId&quot;: &quot;OF49XMCCKoaRgQe2hJ6QDw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCMD+0bf27t8CFYZI4AodNoIH8ij4HTIFY2FyZHNIkaq65veptOTUAQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjA/tG39u7fAhWGSOAKHTaCB/Io+B0yBWNhcmRzSJGquub3qbTk1AE=&quot;, 
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;
+}</data>
+</annotation>
+</annotations></document>

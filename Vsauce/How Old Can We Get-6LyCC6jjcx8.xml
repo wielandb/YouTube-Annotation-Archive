@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIn5SM-6rv3wIVDmzgCh1IvgnvKPgdMgJpdkif5o3HusGg3ugB">
+<annotation id="annotation_160222" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=6LyCC6jjcx8&amp;ei=TJU9XJ--MI7YgQfI_Kb4Dg&amp;a-id=annotation_160222" itct="CAEQs-UBGP___________wEiEwiflIz7qu_fAhUObOAKHUi-Ce8o-B0yAml2SJ_mjce6waDe6AE">
+  <TEXT>&quot;pines&quot;? My bad, they&#39;re aspens</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.59400" y="93.05600" w="31.40600" h="6.94400" t="0:01:48.7"/>
+      <rectRegion x="68.59400" y="93.05600" w="31.40600" h="6.94400" t="0:01:54.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="5610811" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_236589" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to become a Vsaucer!</TEXT>
+  <segment spaceRelative="annotation_880838">
+    <movingRegion type="rect">
+      <rectRegion x="-21.71900" y="7.77800" w="25.46900" h="5.83300" t="never"/>
+      <rectRegion x="-21.71900" y="7.77800" w="25.46900" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_880838" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_880838" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce&amp;ei=TJU9XJ--MI7YgQfI_Kb4Dg&amp;a-v=6LyCC6jjcx8&amp;a-type=3&amp;a-id=annotation_880838&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwiflIz7qu_fAhUObOAKHUi-Ce8o-B0yAml2SJ_mjce6waDe6AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="96.25000" y="0.00000" w="3.75000" h="6.38900" t="0:00:00.0"/>
+      <rectRegion x="96.25000" y="0.00000" w="3.75000" h="6.38900" t="0:04:33.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_880838&amp;ei=TJU9XJ--MI7YgQfI_Kb4Dg&amp;feature=iv&amp;src_vid=6LyCC6jjcx8" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

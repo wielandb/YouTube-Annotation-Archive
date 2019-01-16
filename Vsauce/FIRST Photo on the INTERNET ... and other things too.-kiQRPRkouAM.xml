@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyc_Ewqvv3wIV0mbgCh2JWwgZKPgdMgJpdkiD8KLJ0aeEkpIB">
+<annotation id="annotation_212270" type="highlight" log_data="a-id=annotation_212270&amp;ei=4pU9XMnWJdLNgQeJt6HIAQ&amp;a-v=kiQRPRkouAM&amp;a-type=3&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3uBcq1x7P34" itct="CAEQs-UBGP___________wEiEwjJz8TCq-_fAhXSZuAKHYlbCBko-B0yAml2SIPwosnRp4SSkgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.56300" y="33.61100" w="47.81300" h="61.11100" t="0:03:59.6"/>
+      <rectRegion x="26.56300" y="33.61100" w="47.81300" h="61.11100" t="0:04:07.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_212270&amp;ei=4pU9XMnWJdLNgQeJt6HIAQ&amp;feature=iv&amp;src_vid=kiQRPRkouAM&amp;v=3uBcq1x7P34" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_31081" type="text" style="popup" log_data="a-v=kiQRPRkouAM&amp;xble=1&amp;a-id=annotation_31081&amp;a-type=1&amp;ei=4pU9XMnWJdLNgQeJt6HIAQ" itct="CAIQs-UBGP___________wEiEwjJz8TCq-_fAhXSZuAKHYlbCBko-B0yAml2SIPwosnRp4SSkgE">
+  <TEXT>lol, whoops.  Their initials in French are LHC ... as in the Large Hadron Collider CERN later built.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.31300" y="81.66700" w="36.71900" h="15.27800" t="0:03:03.6"/>
+      <rectRegion x="60.31300" y="81.66700" w="36.71900" h="15.27800" t="0:03:07.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="9828" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_327204" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_212270">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="5.27800" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="18.75000" h="5.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_212270" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_472587" type="text" style="popup" log_data="a-id=annotation_472587&amp;ei=4pU9XMnWJdLNgQeJt6HIAQ&amp;a-v=kiQRPRkouAM&amp;a-type=1&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dvsauce" itct="CAMQs-UBGP___________wEiEwjJz8TCq-_fAhXSZuAKHYlbCBko-B0yAml2SIPwosnRp4SSkgE">
+  <TEXT>click to become an official Vsaucer!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="76.87500" y="0.00000" w="23.12500" h="11.11100" t="0:03:50.2"/>
+      <rectRegion x="76.87500" y="0.00000" w="23.12500" h="11.11100" t="0:04:07.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="5610811" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=vsauce&amp;annotation_id=annotation_472587&amp;ei=4pU9XMnWJdLNgQeJt6HIAQ&amp;feature=iv&amp;src_vid=kiQRPRkouAM" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

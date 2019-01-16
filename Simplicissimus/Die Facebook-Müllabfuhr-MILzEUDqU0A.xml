@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3aiH6Yzv3wIVh_9VCh2v1AG7KPgdMgJpdkjApqmHlOK8wTA">
+<annotation id="annotation_2244189503" type="highlight" log_data="a-id=annotation_2244189503&amp;xble=1&amp;l-class=1&amp;ei=sXU9XJ2MN4f_1wKvqYfYCw&amp;a-v=MILzEUDqU0A&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfjT_MIoWrl8&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjdqIfpjO_fAhWH_1UKHa_UAbso-B0yAml2SMCmqYeU4rzBMA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.13800" y="23.09900" w="54.17300" h="55.37900" t="2:10.595"/>
+      <rectRegion x="23.13800" y="23.09900" w="54.17300" h="55.37900" t="2:30.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2244189503&amp;ei=sXU9XJ2MN4f_1wKvqYfYCw&amp;feature=iv&amp;src_vid=MILzEUDqU0A&amp;v=fjT_MIoWrl8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2862846601" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Waren Filme früher besser?</TEXT>
+  <segment spaceRelative="annotation_2244189503">
+    <movingRegion type="rect">
+      <rectRegion x="9.50900" y="2.25400" w="37.36100" h="12.46500" t="never"/>
+      <rectRegion x="9.50900" y="2.25400" w="37.36100" h="12.46500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2244189503" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_3882786443" itct="CAIQs-UBGP___________wEiEwjdqIfpjO_fAhWH_1UKHa_UAbso-B0yAml2SMCmqYeU4rzBMA" log_data="a-id=annotation_3882786443&amp;xble=1&amp;l-class=5&amp;ei=sXU9XJ2MN4f_1wKvqYfYCw&amp;a-v=MILzEUDqU0A&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCKGMHVipEvuZudhHD05FOYA%3Fsub_confirmation%3D1&amp;a-type=9" style="label" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="15.5240001678" t="2:10.552" w="60.1819992065" x="19.8099994659" y="80.2819976807" /><rectRegion d="0" h="15.5240001678" t="2:30.000" w="60.1819992065" x="19.8099994659" y="80.2819976807" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="5" target="current" trusted="true" value="https://www.youtube.com/channel/UCKGMHVipEvuZudhHD05FOYA?annotation_id=annotation_3882786443&amp;ei=sXU9XJ2MN4f_1wKvqYfYCw&amp;feature=iv&amp;src_vid=MILzEUDqU0A&amp;sub_confirmation=1" /></action><appearance effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="channel:5832997d-0000-21e3-97cb-94eb2c08c17a" style="branding" type="branding"
+            log_data="a-id=5832997d-0000-21e3-97cb-94eb2c08c17a&amp;xble=0&amp;l-class=3&amp;a-ch=UCKGMHVipEvuZudhHD05FOYA&amp;a-v=MILzEUDqU0A&amp;ei=sXU9XJ2MN4f_1wKvqYfYCw&amp;link-id=UCKGMHVipEvuZudhHD05FOYA&amp;a-type=10">
+  <data>{&quot;start_ms&quot;:5000,&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCKGMHVipEvuZudhHD05FOYA%26continue_action%3DQUFFLUhqa2N2dHVFakE3RFVjOG9lVUhvcmNDSlV4Ukk5QXxBQ3Jtc0tuNmN3X3VsLWthYVBTaGJZdkd0c1JqZ3duTWVfaVNncEN3eVdCX1BwY19HX1NxczdScVFIMEcxNzJnaFNzSnlCTmVGOV8zY0xJV2xCYzJnMEVHYWZMbm16MDhwckpEeFN4RU5JYlJpZzZXWWVVMkRUSGJiMFJuRTlIU09rU0Z4NXMxQkFET0h4czhwc3BuV2tKX20zRXcyZFNsVklHQXVIUnNDblYtb2pvYXIteGU4ZERPcVNfT0ctNnd0ZHNUZGJIMzlJTjdtUlM3bW1mV3dxUW1JZ0hsVkZlcnNvZTNjTlkxQkx0WlB4d0xoNnBOVFI4%26app%3Ddesktop%26feature%3Div%26hl%3Dde%26action_handle_signin%3Dtrue\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026hl=de&quot;,&quot;subscribeCount&quot;:&quot;229.992&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;229.993&quot;},&quot;num_subscribers&quot;:&quot;229992&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCN2oh-mM798CFYf_VQodr9QBuyj4HTICaXZIwKaph5TivMEw&quot;,&quot;ei&quot;:&quot;sXU9XJ2MN4f_1wKvqYfYCw&quot;,&quot;src_vid&quot;:&quot;MILzEUDqU0A&quot;,&quot;annotation_id&quot;:&quot;5832997d-0000-21e3-97cb-94eb2c08c17a&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:150000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/KGMHVipEvuZudhHD05FOYA\/featured_channel.jpg?v=5845b959&quot;,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCKGMHVipEvuZudhHD05FOYA&quot;,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Simplicissimus&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCKGMHVipEvuZudhHD05FOYA"/>
+  </action>
+</annotation>
+<annotation id="video:65344c69-1bd2-400a-8d9e-a2d167ef5393" style="collaborator" type="card" log_data="a-ch=UCKGMHVipEvuZudhHD05FOYA&amp;a-id=65344c69-1bd2-400a-8d9e-a2d167ef5393&amp;a-type=69&amp;a-v=MILzEUDqU0A&amp;ei=sXU9XJ2MN4f_1wKvqYfYCw&amp;l-class=3&amp;link-id=UCFgBYlz5LwymPSWBX-G6hBA&amp;xble=0">
+  <data>{&quot;start_ms&quot;:125459,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCN2oh-mM798CFYf_VQodr9QBuyj4HTIFY2FyZHNIwKaph5TivMEw&quot;,&quot;ei&quot;:&quot;sXU9XJ2MN4f_1wKvqYfYCw&quot;,&quot;src_vid&quot;:&quot;MILzEUDqU0A&quot;,&quot;annotation_id&quot;:&quot;65344c69-1bd2-400a-8d9e-a2d167ef5393&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjdqIfpjO_fAhWH_1UKHa_UAbso-B0yBWNhcmRzSMCmqYeU4rzBMA&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCN2oh-mM798CFYf_VQodr9QBuyj4HTIFY2FyZHNIwKaph5TivMEw&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCN2oh-mM798CFYf_VQodr9QBuyj4HTIFY2FyZHNIwKaph5TivMEw&quot;},&quot;end_ms&quot;:125459,&quot;custom_message&quot;:&quot;Stories \u0026 opinions&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAWPnlCMVxscZquEpe2XUEf_qrVlm_xnuLiEg=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;card_type&quot;:&quot;collaborator&quot;,&quot;teaser_text&quot;:&quot;Neuer Zweitkanal: 2 Bored Guys&quot;,&quot;target&quot;:&quot;new&quot;,&quot;channel_id&quot;:&quot;UCFgBYlz5LwymPSWBX-G6hBA&quot;,&quot;timestamp&quot;:1471958550098,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/channel\/UCFgBYlz5LwymPSWBX-G6hBA&quot;,&quot;meta_info&quot;:[&quot;26.399\u00a0Abonnenten&quot;],&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;title&quot;:&quot;2 Bored Guys&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCFgBYlz5LwymPSWBX-G6hBA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjdqIfpjO/fAhWH/1UKHa/UAbso+B0yBWNhcmRzSMCmqYeU4rzBMA==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjdqIfpjO/fAhWH/1UKHa/UAbso+B0yBWNhcmRzSMCmqYeU4rzBMA==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCN2oh+mM798CFYf/VQodr9QBuyj4HTIFY2FyZHNIwKaph5TivMEw&quot;, 
+  &quot;eventId&quot;: &quot;sXU9XJ2MN4f_1wKvqYfYCw&quot;, 
+  &quot;headerText&quot;: &quot;Von Simplicissimus&quot;
+}</data>
+</annotation>
+</annotations></document>

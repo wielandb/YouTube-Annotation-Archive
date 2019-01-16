@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIg5SM7fTu3wIV2ErgCh3MyQS7KPgdMgJpdkjV6ImPsqn35WY">
+<annotation id="annotation_1872687327" type="highlight" log_data="l-class=6&amp;xble=1&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fem&amp;a-v=ZsvdSyHidFU&amp;a-type=3&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;a-id=annotation_1872687327" itct="CAEQs-UBGP___________wEiEwiDlIzt9O7fAhXYSuAKHczJBLso-B0yAml2SNXoiY-yqfflZg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="81.78900" w="100.00000" h="18.21100" t="0:39.718"/>
+      <rectRegion x="0.00000" y="81.78900" w="100.00000" h="18.21100" t="0:45.535"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.pcwelt.de/em" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2196015019" type="text" style="popup" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWD3g9GHv84E&amp;a-v=ZsvdSyHidFU&amp;a-type=1&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;a-id=annotation_2196015019" itct="CAIQs-UBGP___________wEiEwiDlIzt9O7fAhXYSuAKHczJBLso-B0yAml2SNXoiY-yqfflZg">
+  <TEXT>Alle Infos zu den neuen Xbox-Modellen</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="35.22200" h="13.95800" t="7:46.859"/>
+      <rectRegion x="0.00000" y="0.00000" w="35.22200" h="13.95800" t="8:38.529"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2196015019&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;feature=iv&amp;src_vid=ZsvdSyHidFU&amp;v=WD3g9GHv84E" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_728199367" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1872687327">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1872687327" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55e84e8a-0000-2747-831b-94eb2c08bce0" style="branding" type="branding"
+            log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;l-class=3&amp;xble=0&amp;link-id=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-v=ZsvdSyHidFU&amp;a-type=10&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;a-id=55e84e8a-0000-2747-831b-94eb2c08bce0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/tmCJsYolKUjDPcUdfM8Skg\/featured_channel.jpg?v=56166859&quot;,&quot;image_height&quot;:12,&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;553475&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;end_ms&quot;:1034000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;j1w9XMOQONiVgQfMk5PYCw&quot;,&quot;annotation_id&quot;:&quot;55e84e8a-0000-2747-831b-94eb2c08bce0&quot;,&quot;src_vid&quot;:&quot;ZsvdSyHidFU&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTICaXZI1eiJj7Kp9-Vm&quot;},&quot;channel_name&quot;:&quot;PC-WELT&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;553.475&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=de\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbllRR29NdzdVZm5vMGM4aU43X09ldE1oNmVVQXxBQ3Jtc0trbWlyRTZPMlRha2Qyb1BwWmZuOUJ4NFd1b1c1WnVBT2ZISmw0c0RMYm9ZYzVIZ3RqWms3T2xEMDg0Ykc0QmNyYWMzOEd5UTJRTFBYZmlSWmxMNXFEWUgyUXJLYm9INGUwRGxlZEl1QlNQSnR4dnVnZk5mSWNHYnM2N0lRZE5wRURTdV8wQmJ2eWlhU3pDQTFxd0laalJwSHZCeDJ5VGkyNzdOVXRaczdhZ0ROMlVCa0dKX2NvTnFERFh2bDh4b3BmclB0UFB5dktkZFYwZE0wRldHRUVOa1dfVzd1aFVpMFJTV0s3V05HQTJQVFJxekx3%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FPCWELT%26app%3Ddesktop%26hl%3Dde%26feature%3Div&quot;,&quot;unsubscribeCount&quot;:&quot;553.476&quot;,&quot;subscribeText&quot;:&quot;Abonnieren&quot;,&quot;unsubscribeText&quot;:&quot;Abonniert&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCtmCJsYolKUjDPcUdfM8Skg&quot;,&quot;image_width&quot;:55}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/PCWELT"/>
+  </action>
+</annotation>
+<annotation id="video:69816acd-eb12-4b16-8ca7-477ea04fedde" style="simple" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=69816acd-eb12-4b16-8ca7-477ea04fedde&amp;a-type=68&amp;a-v=ZsvdSyHidFU&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;l-class=6&amp;link=http%3A%2F%2Fwww.pcwelt.de%2Fem&amp;xble=0">
+  <data>{&quot;display_domain&quot;:&quot;pcwelt.de&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/ZsvdSyHidFU\/69816acd-eb12-4b16-8ca7-477ea04fedde_mq.jpg?v=5763b965&quot;,&quot;meta_info&quot;:[],&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Zum PC-WELT EM-Tippspiel&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;custom_message&quot;:&quot;Mitmachen \u0026 Gewinnen&quot;,&quot;end_ms&quot;:41004,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiDlIzt9O7fAhXYSuAKHczJBLso-B0yBWNhcmRzSNXoiY-yqfflZg&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;},&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fwww.pcwelt.de%2Fem\u0026event=infocard\u0026redir_token=f0i_VS-9GsjxCx7ux4HW7yYTC6R8MTU0NzYxMTY2NEAxNTQ3NTI1MjY0&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;j1w9XMOQONiVgQfMk5PYCw&quot;,&quot;annotation_id&quot;:&quot;69816acd-eb12-4b16-8ca7-477ea04fedde&quot;,&quot;src_vid&quot;:&quot;ZsvdSyHidFU&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;},&quot;timestamp&quot;:1466153318778,&quot;start_ms&quot;:41004,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;sponsored&quot;:false,&quot;title&quot;:&quot;EM-Tippspiel - PC-WELT&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fwww.pcwelt.de%2Fem&amp;event=infocard&amp;redir_token=f0i_VS-9GsjxCx7ux4HW7yYTC6R8MTU0NzYxMTY2NEAxNTQ3NTI1MjY0"/>
+  </action>
+</annotation>
+
+<annotation id="video:80cb98c0-3117-4f4f-812f-5c7271807e16" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=80cb98c0-3117-4f4f-812f-5c7271807e16&amp;a-type=62&amp;a-v=ZsvdSyHidFU&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;l-class=1&amp;link-id=WD3g9GHv84E&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;2:28&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/WD3g9GHv84E\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;64.078 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: XBox One S \u0026 Project Scorpio - Alle Infos, Specs \u0026 Preise | deutsch \/ german&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:438074,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwiDlIzt9O7fAhXYSuAKHczJBLso-B0yBWNhcmRzSNXoiY-yqfflZg&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=WD3g9GHv84E&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;j1w9XMOQONiVgQfMk5PYCw&quot;,&quot;annotation_id&quot;:&quot;80cb98c0-3117-4f4f-812f-5c7271807e16&quot;,&quot;src_vid&quot;:&quot;ZsvdSyHidFU&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;},&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1466153372028,&quot;start_ms&quot;:438074,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;XBox One S \u0026 Project Scorpio - Alle Infos, Specs \u0026 Preise | deutsch \/ german&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=WD3g9GHv84E"/>
+  </action>
+</annotation>
+
+<annotation id="video:f2afb2f6-e535-4d13-94a3-554a90428233" style="video" type="card" log_data="a-ch=UCtmCJsYolKUjDPcUdfM8Skg&amp;a-id=f2afb2f6-e535-4d13-94a3-554a90428233&amp;a-type=62&amp;a-v=ZsvdSyHidFU&amp;ei=j1w9XMOQONiVgQfMk5PYCw&amp;l-class=1&amp;link-id=EiLu1PoQ8CU&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;0:41&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/EiLu1PoQ8CU\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;von PC-WELT&quot;,&quot;62.189 Aufrufe&quot;],&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Empfohlen: H\u00f6llenmaschine Ultra VR - Teaser | deutsch \/ german&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:545499,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBAQ1TYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwiDlIzt9O7fAhXYSuAKHczJBLso-B0yBWNhcmRzSNXoiY-yqfflZg&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=EiLu1PoQ8CU&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;j1w9XMOQONiVgQfMk5PYCw&quot;,&quot;annotation_id&quot;:&quot;f2afb2f6-e535-4d13-94a3-554a90428233&quot;,&quot;src_vid&quot;:&quot;ZsvdSyHidFU&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9-Vm&quot;},&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1466153392170,&quot;start_ms&quot;:545499,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;H\u00f6llenmaschine Ultra VR - Teaser | deutsch \/ german&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=EiLu1PoQ8CU"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;Von PC-WELT&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiDlIzt9O7fAhXYSuAKHczJBLso+B0yBWNhcmRzSNXoiY+yqfflZg==&quot;, 
+  &quot;eventId&quot;: &quot;j1w9XMOQONiVgQfMk5PYCw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCIOUjO307t8CFdhK4AodzMkEuyj4HTIFY2FyZHNI1eiJj7Kp9+Vm&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiDlIzt9O7fAhXYSuAKHczJBLso+B0yBWNhcmRzSNXoiY+yqfflZg==&quot;
+}</data>
+</annotation>
+</annotations></document>

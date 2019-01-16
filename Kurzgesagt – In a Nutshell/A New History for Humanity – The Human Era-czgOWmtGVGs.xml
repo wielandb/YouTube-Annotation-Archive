@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7bSDz5rv3wIV1RXgCh263gXeKPgdMgJpdkjrqJnapsuDnHM">
+<annotation id="annotation_1485372997" type="highlight" log_data="a-v=czgOWmtGVGs&amp;link=https%3A%2F%2Fwww.patreon.com%2FKurzgesagt&amp;a-type=3&amp;ei=KYQ9XK38GNWrgAe6vZfwDQ&amp;a-id=annotation_1485372997&amp;xble=1&amp;l-class=8" itct="CAEQs-UBGP___________wEiEwjttIPPmu_fAhXVFeAKHbreBd4o-B0yAml2SOuomdqmy4Occw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.41700" y="75.21100" w="44.17600" h="24.11600" t="7:42.989"/>
+      <rectRegion x="27.41700" y="75.21100" w="44.17600" h="24.11600" t="7:52.501"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/Kurzgesagt" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2229207747" type="highlight" log_data="xble=1&amp;a-v=czgOWmtGVGs&amp;a-type=3&amp;a-id=annotation_2229207747&amp;ei=KYQ9XK38GNWrgAe6vZfwDQ" itct="CAIQs-UBGP___________wEiEwjttIPPmu_fAhXVFeAKHbreBd4o-B0yAml2SOuomdqmy4Occw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.83200" y="17.74600" w="44.28400" h="67.74500" t="7:11.700"/>
+      <rectRegion x="25.83200" y="17.74600" w="44.28400" h="67.74500" t="7:42.713"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_3189693331" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>LINK IN THE DESCRIPTION</TEXT>
+  <segment spaceRelative="annotation_2229207747">
+    <movingRegion type="rect">
+      <rectRegion x="40.57100" y="-11.26800" w="31.18100" h="18.69400" t="never"/>
+      <rectRegion x="40.57100" y="-11.26800" w="31.18100" h="18.69400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2229207747" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_498595969" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1485372997">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1485372997" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:509191e4-d5a7-41e2-8e23-111f1630568a" style="simple" type="card" log_data="a-ch=UCsXVk37bltHxD1rDPwtNM8Q&amp;a-id=509191e4-d5a7-41e2-8e23-111f1630568a&amp;a-type=66&amp;a-v=czgOWmtGVGs&amp;ei=KYQ9XK38GNWrgAe6vZfwDQ&amp;l-class=7&amp;link=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fhuman-era-calendar&amp;xble=0">
+  <data>{&quot;display_domain&quot;:&quot;store.dftba.com&quot;,&quot;sponsored&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;timestamp&quot;:1481129834926,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;\/redirect?redir_token=7DbK5l2In_-3w1XUJBiKVCl0dcp8MTU0NzYyMTgwMUAxNTQ3NTM1NDAx\u0026event=infocard\u0026q=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fhuman-era-calendar&quot;,&quot;title&quot;:&quot;DFTBA - Human Era Calendar&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;start_ms&quot;:430676,&quot;teaser_text&quot;:&quot;The year 12,017&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;KYQ9XK38GNWrgAe6vZfwDQ&quot;,&quot;src_vid&quot;:&quot;czgOWmtGVGs&quot;,&quot;annotation_id&quot;:&quot;509191e4-d5a7-41e2-8e23-111f1630568a&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCO20g8-a798CFdUV4Aodut4F3ij4HTIFY2FyZHNI66iZ2qbLg5xz&quot;},&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjttIPPmu_fAhXVFeAKHbreBd4o-B0yBWNhcmRzSOuomdqmy4Occw&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCO20g8-a798CFdUV4Aodut4F3ij4HTIFY2FyZHNI66iZ2qbLg5xz&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCO20g8-a798CFdUV4Aodut4F3ij4HTIFY2FyZHNI66iZ2qbLg5xz&quot;},&quot;end_ms&quot;:430676,&quot;custom_message&quot;:&quot;Learn more&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/GnHLdTMXe1sH3qX9xy7pjCASH3auG9AUS0CfsRZ9QL1sAL6DVFSNVIYeRZ7wKPyQWcBLPD0ZgvL6ceBlBk0z0_XAC0Y3hxs_sT11Ru78VZjQz-azTa-KlM4t_dJMdSd_siExXkfDzeQmmnipw3xe7dtI19sPfII=s300-c&quot;,&quot;meta_info&quot;:[]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=7DbK5l2In_-3w1XUJBiKVCl0dcp8MTU0NzYyMTgwMUAxNTQ3NTM1NDAx&amp;event=infocard&amp;q=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fhuman-era-calendar"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjttIPPmu/fAhXVFeAKHbreBd4o+B0yBWNhcmRzSOuomdqmy4Occw==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjttIPPmu/fAhXVFeAKHbreBd4o+B0yBWNhcmRzSOuomdqmy4Occw==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCO20g8+a798CFdUV4Aodut4F3ij4HTIFY2FyZHNI66iZ2qbLg5xz&quot;, 
+  &quot;eventId&quot;: &quot;KYQ9XK38GNWrgAe6vZfwDQ&quot;, 
+  &quot;headerText&quot;: &quot;Von Kurzgesagt \u2013 In a Nutshell&quot;
+}</data>
+</annotation>
+</annotations></document>
